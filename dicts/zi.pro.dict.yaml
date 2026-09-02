@@ -28572,6 +28572,7 @@ sort: by_weight
 器	qì;jj	19132
 齐	qí;wu	11441
 起	qǐ;tm	10868
+骑	qí;mj	9749
 祁	qí;hw	1946
 期	qī;qq	933
 戚	qī;gx	926
@@ -28581,7 +28582,6 @@ sort: by_weight
 启	qǐ;hj	811
 弃	qì;wf	799
 旗	qí;fb	767
-骑	qí;mj	749
 棋	qí;mb	746
 欺	qī;qn	727
 歧	qí;vi	645
@@ -40281,11 +40281,11 @@ sort: by_weight
 𪂼	xiāng;	1
 𣚺	xiàng;	1
 小	xiǎo;ux	305330
-效	xiào;ww	3542
+笑	xiào;vy	39452
+效	xiào;ww	13542
 消	xiāo;dq	3305
 校	xiào;mi	3238
 销	xiāo;xq	2582
-笑	xiào;vy	2452
 晓	xiǎo;gf	781
 肖	xiào;xq	741
 孝	xiào;ld	703
@@ -46269,6 +46269,7 @@ sort: by_weight
 园	yuán;wf	3489
 愿	yuàn;ix	3314
 圆	yuán;wn	1188
+媛	yuán;bi	1120
 援	yuán;yi	747
 怨	yuàn;wx	742
 苑	yuàn;fv	729
@@ -46326,7 +46327,6 @@ sort: by_weight
 轅	yuán;	133
 鋺	yuǎn;	133
 圜	yuán;wy	124
-媛	yuán;bi	120
 猨	yuán;	115
 囦	yuān;	111
 謜	yuán;	106
