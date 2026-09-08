@@ -2019,7 +2019,7 @@ sort: by_weight
 就业创业证	jiù;wy yè;uh chuàng;nd yè;uh zhèng;lv	10
 酒瘾综合征	jiǔ;dy yǐn;bx zōng;vx hé;nj zhēng;iv	10
 距骨切除术	jù;tn gǔ;uq qiē;qd chú;wm shù;mx	10
-距骨填塞术	jù;tn gǔ;uq tián;tb sāi;jt shù;mx	10
+距骨填塞术	jù;tn gǔ;uq tián;tb sè;jt shù;mx	10
 距骨阻挡术	jù;tn gǔ;uq zǔ;wq dǎng;yw shù;mx	10
 聚合性痤疮	jù;wy hé;nj xìng;xq cuó;bt chuāng;bv	10
 聚会性痤疮	jù;wy huì;nv xìng;xq cuó;bt chuāng;bv	10
@@ -4455,7 +4455,7 @@ sort: by_weight
 阳明燥化证	yáng;wg míng;gq zào;qm huà;nq zhèng;lv	10
 阳明燥结证	yáng;wg míng;gq zào;qm jié;vj zhèng;lv	10
 羊膜镜检查	yáng;bu mó;qd jìng;xf jiǎn;mh chá;mh	10
-羊膜填塞术	yáng;bu mó;qd tián;tb sāi;jt shù;mx	10
+羊膜填塞术	yáng;bu mó;qd tián;tb sè;jt shù;mx	10
 羊膜移植术	yáng;bu mó;qd yí;hw zhí;mq shù;mx	10
 阳气暴脱证	yáng;wg qì;lv bào;gu tuō;qf zhèng;lv	10
 阳气亏虚证	yáng;wg qì;lv kuī;hv xū;hy zhèng;lv	10
@@ -5218,7 +5218,7 @@ sort: by_weight
 瓣隔膜切除术	bàn;xx gé;wd mó;qd qiē;qd chú;wm shù;mx	10
 半骨盆切除术	bàn;xu gǔ;uq pén;bm qiē;qd chú;wm shù;mx	10
 半关节成形术	bàn;xu guān;bt jié;fw chéng;gv xíng;hl shù;mx	10
-半规管填塞术	bàn;xu guī;hf guǎn;vj tián;tb sāi;jt shù;mx	10
+半规管填塞术	bàn;xu guī;hf guǎn;vj tián;tb sè;jt shù;mx	10
 瘢痕旁肺气肿	bān;bi hén;bg páng;wf fèi;qu qì;lv zhǒng;qv	10
 瘢痕性肺气肿	bān;bi hén;bg xìng;xq fèi;qu qì;lv zhǒng;qv	10
 半结肠切除术	bàn;xu jié;vj cháng;ql qiē;qd chú;wm shù;mx	10
@@ -5279,7 +5279,7 @@ sort: by_weight
 鼻出血电凝术	bí;wf chū;vn xiě;lm diàn;uv níng;bn shù;mx	10
 鼻出血冷冻术	bí;wf chū;vn xiě;lm lěng;bv dòng;bx shù;mx	10
 鼻出血烧烙术	bí;wf chū;vn xiě;lm shāo;qf lào;qj shù;mx	10
-鼻出血填塞术	bí;wf chū;vn xiě;lm tián;tb sāi;jt shù;mx	10
+鼻出血填塞术	bí;wf chū;vn xiě;lm tián;tb sè;jt shù;mx	10
 臂丛神经根炎	bì;tq cóng;nh shén;ht jīng;vg gēn;mg yán;qq	10
 臂丛神经麻醉	bì;tq cóng;nh shén;ht jīng;vg má;im zuì;yu	10
 臂丛神经损害	bì;tq cóng;nh shén;ht jīng;vg sǔn;yn hài;jj	10
@@ -6369,7 +6369,7 @@ sort: by_weight
 鼓室神经膨大	gǔ;ti shì;jt shén;ht jīng;vg péng;ql dà;uy	10
 鼓室下切开术	gǔ;ti shì;jt xià;hb qiē;qd kāi;hf shù;mx	10
 骨水泥充填术	gǔ;uq shuǐ;uy ní;db chōng;wf tián;tb shù;mx	10
-骨水泥填塞术	gǔ;uq shuǐ;uy ní;db tián;tb sāi;jt shù;mx	10
+骨水泥填塞术	gǔ;uq shuǐ;uy ní;db tián;tb sè;jt shù;mx	10
 骨碎片去除术	gǔ;uq suì;uu piàn;lv qù;tv chú;wm shù;mx	10
 骨髓炎刮除术	gǔ;uq suǐ;gl yán;qq guā;dd chú;wm shù;mx	10
 骨髓移植手术	gǔ;uq suǐ;gl yí;hw zhí;mq shǒu;lu shù;mx	10
@@ -6731,7 +6731,7 @@ sort: by_weight
 急性外耳道炎	jí;vx xìng;xq wài;wb ěr;hh dào;lw yán;qq	10
 急性腺样体炎	jí;vx xìng;xq xiàn;qu yàng;my tǐ;nh yán;qq	10
 急性心包积液	jí;vx xìng;xq xīn;xx bāo;bm jī;hb yè;dy	10
-急性心包填塞	jí;vx xìng;xq xīn;xx bāo;bm tián;tb sāi;jt	10
+急性心包填塞	jí;vx xìng;xq xīn;xx bāo;bm tián;tb sè;jt	10
 急性心肌梗塞	jí;vx xìng;xq xīn;xx jī;qn gěng;mg sè;jt	10
 急性心肌梗死	jí;vx xìng;xq xīn;xx jī;qn gěng;mg sǐ;db	10
 急性心肌缺血	jí;vx xìng;xq xīn;xx jī;qn quē;wg xuè;lm	10
@@ -9350,7 +9350,7 @@ sort: by_weight
 咽异物取出术	yàn;jd yì;mf wù;nl qǔ;wi chū;vn shù;mx	10
 岩藻糖沉积病	yán;uu zǎo;fm táng;hj chén;dn jī;hb bìng;bb	10
 咽粘连松解术	yàn;jd zhān;hj lián;li sōng;mv jiě;vn shù;mx	10
-眼真皮填塞术	yǎn;hg zhēn;ub pí;vi tián;tb sāi;jt shù;mx	10
+眼真皮填塞术	yǎn;hg zhēn;ub pí;vi tián;tb sè;jt shù;mx	10
 咽肿瘤切除术	yàn;jd zhǒng;qv liú;bt qiē;qd chú;wm shù;mx	10
 咽肿物切除术	yàn;jd zhǒng;qv wù;nl qiē;qd chú;wm shù;mx	10
 眼肿物切除术	yǎn;hg zhǒng;qv wù;nl qiē;qd chú;wm shù;mx	10
@@ -11554,9 +11554,9 @@ sort: by_weight
 环状软骨切开术	huán;wb zhuàng;bh ruǎn;in gǔ;uq qiē;qd kāi;hf shù;mx	10
 黄斑裂孔封闭术	huáng;fb bān;ww liè;dy kǒng;dv fēng;tf bì;nf shù;mx	10
 黄斑裂孔冷冻术	huáng;fb bān;ww liè;dy kǒng;dv lěng;bv dòng;bx shù;mx	10
-黄斑裂孔填塞术	huáng;fb bān;ww liè;dy kǒng;dv tián;tb sāi;jt shù;mx	10
+黄斑裂孔填塞术	huáng;fb bān;ww liè;dy kǒng;dv tián;tb sè;jt shù;mx	10
 黄斑裂孔注气术	huáng;fb bān;ww liè;dy kǒng;dv zhù;dv qì;lv shù;mx	10
-黄斑破孔填塞术	huáng;fb bān;ww pò;ui kǒng;dv tián;tb sāi;jt shù;mx	10
+黄斑破孔填塞术	huáng;fb bān;ww pò;ui kǒng;dv tián;tb sè;jt shù;mx	10
 黄斑下膜取出术	huáng;fb bān;ww xià;hb mó;qd qǔ;wi chū;vn shù;mx	10
 荒东二氏综合征	huāng;fv dōng;hx èr;hh shì;lv zōng;vx hé;nj zhēng;iv	10
 回肠部分切除术	huí;wj cháng;ql bù;lw fèn;bd qiē;qd chú;wm shù;mx	10
@@ -11669,7 +11669,7 @@ sort: by_weight
 脊髓灰质后骨病	jǐ;bq suǐ;gl huī;uq zhì;ln hòu;lj gǔ;uq bìng;bb	10
 脊髓减压植骨术	jǐ;bq suǐ;gl jiǎn;bj yā;ix zhí;mq gǔ;uq shù;mx	10
 脊髓空洞分流术	jǐ;bq suǐ;gl kōng;jg dòng;dj fēn;bd liú;dv shù;mx	10
-脊髓空洞填塞术	jǐ;bq suǐ;gl kōng;jg dòng;dj tián;tb sāi;jt shù;mx	10
+脊髓空洞填塞术	jǐ;bq suǐ;gl kōng;jg dòng;dj tián;tb sè;jt shù;mx	10
 脊髓膨出切除术	jǐ;bq suǐ;gl péng;ql chū;vn qiē;qd chú;wm shù;mx	10
 脊髓前角灰质炎	jǐ;bq suǐ;gl qián;bd jiǎo;vu huī;uq zhì;ln yán;qq	10
 脊髓神经切断术	jǐ;bq suǐ;gl shén;ht jīng;vg qiē;qd duàn;hd shù;mx	10
@@ -14801,7 +14801,7 @@ sort: by_weight
 溢乳闭经综合征	yì;dm rǔ;lv bì;nf jīng;vg zōng;vx hé;nj zhēng;iv	10
 胰十二指肠静脉	yí;qy shí;hu èr;hh zhǐ;yg cháng;ql jìng;qu mài;qy	10
 异体供肝切除术	yì;mf tǐ;nh gōng;nb gān;qd qiē;qd chú;wm shù;mx	10
-异体巩膜填塞术	yì;mf tǐ;nh gǒng;gf mó;qd tián;tb sāi;jt shù;mx	10
+异体巩膜填塞术	yì;mf tǐ;nh gǒng;gf mó;qd tián;tb sè;jt shù;mx	10
 异体供肾取肾术	yì;mf tǐ;nh gōng;nb shèn;uq qǔ;wi shèn;uq shù;mx	10
 异体供胰切除术	yì;mf tǐ;nh gōng;nb yí;qy qiē;qd chú;wm shù;mx	10
 异体关节置换术	yì;mf tǐ;nh guān;bt jié;fw zhì;gq huàn;yd shù;mx	10
@@ -15146,7 +15146,7 @@ sort: by_weight
 直肠前突修补术	zhí;uq cháng;ql qián;bd tū;jh xiū;nl bǔ;hb shù;mx	10
 直肠球囊扩张术	zhí;uq cháng;ql qiú;wq náng;hy kuò;yi zhāng;gy shù;mx	10
 直肠全部切除术	zhí;uq cháng;ql quán;nw bù;lw qiē;qd chú;wm shù;mx	10
-直肠填塞止血术	zhí;uq cháng;ql tián;tb sāi;jt zhǐ;uh xuè;lm shù;mx	10
+直肠填塞止血术	zhí;uq cháng;ql tián;tb sè;jt zhǐ;uh xuè;lm shù;mx	10
 直肠拖出切除术	zhí;uq cháng;ql tuō;yv chū;vn qiē;qd chú;wm shù;mx	10
 直肠脱垂修补术	zhí;uq cháng;ql tuō;qf chuí;lh xiū;nl bǔ;hb shù;mx	10
 直肠脱垂悬吊术	zhí;uq cháng;ql tuō;qf chuí;lh xuán;qx diào;jm shù;mx	10

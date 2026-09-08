@@ -73,6 +73,7 @@ sort: by_weight
 阿兰布拉宫	ā;wj lán;bh bù;um lā;yl gōng;jj	10
 阿累尼乌斯	ā;wj lèi;tx ní;tb wū;lh sī;qd	10
 阿里红咳喘	ā;wj lǐ;uh hóng;vg ké;jn chuǎn;ju	10
+阿里山山脉	ā;wj lǐ;uh shān;un shān;un mài;qy	10
 阿利斯塔克	ā;wj lì;hd sī;qd tǎ;tj kè;uf	10
 阿里乌主义	ā;wj lǐ;uh wū;lh zhǔ;xw yì;xi	10
 阿里云百炼	ā;wj lǐ;uh yún;hv bǎi;hb liàn;qx	10
@@ -9523,7 +9524,7 @@ sort: by_weight
 垂直斜面下	chuí;lh zhí;uq xié;nu miàn;hh xià;hb	10
 垂直性斜视	chuí;lh zhí;uq xìng;xq xié;nu shì;hf	10
 垂直于水面	chuí;lh zhí;uq yú;hu shuǐ;uy miàn;hh	10
-垂轴放大率	chuí;lh zhóu;it fàng;fw dà;uy shuài;wu	12
+垂轴放大率	chuí;lh zhóu;it fàng;fw dà;uy lǜ;wu	12
 锤子和扳手	chuí;xh zi;vh hé;hj bān;yi shǒu;lu	10
 锤子和镰刀	chuí;xh zi;vh hé;hj lián;xy dāo;vl	10
 锤子与扳手	chuí;xh zi;vh yǔ;hh bān;yi shǒu;lu	10
@@ -27453,7 +27454,7 @@ sort: by_weight
 后备箱集市	hòu;lj bèi;wt xiāng;vh jí;nm shì;wm	10
 后备指挥部	hòu;lj bèi;wt zhǐ;yg huī;yi bù;lw	10
 后鼻孔闭锁	hòu;lj bí;wf kǒng;dv bì;nf suǒ;xn	10
-后鼻孔填塞	hòu;lj bí;wf kǒng;dv tián;tb sāi;jt	10
+后鼻孔填塞	hòu;lj bí;wf kǒng;dv tián;tb sè;jt	10
 后鞭毛生物	hòu;lj biān;gg máo;lv shēng;lq wù;nl	10
 后标准模型	hòu;lj biāo;mx zhǔn;bq mó;md xíng;ht	10
 后场高远球	hòu;lj chǎng;tl gāo;wj yuǎn;lf qiú;wq	10
@@ -50396,7 +50397,7 @@ sort: by_weight
 铅笔画的美	qiān;xj bǐ;vm huà;hn de;bx měi;yd	10
 前鼻化辅音	qián;bd bí;wf huà;nq fǔ;if yīn;lg	10
 前臂挤压伤	qián;bd bì;tq jǐ;yu yā;ix shāng;nl	10
-前鼻孔填塞	qián;bd bí;wf kǒng;dv tián;tb sāi;jt	10
+前鼻孔填塞	qián;bd bí;wf kǒng;dv tián;tb sè;jt	10
 前臂内侧缘	qián;bd bì;tq nèi;ux cè;nd yuán;vy	10
 倩碧三部曲	qiàn;nq bì;wu sān;hh bù;lw qǔ;uh	10
 前臂外侧缘	qián;bd bì;tq wài;wb cè;nd yuán;vy	10
@@ -91046,7 +91047,7 @@ sort: by_weight
 纵纹腹小鸮	zòng;vn wén;vw fù;qw xiǎo;ux xiāo;jg	10
 总武缓行线	zǒng;bx wǔ;hv huǎn;vi xíng;ii xiàn;vq	10
 总武线缓行	zǒng;bx wǔ;hv xiàn;vq huǎn;vi xíng;ii	10
-纵向放大率	zòng;vn xiàng;lj fàng;fw dà;uy shuài;wu	10
+纵向放大率	zòng;vn xiàng;lj fàng;fw dà;uy lǜ;wu	10
 纵向分辨率	zòng;vn xiàng;lj fēn;bd biàn;xx lǜ;wu	10
 纵向磨木法	zòng;vn xiàng;lj mó;iu mù;uy fǎ;dq	10
 纵向配筋率	zòng;vn xiàng;lj pèi;ym jīn;vl lǜ;wu	10
@@ -94143,7 +94144,7 @@ sort: by_weight
 鼻部肿物切除	bí;wf bù;lw zhǒng;qv wù;nl qiē;qd chú;wm	10
 鼻侧压测量法	bí;wf cè;nd yā;ix cè;dd liáng;gt fǎ;dq	10
 壁橱里的怪物	bì;tt chú;mf lǐ;uh de;bx guài;xt wù;nl	10
-鼻出血鼻填塞	bí;wf chū;vn xiě;lm bí;wf tián;tb sāi;jt	10
+鼻出血鼻填塞	bí;wf chū;vn xiě;lm bí;wf tián;tb sè;jt	10
 臂创作性切断	bì;tq chuàng;nd zuò;nv xìng;xq qiē;qd duàn;hd	10
 彼此间的感情	bǐ;ii cǐ;vb jiān;ng de;bx gǎn;xx qíng;xq	10
 彼此心照不宣	bǐ;ii cǐ;vb xīn;xx zhào;gq bù;hx xuān;jh	10
@@ -100707,7 +100708,7 @@ sort: by_weight
 钓鱼岛护岛者	diào;xx yú;vh dǎo;lu hù;yh dǎo;lu zhě;lg	10
 钓鱼翁郊游径	diào;xx yú;vh wēng;bb jiāo;ww yóu;dd jìng;ig	10
 铫子电气铁道	diào;xx zǐ;vh diàn;uv qì;lv tiě;xy dào;lw	10
-蝶鞍脂肪填塞	dié;im ān;gb zhī;qg fáng;qf tián;tb sāi;jt	10
+蝶鞍脂肪填塞	dié;im ān;gb zhī;qg fáng;qf tián;tb sè;jt	10
 跌打扭伤灵酊	diē;ty dǎ;yd niǔ;yi shāng;nl líng;wq dīng;yd	10
 叠氮化亚硝醯	dié;iq dàn;qq huà;nq yà;hy xiāo;uq xī;ym	10
 喋喋不休的人	dié;jm dié;jm bù;hx xiū;nm de;bx rén;ly	10
@@ -120558,7 +120559,7 @@ sort: by_weight
 你能原谅我吗	nǐ;nx néng;vb yuán;ix liàng;lx wǒ;lx ma;jm	10
 你能做得更多	nǐ;nx néng;vb zuò;nw de;if gèng;hy duō;ww	10
 你能做得更好	nǐ;nx néng;vb zuò;nw de;if gèng;hy hǎo;bd	10
-倪妮和井柏然	ní;nf nī;bb hé;hj jǐng;hu bǎi;mb rán;lq	10
+倪妮和井柏然	ní;nf nī;bb hé;hj jǐng;hu bó;mb rán;lq	10
 你努力的样子	nǐ;nx nǔ;bl lì;vl de;bx yàng;my zi;vh	10
 拟聘人员公示	nǐ;yn pìn;wv rén;ly yuán;jn gōng;bv shì;hx	10
 你抢到票了吗	nǐ;nx qiǎng;yv dào;hd piào;yx le;vu ma;jm	10
@@ -123047,7 +123048,7 @@ sort: by_weight
 清朝野史大观	qīng;dq cháo;uq yě;tu shǐ;uy dà;uy guān;if	10
 清朝直隶总督	qīng;dq cháo;uq zhí;uq lì;vy zǒng;bx dū;uh	10
 清朝宗室爵位	qīng;dq cháo;uq zōng;jx shì;jt jué;lf wèi;nl	10
-清齿龈塞擦音	qīng;dq chǐ;vn yín;vg sāi;jt cā;yx yīn;lg	10
+清齿龈塞擦音	qīng;dq chǐ;vn yín;vg sè;jt cā;yx yīn;lg	10
 清除害群之马	qīng;dq chú;wm hài;jj qún;vy zhī;xy mǎ;vh	10
 清除记忆基因	qīng;dq chú;wm jì;lm yì;xv jī;qt yīn;wd	10
 清除精神污染	qīng;dq chú;wm jīng;hq shén;ht wū;dv rǎn;dm	10
@@ -123391,7 +123392,7 @@ sort: by_weight
 庆僖亲王永璘	qìng;id xī;nj qīn;lm wáng;ht yǒng;xy lín;wu	10
 清香白莲素素	qīng;dq xiāng;hg bái;lg lián;fl sù;qx sù;qx	10
 情相依避孕套	qíng;xq xiāng;mh yī;ny bì;lx yùn;nd tào;dv	10
-清小舌塞擦音	qīng;dq xiǎo;ux shé;dj sāi;jt cā;yx yīn;lg	10
+清小舌塞擦音	qīng;dq xiǎo;ux shé;dj sè;jt cā;yx yīn;lg	10
 清孝庄文皇后	qīng;dq xiào;ld zhuāng;it wén;wi huáng;bw hòu;lj	10
 清泻肝胆实火	qīng;dq xiè;dh gān;qd dǎn;qh shí;jd huǒ;xn	10
 倾斜式成形器	qīng;nn xié;nu shì;gg chéng;gv xíng;hl qì;jj	10
@@ -136336,7 +136337,7 @@ sort: by_weight
 信报财经新闻	xìn;nj bào;yi cái;nf jīng;vg xīn;ld wén;nw	10
 信报财经月刊	xìn;nj bào;yi cái;nf jīng;vg yuè;nh kān;dd	10
 忻保高速公路	xīn;xd bǎo;nm gāo;wj sù;ly gōng;bv lù;tj	10
-心包压塞填塞	xīn;xx bāo;bm yā;ix sāi;jt tián;tb sāi;jt	10
+心包压塞填塞	xīn;xx bāo;bm yā;ix sāi;jt tián;tb sè;jt	10
 新编诸子集成	xīn;ld biān;vf zhū;lg zǐ;vh jí;nm chéng;gv	10
 新表现新问题	xīn;ld biǎo;qy xiàn;wf xīn;ld wèn;nj tí;gn	10
 新柏拉图学派	xīn;ld bó;mb lā;yl tú;wx xué;xd pài;dy	10
@@ -140052,7 +140053,7 @@ sort: by_weight
 阴道闭锁切开	yīn;wq dào;lw bì;nf suǒ;xn qiē;qd kāi;hf	10
 阴道部分切除	yīn;wq dào;lw bù;lw fèn;bd qiē;qd chú;wm	10
 阴道残端出血	yīn;wq dào;lw cán;dq duān;lu chū;vn xiě;lm	10
-阴道产科填塞	yīn;wq dào;lw chǎn;ll kē;hu tián;tb sāi;jt	10
+阴道产科填塞	yīn;wq dào;lw chǎn;ll kē;hu tián;tb sè;jt	10
 阴道超探头套	yīn;wq dào;lw chāo;tj tàn;ym tóu;xd tào;dv	10
 阴道发育不全	yīn;wq dào;lw fā;vx yù;wq bù;hx quán;nw	10
 阴道发育异常	yīn;wq dào;lw fā;vx yù;wq yì;mf cháng;xm	10
