@@ -1217,6 +1217,7 @@ sort: by_weight
 铈原子	shì;xm yuán;ix zǐ;vh	84
 叔丁苯	shū;ui dīng;hu běn;fh	288
 双氯酚	shuāng;ii lǜ;qu fēn;yd	236
+双氯芬	shuāng;ii lǜ;qu fēn;fd	197
 水锑矾	shuǐ;uy tī;xl fán;uf	45
 水钨华	shuǐ;uy wū;xw huá;nu	38
 水铀矾	shuǐ;uy yóu;xt fán;uf	45
@@ -13048,7 +13049,7 @@ sort: by_weight
 六氟锑酸三碘	liù;wb fú;qj tī;xl suān;yw sān;hh diǎn;ub	10
 六氟乙酰丙酮	liù;wb fú;qj yǐ;vv xiān;yf bǐng;hn tóng;yj	10
 硫化铵水溶液	liú;uv huà;nq ǎn;xb shuǐ;uy róng;dj yè;dy	10
-硫化钠薄荷脑	liú;uv huà;nq nà;xn bò;ff hé;fj nǎo;qn	10
+硫化钠薄荷脑	liú;uv huà;nq nà;xn bò;ff he;fj nǎo;qn	10
 硫化钠高位槽	liú;uv huà;nq nà;xn gāo;wj wèi;nl cáo;mg	12
 硫化钠溶解槽	liú;uv huà;nq nà;xn róng;dj jiě;vn cáo;mg	12
 硫化氢分析盒	liú;uv huà;nq qīng;qg fēn;bd xī;md hé;nm	10
@@ -13999,9 +14000,6 @@ sort: by_weight
 双胍辛乙酸盐	shuāng;ii guā;qg xīn;lu yǐ;vv suān;yw yán;tm	10
 双硅酸盐矿物	shuāng;ii guī;ut suān;yw yán;tm kuàng;ui wù;nl	10
 双链核糖核酸	shuāng;ii liàn;xl hé;mn táng;hj hé;mn suān;yw	10
-双氯芬酸钾栓	shuāng;ii lǜ;qu fēn;fd suān;yw jiǎ;xt shuān;mw	10
-双氯芬酸钠栓	shuāng;ii lǜ;qu fēn;fd suān;yw nà;xn shuān;mw	10
-双氯酚酸钠栓	shuāng;ii lǜ;qu fēn;yd suān;yw nà;xn shuān;mw	10
 双氯青霉素钠	shuāng;ii lǜ;qu qīng;qq méi;ym sù;qx nà;xn	10
 双氰乙基苯胺	shuāng;ii qíng;qq yǐ;vv jī;qt běn;fh àn;qb	10
 双氰乙氧基苯	shuāng;ii qíng;qq yǐ;vv yǎng;qy jī;qt běn;fh	10

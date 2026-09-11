@@ -131,6 +131,7 @@ sort: by_weight
 爱巴鸟尾蛤	ài;li bā;mu niǎo;wh wěi;tm há;ij	10
 爱比克泰德	ài;li bǐ;bb kè;uf tài;qu dé;ix	10
 爱彼女皇杯	ài;li bǐ;ii nǚ;vh huáng;bw bēi;mb	10
+爱博而心劳	ài;li bó;uf ér;hu xīn;xx láo;fl	10
 爱不爱我吧	ài;li bú;hx ài;li wǒ;lx ba;jm	10
 爱不爱我吗	ài;li bú;hx ài;li wǒ;lx ma;jm	10
 爱不再回来	ài;li bú;hx zài;hh huí;wj lái;hy	10
@@ -14829,7 +14830,7 @@ sort: by_weight
 斗山挖掘机	dòu;xu shān;un wā;yv jué;yi jī;mn	10
 都少不了他	dōu;lw shào;xl bù;hx liǎo;vu tā;nv	10
 都舍不得吃	dōu;lw shě;nj bù;hx de;if chī;jq	10
-都舍不得喝	dōu;lw shě;nj bù;hx de;if hē;jv	10
+都舍不得喝	dōu;lw shě;nj bu;hx de;if hē;jv	10
 都设计成了	dōu;lw shè;li jì;lu chéng;gv le;vu	10
 斗神传系列	dòu;xu shén;ht chuán;nx xì;lx liè;dd	10
 斗神的诞生	dòu;xu shén;ht de;bx dàn;ll shēng;lq	10
@@ -35268,6 +35269,7 @@ sort: by_weight
 京口副都统	jīng;wx kǒu;uh fù;hd dū;lw tǒng;vf	10
 净口业真言	jìng;bu kǒu;uh yè;uh zhēn;ub yán;wj	10
 敬了个军礼	jìng;fw le;vu gè;nu jūn;ji lǐ;hv	10
+敬了一个礼	jìng;fw le;vu yí;hh gè;nu lǐ;hv	10
 经理办公会	jīng;vg lǐ;wt bàn;lx gōng;bv huì;nv	10
 经理办公室	jīng;vg lǐ;wt bàn;lx gōng;bv shì;jt	10
 精力不集中	jīng;hq lì;vl bù;hx jí;nm zhōng;uu	10
@@ -43530,9 +43532,9 @@ sort: by_weight
 漫湾水电站	màn;di wān;dg shuǐ;uy diàn;uv zhàn;lj	10
 漫威的电影	màn;di wēi;xb de;bx diàn;uv yǐng;gl	10
 漫无目的地	màn;di wú;hy mù;wh dì;bx dì;tv	10
-满血复活了	mǎn;dl xiě;lm fù;lw huó;dj le;vu	10
 满心的欢喜	mǎn;dl xīn;xx de;bx huān;in xǐ;tj	10
 慢性病监测	màn;xi xìng;xq bìng;bb jiān;um cè;dd	10
+满血复活了	mǎn;dl xuè;lm fù;lw huó;dj le;vu	10
 满眼的绿色	mǎn;dl yǎn;hg de;bx lǜ;vu sè;vm	10
 蔓叶类函数	màn;fi yè;ju lèi;hd hán;ln shù;hw	10
 蔓叶类曲线	màn;fi yè;ju lèi;hd qū;uh xiàn;vq	10
@@ -44049,8 +44051,8 @@ sort: by_weight
 没看到似的	méi;di kàn;uh dào;hd shì;nn de;bx	10
 没壳的蜗牛	méi;di ké;tn de;bx wō;in niú;lu	10
 梅克尔憩室	méi;mm kè;uf ěr;vx qì;dx shì;jt	10
+美拉德反应	měi;yd lā;yl dé;ix fǎn;li yìng;ih	12
 梅拉德反应	méi;mm lā;yl dé;ix fǎn;li yìng;ih	10
-美拉德反应	měi;yd lā;yl dé;ix fǎn;li yìng;ih	10
 美拉蒂石鳖	měi;yd lā;yl dì;fm shí;hj biē;xg	10
 美拉尼西亚	měi;yd lā;yl ní;tb xī;hh yà;hy	10
 没来得及吃	méi;di lái;hy de;if jí;ly chī;jq	10
@@ -60472,7 +60474,7 @@ sort: by_weight
 实在没招了	shí;jd zài;ut méi;di zhāo;yj le;vu	10
 实在拗不过	shí;jd zài;ut niù;yl bu;hx guò;lf	10
 实在气不过	shí;jd zài;ut qì;lv bú;hx guò;lf	10
-实在舍不得	shí;jd zài;ut shě;nj bù;hx de;if	10
+实在舍不得	shí;jd zài;ut shě;nj bu;hx de;if	10
 是在试探我	shì;gn zài;ut shì;lg tàn;ym wǒ;lx	10
 实在受不了	shí;jd zài;ut shòu;li bù;hx liǎo;vu	10
 实在无聊啊	shí;jd zài;ut wú;hy liáo;ww a;jj	10
@@ -62079,7 +62081,7 @@ sort: by_weight
 水面蒸发量	shuǐ;uy miàn;hh zhēng;fq fā;vx liàng;gt	10
 水灭火系统	shuǐ;uy miè;hq huǒ;xn xì;lx tǒng;vf	10
 谁明浪子心	shuí;lq míng;gq làng;dg zǐ;vh xīn;xx	10
-水磨糯米粉	shuǐ;uy mó;iu nuò;hu mǐ;xm fěn;hd	10
+水磨糯米粉	shuǐ;uy mò;iu nuò;hu mǐ;xm fěn;hd	10
 水木电视剧	shuǐ;uy mù;uy diàn;uv shì;hf jù;td	10
 水木连续剧	shuǐ;uy mù;uy lián;li xù;vd jù;td	10
 水木清华馆	shuǐ;uy mù;uy qīng;dq huá;nu guǎn;uj	10
@@ -75337,6 +75339,8 @@ sort: by_weight
 星空少女组	xīng;gq kōng;jg shào;xl nǚ;vh zǔ;vq	10
 星空守护者	xīng;gq kōng;jg shǒu;jf hù;yh zhě;lg	10
 星空天文网	xīng;gq kōng;jg tiān;hd wén;wi wǎng;ni	10
+行了三个礼	xíng;ii le;vu sān;hh gè;nu lǐ;hv	10
+行了一个礼	xíng;ii le;vu yí;hh gè;nu lǐ;hv	10
 行乐艺术家	xíng;ii lè;lx yì;fv shù;mx jiā;jy	10
 行李寄存处	xíng;ii li;md jì;jj cún;ud chù;wb	10
 行李领取处	xíng;ii li;md lǐng;nn qǔ;wi chù;wb	10
@@ -84698,6 +84702,7 @@ sort: by_weight
 再来些葱花	zài;hh lái;hy xiē;vh cōng;fx huā;fq	10
 栽了大跟头	zāi;um le;vu dà;uy gēn;tg tou;xd	10
 栽了个跟头	zāi;um le;vu gè;nu gēn;tg tou;xd	10
+甾类化合物	zāi;vt lèi;hd huà;nq hé;nj wù;nl	10
 在冷战期间	zài;ut lěng;bv zhàn;ug qī;qq jiān;ng	10
 在理发店里	zài;ut lǐ;wt fà;vx diàn;ij lǐ;uh	10
 在离婚以后	zài;ut lí;wx hūn;bg yǐ;vn hòu;lj	10
@@ -90408,7 +90413,6 @@ sort: by_weight
 自来水净化	zì;lh lái;hy shuǐ;uy jìng;bu huà;nq	10
 自来水之污	zì;lh lái;hy shuǐ;uy zhī;xy wū;dv	10
 自来也老师	zì;lh lái;hy yě;vv lǎo;lb shī;um	10
-甾类化合物	zī;vt lèi;hd huà;nq hé;nj wù;nl	10
 子类型多态	zǐ;vh lèi;hd xíng;ht duō;ww tài;tx	10
 字里行间里	zì;jd lǐ;uh háng;ii jiān;ng lǐ;uh	10
 字里行间中	zì;jd lǐ;uh háng;ii jiān;ng zhōng;uu	10
@@ -91715,7 +91719,7 @@ sort: by_weight
 做了个手势	zuò;nw le;vu gè;nu shǒu;lu shì;yl	10
 做了哪些事	zuò;nw le;vu nǎ;jw xiē;vh shì;hu	1000
 做了什么孽	zuò;nw le;vu shén;nu me;lv niè;fd	10
-做了一点儿	zuò;nw le;vu yì;hh diǎn;uq ér;lv	10
+做了一点儿	zuò;nw le;vu yì;hh diǎn;uq er;lv	10
 坐了一会儿	zuò;nt le;vu yí;hh huì;nv er;lv	10
 做力量训练	zuò;nw lì;vl liàng;gt xùn;li liàn;vx	10
 昨怜破袄寒	zuó;gv lián;xv pò;ui ǎo;hy hán;jx	10
@@ -92615,7 +92619,7 @@ sort: by_weight
 八大夜叉大将	bā;ly dà;uy yè;wy chā;ix dà;uy jiàng;bf	10
 巴丹半岛战役	bā;mu dān;lh bàn;xu dǎo;lu zhàn;ug yì;ii	10
 坝道工程医院	bà;tn dào;lw gōng;hh chéng;hw yī;nt yuàn;wf	10
-霸道总裁范儿	bà;yq dào;lw zǒng;bx cái;ug fàn;fv ér;lv	10
+霸道总裁范儿	bà;yq dào;lw zǒng;bx cái;ug fàn;fv er;lv	10
 巴登符腾堡州	bā;mu dēng;vh fú;vf téng;qm bǎo;nt zhōu;xu	10
 巴登号铁甲舰	bā;mu dēng;vh hào;jv tiě;xy jiǎ;uu jiàn;vf	10
 八点半的星光	bā;ly diǎn;uq bàn;xu de;bx xīng;gq guāng;xf	10
@@ -121119,7 +121123,7 @@ sort: by_weight
 女神的圣斗士	nǚ;vh shén;ht de;bx shèng;it dòu;xu shì;uh	10
 女神的十字架	nǚ;vh shén;ht de;bx shí;hu zì;jd jià;lm	10
 女神迪丽热巴	nǚ;vh shén;ht dí;lt lì;hx rè;yq bā;mu	10
-女神范儿十足	nǚ;vh shén;ht fàn;fv ér;lv shí;hu zú;jn	10
+女神范儿十足	nǚ;vh shén;ht fàn;fv er;lv shí;hu zú;jn	10
 女神和女汉子	nǚ;vh shén;ht hé;hj nǚ;vh hàn;di zi;vh	10
 女生殖器结核	nǚ;vh shēng;lq zhí;dq qì;jj jié;vj hé;mn	10
 女同性恋电影	nǚ;vh tóng;nj xìng;xq liàn;wx diàn;uv yǐng;gl	10
@@ -121129,7 +121133,7 @@ sort: by_weight
 女同性恋组织	nǚ;vh tóng;nj xìng;xq liàn;wx zǔ;vq zhī;vb	10
 女同性恋作家	nǚ;vh tóng;nj xìng;xq liàn;wx zuò;nv jiā;jy	10
 女娲炼石补天	nǚ;vh wā;bn liàn;qx shí;hj bǔ;hb tiān;hd	10
-女王范儿十足	nǚ;vh wáng;ht fàn;fv ér;lv shí;hu zú;jn	10
+女王范儿十足	nǚ;vh wáng;ht fàn;fv er;lv shí;hu zú;jn	10
 女王圣诞致辞	nǚ;vh wáng;ht shèng;it dàn;ll zhì;hw cí;dx	10
 女为悦己者容	nǚ;vh wéi;xx yuè;xf jǐ;vv zhě;lg róng;jj	10
 女武神的餐桌	nǚ;vh wǔ;hv shén;ht de;bx cān;ug zhuō;um	10
@@ -141455,7 +141459,7 @@ sort: by_weight
 雨夹雪转小雪	yǔ;hx jiā;hy xuě;yw zhuǎn;ix xiǎo;ux xuě;yw	10
 宇迦之御魂神	yǔ;jd jiā;lj zhī;xy yù;iw hún;hg shén;ht	10
 预见方能遇见	yù;vn jiàn;nf fāng;xw néng;vb yù;lx jiàn;nf	10
-御姐范儿十足	yù;iw jiě;bq fàn;fv ér;lv shí;hu zú;jn	10
+御姐范儿十足	yù;iw jiě;bq fàn;fv er;lv shí;hu zú;jn	10
 预紧式安全带	yù;vn jǐn;ux shì;gg ān;jb quán;nw dài;hm	10
 榆靖高速公路	yú;md jìng;lq gāo;wj sù;ly gōng;bv lù;tj	10
 寓京师千佛寺	yù;jx jīng;wx shī;um qiān;lu fó;nu sì;tf	10
@@ -145321,7 +145325,7 @@ sort: by_weight
 驻村扶贫干部	zhù;mv cūn;mf fú;yy pín;bn gàn;hu bù;lw	10
 主打高性价比	zhǔ;xw dǎ;yd gāo;wj xìng;xq jià;nu bǐ;bb	10
 珠蛋白基因簇	zhū;ww dàn;vi bái;lg jī;qt yīn;wd cù;vt	10
-猪胆粉薄荷脑	zhū;qg dǎn;qh fěn;hd bò;ff hé;fj nǎo;qn	10
+猪胆粉薄荷脑	zhū;qg dǎn;qh fěn;hd bò;ff he;fj nǎo;qn	10
 驻德美军基地	zhù;mv dé;ix měi;yd jūn;ji jī;qt dì;tv	10
 驻德苏军集群	zhù;mv dé;ix sū;fx jūn;ji jí;nm qún;vy	10
 主的兄弟雅各	zhǔ;xw de;bx xiōng;jf dì;bl yǎ;yq gè;wj	10
@@ -157777,7 +157781,7 @@ sort: by_weight
 力长度关系肌肉	lì;vl cháng;ly dù;ii guān;bt xì;lx jī;qn ròu;nn	10
 李大钊烈士陵园	lǐ;md dà;uy zhāo;xd liè;dq shì;uh líng;ww yuán;wf	10
 锂电新能源产业	lǐ;xt diàn;uv xīn;ld néng;vb yuán;dx chǎn;ll yè;uh	10
-利多卡因薄荷脑	lì;hd duō;ww kǎ;ub yīn;wd bò;ff hé;fj nǎo;qn	10
+利多卡因薄荷脑	lì;hd duō;ww kǎ;ub yīn;wd bò;ff he;fj nǎo;qn	10
 利福霉素类中毒	lì;hd fú;ht méi;ym sù;qx lèi;hd zhòng;uu dú;qm	10
 利害关系人理论	lì;hd hài;jj guān;bt xì;lx rén;ly lǐ;wt lùn;lb	10
 里霍塔林二氏法	lǐ;uh huò;yq tǎ;tj lín;mm èr;hh shì;lv fǎ;dq	10

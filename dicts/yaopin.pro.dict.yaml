@@ -64,6 +64,7 @@ sort: by_weight
 强肾片	qiáng;gi shèn;uq piàn;lv	10
 清肝片	qīng;dq gān;qd piàn;lv	10
 青果片	qīng;qq guǒ;uy piàn;lv	10
+清化饮	qīng;dq huà;nq yǐn;un	84
 清火片	qīng;dq huǒ;xn piàn;lv	10
 清降片	qīng;dq jiàng;wu piàn;lv	10
 清解片	qīng;dq jiě;vn piàn;lv	10
@@ -117,6 +118,10 @@ sort: by_weight
 阿帕他胺	ā;wj pà;mb tā;nv àn;qb	10
 阿帕替尼	ā;wj pà;mb tì;hg ní;tb	10
 阿思尼布	ā;wj sī;tx ní;tb bù;um	10
+阿昔洛韦	ā;wj xī;fg luò;dj wéi;hu	60
+阿西美辛	ā;wj xī;hh měi;yd xīn;lu	4
+阿昔莫司	ā;wj xī;fg mò;fd sī;vj	84
+阿昔替尼	ā;wj xī;fg tì;hg ní;tb	212
 阿昔替尼	ā;wj xī;fg tì;hg ní;tb	10
 艾伏尼布	ài;fi fú;nh ní;tb bù;um	10
 埃克替尼	āi;tt kè;uf tì;hg ní;tb	10
@@ -422,6 +427,7 @@ sort: by_weight
 阿司匹林片	ā;wj sī;vj pǐ;nf lín;mm piàn;lv	10
 阿司匹林散	ā;wj sī;vj pǐ;nf lín;mm sàn;fw	10
 阿替洛尔片	ā;wj tì;hg luò;dj ěr;vx piàn;lv	10
+阿维A胶囊	ā;wj wéi;vq a; jiāo;qi náng;hy	11
 阿魏八味丸	ā;wj wèi;hg bā;ly wèi;jw wán;lx	10
 阿魏化痞膏	ā;wj wèi;hg huà;nq pǐ;bj gāo;wq	10
 阿魏酸钠片	ā;wj wèi;hg suān;yw nà;xn piàn;lv	10
@@ -1206,7 +1212,7 @@ sort: by_weight
 复方贝母片	fù;lw fāng;xw bèi;nn mǔ;vx piàn;lv	10
 复方贝母散	fù;lw fāng;xw bèi;nn mǔ;vx sàn;fw	10
 复方薄荷酊	fù;lw fāng;xw bò;ff he;fj dīng;yd	10
-复方薄荷脑	fù;lw fāng;xw bò;ff hé;fj nǎo;qn	10
+复方薄荷脑	fù;lw fāng;xw bò;ff he;fj nǎo;qn	10
 复方补骨脂	fù;lw fāng;xw bǔ;hb gǔ;uq zhī;qg	10
 复方草玉梅	fù;lw fāng;xw cǎo;fu yù;wx méi;mm	10
 复方茶丹片	fù;lw fāng;xw chá;fm dān;lh piàn;lv	10
@@ -7681,7 +7687,9 @@ sort: by_weight
 双料喉风含片	shuāng;ii liào;hu hóu;jt fēng;ni hán;nj piàn;lv	10
 双氯非那胺片	shuāng;ii lǜ;qu fēi;uh nà;vw àn;qb piàn;lv	10
 双氯芬酸钾片	shuāng;ii lǜ;qu fēn;fd suān;yw jiǎ;xt piàn;lv	10
+双氯芬酸钾栓	shuāng;ii lǜ;qu fēn;fd suān;yw jiǎ;xt shuān;mw	10
 双氯芬酸钠片	shuāng;ii lǜ;qu fēn;fd suān;yw nà;xn piàn;lv	10
+双氯芬酸钠栓	shuāng;ii lǜ;qu fēn;fd suān;yw nà;xn shuān;mw	10
 双嘧啶混悬液	shuāng;ii mì;ju dìng;jn hùn;db xuán;qx yè;dy	10
 双扑伪麻胶囊	shuāng;ii pū;yb wěi;nw má;im jiāo;qi náng;hy	10
 双扑伪麻颗粒	shuāng;ii pū;yb wěi;nw má;im kē;gn lì;hl	10
@@ -9272,7 +9280,7 @@ sort: by_weight
 复方鳖甲软肝片	fù;lw fāng;xw biē;xg jiǎ;uu ruǎn;in gān;qd piàn;lv	10
 复方丙谷胺胶囊	fù;lw fāng;xw bǐng;hn gǔ;bj àn;qb jiāo;qi náng;hy	10
 复方薄荷滴鼻液	fù;lw fāng;xw bò;ff he;fj dī;dj bí;wf yè;dy	10
-复方薄荷脑软膏	fù;lw fāng;xw bò;ff hé;fj nǎo;qn ruǎn;in gāo;wq	10
+复方薄荷脑软膏	fù;lw fāng;xw bò;ff he;fj nǎo;qn ruǎn;in gāo;wq	10
 复方薄荷油滴鼻	fù;lw fāng;xw bò;ff he;fj yóu;dt dī;dj bí;wf	10
 复方菠萝蛋白酶	fù;lw fāng;xw bō;fi luó;fw dàn;vi bái;lg méi;ym	10
 复方补骨脂颗粒	fù;lw fāng;xw bǔ;hb gǔ;uq zhī;qg kē;gn lì;hl	10
@@ -9876,7 +9884,7 @@ sort: by_weight
 结合雌激素乳膏	jié;vj hé;nj cí;vq jī;dw sù;qx rǔ;lv gāo;wq	10
 结合雌激素软膏	jié;vj hé;nj cí;vq jī;dw sù;qx ruǎn;in gāo;wq	10
 解肌宁嗽口服液	jiě;vn jī;qn níng;jd sòu;jn kǒu;uh fú;qi yè;dy	10
-芥子气磷混合剂	jiè;fu zǐ;vh qì;lv lín;uu hùn;db hé;nj jì;wd	10
+芥子气磷混合剂	jiè;fu zi;vh qì;lv lín;uu hùn;db hé;nj jì;wd	10
 金邦前列通胶囊	jīn;nh bāng;qw qián;bd liè;dd tōng;lu jiāo;qi náng;hy	10
 金贝痰咳清颗粒	jīn;nh bèi;nn tán;bq ké;jn qīng;dq kē;gn lì;hl	10
 金参润喉口服液	jīn;nh cān;vl rùn;dw hóu;jt kǒu;uh fú;qi yè;dy	10
