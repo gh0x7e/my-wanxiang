@@ -5,7 +5,7 @@ local wanxiang = {}
 
 -- x-release-please-start-version
 
-wanxiang.version = "v17.10.0"
+wanxiang.version = "v17.10.2"
 
 -- x-release-please-end
 
@@ -103,7 +103,7 @@ end
 function wanxiang.is_in_radical_mode(env)
     local seg = env.engine.context.composition:back()
     return seg and (
-        seg:has_tag("wanxiang_reverse") or seg:has_tag("wanxiang_reverse_lxsq")
+        seg:has_tag("wanxiang_reverse")
     ) or false
 end
 
@@ -141,8 +141,7 @@ function wanxiang.is_special_mode(context)
         seg:has_tag("calculator") or -- super_calculator.lua V键计算器
         seg:has_tag("shijian") or    -- shijian.lua 时间日期相关功能
         seg:has_tag("super_symbol") or    -- 超级符号
-        seg:has_tag("wanxiang_reverse") or
-        seg:has_tag("wanxiang_reverse_lxsq")
+        seg:has_tag("wanxiang_reverse")
 end
 ---判断文件是否存在
 function wanxiang.file_exists(filename)

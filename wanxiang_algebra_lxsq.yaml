@@ -354,6 +354,7 @@ pro:
       - xform/ń([^;]*);/n$1②;/
       - xform/ň([^;]*);/n$1③;/
       - xform/ǹ([^;]*);/n$1④;/
+      - xform/m̄([^;]*);/m$1①;/
       - xform/ḿ([^;]*);/m$1②;/
       - xform/m̀([^;]*);/m$1④;/
       - xlit/①②③④/7890
@@ -535,68 +536,70 @@ pro:
 
 reverse:
   全拼:
-    - xform/'//
-    - derive/^([nl])ue$/$1ve/
-    - derive/'([nl])ue$/'$1ve/
-    - derive/^([jqxy])u/$1v/
-    - derive/'([jqxy])u/'$1v/
+      __append:
+      - xform/'//
+      - derive/^([nl])ue$/$1ve/
+      - derive/'([nl])ue$/'$1ve/
+      - derive/^([jqxy])u/$1v/
+      - derive/'([jqxy])u/'$1v/
 
   乱序17:
-    - xform/^([aoe].*)(?=$|')/Ⓠ$1/
-    - xform/^ch/Ⓘ/
-    - xform/^c/Ⓕ/
-    - xform/^k/Ⓙ/
-    - xform/^p/Ⓗ/
-    - xform/^r/Ⓝ/
-    - xform/^sh/Ⓤ/
-    - xform/^s/Ⓜ/
-    - xform/^zh/Ⓥ/
-    - xform/^z/Ⓦ/
-    - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
-    - xform/'ch/'Ⓘ/
-    - xform/'c/'Ⓕ/
-    - xform/'k/'Ⓙ/
-    - xform/'p/'Ⓗ/
-    - xform/'r/'Ⓝ/
-    - xform/'sh/'Ⓤ/
-    - xform/'s/'Ⓜ/
-    - xform/'zh/'Ⓥ/
-    - xform/'z/'Ⓦ/
-    - xform/uang(?=$|')/Ⓠ/
-    - xform/iang(?=$|')/Ⓘ/
-    - xform/iong(?=$|')/Ⓑ/
-    - xform/ang(?=$|')/Ⓥ/
-    - xform/eng(?=$|')/Ⓨ/
-    - xform/ian(?=$|')/Ⓠ/
-    - xform/iao(?=$|')/Ⓥ/
-    - xform/ing(?=$|')/Ⓨ/
-    - xform/ong(?=$|')/Ⓣ/
-    - xform/uai(?=$|')/Ⓧ/
-    - xform/uan(?=$|')/Ⓧ/
-    - xform/ai(?=$|')/Ⓛ/
-    - xform/an(?=$|')/Ⓝ/
-    - xform/ao(?=$|')/Ⓑ/
-    - xform/ei(?=$|')/Ⓖ/
-    - xform/en(?=$|')/Ⓤ/
-    - xform/er(?=$|')/Ⓣ/
-    - xform/ua(?=$|')/Ⓗ/
-    - xform/ie(?=$|')/Ⓜ/
-    - xform/in(?=$|')/Ⓤ/
-    - xform/iu(?=$|')/Ⓕ/
-    - xform/ou(?=$|')/Ⓕ/
-    - xform/ia(?=$|')/Ⓗ/
-    - xform/[uv]e(?=$|')/Ⓛ/
-    - xform/ui(?=$|')/Ⓘ/
-    - xform/un(?=$|')/Ⓖ/
-    - xform/uo(?=$|')/Ⓜ/
-    - xform/a(?=$|')/Ⓗ/
-    - xform/e(?=$|')/Ⓦ/
-    - xform/i(?=$|')/Ⓙ/
-    - xform/o(?=$|')/Ⓧ/
-    - xform/u(?=$|')/Ⓓ/
-    - xform/v(?=$|')/Ⓧ/
-    - xlit/ⓆⓌⓉⓎⓊⒾⒹⒻⒼⒽⒿⓁⓍⓋⒷⓃⓂ/qwtyuidfghjlxvbnm/
-    - xform/'//
+    __append:
+      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
+      - xform/^ch/Ⓘ/
+      - xform/^c/Ⓕ/
+      - xform/^k/Ⓙ/
+      - xform/^p/Ⓗ/
+      - xform/^r/Ⓝ/
+      - xform/^sh/Ⓤ/
+      - xform/^s/Ⓜ/
+      - xform/^zh/Ⓥ/
+      - xform/^z/Ⓦ/
+      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
+      - xform/'ch/'Ⓘ/
+      - xform/'c/'Ⓕ/
+      - xform/'k/'Ⓙ/
+      - xform/'p/'Ⓗ/
+      - xform/'r/'Ⓝ/
+      - xform/'sh/'Ⓤ/
+      - xform/'s/'Ⓜ/
+      - xform/'zh/'Ⓥ/
+      - xform/'z/'Ⓦ/
+      - xform/uang(?=$|')/Ⓠ/
+      - xform/iang(?=$|')/Ⓘ/
+      - xform/iong(?=$|')/Ⓑ/
+      - xform/ang(?=$|')/Ⓥ/
+      - xform/eng(?=$|')/Ⓨ/
+      - xform/ian(?=$|')/Ⓠ/
+      - xform/iao(?=$|')/Ⓥ/
+      - xform/ing(?=$|')/Ⓨ/
+      - xform/ong(?=$|')/Ⓣ/
+      - xform/uai(?=$|')/Ⓧ/
+      - xform/uan(?=$|')/Ⓧ/
+      - xform/ai(?=$|')/Ⓛ/
+      - xform/an(?=$|')/Ⓝ/
+      - xform/ao(?=$|')/Ⓑ/
+      - xform/ei(?=$|')/Ⓖ/
+      - xform/en(?=$|')/Ⓤ/
+      - xform/er(?=$|')/Ⓣ/
+      - xform/ua(?=$|')/Ⓗ/
+      - xform/ie(?=$|')/Ⓜ/
+      - xform/in(?=$|')/Ⓤ/
+      - xform/iu(?=$|')/Ⓕ/
+      - xform/ou(?=$|')/Ⓕ/
+      - xform/ia(?=$|')/Ⓗ/
+      - xform/[uv]e(?=$|')/Ⓛ/
+      - xform/ui(?=$|')/Ⓘ/
+      - xform/un(?=$|')/Ⓖ/
+      - xform/uo(?=$|')/Ⓜ/
+      - xform/a(?=$|')/Ⓗ/
+      - xform/e(?=$|')/Ⓦ/
+      - xform/i(?=$|')/Ⓙ/
+      - xform/o(?=$|')/Ⓧ/
+      - xform/u(?=$|')/Ⓓ/
+      - xform/v(?=$|')/Ⓧ/
+      - xlit/ⓆⓌⓉⓎⓊⒾⒹⒻⒼⒽⒿⓁⓍⓋⒷⓃⓂ/qwtyuidfghjlxvbnm/
+      - xform/'//
 
   hspzn:
     __append:
@@ -609,74 +612,58 @@ reverse:
       - xlit/HSPZN/hulvy/
 
 mixed:
-  通用派生规则:
-    - derive|^([A-Z].{1,2})$|$1/|
-    # 数字派生，先将整数类派生出英文写法
-    - derive/(?<!\d)1([1-9])(?!\d)/'shí'$1/
-    - derive/([1-9])0000(?!0)/$1'wàn'/
-    - derive/([1-9])000(?!0)/$1'qiān'/
-    - derive/([1-9])00(?!0)/$1'bǎi'/
-    - derive/([2-9])0(?!0)/$1'shí'/
-    - derive/(?<!\d)([2-9])([1-9])(?!\d)/$1'shí'$2/
-    - derive/1([4-7|9])/$1'teen'/
-    - derive/11/'eleven'/
-    - derive/12/'twelve'/
-    - derive/13/'thirteen'/
-    - derive/15/'fifteen'/
-    - derive/18/'eighteen'/
-    - derive/0/o/
-    - derive/0/O/
-    - derive/0/'zero'/
-    - derive/1/'one'/
-    - derive/10/'ten'/
-    - derive/2/'to'/
-    - derive/2/'two'/
-    - derive/3/'three'/
-    - derive/4/'for'/
-    - derive/4/'four'/
-    - derive/5/'five'/
-    - derive/6/'six'/
-    - derive/7/'seven'/
-    - derive/8/'eight'/
-    - derive/9/'nine'/
-    - derive/10/'shí'/
-    - derive/0/'líng'/
-    - derive/1/'yī'/
-    - derive/2/'èr'/
-    - derive/3/'sān'/
-    - derive/4/'sì'/
-    - derive/5/'wǔ'/
-    - derive/6/'liù'/
-    - derive/7/'qī'/
-    - derive/8/'bā'/
-    - derive/9/'jiǔ'/
-    # 符号派生，将编码中的符号，该消失的消失，该转换为名称的转换为名称
-    - derive/\+/'plus'/
-    - derive/\./'dot'/
-    - derive/@/'at'/
-    - derive/-/'hyphen'/
-    - derive/#/'hash'/
-    - derive/#/'number'/
-    - derive/#/'sharp'/
-    - derive/♯/'sharp'/
-    - derive / 'slash'
-    - derive/&/'and'/
-    - derive/%/'percent'/
-    # 派生单个特殊字符需要消失的转换为'分隔符，需要转换为拼音的放在具体的输入布局转写中
-    - derive/--/'jiǎn'jiǎn'/  #两个连续减号转换为jiǎn'jiǎn
-    - derive/^(.*)-$/$1'jiǎn/  #单个减号末尾的转换为jiǎn
-    - derive/-/'/  #中间减号一般无意义，转换为分隔符以忽略
-    - derive/_/'/
-    - derive/\./'diǎn'/
-    - derive/\+/'jiā'/
-    - derive/·/'/
-    - derive/#/'jǐng'/
-    - derive/[@]/'ài'tè'/
-    - derive/[@]/'quān'a'/
-    - xform/'+/'/
-    - xform/^'(.*)$/$1/
-    - xform/^(.*)'$/$1/
-    - derive/^.+$/\U$0/
+  混合派生:
+    __append:
+      - derive|^([A-Z].{1,2})$|$1/|
+      # 数字派生，先将整数类派生出英文写法
+      - derive/(?<!\d)1([1-9])(?!\d)/'shí'$1/
+      - derive/([1-9])0000(?!0)/$1'wàn'/
+      - derive/([1-9])000(?!0)/$1'qiān'/
+      - derive/([1-9])00(?!0)/$1'bǎi'/
+      - derive/([2-9])0(?!0)/$1'shí'/
+      - derive/(?<!\d)([2-9])([1-9])(?!\d)/$1'shí'$2/
+      - derive/1([4-7|9])/$1'teen'/
+      - derive/11/'eleven'/
+      - derive/12/'twelve'/
+      - derive/13/'thirteen'/
+      - derive/15/'fifteen'/
+      - derive/18/'eighteen'/
+      - derive/0/o/
+      - derive/0/O/
+      - derive/0/'zero'/
+      - derive/1/'one'/
+      - derive/10/'ten'/
+      - derive/2/'to'/
+      - derive/2/'two'/
+      - derive/3/'three'/
+      - derive/4/'for'/
+      - derive/4/'four'/
+      - derive/5/'five'/
+      - derive/6/'six'/
+      - derive/7/'seven'/
+      - derive/8/'eight'/
+      - derive/9/'nine'/
+      - derive/10/'shí'/
+      - derive/0/'líng'/
+      - derive/1/'yī'/
+      - derive/2/'èr'/
+      - derive/3/'sān'/
+      - derive/4/'sì'/
+      - derive/5/'wǔ'/
+      - derive/6/'liù'/
+      - derive/7/'qī'/
+      - derive/8/'bā'/
+      - derive/9/'jiǔ'/
+      - derive/--/'jiǎn'jiǎn'/
+      - derive/^(.*)-$/$1'jiǎn/
+      - derive/-/'/
+      - derive/\./'diǎn'/
+      - derive/\+/'jiā'/
+      - derive/#/'jǐng'/
+      - xform/'+/'/
+      - xform/^'(.*)$/$1/
+      - xform/^(.*)'$/$1/
+      - derive/^.+$/\U$0/
 
   全拼:
     __append:
@@ -823,38 +810,37 @@ mixed:
       - derive/^([a-z]{2})/\U$1/
 
 english:
-  通用规则:
-    - derive|^(.{1,3})$|$1/|
-    - derive/1([4-7|9])/$1teen/
-    - derive/11/eleven/
-    - derive/12/twelve/
-    - derive/13/thirteen/
-    - derive/15/fifteen/
-    - derive/18/eighteen/
-    - derive/0/o/
-    - derive/0/O/
-    - derive/0/zero/
-    - derive/1/one/
-    - derive/10/ten/
-    - derive/2/to/
-    - derive/2/two/
-    - derive/3/three/
-    - derive/4/for/
-    - derive/4/four/
-    - derive/5/five/
-    - derive/6/six/
-    - derive/7/seven/
-    - derive/8/eight/
-    - derive/9/nine/
-    - derive/[.]//
-    - derive/[+]//
-    - derive/[@]//
-    - derive/[-]//
-    - derive/[_]//
-    - derive/^.+$/\L$0/
-    - derive/^.+$/\U$0/
-    - derive/^./\U$0/
-    - derive/^([a-z]{2})/\U$1/
+  混合派生:
+    __append:
+      - derive|^(.{1,3})$|$1/|
+      - derive/1([4-7|9])/$1teen/
+      - derive/11/eleven/
+      - derive/12/twelve/
+      - derive/13/thirteen/
+      - derive/15/fifteen/
+      - derive/18/eighteen/
+      - derive/0/o/
+      - derive/0/O/
+      - derive/0/zero/
+      - derive/1/one/
+      - derive/10/ten/
+      - derive/2/to/
+      - derive/2/two/
+      - derive/3/three/
+      - derive/4/for/
+      - derive/4/four/
+      - derive/5/five/
+      - derive/6/six/
+      - derive/7/seven/
+      - derive/8/eight/
+      - derive/9/nine/
+      - derive/[.]//
+      - derive/[+]//
+      - derive/[-]//
+      - derive/^.+$/\L$0/
+      - derive/^.+$/\U$0/
+      - derive/^./\U$0/
+      - derive/^([a-z]{2})/\U$1/
 
   全拼:
     __append:

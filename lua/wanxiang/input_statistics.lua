@@ -35,7 +35,7 @@ local FINGER_STYLE_MAP = {
     pinyin="全拼", zrm="自然码", flypy="小鹤双拼", mspy="微软双拼",
     sogou="搜狗双拼", abc="智能ABC", ziguang="紫光双拼",
     pyjj="拼音加加", gbpy="国标双拼", zrlong="自然龙",
-    hxlong="汉心龙", ltsp="蓝天双拼", lxsq="乱序十七",
+    hxlong="汉心龙", ltsp="蓝天双拼", lxsq="乱序17",
     sdpy="首道双拼", t9="九键",
 }
 

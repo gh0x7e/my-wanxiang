@@ -11,8 +11,8 @@ schema:
     请勾选【万象拼音PRO】以启用，万象拼音 支持常见双拼方案和全拼输入，辅助码同时支持 全拼拼音、墨奇码、鹤形、自然码、虎码首末、五笔前2、汉心码、首右，拥有超越大厂的输入体验！带声调的词库，支持语法模型，全拼、简拼、整句、声调辅助筛选
     请在文本框中直接输入对应方案的代码，例如：全拼输入“/pinyin”，自然码输入“/zrm”，小鹤输入“/flypy”（包含“/mspy”、“/sogou”、“/pyjj”等更多代码详见 README.md）。
   dependencies:
-    - wanxiang_mixedcode_lxsq  #中英文混合词汇
-    - wanxiang_reverse_lxsq  #部件拆字，反查及辅码
+    - wanxiang_mixedcode  #中英文混合词汇
+    - wanxiang_reverse  #部件拆字，反查及辅码
     - wanxiang_english  #中英文混合词汇
 
 # 开关
@@ -79,7 +79,7 @@ engine:
     - ascii_segmentor  #标识英文段落〔譬如在英文模式下〕字母直接上屛
     - matcher  #配合 recognizer 标识符合特定规则的段落，如网址、反查等，加上特定 tag
     - abc_segmentor  #标识常规的文字段落，加上 abc 这个 tag
-    - affix_segmentor@wanxiang_reverse_lxsq  #反查 tag
+    - affix_segmentor@wanxiang_reverse  #反查 tag
     - affix_segmentor@add_user_dict  #自造词加词 tag
     - punct_segmentor  #标识符号段落〔键入标点符号用〕加上 punct 这个 tag
     - fallback_segmentor  #标识其他未标识段落，必须放在最后帮助tag模式切换后回退重新处理
@@ -87,6 +87,7 @@ engine:
     - punct_translator  #配合 punct_segmentor 转换标点符号
     - script_translator  #脚本翻译器，用于拼音、粤拼等基于音节表的输入方案
     - lua_translator@*wanxiang.version_display  #输入'/wx'，显示万象项目网址和当前版本号
+    - lua_translator@*wanxiang.set_schema  #输入'/zrm'，快速切换为自然码双拼， /flypy→小鹤双拼 /mspy→微软双拼 /zrm→自然码 /sogou→搜狗双拼 /abc→智能ABC /ziguang→紫光双拼 /pyjj→拼音加加 /gbpy→国标双拼 /lxsq→乱序17 /pinyin→全拼
     - lua_translator@*wanxiang.shijian  #农历、日期、节气、节日、时间、周、问候模板等等，触发清单看下文
     - lua_translator@*wanxiang.unicode_conversion*T  #通过输入大写U引导，并输入Unicode编码获得汉字输出
     - lua_translator@*wanxiang.number_conversion  #数字、金额大写，通过输入大写R1234获得候选输出
@@ -96,8 +97,8 @@ engine:
     - lua_translator@*wanxiang.super_symbols  #超级符号库：/sym.arrow.r.double→⇒  /sym?arrow 或 /sym/arrow 模糊搜索  /emoji.xxx 同理
     - table_translator@custom_phrase  #自定义短语 custom_phrase.txt，用于置顶自定义编码候选词
     - lua_translator@*wanxiang.super_english*T  #英文词汇表导入，限流，格式化
-    - table_translator@wanxiang_mixedcode_lxsq  #混合编码词汇表导入
-    - reverse_lookup_translator@wanxiang_reverse_lxsq  #挂接部件组字和笔画反查
+    - table_translator@wanxiang_mixedcode  #混合编码词汇表导入
+    - reverse_lookup_translator@wanxiang_reverse  #挂接部件组字和笔画反查
     - script_translator@user_dict_set  #自造词之使用词汇入口
     - script_translator@add_user_dict  #自造词之制造词汇入口
   filters:
@@ -152,14 +153,14 @@ user_dict_set:
   spelling_hints: 50
   comment_format:
   enable_user_dict: true
-  user_dict: zc_lxsq
+  user_dict: zc
 
 # 自定义词典加词(``引导)
 add_user_dict:
   tag: add_user_dict
   dictionary: wanxiang_pro
   initial_quality: -1
-  user_dict: zc_lxsq
+  user_dict: zc
   enable_completion: true  # 提前显示尚未输入完整码的字〔仅 table_translator 有效〕
   enable_user_dict: true
   spelling_hints: 50
@@ -171,7 +172,7 @@ add_user_dict:
 # 自定义短语
 custom_phrase:
   dictionary: ""
-  user_dict: custom_phrase_lxsq
+  user_dict: custom_phrase  # 需要手动创建 custom_phrase.txt 文件
   db_class: stabledb
   enable_completion: false  # 补全提示
   enable_sentence: false  # 禁止造句
@@ -196,8 +197,8 @@ wanxiang_english:
   max_candidates: 5  #英文候选输出最大候选数(适用于需要选单字组词的用户)
   trigger: "\\"  #英文造词符号\，写一个用时双击
 
-wanxiang_mixedcode_lxsq:
-  dictionary: wanxiang_mixedcode_lxsq
+wanxiang_mixedcode:
+  dictionary: wanxiang_mixedcode
   db_class: stabledb
   enable_completion: true
   enable_sentence: false
@@ -206,17 +207,17 @@ wanxiang_mixedcode_lxsq:
     - xform/.*//
 
 # 部件拆字反查
-wanxiang_reverse_lxsq:
-  tag: wanxiang_reverse_lxsq
-  dictionary: wanxiang_reverse_lxsq
+wanxiang_reverse:
+  tag: wanxiang_reverse
+  dictionary: wanxiang_reverse
   enable_completion: true
-  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse_lxsq 匹配
+  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse 匹配
   tips: "〔反查：拆分|笔画〕"
 
 wanxiang_lookup:  #设置归属于super_lookup.lua
   tags: [abc, add_user_dict]  # 检索当前tag的候选
   key: "`"  # 输入中反查引导符，要添加到 speller/alphabet
-  lookup: [wanxiang_reverse_lxsq]  #反查滤镜数据库，万象都合并为一个了
+  lookup: [wanxiang_reverse]  #反查滤镜数据库，万象都合并为一个了
   enable_tone: true  #启用声调反查
   data_source: ['aux', 'db']
   #data_source: ['db', 'aux']
@@ -237,7 +238,6 @@ speller:
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
     __patch:
-      #- 模糊音             #模糊音选择性开启
       - wanxiang_algebra_lxsq:/pro/乱序17  #拼音转双拼码
       #- wanxiang_algebra_lxsq:/pro/辅助码共键    #适配为26键设计的辅助码
       - wanxiang_algebra_lxsq:/pro/直接辅助  #辅助码部分
@@ -251,7 +251,7 @@ recognizer:
     super_emoji: "^/emoji[.?/][A-Za-z.]+$"  # /emoji.apple.red  /emoji?keyword  /emoji/keyword
     super_sym_pre: "^/sym[.?/]?$"  # 仅 /sym /sym. /sym? /sym/ 模式提示
     super_emoji_pre: "^/emoji[.?/]?$"  # 仅 /emoji /emoji. /emoji? /emoji/ 模式提示
-    wanxiang_reverse_lxsq: "^`[A-Za-z;]*$"  # 响应部件拆字与笔画的反查，与 radical_lookup/prefix 匹配
+    wanxiang_reverse: "^`[A-Za-z;]*$"  # 响应部件拆字与笔画的反查，与 radical_lookup/prefix 匹配
     add_user_dict: "^``[A-Za-z/`']*$"  #自造词
     unicode: "^U([0-9A-Fa-f]*|[xXhH][0-9A-Fa-f]*|[dD][0-9]*|[bB][01]*|[oO][0-7]*|0[xX][0-9A-Fa-f]*|0[dD][0-9]*|0[bB][01]*|0[oO][0-7]*|\\+[0-9A-Fa-f]*|c.*)$"  # U 作为触发前缀，响应 lua_translator@unicode_conversion，输出 Unicode 字符
     number: "^R(-|-?[0-9]+[.:]?[0-9]*)$"  # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_conversion，数字金额大写
@@ -582,7 +582,7 @@ super_replacer:
       tags: [abc]
       prefix: "_ling_"
       files:
-        - lua/data/ling.txt
+        - lua/data/sentence.txt
     - option: abbrev  # 对应上面开关名称
       exclude_types: [pinyin]   # 该节点排除全拼使用
       mode: abbrev

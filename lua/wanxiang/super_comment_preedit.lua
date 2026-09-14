@@ -64,8 +64,14 @@ function CR.init(env)
     env.corrector_style_left, env.corrector_style_right = style:match("^(.-)comment(.-)$")
 
     local auto_delimiter = env.settings.auto_delimiter
-    local path = "dicts/cuoyin.pro.dict.yaml"
-
+    local path
+    if env.is_pro then
+        path = "dicts/cuoyin.pro.dict.yaml"
+    elseif env.is_lite then
+        path = "dicts/cuoyin.lite.dict.yaml"
+    else
+        path = "dicts/cuoyin.dict.yaml"
+    end
     local cache_key = path .. "\0" .. auto_delimiter
     local corrections = correction_dict_cache[cache_key]
 
@@ -369,8 +375,6 @@ end
 
 -- 26键处理：简码按配置保留或转全拼，其他音节维持原有转换语义。
 local function convert_alpha_syllable(part, py, state)
-    if state.is_pro then return py end
-
     if is_alpha_abbreviation(part, state) then
         return render_abbreviation(
             part, py, state.convert_abbrev_preedit
@@ -378,7 +382,9 @@ local function convert_alpha_syllable(part, py, state)
     end
 
     local _, tone = part:match("([%a]+)([^%a]+)")
-    if state.tone_isolate then return py .. (tone or "") end
+    if state.tone_isolate then 
+        return py .. (tone or "") 
+    end
     return py
 end
 
