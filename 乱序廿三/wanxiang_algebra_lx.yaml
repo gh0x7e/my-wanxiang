@@ -931,6 +931,7 @@ reverse:
       - derive/'([nl])ue$/'$1ve/
       - derive/^([jqxy])u/$1v/
       - derive/'([jqxy])u/'$1v/
+      - derive/(.*)[\d~]$/$1/
 
   乱序十七:
     __append:
@@ -989,6 +990,7 @@ reverse:
       - xform/v(?=$|')/Ⓧ/
       - xlit/ⓆⓌⓉⓎⓊⒾⒹⒻⒼⒽⒿⓁⓍⓋⒷⓃⓂ/qwtyuidfghjlxvbnm/
       - xform/'//
+      - derive/(.*)[\d~]$/$1/
 
   乱序廿三:
     __append:
@@ -1036,6 +1038,7 @@ reverse:
       - xform/v(?=$|')/Ⓟ/
       - xlit/ⓆⓌⓇⓉⓎⓊⒾⓅⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwrtyuipsdfghjklzxcvbnm/
       - xform/'//
+      - derive/(.*)[\d~]$/$1/
 
   乱序廿四:
     __append:
@@ -1083,6 +1086,7 @@ reverse:
       - xform/v(?=$|')/Ⓟ/
       - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwrtyuiopsdfghjklzxcvbnm/
       - xform/'//
+      - derive/(.*)[\d~]$/$1/
 
   hspzn:
     __append:
