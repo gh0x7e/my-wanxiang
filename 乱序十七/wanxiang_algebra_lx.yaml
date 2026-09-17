@@ -1632,3 +1632,10 @@ english:
       - derive/\+/jia/
       - derive/#/jing/
       - erase/.*[0-9].*/
+
+17jian:
+  __append:
+    - xlit/qwertyuiopasdfghjklzxcvbnm/qwqntyuiqhqmdfghjjlwxfvbnm/
+23jian:
+  __append:
+    - xlit/qwertyuiopasdfghjklzxcvbnm/qwqrtyuiqpqsdfghjklzxcvbnm/

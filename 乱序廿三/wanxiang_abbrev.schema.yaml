@@ -29,7 +29,7 @@ speller:
   delimiter: " '"
   algebra:
     __patch:
-      - wanxiang_algebra:/23jian  #共键选一个任意自定义
+      - wanxiang_algebra_lx:/23jian  #共键选一个任意自定义
 
 translator:
   dictionary: wanxiang_abbrev
