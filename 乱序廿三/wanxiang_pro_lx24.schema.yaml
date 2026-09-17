@@ -188,7 +188,7 @@ abbrev_phrase:
   enable_completion: false
   always_show_comments: true
   spelling_hints: 50
-  insert_position: 6  #前置简码到候选6
+  insert_position: 3  #前置简码到候选6
   max_candidates: 1  #前置1个简码
 
 # 中文、英文、数字、符号等混合词汇
