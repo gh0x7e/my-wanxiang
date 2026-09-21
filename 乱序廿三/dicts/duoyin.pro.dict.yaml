@@ -21,6 +21,7 @@ sort: by_weight
 于思于思	yú;hs sāi;tx yú;hs sāi;tx	144
 伤着了	shāng;rl zhe;yg le;vs	130
 不落下	bú;hx là;ck xià;hb	100
+横行	héng;mz háng;ii	554
 省得	xǐng;ug de;ic	100
 不省得	bù;hx xǐng;ug de;ic	100
 长住	zhǎng;py zhù;rv	330
@@ -29,7 +30,7 @@ sort: by_weight
 给付	jǐ;sk fù;rc	277
 水磨	shuǐ;sy mó;bu	100
 长平	zhǎng;py píng;hu	300
-重听	zhòng;ph tīng;kj	211
+重听	zhòng;ph tīng;ki	211
 于思	yú;hs sāi;tx	131
 一场	yì;hh cháng;tp	17575
 事了	shì;hs liǎo;vs	337
@@ -273,7 +274,7 @@ sort: by_weight
 忒不靠谱	tēi;yx bú;hx kào;nf pǔ;yp	24
 忒不容易	tēi;yx bù;hx róng;bk yì;pw	11
 忒不是人	tēi;yx bú;hx shì;pr rén;py	32
-忒不听话	tēi;yx bù;hx tīng;kj huà;yk	5
+忒不听话	tēi;yx bù;hx tīng;ki huà;yk	5
 忒不喜欢	tēi;yx bù;hx xǐ;tk huān;ir	1
 忒不要脸	tēi;yx bú;hx yào;xn liǎn;lh	14
 忒丑了吧	tēi;yx chǒu;vh le;vs ba;kb	142
@@ -292,7 +293,7 @@ sort: by_weight
 忒坏了吧	tēi;yx huài;tb le;vs ba;kb	43
 忒黄了吧	tēi;yx huáng;cz le;vs ba;kb	60
 忒贱了吧	tēi;yx jiàn;nj le;vs ba;kb	60
-忒近了吧	tēi;yx jìn;zj le;vs ba;kb	41
+忒近了吧	tēi;yx jìn;zi le;vs ba;kb	41
 忒旧了吧	tēi;yx jiù;sp le;vs ba;kb	60
 忒苦了吧	tēi;yx kǔ;ck le;vs ba;kb	60
 忒宽了吧	tēi;yx kuān;bq le;vs ba;kb	60
@@ -317,7 +318,7 @@ sort: by_weight
 忒他妈的	tēi;yx tā;ry mā;nm de;bu	5
 忒甜了吧	tēi;yx tián;qg le;vs ba;kb	60
 忒小了吧	tēi;yx xiǎo;sx le;vs ba;kb	60
-忒新了吧	tēi;yx xīn;lj le;vs ba;kb	60
+忒新了吧	tēi;yx xīn;li le;vs ba;kb	60
 忒硬了吧	tēi;yx yìng;ug le;vs ba;kb	2
 忒有意思	tēi;yx yǒu;ul yì;lx sī;tx	12
 忒远了吧	tēi;yx yuǎn;zq le;vs ba;kb	60
@@ -558,8 +559,8 @@ sort: by_weight
 数次	shuò;hw cì;dr	5006
 随行	suí;qz háng;ii	550
 随行	suí;qz xíng;ii	497
-所长	suǒ;pj cháng;py	3222
-所长	suǒ;pj zhǎng;py	2790
+所长	suǒ;pi cháng;py	3222
+所长	suǒ;pi zhǎng;py	2790
 调配	tiáo;yk pèi;fj	620
 调为	tiáo;yk wéi;xx	5995
 都为	dōu;lq wéi;xx	999
@@ -846,10 +847,10 @@ sort: by_weight
 这水	zhèi;zw shuǐ;sy	430
 这谁	zhèi;zw shuí;yf	410
 这说	zhèi;zw shuō;yq	380
-这厮	zhèi;zw sī;ij	460
+这厮	zhèi;zw sī;ii	460
 这艘	zhèi;zw sōu;vi	560
 这算	zhèi;zw suàn;vc	560
-这所	zhèi;zw suǒ;pj	620
+这所	zhèi;zw suǒ;pi	620
 这台	zhèi;zw tái;sk	640
 这太	zhèi;zw tài;dx	460
 这摊	zhèi;zw tān;ff	320
@@ -1200,10 +1201,10 @@ sort: by_weight
 特这样	tè;nc zhèi;zw yàng;my	200
 提这个	tí;fr zhèi;zw ge;rs	610
 填这个	tián;tz zhèi;zw ge;rs	310
-听这边	tīng;kj zhèi;zw biān;zl	160
-听这歌	tīng;kj zhèi;zw gē;dr	310
-听这句	tīng;kj zhèi;zw jù;bk	110
-听这首	tīng;kj zhèi;zw shǒu;bz	360
+听这边	tīng;ki zhèi;zw biān;zl	160
+听这歌	tīng;ki zhèi;zw gē;dr	310
+听这句	tīng;ki zhèi;zw jù;bk	110
+听这首	tīng;ki zhèi;zw shǒu;bz	360
 玩这个	wán;wq zhèi;zw ge;rs	540
 玩这套	wán;wq zhèi;zw tào;ds	290
 玩这些	wán;wq zhèi;zw xiē;vq	390
@@ -1517,7 +1518,7 @@ sort: by_weight
 这封信	zhèi;zw fēng;tc xìn;rk	550
 这副本	zhèi;zw fù;hd běn;hh	200
 这幅画	zhèi;zw fú;jt huà;hn	630
-这附近	zhèi;zw fù;qc jìn;zj	570
+这附近	zhèi;zw fù;qc jìn;zi	570
 这幅图	zhèi;zw fú;jt tú;wx	480
 这复杂	zhèi;zw fù;pw zá;jm	250
 这嘎达	zhèi;zw gā;kg dá;zd	250
@@ -1926,7 +1927,7 @@ sort: by_weight
 这六个	zhèi;zw liù;wz gè;rs	470
 这六年	zhèi;zw liù;wz nián;ps	360
 这六人	zhèi;zw liù;wz rén;py	260
-这六所	zhèi;zw liù;wz suǒ;pj	240
+这六所	zhèi;zw liù;wz suǒ;pi	240
 这路子	zhèi;zw lù;zk zi;vh	240
 这轮回	zhèi;zw lún;ib huí;wk	140
 这逻辑	zhèi;zw luó;zx jí;iq	420
@@ -2264,7 +2265,7 @@ sort: by_weight
 这样事	zhèi;zw yàng;my shì;hs	300
 这样说	zhèi;zw yàng;my shuō;yq	650
 这样算	zhèi;zw yàng;my suàn;vc	490
-这样所	zhèi;zw yàng;my suǒ;pj	300
+这样所	zhèi;zw yàng;my suǒ;pi	300
 这样天	zhèi;zw yàng;my tiān;hd	260
 这样填	zhèi;zw yàng;my tián;tz	200
 这样玩	zhèi;zw yàng;my wán;wq	480
@@ -2996,8 +2997,8 @@ sort: by_weight
 睡不熟	shuì;gi bù;hx shóu;wh	100
 睡熟了	shuì;gi shóu;wh le;vs	336
 四书熟	sì;wq shū;vx shóu;wh	20
-所熟悉	suǒ;pj shóu;wh xī;px	220
-所熟知	suǒ;pj shóu;wh zhī;uk	290
+所熟悉	suǒ;pi shóu;wh xī;px	220
+所熟知	suǒ;pi shóu;wh zhī;uk	290
 他不熟	tā;ry bù;hx shóu;wh	20
 他成熟	tā;ry chéng;wv shóu;wh	704
 他很熟	tā;ry hěn;ig shóu;wh	434
@@ -3229,7 +3230,7 @@ sort: by_weight
 说谁	shuō;yq shéi;yf	500
 送谁	sòng;zt shéi;yf	300
 挑谁	tiāo;fx shéi;yf	220
-听谁	tīng;kj shéi;yf	330
+听谁	tīng;ki shéi;yf	330
 为谁	wéi;xx shéi;yf	530
 问谁	wèn;mk shéi;yf	460
 向谁	xiàng;pk shéi;yf	470
@@ -3380,7 +3381,7 @@ sort: by_weight
 你谁呀	nǐ;rc shéi;yf ya;ky	240
 你谁也	nǐ;rc shéi;yf yě;vv	240
 你说谁	nǐ;rc shuō;yq shéi;yf	360
-你听谁	nǐ;rc tīng;kj shéi;yf	180
+你听谁	nǐ;rc tīng;ki shéi;yf	180
 你问谁	nǐ;rc wèn;mk shéi;yf	210
 你选谁	nǐ;rc xuǎn;zq shéi;yf	380
 你站谁	nǐ;rc zhàn;lk shéi;yf	140
@@ -3761,7 +3762,7 @@ sort: by_weight
 谁掏钱	shéi;yf tāo;ff qián;jj	270
 谁提的	shéi;yf tí;fr de;bu	290
 谁提供	shéi;yf tí;fr gōng;rz	310
-谁听谁	shéi;yf tīng;kj shéi;yf	240
+谁听谁	shéi;yf tīng;ki shéi;yf	240
 谁同意	shéi;yf tóng;nk yì;lx	200
 谁统一	shéi;yf tǒng;sq yī;hh	170
 谁投资	shéi;yf tóu;fi zī;dr	290
@@ -3895,13 +3896,13 @@ sort: by_weight
 思念谁	sī;tx niàn;rx shéi;yf	260
 送给谁	sòng;zt gěi;sk shéi;yf	350
 算谁的	suàn;vc shéi;yf de;bu	370
-所以谁	suǒ;pj yǐ;vr shéi;yf	380
+所以谁	suǒ;pi yǐ;vr shéi;yf	380
 他是谁	tā;ry shì;pr shéi;yf	490
 她是谁	tā;ny shì;pr shéi;yf	450
 淘汰谁	táo;df tài;dt shéi;yf	240
 讨厌谁	tǎo;yc yàn;iq shéi;yf	340
-听谁的	tīng;kj shéi;yf de;bu	440
-听谁说	tīng;kj shéi;yf shuō;yq	330
+听谁的	tīng;ki shéi;yf de;bu	440
+听谁说	tīng;ki shéi;yf shuō;yq	330
 投给谁	tóu;fi gěi;sk shéi;yf	330
 投靠谁	tóu;fi kào;nf shéi;yf	210
 忘记谁	wàng;wx jì;yj shéi;yf	210
@@ -4005,7 +4006,7 @@ sort: by_weight
 不知道谁	bù;hx zhī;uk dào;zz shéi;yf	60
 猜我是谁	cāi;ql wǒ;px shì;pr shéi;yf	31
 曾共谁倚	céng;bp gòng;cz shéi;yf yǐ;rk	1
-唱给谁听	chàng;kp gěi;sk shéi;yf tīng;kj	19
+唱给谁听	chàng;kp gěi;sk shéi;yf tīng;ki	19
 出自谁手	chū;vn zì;pg shéi;yf shǒu;ps	31
 此恨谁知	cǐ;vb hèn;xg shéi;yf zhī;uk	6
 此情谁会	cǐ;vb qíng;xl shéi;yf huì;rs	1
@@ -4300,7 +4301,7 @@ sort: by_weight
 谁来阻止	shéi;yf lái;hy zǔ;qq zhǐ;sh	16
 谁拦得住	shéi;yf lán;fs dé;ic zhù;rv	21
 谁厉害呢	shéi;yf lì;iw hài;bk ne;kb	1
-谁怜夭折	shéi;yf lián;xs yāo;pd zhé;fj	4
+谁怜夭折	shéi;yf lián;xs yāo;pd zhé;fi	4
 谁临晚眺	shéi;yf lín;sh wǎn;pv tiào;gx	1
 谁领风骚	shéi;yf lǐng;rr fēng;jx sāo;mi	27
 谁骂你了	shéi;yf mà;km nǐ;rc le;vs	4
@@ -4312,7 +4313,7 @@ sort: by_weight
 谁没有情	shéi;yf méi;di yǒu;ul qíng;xl	1
 谁那么早	shéi;yf nà;vq me;ps zǎo;pu	8
 谁哪知道	shéi;yf nǎ;kq zhī;uk dào;zz	1
-谁能不听	shéi;yf néng;sb bù;hx tīng;kj	1
+谁能不听	shéi;yf néng;sb bù;hx tīng;ki	1
 谁能猜到	shéi;yf néng;sb cāi;ql dào;hd	32
 谁能挡我	shéi;yf néng;sb dǎng;fn wǒ;px	23
 谁能极之	shéi;yf néng;sb jí;mj zhī;xy	13
@@ -4376,7 +4377,7 @@ sort: by_weight
 谁死谁活	shéi;yf sǐ;db shéi;yf huó;dk	17
 谁送过来	shéi;yf sòng;zt guò;zc lái;hy	1
 谁算计谁	shéi;yf suàn;vc jì;yu shéi;yf	16
-谁所极焉	shéi;yf suǒ;pj jí;mj yān;vh	6
+谁所极焉	shéi;yf suǒ;pi jí;mj yān;vh	6
 谁他妈的	shéi;yf tā;ry mā;nm de;bu	32
 谁他妈信	shéi;yf tā;ry mā;nm xìn;rk	6
 谁偷了我	shéi;yf tōu;rd le;vs wǒ;px	27
@@ -4395,7 +4396,7 @@ sort: by_weight
 谁想得到	shéi;yf xiǎng;mx dé;ic dào;hd	30
 谁像你啊	shéi;yf xiàng;ry nǐ;rc a;kk	1
 谁像你们	shéi;yf xiàng;ry nǐ;rc men;rm	1
-谁想听你	shéi;yf xiǎng;mx tīng;kj nǐ;rc	1
+谁想听你	shéi;yf xiǎng;mx tīng;ki nǐ;rc	1
 谁呀谁呀	shéi;yf ya;ky shéi;yf ya;ky	22
 谁言寸草	shéi;yf yán;wk cùn;hx cǎo;cu	41
 谁言琼树	shéi;yf yán;wk qióng;wc shù;mc	1
@@ -4479,20 +4480,20 @@ sort: by_weight
 谁组织的	shéi;yf zǔ;sq zhī;sz de;bu	1
 谁最带种	shéi;yf zuì;pi dài;fj zhǒng;hv	13
 谁做的饭	shéi;yf zuò;rw de;bu fàn;ui	1
-说给谁听	shuō;yq gěi;sk shéi;yf tīng;kj	37
+说给谁听	shuō;yq gěi;sk shéi;yf tīng;ki	37
 说谁呢你	shuō;yq shéi;yf ne;kb nǐ;rc	1
 她是谁啊	tā;ny shì;pr shéi;yf a;kk	33
 他是谁啊	tā;ry shì;pr shéi;yf a;kk	1
 他是谁呀	tā;ry shì;pr shéi;yf ya;ky	19
-听谁唱的	tīng;kj shéi;yf chàng;kp de;bu	1
-听谁说的	tīng;kj shéi;yf shuō;yq de;bu	40
-听谁说了	tīng;kj shéi;yf shuō;yq le;vs	6
+听谁唱的	tīng;ki shéi;yf chàng;kp de;bu	1
+听谁说的	tīng;ki shéi;yf shuō;yq de;bu	40
+听谁说了	tīng;ki shéi;yf shuō;yq le;vs	6
 忘记了谁	wàng;wx jì;yj le;vs shéi;yf	25
 为谁而鸣	wéi;xx shéi;yf ér;hs míng;kn	44
 为谁而战	wéi;xx shéi;yf ér;hs zhàn;sg	33
 为谁而做	wéi;xx shéi;yf ér;hs zuò;rw	23
 为谁凝伫	wéi;xx shéi;yf níng;dr zhù;rh	1
-为谁攀折	wéi;xx shéi;yf pān;mu zhé;fj	1
+为谁攀折	wéi;xx shéi;yf pān;mu zhé;fi	1
 问花笑谁	wèn;mk huā;cb xiào;vy shéi;yf	13
 问你问谁	wèn;mk nǐ;rc wèn;mk shéi;yf	6
 我跟谁过	wǒ;px gēn;zg shéi;yf guò;zc	1

@@ -1114,7 +1114,7 @@ sort: by_weight
 三氯沙	sān;hq lǜ;qu shā;du	171
 三氯生	sān;hq lǜ;qu shēng;pf	518
 三氯松	sān;hq lǜ;qu sōng;ms	50
-三氯新	sān;hq lǜ;qu xīn;lj	76
+三氯新	sān;hq lǜ;qu xīn;li	76
 三硝基	sān;hq xiāo;ul jī;qt	3
 三溴苯	sān;hq xiù;dq běn;cb	351
 三溴酚	sān;hq xiù;dq fēn;fd	76
@@ -1605,7 +1605,7 @@ sort: by_weight
 溴磺酸	xiù;dq huáng;uz suān;fw	76
 溴己酸	xiù;dq jǐ;vv suān;fw	50
 溴己烷	xiù;dq jǐ;vv wán;lq	266
-溴己新	xiù;dq jǐ;vv xīn;lj	9
+溴己新	xiù;dq jǐ;vv xīn;li	9
 溴甲苯	xiù;dq jiǎ;ss běn;cb	279
 溴甲基	xiù;dq jiǎ;ss jī;qt	392
 溴甲醚	xiù;dq jiǎ;ss mí;fz	50
@@ -1670,7 +1670,7 @@ sort: by_weight
 溴乙烷	xiù;dq yǐ;vv wán;lq	490
 溴乙烯	xiù;dq yǐ;vv xī;lj	252
 溴乙酰	xiù;dq yǐ;vv xiān;fq	220
-溴已新	xiù;dq yǐ;vv xīn;lj	256
+溴已新	xiù;dq yǐ;vv xīn;li	256
 溴吲哚	xiù;dq yǐn;ks duǒ;km	4
 溴银矿	xiù;dq yín;jg kuàng;ub	99
 溴隐亭	xiù;dq yǐn;qx tíng;wd	6
@@ -3577,7 +3577,7 @@ sort: by_weight
 氯柳酊皮	lǜ;qu liǔ;mq dīng;fd pí;vi	90
 铝氯石膏	lǚ;jk lǜ;qu shí;hk gāo;wl	4
 氯铝酸盐	lǜ;qu lǚ;jk suān;fw yán;tm	50
-氯马斯汀	lǜ;qu mǎ;vh sī;qj tīng;dd	153
+氯马斯汀	lǜ;qu mǎ;vh sī;qi tīng;dd	153
 氯马唑仑	lǜ;qu mǎ;vh zuò;kt lún;rb	76
 氯美噻唑	lǜ;qu měi;yd sāi;kt zuò;kt	45
 氯霉素二	lǜ;qu méi;ym sù;fc èr;hh	90
@@ -3598,7 +3598,7 @@ sort: by_weight
 氯诺昔康	lǜ;qu nuò;yk xī;cp kāng;by	50
 氯哌丁片	lǜ;qu pài;ky dīng;hs piàn;pv	45
 氯哌噻吨	lǜ;qu pài;ky sāi;kt dūn;kt	4
-氯哌斯汀	lǜ;qu pài;ky sī;qj tīng;dd	45
+氯哌斯汀	lǜ;qu pài;ky sī;qi tīng;dd	45
 氯哌唑酮	lǜ;qu pài;ky zuò;kt tóng;fk	90
 氯培他松	lǜ;qu péi;tk tā;ry sōng;ms	45
 氯硼钠石	lǜ;qu péng;ul nà;jn shí;hk	45
@@ -3650,7 +3650,7 @@ sort: by_weight
 氯硝安定	lǜ;qu xiāo;ul ān;bn dìng;br	378
 氯硝柳胺	lǜ;qu xiāo;ul liǔ;mq àn;ln	212
 氯硝西泮	lǜ;qu xiāo;ul xī;hh pàn;db	486
-氯新霉素	lǜ;qu xīn;lj méi;ym sù;fc	90
+氯新霉素	lǜ;qu xīn;li méi;ym sù;fc	90
 氯雄烯醇	lǜ;qu xióng;uf xī;lj chún;fz	45
 氯溴化苄	lǜ;qu xiù;dq huà;rb biàn;cb	45
 氯溴甲苯	lǜ;qu xiù;dq jiǎ;ss běn;cb	45
@@ -4002,7 +4002,7 @@ sort: by_weight
 铯同位素	sè;jb tóng;nk wèi;rl sù;fc	76
 铯原子钟	sè;jb yuán;ic zǐ;vh zhōng;jv	418
 沙苯立克	shā;du běn;cb lì;wh kè;uq	45
-厦钨新能	shà;iw wū;jw xīn;lj néng;sb	130
+厦钨新能	shà;iw wū;jw xīn;li néng;sb	130
 钐钴磁体	shān;jp gǔ;jk cí;uy tǐ;rb	225
 钐化合物	shān;jp huà;rb hé;rk wù;nw	189
 闪星锑业	shǎn;mr xīng;pu tī;jp yè;sh	99
@@ -4309,7 +4309,7 @@ sort: by_weight
 斜钨铅矿	xié;ru wū;jw qiān;jk kuàng;ub	45
 辛苯苷醇	xīn;lu běn;cb gān;cg chún;fz	50
 辛二酰氯	xīn;lu èr;hh xiān;fq lǜ;qu	50
-新生儿酸	xīn;lj shēng;pf ér;pv suān;fw	10
+新生儿酸	xīn;li shēng;pf ér;pv suān;fw	10
 锌硒宝片	xīn;ju xī;ux bǎo;by piàn;pv	432
 溴胞嘧啶	xiù;dq bāo;ls mì;kn dìng;kr	45
 溴苯甲醇	xiù;dq běn;cb jiǎ;ss chún;fz	117
@@ -4346,7 +4346,7 @@ sort: by_weight
 溴化亚铁	xiù;dq huà;rb yà;hy tiě;ju	297
 溴化乙锭	xiù;dq huà;rb yǐ;vv dìng;jr	297
 溴化乙啶	xiù;dq huà;rb yǐ;vv dìng;kr	42
-溴己新片	xiù;dq jǐ;vv xīn;lj piàn;pv	4
+溴己新片	xiù;dq jǐ;vv xīn;li piàn;pv	4
 溴甲酚绿	xiù;dq jiǎ;ss fēn;fd lǜ;su	261
 溴甲酚紫	xiù;dq jiǎ;ss fēn;fd zǐ;vc	243
 溴金刚烷	xiù;dq jīn;rh gāng;nd wán;lq	130
@@ -4742,7 +4742,7 @@ sort: by_weight
 仲钼酸铵	zhòng;rv mù;jg suān;fw ǎn;jn	153
 重铌铁矿	zhòng;ph ní;jb tiě;ju kuàng;ub	45
 重钽铁矿	zhòng;ph tǎn;jh tiě;ju kuàng;ub	76
-中钨高新	zhōng;ss wū;jw gāo;wk xīn;lj	28
+中钨高新	zhōng;ss wū;jw gāo;wk xīn;li	28
 仲钨酸铵	zhòng;rv wū;jw suān;fw ǎn;jn	274
 仲钨酸钾	zhòng;rv wū;jw suān;fw jiǎ;jj	45
 仲钨酸盐	zhòng;rv wū;jw suān;fw yán;tm	45
@@ -4953,7 +4953,7 @@ sort: by_weight
 胞磷胆碱钠	bāo;ls lín;us dǎn;lh jiǎn;uk nà;jn	10
 倍半菲兰烯	bèi;rk bàn;xs fēi;cf lán;bs xī;lj	10
 倍半硅氧烷	bèi;rk bàn;xs guī;ut yǎng;qy wán;lq	10
-倍半水芹烯	bèi;rk bàn;xs shuǐ;sy qín;cj xī;lj	10
+倍半水芹烯	bèi;rk bàn;xs shuǐ;sy qín;ci xī;lj	10
 倍半碳酸钠	bèi;rk bàn;xs tàn;ul suān;fw nà;jn	10
 倍半萜烯醛	bèi;rk bàn;xs tiē;ck xī;lj quán;fw	10
 倍半氧化物	bèi;rk bàn;xs yǎng;qy huà;rb wù;nw	10
@@ -4964,7 +4964,7 @@ sort: by_weight
 背后的心酸	bèi;sl hòu;pk de;bu xīn;xx suān;fw	10
 钡火石玻璃	bèi;jr huǒ;xr shí;hk bō;wi li;wx	10
 北美黄连碱	běi;sb měi;yd huáng;cz lián;zi jiǎn;uk	10
-倍水半芹烯	bèi;rk shuǐ;sy bàn;xs qín;cj xī;lj	10
+倍水半芹烯	bèi;rk shuǐ;sy bàn;xs qín;ci xī;lj	10
 苯胺基醋酸	běn;cb àn;ln jī;qt cù;fp suān;fw	12
 苯氨基乙腈	běn;cb ān;qn jī;qt yǐ;vv jīng;ll	10
 苯胺蓝醇溶	běn;cb àn;ln lán;cm chún;fz róng;dk	10
@@ -5234,7 +5234,7 @@ sort: by_weight
 苄氧甲酰氯	biàn;cb yǎng;qy jiǎ;ss xiān;fq lǜ;qu	10
 苄乙撑二胺	biàn;cb yǐ;vv chēng;fu èr;hh àn;ln	10
 扁枝衣二酸	biǎn;hc zhī;mi yī;wf èr;hh suān;fw	10
-表马斯里酸	biǎo;ff mǎ;vh sī;qj lǐ;sh suān;fw	10
+表马斯里酸	biǎo;ff mǎ;vh sī;qi lǐ;sh suān;fw	10
 表齐墩果酸	biǎo;ff qí;ws dūn;tw guǒ;sy suān;fw	10
 表羟雄烯酮	biǎo;ff qiǎng;yg xióng;uf xī;lj tóng;fk	10
 表檀香萜烯	biǎo;ff tán;mh xiāng;hp tiē;ck xī;lj	10
@@ -5320,8 +5320,8 @@ sort: by_weight
 不饱和醛酮	bù;hx bǎo;us hé;hk quán;fw tóng;fk	10
 不纯氧化钴	bù;hx chún;st yǎng;qy huà;rb gǔ;jk	10
 不对称氢化	bú;hx duì;ic chèn;hc qīng;qg huà;rb	10
-布朗斯特酸	bù;uj lǎng;xl sī;qj tè;nc suān;fw	10
-布仑斯惕酸	bù;uj lún;rb sī;qj tì;xw suān;fw	10
+布朗斯特酸	bù;uj lǎng;xl sī;qi tè;nc suān;fw	10
+布仑斯惕酸	bù;uj lún;rb sī;qi tì;xw suān;fw	10
 不平衡铀法	bù;hx píng;hu héng;ii yóu;jy fǎ;ds	10
 不酸也不甜	bù;hx suān;fw yě;vv bù;hx tián;qg	10
 补糖醇酸奶	bǔ;pb táng;hk chún;fz suān;fw nǎi;nn	10
@@ -5400,7 +5400,7 @@ sort: by_weight
 醋酸里哪酯	cù;fp suān;fw lǐ;sh nǎ;kq zhǐ;fp	10
 醋酸氯已定	cù;fp suān;fw lǜ;qu yǐ;vv dìng;br	10
 醋酸铅试纸	cù;fp suān;fw qiān;jk shì;yg zhǐ;su	10
-醋酸沙拉新	cù;fp suān;fw shā;du lā;fl xīn;lj	10
+醋酸沙拉新	cù;fp suān;fw shā;du lā;fl xīn;li	10
 醋酸生育醇	cù;fp suān;fw shēng;pf yù;wl chún;fz	10
 醋酸十二酯	cù;fp suān;fw shí;hs èr;hh zhǐ;fp	10
 醋酸是乙酸	cù;fp suān;fw shì;pr yǐ;vv suān;fw	10
@@ -6039,7 +6039,7 @@ sort: by_weight
 二氢尿嘧啶	èr;hh qīng;qg niào;su mì;kn dìng;kr	10
 二氢皮质酮	èr;hh qīng;qg pí;vi zhì;pr tóng;fk	10
 二氢青蒿素	èr;hh qīng;qg qīng;fl hāo;ck sù;fc	10
-二氢青芹酮	èr;hh qīng;qg qīng;fl qín;cj tóng;fk	10
+二氢青芹酮	èr;hh qīng;qg qīng;fl qín;ci tóng;fk	10
 二氢肉桂酸	èr;hh qīng;qg ròu;nr guì;mt suān;fw	10
 二氢乳清酸	èr;hh qīng;qg rǔ;pv qīng;dl suān;fw	10
 二氢水解酶	èr;hh qīng;qg shuǐ;sy jiě;xn méi;fm	10
@@ -6899,7 +6899,7 @@ sort: by_weight
 甲基丝氨酸	jiǎ;ss jī;qt sī;vh ān;qn suān;fw	10
 甲基四氮唑	jiǎ;ss jī;qt sì;wq dàn;ql zuò;kt	10
 甲基糖腈脒	jiǎ;ss jī;qt táng;hk jīng;ll mǐ;lh	10
-甲基陶斯松	jiǎ;ss jī;qt táo;qf sī;qj sōng;ms	10
+甲基陶斯松	jiǎ;ss jī;qt táo;qf sī;qi sōng;ms	10
 甲基替苯胺	jiǎ;ss jī;qt tì;fp běn;cb àn;ln	10
 甲基天冬酸	jiǎ;ss jī;qt tiān;hd dōng;wx suān;fw	10
 甲基托布津	jiǎ;ss jī;qt tuō;fq bù;uj jīn;dy	10
@@ -6963,7 +6963,7 @@ sort: by_weight
 甲硫戊唑醇	jiǎ;ss liú;uv wù;gp zuò;kt chún;fz	12
 甲硫氧嘧啶	jiǎ;ss liú;uv yǎng;qy mì;kn dìng;kr	10
 甲氯芬那酸	jiǎ;ss lǜ;qu fēn;cd nà;vq suān;fw	10
-甲麦角新碱	jiǎ;ss mài;fw jiǎo;xy xīn;lj jiǎn;uk	10
+甲麦角新碱	jiǎ;ss mài;fw jiǎo;xy xīn;li jiǎn;uk	10
 甲醚黄芩素	jiǎ;ss mí;fz huáng;cz qín;cv sù;fc	10
 甲脒亚磺酸	jiǎ;ss mǐ;lh yà;hy huáng;uz suān;fw	10
 加氢进料泵	jiā;lk qīng;qg jìn;zj liào;hu bèng;uu	10
@@ -8152,7 +8152,7 @@ sort: by_weight
 铍的同位素	pī;ji de;bu tóng;nk wèi;rl sù;fc	10
 铍的氧化物	pī;ji de;bu yǎng;qy huà;rb wù;nw	12
 皮蒽酮染料	pí;vi ēn;cx tóng;fk rǎn;dm liào;hu	10
-皮斯科酸酒	pí;vi sī;qj kē;hu suān;fw jiǔ;df	10
+皮斯科酸酒	pí;vi sī;qi kē;hu suān;fw jiǔ;df	10
 偏苯三酚醚	piān;rc běn;cb sān;hq fēn;fd mí;fz	10
 偏苯三甲酸	piān;rc běn;cb sān;hq jiǎ;ss suān;fw	10
 偏二甲基肼	piān;rc èr;hh jiǎ;ss jī;qt jǐng;lj	10
@@ -8294,7 +8294,7 @@ sort: by_weight
 羟乙膦酸钠	qiǎng;yg yǐ;vv lìn;ls suān;fw nà;jn	10
 羟孕烯醇酮	qiǎng;yg yùn;nz xī;lj chún;fz tóng;fk	10
 桥联亚甲基	qiáo;ms lián;qt yà;hy jiǎ;ss jī;qt	10
-氢氮分析仪	qīng;qg dàn;ql fēn;zd xī;mj yí;ry	10
+氢氮分析仪	qīng;qg dàn;ql fēn;zd xī;mi yí;ry	10
 氢氮压缩机	qīng;qg dàn;ql yā;ix suō;sb jī;mj	10
 氢的同位素	qīng;qg de;bu tóng;nk wèi;rl sù;fc	10
 氢的氧化物	qīng;qg de;bu yǎng;qy huà;rb wù;nw	12
@@ -8614,7 +8614,7 @@ sort: by_weight
 三溴氟甲烷	sān;hq xiù;dq fú;qf jiǎ;ss wán;lq	10
 三溴甲硅烷	sān;hq xiù;dq jiǎ;ss guī;ut wán;lq	10
 三溴甲锗烷	sān;hq xiù;dq jiǎ;ss zhě;jp wán;lq	10
-三溴新戊醇	sān;hq xiù;dq xīn;lj wù;gp chún;fz	10
+三溴新戊醇	sān;hq xiù;dq xīn;li wù;gp chún;fz	10
 三亚碲酸铪	sān;hq yà;hy dì;uj suān;fw hā;jk	10
 三氧化二𰾭	sān;hq yǎng;qy huà;rb èr;hh ài;	10
 三氧化二铋	sān;hq yǎng;qy huà;rb èr;hh bì;jb	10
@@ -8815,7 +8815,7 @@ sort: by_weight
 水草酸钙石	shuǐ;sy cǎo;cu suān;fw gài;jg shí;hk	10
 水解性酸度	shuǐ;sy jiě;xn xìng;xu suān;fw dù;bi	12
 水龙骨甾酮	shuǐ;sy lóng;ux gǔ;sl zāi;vt tóng;fk	10
-水芹酸乙酯	shuǐ;sy qín;cj suān;fw yǐ;vv zhǐ;fp	12
+水芹酸乙酯	shuǐ;sy qín;ci suān;fw yǐ;vv zhǐ;fp	12
 水提醇沉法	shuǐ;sy tí;fr chún;fz chén;dj fǎ;ds	10
 水杨羟肟酸	shuǐ;sy yáng;mp qiǎng;yg wò;lk suān;fw	10
 水杨酸苯胺	shuǐ;sy yáng;mp suān;fw běn;cb àn;ln	10
@@ -8854,7 +8854,7 @@ sort: by_weight
 四氮化四硒	sì;wq dàn;ql huà;rb sì;wq xī;ux	10
 锶的同位素	sī;jx de;bu tóng;nk wèi;rl sù;fc	10
 锶的氧化物	sī;jx de;bu yǎng;qy huà;rb wù;nw	12
-斯蒂芬酸铅	sī;qj dì;cj fēn;cd suān;fw qiān;jk	10
+斯蒂芬酸铅	sī;qi dì;cj fēn;cd suān;fw qiān;jk	10
 四叠氮甲烷	sì;wq dié;iq dàn;ql jiǎ;ss wán;lq	10
 四氟苯甲酸	sì;wq fú;qf běn;cb jiǎ;ss suān;fw	10
 四氟苯菊酯	sì;wq fú;qf běn;cb jú;ch zhǐ;fp	10
@@ -9155,7 +9155,7 @@ sort: by_weight
 钍的同位素	tǔ;jt de;bu tóng;nk wèi;rl sù;fc	10
 土家硒泥坊	tǔ;uh jiā;bu xī;ux ní;db fāng;tf	10
 土荆皮乙酸	tǔ;uh jīng;cd pí;vi yǐ;vv suān;fw	10
-托拜厄斯酸	tuō;fq bài;uf è;iv sī;qj suān;fw	10
+托拜厄斯酸	tuō;fq bài;uf è;iv sī;qi suān;fw	10
 脱硫醇装置	tuō;lq liú;uv chún;fz zhuāng;df zhì;sq	10
 脱硫杆菌目	tuō;lq liú;uv gǎn;mt jūn;ch mù;wh	10
 脱硫弧菌目	tuō;lq liú;uv hú;gg jūn;ch mù;wh	10
@@ -9448,7 +9448,7 @@ sort: by_weight
 辛癸混合酸	xīn;lu guǐ;vt hùn;db hé;rk suān;fw	10
 辛基磺酸钠	xīn;lu jī;qt huáng;uz suān;fw nà;jn	10
 锌硫锡铅矿	xīn;ju liú;uv xī;jw qiān;jk kuàng;ub	10
-新砷凡纳明	xīn;lj shēn;uu fán;jx nà;sn míng;pl	10
+新砷凡纳明	xīn;li shēn;uu fán;jx nà;sn míng;pl	10
 心酸的感觉	xīn;xx suān;fw de;bu gǎn;xx jué;xq	10
 心酸的句子	xīn;xx suān;fw de;bu jù;bk zi;vh	10
 心酸的浪漫	xīn;xx suān;fw de;bu làng;dl màn;di	10
@@ -9458,7 +9458,7 @@ sort: by_weight
 辛烷磺酸钠	xīn;lu wán;lq huáng;uz suān;fw nà;jn	10
 辛酰羟肟酸	xīn;lu xiān;fq qiǎng;yg wò;lk suān;fw	10
 辛酰水杨酸	xīn;lu xiān;fq shuǐ;sy yáng;mp suān;fw	10
-新亚甲基蓝	xīn;lj yà;hy jiǎ;ss jī;qt lán;cm	10
+新亚甲基蓝	xīn;li yà;hy jiǎ;ss jī;qt lán;cm	10
 锌指核酸酶	xīn;ju zhǐ;fp hé;mr suān;fw méi;fm	10
 杏仁腈溶液	xìng;mk rén;rq jīng;ll róng;dk yè;dy	10
 形式氧化态	xíng;kp shì;yg yǎng;qy huà;rb tài;tx	10
@@ -9712,7 +9712,7 @@ sort: by_weight
 盐酸赛庚啶	yán;tm suān;fw sài;br gēng;by dìng;kr	10
 盐酸山梗碱	yán;tm suān;fw shān;sn gěng;mg jiǎn;uk	10
 盐酸四咪唑	yán;tm suān;fw sì;wq mī;kh zuò;kt	10
-盐酸坦洛新	yán;tm suān;fw tǎn;th luò;dk xīn;lj	10
+盐酸坦洛新	yán;tm suān;fw tǎn;th luò;dk xīn;li	10
 盐酸替洛隆	yán;tm suān;fw tì;fp luò;dk lóng;qu	10
 盐酸妥卡尼	yán;tm suān;fw tuǒ;pn kǎ;ub ní;sb	10
 盐酸托哌酮	yán;tm suān;fw tuō;fq pài;ky tóng;fk	10
@@ -9737,7 +9737,7 @@ sort: by_weight
 氧代双甲烷	yǎng;qy dài;ry shuāng;ii jiǎ;ss wán;lq	12
 氧代戊二酸	yǎng;qy dài;ry wù;gp èr;hh suān;fw	10
 氧氮环丙烷	yǎng;qy dàn;ql huán;wb bǐng;hn wán;lq	10
-氧丹参新酮	yǎng;qy dān;ph shēn;sp xīn;lj tóng;fk	10
+氧丹参新酮	yǎng;qy dān;ph shēn;sp xīn;li tóng;fk	10
 氧氟沙星栓	yǎng;qy fú;qf shā;du xīng;pu shuān;mw	10
 氧化二丙腈	yǎng;qy huà;rb èr;hh bǐng;hn jīng;ll	10
 氧化反式芪	yǎng;qy huà;rb fǎn;pi shì;yg qí;cu	10
@@ -10272,7 +10272,7 @@ sort: by_weight
 阿苯达唑颗粒	ā;qk běn;cb dá;zd zuò;kt kē;gr lì;hl	10
 阿苯达唑糖丸	ā;qk běn;cb dá;zd zuò;kt táng;hk wán;px	10
 阿拉伯糖酸钙	ā;qk lā;fl bó;rb táng;hk suān;fw gài;jg	10
-阿姆斯特朗酸	ā;qk mǔ;nm sī;qj tè;nc lǎng;xl suān;fw	10
+阿姆斯特朗酸	ā;qk mǔ;nm sī;qi tè;nc lǎng;xl suān;fw	10
 阿齐霉素磷酸	ā;qk qí;ws méi;ym sù;fc lín;us suān;fw	10
 阿司匹林溶液	ā;qk sī;vk pǐ;nq lín;mm róng;dk yè;dy	10
 阿酸不是阿轩	ā;qk suān;fw bú;hx shì;pr ā;qk xuān;it	10
@@ -10434,7 +10434,7 @@ sort: by_weight
 氨甲酰牛磺酸	ān;qn jiǎ;ss xiān;fq niú;ps huáng;uz suān;fw	10
 氨咖愈敏溶液	ān;qn kā;kk yù;rx mǐn;pw róng;dk yè;dy	10
 氨酪酸片糖衣	ān;qn lào;fk suān;fw piàn;pv táng;hk yī;wf	10
-安乃近氯丙嗪	ān;bn nǎi;vp jìn;zj lǜ;qu bǐng;hn qín;kh	10
+安乃近氯丙嗪	ān;bn nǎi;vp jìn;zi lǜ;qu bǐng;hn qín;kh	10
 氨肽素硫酸锌	ān;qn tài;lt sù;fc liú;uv suān;fw xīn;ju	10
 安息香二甲醚	ān;bn xī;zx xiāng;hp èr;hh jiǎ;ss mí;fz	10
 安息香双甲醚	ān;bn xī;zx xiāng;hp shuāng;ii jiǎ;ss mí;fz	10
@@ -12358,7 +12358,7 @@ sort: by_weight
 甲基氯化吡啶	jiǎ;ss jī;qt lǜ;qu huà;rb bǐ;kb dìng;kr	10
 甲基氯脲嘧啶	jiǎ;ss jī;qt lǜ;qu niào;lu mì;kn dìng;kr	10
 甲基马尿酸盐	jiǎ;ss jī;qt mǎ;vh niào;su suān;fw yán;tm	10
-甲基麦角新碱	jiǎ;ss jī;qt mài;fw jiǎo;xy xīn;lj jiǎn;uk	10
+甲基麦角新碱	jiǎ;ss jī;qt mài;fw jiǎo;xy xīn;li jiǎn;uk	10
 甲基芒果醇醛	jiǎ;ss jī;qt máng;cw guǒ;sy chún;fz quán;fw	10
 甲基咪唑𬭩双	jiǎ;ss jī;qt mī;kh zuò;kt wēng;jx shuāng;ii	10
 甲基尼克酰胺	jiǎ;ss jī;qt ní;sb kè;uq xiān;fq àn;ln	10
@@ -12469,7 +12469,7 @@ sort: by_weight
 甲烷化分离器	jiǎ;ss wán;lq huà;rb fēn;zd lí;wx qì;kk	12
 甲烷磺酸丁酯	jiǎ;ss wán;lq huáng;uz suān;fw dīng;hs zhǐ;fp	10
 甲烷磺酸甲酯	jiǎ;ss wán;lq huáng;uz suān;fw jiǎ;ss zhǐ;fp	10
-甲烷硫醇筛析	jiǎ;ss wán;lq liú;uv chún;fz shāi;vj xī;mj	10
+甲烷硫醇筛析	jiǎ;ss wán;lq liú;uv chún;fz shāi;vj xī;mi	10
 甲烷气分离器	jiǎ;ss wán;lq qì;pv fēn;zd lí;wx qì;kk	12
 甲烷厌氧氧化	jiǎ;ss wán;lq yàn;iq yǎng;qy yǎng;qy huà;rb	10
 甲烷氧化菌素	jiǎ;ss wán;lq yǎng;qy huà;rb jūn;ch sù;fc	10
@@ -12761,7 +12761,7 @@ sort: by_weight
 克痤隐酮乳膏	kè;uq cuó;bt yǐn;qx tóng;fk rǔ;pv gāo;wl	10
 克汉二氏溶液	kè;uq hàn;di èr;hh shì;pv róng;dk yè;dy	10
 颗粒丙酸状菌	kē;gr lì;hl bǐng;hn suān;fw zhuàng;dq jūn;ch	10
-克里列斯溶液	kè;uq lǐ;sh liè;dd sī;qj róng;dk yè;dy	10
+克里列斯溶液	kè;uq lǐ;sh liè;dd sī;qi róng;dk yè;dy	10
 克利西丁磺酸	kè;uq lì;hd xī;hh dīng;hs huáng;uz suān;fw	10
 克林二氏溶液	kè;uq lín;mm èr;hh shì;pv róng;dk yè;dy	10
 刻叶紫堇明碱	kè;wd yè;ku zǐ;vc jǐn;nh míng;pl jiǎn;uk	10
@@ -12969,7 +12969,7 @@ sort: by_weight
 磷酸腺苷二钠	lín;us suān;fw xiàn;lu gān;cg èr;hh nà;jn	10
 磷酸锌粘固粉	lín;us suān;fw xīn;ju zhān;hk gù;wk fěn;hd	10
 磷酸锌粘固液	lín;us suān;fw xīn;ju zhān;hk gù;wk yè;dy	10
-磷酸盐分析盒	lín;us suān;fw yán;tm fèn;zd xī;mj hé;rm	10
+磷酸盐分析盒	lín;us suān;fw yán;tm fèn;zd xī;mi hé;rm	10
 磷酸盐缓冲液	lín;us suān;fw yán;tm huǎn;si chōng;dv yè;dy	10
 磷酸依托泊苷	lín;us suān;fw yī;rf tuō;fq pō;db gān;cg	10
 磷酸竹桃霉素	lín;us suān;fw zhú;ps táo;mx méi;ym sù;fc	10
@@ -13052,7 +13052,7 @@ sort: by_weight
 硫化钠薄荷脑	liú;uv huà;rb nà;jn bò;cc he;ck nǎo;ln	10
 硫化钠高位槽	liú;uv huà;rb nà;jn gāo;wk wèi;rl cáo;mp	12
 硫化钠溶解槽	liú;uv huà;rb nà;jn róng;dk jiě;xn cáo;mp	12
-硫化氢分析盒	liú;uv huà;rb qīng;qg fēn;zd xī;mj hé;rm	10
+硫化氢分析盒	liú;uv huà;rb qīng;qg fēn;zd xī;mi hé;rm	10
 硫化氢检测仪	liú;uv huà;rb qīng;qg jiǎn;mh cè;dd yí;ry	10
 硫化物检查法	liú;uv huà;rb wù;nw jiǎn;mh chá;mh fǎ;ds	10
 硫还原球菌目	liú;uv huán;zb yuán;ic qiú;wq jūn;ch mù;wh	10
@@ -13116,7 +13116,7 @@ sort: by_weight
 硫酸布替罗星	liú;uv suān;fw bù;uj tì;fp luó;sx xīng;pu	10
 硫酸长春地辛	liú;uv suān;fw cháng;py chūn;fp dì;ty xīn;lu	10
 硫酸长春花碱	liú;uv suān;fw cháng;py chūn;fp huā;cb jiǎn;uk	10
-硫酸长春新碱	liú;uv suān;fw cháng;py chūn;fp xīn;lj jiǎn;uk	10
+硫酸长春新碱	liú;uv suān;fw cháng;py chūn;fp xīn;li jiǎn;uk	10
 硫酸地贝卡星	liú;uv suān;fw dì;ty bèi;nr kǎ;ub xīng;pu	10
 硫酸地美戊胺	liú;uv suān;fw dì;ty měi;yd wù;gp àn;ln	10
 硫酸地塞米松	liú;uv suān;fw dì;ty sāi;bt mǐ;xm sōng;ms	10
@@ -13145,7 +13145,7 @@ sort: by_weight
 硫酸铝钾鞣酸	liú;uv suān;fw lǚ;jk jiǎ;jj róu;gm suān;fw	10
 硫酸美芬丁胺	liú;uv suān;fw měi;yd fēn;cd dīng;hs àn;ln	10
 硫酸米诺环素	liú;uv suān;fw mǐ;xm nuò;yk huán;wb sù;fc	10
-硫酸墨斯卡灵	liú;uv suān;fw mò;ht sī;qj kǎ;ub líng;nl	10
+硫酸墨斯卡灵	liú;uv suān;fw mò;ht sī;qi kǎ;ub líng;nl	10
 硫酸奈替米星	liú;uv suān;fw nài;dc tì;fp mǐ;xm xīng;pu	10
 硫酸镍性质表	liú;uv suān;fw niè;jm xìng;xu zhì;pr biǎo;ff	10
 硫酸哌嗪雌酮	liú;uv suān;fw pài;ky qín;kh cí;vf tóng;fk	10
@@ -13393,7 +13393,7 @@ sort: by_weight
 没食子酸锑钠	mò;di shí;rl zǐ;vh suān;fw tī;jp nà;jn	10
 没食子酸辛酯	mò;di shí;rl zǐ;vh suān;fw xīn;lu zhǐ;fp	10
 没食子酸乙酯	mò;di shí;rl zǐ;vh suān;fw yǐ;vv zhǐ;fp	10
-莫斯利安酸奶	mò;cd sī;qj lì;hd ān;bn suān;fw nǎi;nn	10
+莫斯利安酸奶	mò;cd sī;qi lì;hd ān;bn suān;fw nǎi;nn	10
 木防己里定碱	mù;uy fáng;qf jǐ;vv lǐ;sh dìng;br jiǎn;uk	10
 木薯粉碱抽提	mù;uy shǔ;cp fěn;hd jiǎn;uk chōu;fy tí;fr	10
 木糖醇氯化钠	mù;uy táng;hk chún;fz lǜ;qu huà;rb nà;jn	10
@@ -13423,7 +13423,7 @@ sort: by_weight
 萘异硫氰酸酯	nài;cc yì;sc liú;uv qíng;ql suān;fw zhǐ;fp	10
 南京烷基苯厂	nán;ut jīng;wc wán;lq jī;qt běn;cb chǎng;hp	10
 脑叶酸缺乏症	nǎo;ln yè;ku suān;fw quē;fg fá;pv zhèng;bv	10
-内布拉斯加酸	nèi;sx bù;uj lā;fl sī;qj jiā;lk suān;fw	10
+内布拉斯加酸	nèi;sx bù;uj lā;fl sī;qi jiā;lk suān;fw	10
 内消旋胱氨酸	nèi;sx xiāo;dl xuán;fr guāng;lw ān;qn suān;fw	10
 内硝旋胱氨酸	nèi;sx xiāo;ul xuán;fr guāng;lw ān;qn suān;fw	10
 内消旋酒石酸	nèi;sx xiāo;dl xuán;fr jiǔ;df shí;hk suān;fw	10
@@ -13526,7 +13526,7 @@ sort: by_weight
 七水硫酸亚铁	qī;hv shuǐ;sy liú;uv suān;fw yà;hy tiě;ju	10
 气相二氧化硅	qì;pv xiàng;mg èr;hh yǎng;qy huà;rb guī;ut	10
 七硝基立方烷	qī;hv xiāo;ul jī;qt lì;wh fāng;xw wán;lq	10
-千金藤比斯碱	qiān;pu jīn;rh téng;cu bǐ;bb sī;qj jiǎn;uk	10
+千金藤比斯碱	qiān;pu jīn;rh téng;cu bǐ;bb sī;qi jiǎn;uk	10
 羟苯基甘氨酸	qiǎng;yg běn;cb jī;qt gān;nh ān;qn suān;fw	10
 羟苯基乙酰胺	qiǎng;yg běn;cb jī;qt yǐ;vv xiān;fq àn;ln	10
 羟苯甲纤维素	qiǎng;yg běn;cb jiǎ;ss xiān;sq wéi;sf sù;fc	10
@@ -13640,14 +13640,14 @@ sort: by_weight
 巯基乙酸乙酯	qiú;vv jī;qt yǐ;vv suān;fw yǐ;vv zhǐ;fp	10
 去甲斑蝥酸钠	qù;ts jiǎ;ss bān;ww máo;si suān;fw nà;jn	10
 去甲槟榔次碱	qù;ts jiǎ;ss bīng;mz láng;mq cì;dr jiǎn;uk	10
-去甲基安乃近	qù;ts jiǎ;ss jī;qt ān;bn nǎi;vp jìn;zj	10
+去甲基安乃近	qù;ts jiǎ;ss jī;qt ān;bn nǎi;vp jìn;zi	10
 去甲氯地孕酮	qù;ts jiǎ;ss lǜ;qu dì;ty yùn;nz tóng;fk	10
 去甲氯司替勃	qù;ts jiǎ;ss lǜ;qu sī;vk tì;fp bó;ul	10
 去甲伪麻黄碱	qù;ts jiǎ;ss wěi;rw má;bm huáng;cz jiǎn;uk	10
 去甲伊博格碱	qù;ts jiǎ;ss yī;ry bó;uc gé;mk jiǎn;uk	10
 去甲一叶萩碱	qù;ts jiǎ;ss yí;hh yè;ku qiū;cl jiǎn;uk	10
 去甲猪毛菜碱	qù;ts jiǎ;ss zhū;qp máo;pv cài;cm jiǎn;uk	10
-去氢丹参新酮	qù;ts qīng;qg dān;ph shēn;sp xīn;lj tóng;fk	10
+去氢丹参新酮	qù;ts qīng;qg dān;ph shēn;sp xīn;li tóng;fk	10
 去氢酶缺乏症	qù;ts qīng;qg méi;fm quē;fg fá;pv zhèng;bv	10
 去氢木香内酯	qù;ts qīng;qg mù;uy xiāng;hp nèi;sx zhǐ;fp	10
 去氢异雄甾酮	qù;ts qīng;qg yì;sc xióng;uf zāi;vt tóng;fk	10
@@ -14377,7 +14377,7 @@ sort: by_weight
 稀氯己定溶液	xī;hj lǜ;qu jǐ;vv dìng;br róng;dk yè;dy	10
 吸入用七氟烷	xī;kj rù;py yòng;ns qī;hv fú;qf wán;lq	10
 锡砷硫钒铜矿	xī;jw shēn;uu liú;uv fán;jf tóng;jk kuàng;ub	10
-西特斯日钦碱	xī;hh tè;nc sī;qj rì;wh qīn;jr jiǎn;uk	10
+西特斯日钦碱	xī;hh tè;nc sī;qi rì;wh qīn;jr jiǎn;uk	10
 稀戊二醛溶液	xī;hj wù;gp èr;hh quán;fw róng;dk yè;dy	10
 细辛脑氯化钠	xì;st xīn;lu nǎo;ln lǜ;qu huà;rb nà;jn	10
 锡杂环己三烯	xī;jw zá;jm huán;wb jǐ;vv sān;hq xī;lj	10
@@ -14461,11 +14461,11 @@ sort: by_weight
 辛二酸二乙酯	xīn;lu èr;hh suān;fw èr;hh yǐ;vv zhǐ;fp	10
 辛基甲基吲哚	xīn;lu jī;qt jiǎ;ss jī;qt yǐn;ks duǒ;km	10
 辛基硫酸钠盐	xīn;lu jī;qt liú;uv suān;fw nà;jn yán;tm	10
-新霉素氟轻松	xīn;lj méi;ym sù;fc fú;qf qīng;ig sōng;ms	10
+新霉素氟轻松	xīn;li méi;ym sù;fc fú;qf qīng;ig sōng;ms	10
 信使核糖核酸	xìn;rk shǐ;rl hé;mr táng;hk hé;mr suān;fw	10
 心酸就心酸在	xīn;xx suān;fw jiù;wy xīn;xx suān;fw zài;ut	10
-新型正磷酸盐	xīn;lj xíng;kt zhèng;hv lín;us suān;fw yán;tm	10
-新制氢氧化铜	xīn;lj zhì;pd qīng;qg yǎng;qy huà;rb tóng;jk	10
+新型正磷酸盐	xīn;li xíng;kt zhèng;hv lín;us suān;fw yán;tm	10
+新制氢氧化铜	xīn;li zhì;pd qīng;qg yǎng;qy huà;rb tóng;jk	10
 型磷酸二酯酶	xíng;kt lín;us suān;fw èr;hh zhǐ;fp méi;fm	10
 胸苷酸合成酶	xiōng;ln gān;cg suān;fw hé;rk chéng;wv méi;fm	10
 雄烯二酮测定	xióng;uf xī;lj èr;hh tóng;fk cè;dd dìng;br	10
@@ -14685,7 +14685,7 @@ sort: by_weight
 盐酸茶丙特罗	yán;tm suān;fw chá;cm bǐng;hn tè;nc luó;sx	10
 盐酸春雷霉素	yán;tm suān;fw chūn;fp léi;yt méi;ym sù;fc	10
 盐酸大观霉素	yán;tm suān;fw dà;uy guān;iq méi;ym sù;fc	10
-盐酸氮卓斯汀	yán;tm suān;fw dàn;ql zhuó;su sī;qj tīng;dd	10
+盐酸氮卓斯汀	yán;tm suān;fw dàn;ql zhuó;su sī;qi tīng;dd	10
 盐酸狄布卡因	yán;tm suān;fw dí;ql bù;uj kǎ;ub yīn;wd	10
 盐酸地尔硫䓬	yán;tm suān;fw dì;ty ěr;xc liú;uv zhuó;cu	10
 盐酸地尔硫卓	yán;tm suān;fw dì;ty ěr;xc liú;uv zhuó;su	10
@@ -14873,7 +14873,7 @@ sort: by_weight
 盐酸双肼屈嗪	yán;tm suān;fw shuāng;ii jǐng;lj qū;si qín;kh	10
 盐酸司来吉兰	yán;tm suān;fw sī;vk lái;hy jí;tk lán;bs	10
 盐酸四氢唑林	yán;tm suān;fw sì;wq qīng;qg zuò;kt lín;mm	10
-盐酸司他斯汀	yán;tm suān;fw sī;vk tā;ry sī;qj tīng;dd	10
+盐酸司他斯汀	yán;tm suān;fw sī;vk tā;ry sī;qi tīng;dd	10
 盐酸松齐拉敏	yán;tm suān;fw sōng;ms qí;ws lā;fl mǐn;pw	10
 盐酸索他洛尔	yán;tm suān;fw suǒ;uc tā;ry luò;dk ěr;xc	10
 盐酸他洛昔明	yán;tm suān;fw tā;ry luò;dk xī;cp míng;pl	10
@@ -14929,7 +14929,7 @@ sort: by_weight
 盐酸伊立替康	yán;tm suān;fw yī;ry lì;wh tì;fp kāng;by	10
 盐酸异麻黄碱	yán;tm suān;fw yì;sc má;bm huáng;cz jiǎn;uk	10
 盐酸乙哌立松	yán;tm suān;fw yǐ;vv pài;ky lì;wh sōng;ms	10
-盐酸依匹斯汀	yán;tm suān;fw yī;rf pǐ;nq sī;qj tīng;dd	10
+盐酸依匹斯汀	yán;tm suān;fw yī;rf pǐ;nq sī;qi tīng;dd	10
 盐酸依普拉酮	yán;tm suān;fw yī;rf pǔ;bp lā;fl tóng;fk	10
 盐酸依替卡因	yán;tm suān;fw yī;rf tì;fp kǎ;ub yīn;wd	10
 盐酸伊托必利	yán;tm suān;fw yī;ry tuō;fq bì;xx lì;hd	10
@@ -14957,7 +14957,7 @@ sort: by_weight
 氧化二苯甲酮	yǎng;qy huà;rb èr;hh běn;cb jiǎ;ss tóng;fk	10
 氧化二辛基锡	yǎng;qy huà;rb èr;hh xīn;lu jī;qt xī;jw	10
 氧化谷胱甘肽	yǎng;qy huà;rb gǔ;zk guāng;lw gān;nh tài;lt	10
-氧化皓分析仪	yǎng;qy huà;rb hào;bk fēn;zd xī;mj yí;ry	12
+氧化皓分析仪	yǎng;qy huà;rb hào;bk fēn;zd xī;mi yí;ry	12
 氧化还原电对	yǎng;qy huà;rb huán;zb yuán;ic diàn;sv duì;ic	10
 氧化还原电极	yǎng;qy huà;rb huán;zb yuán;ic diàn;sv jí;mj	10
 氧化还原电势	yǎng;qy huà;rb huán;zb yuán;ic diàn;sv shì;fl	10
@@ -15346,7 +15346,7 @@ sort: by_weight
 脂质过氧化物	zhī;lp zhì;pr guò;zc yǎng;qy huà;rb wù;nw	10
 质子酸碱理论	zhì;pr zǐ;vh suān;fw jiǎn;uk lǐ;wt lùn;yb	10
 脂族不饱羧酸	zhī;lp zú;fu bù;hx bǎo;us suō;yw suān;fw	10
-中凹新松香酸	zhōng;ss āo;sh xīn;lj sōng;ms xiāng;hp suān;fw	12
+中凹新松香酸	zhōng;ss āo;sh xīn;li sōng;ms xiāng;hp suān;fw	12
 重氮萘酚磺酸	zhòng;ph dàn;ql nài;cc fēn;fd huáng;uz suān;fw	10
 重氮乙酸乙酯	zhòng;ph dàn;ql yǐ;vv suān;fw yǐ;vv zhǐ;fp	10
 仲丁基环己酮	zhòng;rv dīng;hs jī;qt huán;wb jǐ;vv tóng;fk	12
@@ -15481,7 +15481,7 @@ sort: by_weight
 八氯合二铼酸钾	bā;py lǜ;qu hé;rk èr;hh lái;jl suān;fw jiǎ;jj	10
 八氯合二钼酸钾	bā;py lǜ;qu hé;rk èr;hh mù;jg suān;fw jiǎ;jj	10
 八氢合三硼酸盐	bā;py qīng;qg hé;rk sān;hq péng;ul suān;fw yán;tm	10
-巴斯特酸痛贴布	bā;ss sī;qj tè;nc suān;fw tòng;by tiē;nk bù;uj	10
+巴斯特酸痛贴布	bā;ss sī;qi tè;nc suān;fw tòng;by tiē;nk bù;uj	10
 白桦脂醇乙酸酯	bái;pp huà;mu zhī;lp chún;fz yǐ;vv suān;fw zhǐ;fp	10
 白介素聚乙二醇	bái;pp jiè;rs sù;fc jù;qy yǐ;vv èr;hh chún;fz	10
 白色聚合氯化铝	bái;pp sè;xb jù;qy hé;rk lǜ;qu huà;rb lǚ;jk	10
@@ -15688,7 +15688,7 @@ sort: by_weight
 胆骨化醇胆甾醇	dǎn;lh gǔ;sl huà;rb chún;fz dǎn;lh zāi;vt chún;fz	10
 胆固烯酮还原酶	dǎn;lh gù;wk xī;lj tóng;fk huán;zb yuán;ic méi;fm	10
 胆碱能型荨麻疹	dǎn;lh jiǎn;uk néng;sb xíng;kt xún;cc má;bm zhěn;bp	10
-胆碱受体阻断药	dǎn;lh jiǎn;uk shòu;pi tǐ;rb zǔ;qq duàn;hj yào;cu	10
+胆碱受体阻断药	dǎn;lh jiǎn;uk shòu;pi tǐ;rb zǔ;qq duàn;hi yào;cu	10
 胆碱乙酰转移酶	dǎn;lh jiǎn;uk yǐ;vv xiān;fq zhuǎn;iv yí;hx méi;fm	10
 胆碱酯酶复活药	dǎn;lh jiǎn;uk zhǐ;fp méi;fm fù;pw huó;dk yào;cu	10
 胆碱脂酶试剂盒	dǎn;lh jiǎn;uk zhī;lp méi;fm shì;yg jì;wd hé;rm	10
@@ -15703,7 +15703,7 @@ sort: by_weight
 单硝酸异山梨酯	dān;bs xiāo;ul suān;fw yì;sc shān;sn lí;hm zhǐ;fp	10
 单硬脂酸甘油酯	dān;bs yìng;ug zhī;lp suān;fw gān;nh yóu;dy zhǐ;fp	10
 氮杂磷杂环丙烯	dàn;ql zá;jm lín;us zá;jm huán;wb bǐng;hn xī;lj	10
-氮杂双烯狄尔斯	dàn;ql zá;jm shuāng;ii xī;lj dí;ql ěr;xc sī;qj	10
+氮杂双烯狄尔斯	dàn;ql zá;jm shuāng;ii xī;lj dí;ql ěr;xc sī;qi	10
 胆甾烯醇异构酶	dǎn;lh zāi;vt xī;lj chún;fz yì;sc gòu;ms méi;fm	10
 胆汁盐酸黄连素	dǎn;lh zhī;du yán;tm suān;fw huáng;cz lián;zi sù;fc	10
 氘代二甲基亚砜	dāo;qs dài;ry èr;hh jiǎ;ss jī;qt yà;hy fēng;ux	10
@@ -16040,7 +16040,7 @@ sort: by_weight
 复方磷酸可待因	fù;pw fāng;xw lín;us suān;fw kě;dk dài;ic yīn;wd	10
 复方磷酸腺嘌呤	fù;pw fāng;xw lín;us suān;fw xiàn;lu piào;kc lìng;ks	10
 复方硫酸软骨素	fù;pw fāng;xw liú;uv suān;fw ruǎn;ir gǔ;sl sù;fc	10
-复方硫酸新霉素	fù;pw fāng;xw liú;uv suān;fw xīn;lj méi;ym sù;fc	10
+复方硫酸新霉素	fù;pw fāng;xw liú;uv suān;fw xīn;li méi;ym sù;fc	10
 复方氯化钾颗粒	fù;pw fāng;xw lǜ;qu huà;rb jiǎ;jj kē;gr lì;hl	10
 复方氯化钠注射	fù;pw fāng;xw lǜ;qu huà;rb nà;jn zhù;dv shè;uc	10
 复方氯化溶菌酶	fù;pw fāng;xw lǜ;qu huà;rb róng;dk jūn;ch méi;fm	10
@@ -16108,14 +16108,14 @@ sort: by_weight
 富马酸阿奇霉素	fù;bt mǎ;vh suān;fw ā;qk qí;dk méi;ym sù;fc	10
 富马酸比索洛尔	fù;bt mǎ;vh suān;fw bǐ;bb suǒ;uc luò;dk ěr;xc	10
 富马酸福莫特罗	fù;bt mǎ;vh suān;fw fú;pt mò;cd tè;nc luó;sx	10
-富马酸氯马斯丁	fù;bt mǎ;vh suān;fw lǜ;qu mǎ;vh sī;qj dīng;hs	10
-富马酸氯马斯汀	fù;bt mǎ;vh suān;fw lǜ;qu mǎ;vh sī;qj tīng;dd	10
+富马酸氯马斯丁	fù;bt mǎ;vh suān;fw lǜ;qu mǎ;vh sī;qi dīng;hs	10
+富马酸氯马斯汀	fù;bt mǎ;vh suān;fw lǜ;qu mǎ;vh sī;qi tīng;dd	10
 富马酸托特罗定	fù;bt mǎ;vh suān;fw tuō;fq tè;nc luó;sx dìng;br	10
 富马酸亚铁胶丸	fù;bt mǎ;vh suān;fw yà;hy tiě;ju jiāo;lx wán;px	10
 富马酸亚铁颗粒	fù;bt mǎ;vh suān;fw yà;hy tiě;ju kē;gr lì;hl	10
 富马酸异丙吡仑	fù;bt mǎ;vh suān;fw yì;sc bǐng;hn bǐ;kb lún;rb	10
 富马酸伊布利特	fù;bt mǎ;vh suān;fw yī;ry bù;uj lì;hd tè;nc	10
-富马酸依美斯汀	fù;bt mǎ;vh suān;fw yī;rf měi;yd sī;qj tīng;dd	10
+富马酸依美斯汀	fù;bt mǎ;vh suān;fw yī;rf měi;yd sī;qi tīng;dd	10
 富马酰乙酰乙酸	fù;bt mǎ;vh xiān;fq yǐ;vv xiān;fq yǐ;vv suān;fw	10
 辅酶焦磷酸化酶	fǔ;if méi;fm jiāo;rh lín;us suān;fw huà;rb méi;fm	10
 氟美松二甲亚砜	fú;qf měi;yd sōng;ms èr;hh jiǎ;ss yà;hy fēng;ux	10
@@ -16238,7 +16238,7 @@ sort: by_weight
 核黄素四丁酸酯	hé;mr huáng;cz sù;fc sì;wq dīng;hs suān;fw zhǐ;fp	10
 核仁小核糖核酸	hé;mr rén;rq xiǎo;sx hé;mr táng;hk hé;mr suān;fw	10
 核酸的一级结构	hé;mr suān;fw de;bu yì;hh jí;sj jié;sk gòu;ms	10
-核酸酶保护分析	hé;mr suān;fw méi;fm bǎo;rm hù;fh fēn;zd xī;mj	10
+核酸酶保护分析	hé;mr suān;fw méi;fm bǎo;rm hù;fh fēn;zd xī;mi	10
 核糖核酸多聚酶	hé;mr táng;hk hé;mr suān;fw duō;xx jù;qy méi;fm	10
 核糖磷酸异构酶	hé;mr táng;hk lín;us suān;fw yì;sc gòu;ms méi;fm	10
 褐藻多糖硫酸酯	hè;pv zǎo;cm duō;xx táng;hk liú;uv suān;fw zhǐ;fp	10
@@ -16410,7 +16410,7 @@ sort: by_weight
 甲硫氨酸脑啡肽	jiǎ;ss liú;uv ān;qn suān;fw nǎo;ln fēi;kf tài;lt	10
 甲硫氨酰合成酶	jiǎ;ss liú;uv ān;qn xiān;fq hé;rk chéng;wv méi;fm	10
 甲硫醚巯基木素	jiǎ;ss liú;uv mí;fz qiú;vv jī;qt mù;uy sù;fc	10
-甲硫酸新斯的明	jiǎ;ss liú;uv suān;fw xīn;lj sī;qj de;bu míng;pl	10
+甲硫酸新斯的明	jiǎ;ss liú;uv suān;fw xīn;li sī;qi de;bu míng;pl	10
 甲氯甲基氯噻嗪	jiǎ;ss lǜ;qu jiǎ;ss jī;qt lǜ;qu sāi;kt qín;kh	10
 甲萘氢醌硫酸钠	jiǎ;ss nài;cc qīng;qg kūn;fb liú;uv suān;fw nà;jn	10
 甲硼烷二甲硫醚	jiǎ;ss péng;ul wán;lq èr;hh jiǎ;ss liú;uv mí;fz	10
@@ -16723,7 +16723,7 @@ sort: by_weight
 龙胆碳酸氢钠散	lóng;ux dǎn;lh tàn;ul suān;fw qīng;qg nà;jn sàn;cw	10
 卤化苯导纸毛重	lǔ;sx huà;rb běn;cb dǎo;sc zhǐ;su máo;pv zhòng;ph	10
 露糖磷酸异构酶	lù;yk táng;hk lín;us suān;fw yì;sc gòu;ms méi;fm	10
-路易斯酸碱理论	lù;zk yì;pw sī;qj suān;fw jiǎn;uk lǐ;wt lùn;yb	12
+路易斯酸碱理论	lù;zk yì;pw sī;qi suān;fw jiǎn;uk lǐ;wt lùn;yb	12
 罗沙米星磷酸钠	luó;sx shā;du mǐ;xm xīng;pu lín;us suān;fw nà;jn	10
 氯代琥珀酰亚胺	lǜ;qu dài;ry hǔ;wj pò;wb xiān;fq yà;hy àn;ln	10
 氯代三甲基硅烷	lǜ;qu dài;ry sān;hq jiǎ;ss jī;qt guī;ut wán;lq	10
@@ -16745,7 +16745,7 @@ sort: by_weight
 氯己定苯佐卡因	lǜ;qu jǐ;vv dìng;br běn;cb zuǒ;rg kǎ;ub yīn;wd	10
 氯甲基丁基甲醚	lǜ;qu jiǎ;ss jī;qt dīng;hs jī;qt jiǎ;ss mí;fz	10
 氯甲基咔唑乙酸	lǜ;qu jiǎ;ss jī;qt kā;kb zuò;kt yǐ;vv suān;fw	10
-氯甲醚所致肺癌	lǜ;qu jiǎ;ss mí;fz suǒ;pj zhì;hw fèi;ls ái;bn	10
+氯甲醚所致肺癌	lǜ;qu jiǎ;ss mí;fz suǒ;pi zhì;hw fèi;ls ái;bn	10
 氯甲双磷酸二钠	lǜ;qu jiǎ;ss shuāng;ii lín;us suān;fw èr;hh nà;jn	10
 氯霉素玻璃酸钠	lǜ;qu méi;ym sù;fc bō;wi li;wx suān;fw nà;jn	10
 氯霉素控释眼丸	lǜ;qu méi;ym sù;fc kòng;fg shì;ps yǎn;gg wán;px	10
@@ -16776,7 +16776,7 @@ sort: by_weight
 马来酸罗格列酮	mǎ;vh lái;hy suān;fw luó;sx gé;mk liè;dd tóng;fk	10
 马来酸氯苯那敏	mǎ;vh lái;hy suān;fw lǜ;qu běn;cb nà;vq mǐn;pw	10
 马来酸氯波必利	mǎ;vh lái;hy suān;fw lǜ;qu bō;di bì;xx lì;hd	10
-马来酸麦角新碱	mǎ;vh lái;hy suān;fw mài;fw jiǎo;xy xīn;lj jiǎn;uk	10
+马来酸麦角新碱	mǎ;vh lái;hy suān;fw mài;fw jiǎo;xy xīn;li jiǎn;uk	10
 马来酸美吡拉敏	mǎ;vh lái;hy suān;fw měi;yd bǐ;kb lā;fl mǐn;pw	10
 马来酸咪达唑仑	mǎ;vh lái;hy suān;fw mī;kh dá;zd zuò;kt lún;rb	10
 马来酸哌克昔林	mǎ;vh lái;hy suān;fw pài;ky kè;uq xī;cp lín;mm	10
@@ -16893,7 +16893,7 @@ sort: by_weight
 氢溴酸高乌甲素	qīng;qg xiù;dq suān;fw gāo;wk wū;ph jiǎ;ss sù;fc	10
 氢溴酸后马托品	qīng;qg xiù;dq suān;fw hòu;pk mǎ;vh tuō;fq pǐn;kk	10
 氢溴酸加兰他敏	qīng;qg xiù;dq suān;fw jiā;lk lán;bs tā;ry mǐn;pw	10
-氢溴酸欧毒芹硷	qīng;qg xiù;dq suān;fw ōu;nr dú;fm qín;cj jiǎn;uh	10
+氢溴酸欧毒芹硷	qīng;qg xiù;dq suān;fw ōu;nr dú;fm qín;ci jiǎn;uh	10
 氢溴酸羟苯丙胺	qīng;qg xiù;dq suān;fw qiǎng;yg běn;cb bǐng;hn àn;ln	10
 氢溴酸山莨菪碱	qīng;qg xiù;dq suān;fw shān;sn làng;cl dàng;cu jiǎn;uk	10
 氢溴酸烯丙吗啡	qīng;qg xiù;dq suān;fw xī;lj bǐng;hn mǎ;km fēi;kf	10
@@ -16947,7 +16947,7 @@ sort: by_weight
 乳酸左氧氟沙星	rǔ;pv suān;fw zuǒ;ug yǎng;qy fú;qf shā;du xīng;pu	10
 乳糖酸阿奇霉素	rǔ;pv táng;hk suān;fw ā;qk qí;dk méi;ym sù;fc	10
 乳糖酸克拉霉素	rǔ;pv táng;hk suān;fw kè;uq lā;fl méi;ym sù;fc	10
-三醋酸膜透析器	sān;hq cù;fp suān;fw mó;ld tòu;zn xī;mj qì;kk	10
+三醋酸膜透析器	sān;hq cù;fp suān;fw mó;ld tòu;zn xī;mi qì;kk	10
 三碲代亚砷酸钴	sān;hq dì;uj dài;ry yà;hy shēn;uu suān;fw gǔ;jk	10
 三碲代亚砷酸钾	sān;hq dì;uj dài;ry yà;hy shēn;uu suān;fw jiǎ;jj	10
 三碘甲腺原氨酸	sān;hq diǎn;uz jiǎ;ss xiàn;lu yuán;ic ān;qn suān;fw	10
@@ -17009,7 +17009,7 @@ sort: by_weight
 叔丁基对苯二酚	shū;ui dīng;hs jī;qt duì;ic běn;cb èr;hh fēn;fd	10
 刷牙遇冷水酸痛	shuā;sd yá;hp yù;zy lěng;ds shuǐ;sy suān;fw tòng;by	10
 双重造影硫酸钡	shuāng;ii chóng;ph zào;zk yǐng;pp liú;uv suān;fw bèi;jr	10
-双醋酸膜透析器	shuāng;ii cù;fp suān;fw mó;ld tòu;zn xī;mj qì;kk	10
+双醋酸膜透析器	shuāng;ii cù;fp suān;fw mó;ld tòu;zn xī;mi qì;kk	10
 双氟米松戊酸酯	shuāng;ii fú;qf mǐ;xm sōng;ms wù;gp suān;fw zhǐ;fp	10
 双高塔制酸系统	shuāng;ii gāo;wk tǎ;tk zhì;pd suān;fw xì;pc tǒng;sq	10
 双环辛四烯合镎	shuāng;ii huán;wb xīn;lu sì;wq xī;lj hé;rk ná;ju	10
@@ -17174,7 +17174,7 @@ sort: by_weight
 硝酸益康唑乳膏	xiāo;ul suān;fw yì;bm kāng;by zuò;kt rǔ;pv gāo;wl	10
 硝酸异山梨醇酯	xiāo;ul suān;fw yì;sc shān;sn lí;hm chún;fz zhǐ;fp	10
 缬沙坦氢氯噻嗪	xié;sr shā;du tǎn;th qīng;qg lǜ;qu sāi;kt qín;kh	10
-新霉素氧化锌糊	xīn;lj méi;ym sù;fc yǎng;qy huà;rb xīn;ju hú;hl	10
+新霉素氧化锌糊	xīn;li méi;ym sù;fc yǎng;qy huà;rb xīn;ju hú;hl	10
 溴代邻苯三酚红	xiù;dq dài;ry lín;rq běn;cb sān;hq fēn;fd hóng;sg	10
 溴代三氟甲烷气	xiù;dq dài;ry sān;hq fú;qf jiǎ;ss wán;lq qì;pv	10
 溴化甲基羟乙胺	xiù;dq huà;rb jiǎ;ss jī;qt qiǎng;yg yǐ;vv àn;ln	10
@@ -17188,8 +17188,8 @@ sort: by_weight
 血清肉毒碱增加	xuè;pm qīng;dl ròu;nr dú;fm jiǎn;uk zēng;tp jiā;lk	10
 血清唾液酸测定	xuè;pm qīng;dl tuò;ki yè;dy suān;fw cè;dd dìng;br	10
 雪上一枝蒿总碱	xuě;yn shàng;sh yì;hh zhī;mi hāo;ck zǒng;bx jiǎn;uk	10
-血一氧化氮分析	xuè;pm yī;hh yǎng;qy huà;rb dàn;ql fēn;zd xī;mj	10
-血一氧化碳分析	xuè;pm yī;hh yǎng;qy huà;rb tàn;ul fēn;zd xī;mj	10
+血一氧化氮分析	xuè;pm yī;hh yǎng;qy huà;rb dàn;ql fēn;zd xī;mi	10
+血一氧化碳分析	xuè;pm yī;hh yǎng;qy huà;rb tàn;ul fēn;zd xī;mi	10
 亚甲二氧基苯基	yà;hy jiǎ;ss èr;hh yǎng;qy jī;qt běn;cb jī;qt	10
 亚甲基二氧苯基	yà;hy jiǎ;ss jī;qt èr;hh yǎng;qy běn;cb jī;qt	10
 亚硫酸氢根离子	yà;hy liú;uv suān;fw qīng;qg gēn;mg lí;wx zǐ;vh	10
@@ -17258,7 +17258,7 @@ sort: by_weight
 烟酸色氨酸缺乏	yān;ld suān;fw sè;xb ān;qn suān;fw quē;fg fá;pv	10
 盐酸双氢奎尼丁	yán;tm suān;fw shuāng;ii qīng;qg kuí;dt ní;sb dīng;hs	10
 盐酸速溶阿霉素	yán;tm suān;fw sù;zu róng;dk ā;qk méi;ym sù;fc	10
-盐酸坦洛新缓释	yán;tm suān;fw tǎn;th luò;dk xīn;lj huǎn;si shì;ps	10
+盐酸坦洛新缓释	yán;tm suān;fw tǎn;th luò;dk xīn;li huǎn;si shì;ps	10
 盐酸特比萘芬凝	yán;tm suān;fw tè;nc bǐ;bb nài;cc fēn;cd níng;dr	10
 盐酸特比萘芬喷	yán;tm suān;fw tè;nc bǐ;bb nài;cc fēn;cd pēn;kr	10
 盐酸特比萘芬乳	yán;tm suān;fw tè;nc bǐ;bb nài;cc fēn;cd rǔ;pv	10
@@ -17272,7 +17272,7 @@ sort: by_weight
 盐酸右异可利定	yán;tm suān;fw yòu;uk yì;sc kě;dk lì;hd dìng;br	10
 盐酸左布比卡因	yán;tm suān;fw zuǒ;ug bù;uj bǐ;bb kǎ;ub yīn;wd	10
 盐酸左布诺洛尔	yán;tm suān;fw zuǒ;ug bù;uj nuò;yk luò;dk ěr;xc	10
-盐酸左卡巴斯汀	yán;tm suān;fw zuǒ;ug kǎ;ub bā;ss sī;qj tīng;dd	10
+盐酸左卡巴斯汀	yán;tm suān;fw zuǒ;ug kǎ;ub bā;ss sī;qi tīng;dd	10
 盐酸左西替利嗪	yán;tm suān;fw zuǒ;ug xī;hh tì;fp lì;hd qín;kh	10
 盐酸左旋咪唑栓	yán;tm suān;fw zuǒ;ug xuán;fr mī;kh zuò;kt shuān;mw	10
 盐酸左旋咪唑丸	yán;tm suān;fw zuǒ;ug xuán;fr mī;kh zuò;kt wán;px	10
@@ -17505,6 +17505,6 @@ sort: by_weight
 反式丁烯二酸二辛酯	fǎn;pi shì;yg dīng;hs xī;lj èr;hh suān;fw èr;hh xīn;lu zhǐ;fp	10
 过氧化物和超氧化物	guò;zc yǎng;qy huà;rb wù;nw hé;hk chāo;tk yǎng;qy huà;rb wù;nw	10
 水印辊骨架二氧化锰	shuǐ;sy yìn;pq gǔn;ib gǔ;sl jià;lm èr;hh yǎng;qy huà;rb měng;jm	10
-新制氢氧化铜悬浊液	xīn;lj zhì;pd qīng;qg yǎng;qy huà;rb tóng;jk xuán;qx zhuó;di yè;dy	10
+新制氢氧化铜悬浊液	xīn;li zhì;pd qīng;qg yǎng;qy huà;rb tóng;jk xuán;qx zhuó;di yè;dy	10
 椰油酰胺丙基甜菜碱	yē;mq yóu;dy xiān;fq àn;ln bǐng;hn jī;qt tián;qg cài;cm jiǎn;uk	1
 月桂醇聚醚硫酸酯钠	yuè;nh guì;mt chún;fz jù;qy mí;fz liú;uv suān;fw zhǐ;fp nà;jn	1
