@@ -657,62 +657,44 @@ base:
       - xform/^ng(\d)$/eng$1/
       - xform/^n(\d)/en$1/
       - xform/^m(\d)/me$1/
-      - xform/^([aoe].*)$/Ⓒ$1/
-      - xform/^ch/Ⓜ/
-      - xform/^sh/Ⓙ/
-      - xform/^zh/Ⓚ/
-      - xform/^b/Ⓤ/
-      - xform/^c/Ⓐ/
-      - xform/^f/Ⓖ/
-      - xform/^g/Ⓝ/
-      - xform/^h/Ⓧ/
-      - xform/^j/Ⓣ/
-      - xform/^k/Ⓞ/
-      - xform/^l/Ⓗ/
-      - xform/^m/Ⓨ/
-      - xform/^n/Ⓔ/
-      - xform/^p/Ⓦ/
-      - xform/^q/Ⓒ/
-      - xform/^r/Ⓘ/
-      - xform/^s/Ⓥ/
-      - xform/^t/Ⓢ/
-      - xform/^w/Ⓑ/
-      - xform/^x/Ⓡ/
-      - xform/^y/Ⓕ/
-      - xform/uang(\d)$/Ⓤ$1/
-      - xform/iang(\d)$/Ⓗ$1/
-      - xform/iong(\d)$/Ⓟ$1/
-      - xform/ang(\d)$/Ⓧ$1/
-      - xform/eng(\d)$/Ⓔ$1/
-      - xform/ian(\d)$/Ⓤ$1/
-      - xform/iao(\d)$/Ⓖ$1/
-      - xform/ing(\d)$/Ⓨ$1/
-      - xform/ong(\d)$/Ⓚ$1/
-      - xform/uai(\d)$/Ⓞ$1/
-      - xform/uan(\d)$/Ⓜ$1/
+      - xform/^([aoe].*)$/Ⓠ$1/
+      - xform/^ch/Ⓘ/
+      - xform/^sh/Ⓤ/
+      - xform/^zh/Ⓥ/
+      - xform/uang(\d)$/Ⓑ$1/
+      - xform/iang(\d)$/Ⓛ$1/
+      - xform/iong(\d)$/Ⓔ$1/
+      - xform/ang(\d)$/Ⓗ$1/
+      - xform/eng(\d)$/Ⓝ$1/
+      - xform/ian(\d)$/Ⓑ$1/
+      - xform/iao(\d)$/Ⓕ$1/
+      - xform/ing(\d)$/Ⓜ$1/
+      - xform/ong(\d)$/Ⓥ$1/
+      - xform/uai(\d)$/Ⓚ$1/
+      - xform/uan(\d)$/Ⓘ$1/
       - xform/ai(\d)$/Ⓩ$1/
-      - xform/an(\d)$/Ⓒ$1/
-      - xform/ao(\d)$/Ⓗ$1/
-      - xform/ei(\d)$/Ⓡ$1/
-      - xform/en(\d)$/Ⓣ$1/
-      - xform/er(\d)$/Ⓚ$1/
-      - xform/ua(\d)$/Ⓨ$1/
-      - xform/ie(\d)$/Ⓘ$1/
-      - xform/in(\d)$/Ⓑ$1/
-      - xform/iu(\d)$/Ⓞ$1/
-      - xform/ou(\d)$/Ⓘ$1/
-      - xform/ia(\d)$/Ⓣ$1/
-      - xform/ue(\d)$/Ⓝ$1/
-      - xform/ve(\d)$/Ⓠ$1/
-      - xform/ui(\d)$/Ⓑ$1/
-      - xform/un(\d)$/Ⓛ$1/
-      - xform/uo(\d)$/Ⓝ$1/
-      - xform/a(\d)$/Ⓢ$1/
+      - xform/an(\d)$/Ⓠ$1/
+      - xform/ao(\d)$/Ⓛ$1/
+      - xform/ei(\d)$/Ⓧ$1/
+      - xform/en(\d)$/Ⓙ$1/
+      - xform/er(\d)$/Ⓥ$1/
+      - xform/ua(\d)$/Ⓜ$1/
+      - xform/ie(\d)$/Ⓡ$1/
+      - xform/in(\d)$/Ⓦ$1/
+      - xform/iu(\d)$/Ⓚ$1/
+      - xform/ou(\d)$/Ⓡ$1/
+      - xform/ia(\d)$/Ⓙ$1/
+      - xform/ue(\d)$/Ⓖ$1/
+      - xform/ve(\d)$/Ⓐ$1/
+      - xform/ui(\d)$/Ⓦ$1/
+      - xform/un(\d)$/Ⓞ$1/
+      - xform/uo(\d)$/Ⓖ$1/
+      - xform/a(\d)$/Ⓣ$1/
       - xform/e(\d)$/Ⓓ$1/
-      - xform/i(\d)$/Ⓙ$1/
-      - xform/o(\d)$/Ⓥ$1/
-      - xform/u(\d)$/Ⓕ$1/
-      - xform/v(\d)$/Ⓦ$1/
+      - xform/i(\d)$/Ⓤ$1/
+      - xform/o(\d)$/Ⓢ$1/
+      - xform/u(\d)$/Ⓨ$1/
+      - xform/v(\d)$/Ⓟ$1/
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
       - derive/^(.+)(\d)$/$1/
       - derive/^(.).+(\d)$/$1$2/
@@ -1151,62 +1133,44 @@ lite:
     __append:
       - xform/Ⅷ//  #用于Lua判断输入类型的标记
       - xform/ü/v/
-      - xform/^([aoe].*)$/Ⓒ$1/
-      - xform/^ch/Ⓜ/
-      - xform/^sh/Ⓙ/
-      - xform/^zh/Ⓚ/
-      - xform/^b/Ⓤ/
-      - xform/^c/Ⓐ/
-      - xform/^f/Ⓖ/
-      - xform/^g/Ⓝ/
-      - xform/^h/Ⓧ/
-      - xform/^j/Ⓣ/
-      - xform/^k/Ⓞ/
-      - xform/^l/Ⓗ/
-      - xform/^m/Ⓨ/
-      - xform/^n/Ⓔ/
-      - xform/^p/Ⓦ/
-      - xform/^q/Ⓒ/
-      - xform/^r/Ⓘ/
-      - xform/^s/Ⓥ/
-      - xform/^t/Ⓢ/
-      - xform/^w/Ⓑ/
-      - xform/^x/Ⓡ/
-      - xform/^y/Ⓕ/
-      - xform/uang$/Ⓤ/
-      - xform/iang$/Ⓗ/
-      - xform/iong$/Ⓟ/
-      - xform/ang$/Ⓧ/
-      - xform/eng$/Ⓔ/
-      - xform/ian$/Ⓤ/
-      - xform/iao$/Ⓖ/
-      - xform/ing$/Ⓨ/
-      - xform/ong$/Ⓚ/
-      - xform/uai$/Ⓞ/
-      - xform/uan$/Ⓜ/
+      - xform/^([aoe].*)$/Ⓠ$1/
+      - xform/^ch/Ⓘ/
+      - xform/^sh/Ⓤ/
+      - xform/^zh/Ⓥ/
+      - xform/uang$/Ⓑ/
+      - xform/iang$/Ⓛ/
+      - xform/iong$/Ⓔ/
+      - xform/ang$/Ⓗ/
+      - xform/eng$/Ⓝ/
+      - xform/ian$/Ⓑ/
+      - xform/iao$/Ⓕ/
+      - xform/ing$/Ⓜ/
+      - xform/ong$/Ⓥ/
+      - xform/uai$/Ⓚ/
+      - xform/uan$/Ⓘ/
       - xform/ai$/Ⓩ/
-      - xform/an$/Ⓒ/
-      - xform/ao$/Ⓗ/
-      - xform/ei$/Ⓡ/
-      - xform/en$/Ⓣ/
-      - xform/er$/Ⓚ/
-      - xform/ua$/Ⓨ/
-      - xform/ie$/Ⓘ/
-      - xform/in$/Ⓑ/
-      - xform/iu$/Ⓞ/
-      - xform/ou$/Ⓘ/
-      - xform/ia$/Ⓣ/
-      - xform/ue$/Ⓝ/
-      - xform/ve$/Ⓠ/
-      - xform/ui$/Ⓑ/
-      - xform/un$/Ⓛ/
-      - xform/uo$/Ⓝ/
-      - xform/a$/Ⓢ/
+      - xform/an$/Ⓠ/
+      - xform/ao$/Ⓛ/
+      - xform/ei$/Ⓧ/
+      - xform/en$/Ⓙ/
+      - xform/er$/Ⓥ/
+      - xform/ua$/Ⓜ/
+      - xform/ie$/Ⓡ/
+      - xform/in$/Ⓦ/
+      - xform/iu$/Ⓚ/
+      - xform/ou$/Ⓡ/
+      - xform/ia$/Ⓙ/
+      - xform/ue$/Ⓖ/
+      - xform/ve$/Ⓐ/
+      - xform/ui$/Ⓦ/
+      - xform/un$/Ⓞ/
+      - xform/uo$/Ⓖ/
+      - xform/a$/Ⓣ/
       - xform/e$/Ⓓ/
-      - xform/i$/Ⓙ/
-      - xform/o$/Ⓥ/
-      - xform/u$/Ⓕ/
-      - xform/v$/Ⓦ/
+      - xform/i$/Ⓤ/
+      - xform/o$/Ⓢ/
+      - xform/u$/Ⓨ/
+      - xform/v$/Ⓟ/
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
 
   原键优化:
@@ -1819,62 +1783,44 @@ pro:
       - derive/^ng(\d)$/eng$1/
       - xform/^n(\d)/en$1/
       - xform/^m(\d)/me$1/
-      - xform/^([aoe].*);/Ⓒ$1;/
-      - xform/^ch/Ⓜ/
-      - xform/^sh/Ⓙ/
-      - xform/^zh/Ⓚ/
-      - xform/^b/Ⓤ/
-      - xform/^c/Ⓐ/
-      - xform/^f/Ⓖ/
-      - xform/^g/Ⓝ/
-      - xform/^h/Ⓧ/
-      - xform/^j/Ⓣ/
-      - xform/^k/Ⓞ/
-      - xform/^l/Ⓗ/
-      - xform/^m/Ⓨ/
-      - xform/^n/Ⓔ/
-      - xform/^p/Ⓦ/
-      - xform/^q/Ⓒ/
-      - xform/^r/Ⓘ/
-      - xform/^s/Ⓥ/
-      - xform/^t/Ⓢ/
-      - xform/^w/Ⓑ/
-      - xform/^x/Ⓡ/
-      - xform/^y/Ⓕ/
-      - xform/uang(\d);/Ⓤ$1;/
-      - xform/iang(\d);/Ⓗ$1;/
-      - xform/iong(\d);/Ⓟ$1;/
-      - xform/ang(\d);/Ⓧ$1;/
-      - xform/eng(\d);/Ⓔ$1;/
-      - xform/ian(\d);/Ⓤ$1;/
-      - xform/iao(\d);/Ⓖ$1;/
-      - xform/ing(\d);/Ⓨ$1;/
-      - xform/ong(\d);/Ⓚ$1;/
-      - xform/uai(\d);/Ⓞ$1;/
-      - xform/uan(\d);/Ⓜ$1;/
+      - xform/^([aoe].*);/Ⓠ$1;/
+      - xform/^ch/Ⓘ/
+      - xform/^sh/Ⓤ/
+      - xform/^zh/Ⓥ/
+      - xform/uang(\d);/Ⓑ$1;/
+      - xform/iang(\d);/Ⓛ$1;/
+      - xform/iong(\d);/Ⓔ$1;/
+      - xform/ang(\d);/Ⓗ$1;/
+      - xform/eng(\d);/Ⓝ$1;/
+      - xform/ian(\d);/Ⓑ$1;/
+      - xform/iao(\d);/Ⓕ$1;/
+      - xform/ing(\d);/Ⓜ$1;/
+      - xform/ong(\d);/Ⓥ$1;/
+      - xform/uai(\d);/Ⓚ$1;/
+      - xform/uan(\d);/Ⓘ$1;/
       - xform/ai(\d);/Ⓩ$1;/
-      - xform/an(\d);/Ⓒ$1;/
-      - xform/ao(\d);/Ⓗ$1;/
-      - xform/ei(\d);/Ⓡ$1;/
-      - xform/en(\d);/Ⓣ$1;/
-      - xform/er(\d);/Ⓚ$1;/
-      - xform/ua(\d);/Ⓨ$1;/
-      - xform/ie(\d);/Ⓘ$1;/
-      - xform/in(\d);/Ⓑ$1;/
-      - xform/iu(\d);/Ⓞ$1;/
-      - xform/ou(\d);/Ⓘ$1;/
-      - xform/ia(\d);/Ⓣ$1;/
-      - xform/ue(\d);/Ⓝ$1;/
-      - xform/ve(\d);/Ⓠ$1;/
-      - xform/ui(\d);/Ⓑ$1;/
-      - xform/un(\d);/Ⓛ$1;/
-      - xform/uo(\d);/Ⓝ$1;/
-      - xform/a(\d);/Ⓢ$1;/
+      - xform/an(\d);/Ⓠ$1;/
+      - xform/ao(\d);/Ⓛ$1;/
+      - xform/ei(\d);/Ⓧ$1;/
+      - xform/en(\d);/Ⓙ$1;/
+      - xform/er(\d);/Ⓥ$1;/
+      - xform/ua(\d);/Ⓜ$1;/
+      - xform/ie(\d);/Ⓡ$1;/
+      - xform/in(\d);/Ⓦ$1;/
+      - xform/iu(\d);/Ⓚ$1;/
+      - xform/ou(\d);/Ⓡ$1;/
+      - xform/ia(\d);/Ⓙ$1;/
+      - xform/ue(\d);/Ⓖ$1;/
+      - xform/ve(\d);/Ⓐ$1;/
+      - xform/ui(\d);/Ⓦ$1;/
+      - xform/un(\d);/Ⓞ$1;/
+      - xform/uo(\d);/Ⓖ$1;/
+      - xform/a(\d);/Ⓣ$1;/
       - xform/e(\d);/Ⓓ$1;/
-      - xform/i(\d);/Ⓙ$1;/
-      - xform/o(\d);/Ⓥ$1;/
-      - xform/u(\d);/Ⓕ$1;/
-      - xform/v(\d);/Ⓦ$1;/
+      - xform/i(\d);/Ⓤ$1;/
+      - xform/o(\d);/Ⓢ$1;/
+      - xform/u(\d);/Ⓨ$1;/
+      - xform/v(\d);/Ⓟ$1;/
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
 
   原键优化:
@@ -2348,84 +2294,48 @@ reverse:
 
   乱序手机:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓒ$1/
-      - xform/^ch/Ⓜ/
-      - xform/^sh/Ⓙ/
-      - xform/^zh/Ⓚ/
-      - xform/^b/Ⓤ/
-      - xform/^c/Ⓐ/
-      - xform/^f/Ⓖ/
-      - xform/^g/Ⓝ/
-      - xform/^h/Ⓧ/
-      - xform/^j/Ⓣ/
-      - xform/^k/Ⓞ/
-      - xform/^l/Ⓗ/
-      - xform/^m/Ⓨ/
-      - xform/^n/Ⓔ/
-      - xform/^p/Ⓦ/
-      - xform/^q/Ⓒ/
-      - xform/^r/Ⓘ/
-      - xform/^s/Ⓥ/
-      - xform/^t/Ⓢ/
-      - xform/^w/Ⓑ/
-      - xform/^x/Ⓡ/
-      - xform/^y/Ⓕ/
-      - xform/'([aoe].*)(?=$|')/'Ⓒ$1/
-      - xform/'ch/'Ⓜ/
-      - xform/'sh/'Ⓙ/
-      - xform/'zh/'Ⓚ/
-      - xform/'b/'Ⓤ/
-      - xform/'c/'Ⓐ/
-      - xform/'f/'Ⓖ/
-      - xform/'g/'Ⓝ/
-      - xform/'h/'Ⓧ/
-      - xform/'j/'Ⓣ/
-      - xform/'k/'Ⓞ/
-      - xform/'l/'Ⓗ/
-      - xform/'m/'Ⓨ/
-      - xform/'n/'Ⓔ/
-      - xform/'p/'Ⓦ/
-      - xform/'q/'Ⓒ/
-      - xform/'r/'Ⓘ/
-      - xform/'s/'Ⓥ/
-      - xform/'t/'Ⓢ/
-      - xform/'w/'Ⓑ/
-      - xform/'x/'Ⓡ/
-      - xform/'y/'Ⓕ/
-      - xform/uang(?=$|')/Ⓤ/
-      - xform/iang(?=$|')/Ⓗ/
-      - xform/iong(?=$|')/Ⓟ/
-      - xform/ang(?=$|')/Ⓧ/
-      - xform/eng(?=$|')/Ⓔ/
-      - xform/ian(?=$|')/Ⓤ/
-      - xform/iao(?=$|')/Ⓖ/
-      - xform/ing(?=$|')/Ⓨ/
-      - xform/ong(?=$|')/Ⓚ/
-      - xform/uai(?=$|')/Ⓞ/
-      - xform/uan(?=$|')/Ⓜ/
+      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
+      - xform/^ch/Ⓘ/
+      - xform/^sh/Ⓤ/
+      - xform/^zh/Ⓥ/
+      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
+      - xform/'ch/'Ⓘ/
+      - xform/'sh/'Ⓤ/
+      - xform/'zh/'Ⓥ/
+      - xform/uang(?=$|')/Ⓑ/
+      - xform/iang(?=$|')/Ⓛ/
+      - xform/iong(?=$|')/Ⓔ/
+      - xform/ang(?=$|')/Ⓗ/
+      - xform/eng(?=$|')/Ⓝ/
+      - xform/ian(?=$|')/Ⓑ/
+      - xform/iao(?=$|')/Ⓕ/
+      - xform/ing(?=$|')/Ⓜ/
+      - xform/ong(?=$|')/Ⓥ/
+      - xform/uai(?=$|')/Ⓚ/
+      - xform/uan(?=$|')/Ⓘ/
       - xform/ai(?=$|')/Ⓩ/
-      - xform/an(?=$|')/Ⓒ/
-      - xform/ao(?=$|')/Ⓗ/
-      - xform/ei(?=$|')/Ⓡ/
-      - xform/en(?=$|')/Ⓣ/
-      - xform/er(?=$|')/Ⓚ/
-      - xform/ua(?=$|')/Ⓨ/
-      - xform/ie(?=$|')/Ⓘ/
-      - xform/in(?=$|')/Ⓑ/
-      - xform/iu(?=$|')/Ⓞ/
-      - xform/ou(?=$|')/Ⓘ/
-      - xform/ia(?=$|')/Ⓣ/
-      - xform/ue(?=$|')/Ⓝ/
-      - xform/ve(?=$|')/Ⓠ/
-      - xform/ui(?=$|')/Ⓑ/
-      - xform/un(?=$|')/Ⓛ/
-      - xform/uo(?=$|')/Ⓝ/
-      - xform/a(?=$|')/Ⓢ/
+      - xform/an(?=$|')/Ⓠ/
+      - xform/ao(?=$|')/Ⓛ/
+      - xform/ei(?=$|')/Ⓧ/
+      - xform/en(?=$|')/Ⓙ/
+      - xform/er(?=$|')/Ⓥ/
+      - xform/ua(?=$|')/Ⓜ/
+      - xform/ie(?=$|')/Ⓡ/
+      - xform/in(?=$|')/Ⓦ/
+      - xform/iu(?=$|')/Ⓚ/
+      - xform/ou(?=$|')/Ⓡ/
+      - xform/ia(?=$|')/Ⓙ/
+      - xform/ue(?=$|')/Ⓖ/
+      - xform/ve(?=$|')/Ⓐ/
+      - xform/ui(?=$|')/Ⓦ/
+      - xform/un(?=$|')/Ⓞ/
+      - xform/uo(?=$|')/Ⓖ/
+      - xform/a(?=$|')/Ⓣ/
       - xform/e(?=$|')/Ⓓ/
-      - xform/i(?=$|')/Ⓙ/
-      - xform/o(?=$|')/Ⓥ/
-      - xform/u(?=$|')/Ⓕ/
-      - xform/v(?=$|')/Ⓦ/
+      - xform/i(?=$|')/Ⓤ/
+      - xform/o(?=$|')/Ⓢ/
+      - xform/u(?=$|')/Ⓨ/
+      - xform/v(?=$|')/Ⓟ/
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
       - xform/'//
       - derive/(.*)[\d~]$/$1/
@@ -3396,90 +3306,54 @@ mixed:
       - xform/'ng(\d)(?=$|')/'eng$1/
       - xform/'n(\d)(?=$|')/'en$1/
       - xform/'m(\d)(?=$|')/'me$1/
-      - xform/a([a-zA-Z]*)(?=$|')/Ⓢ$1/
+      - xform/a([a-zA-Z]*)(?=$|')/Ⓣ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓓ$1/
-      - xform/i([a-zA-Z]*)(?=$|')/Ⓙ$1/
-      - xform/o([a-zA-Z]*)(?=$|')/Ⓥ$1/
-      - xform/u([a-zA-Z]*)(?=$|')/Ⓕ$1/
-      - xform/v([a-zA-Z]*)(?=$|')/Ⓦ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓒ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓜ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓙ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓚ$1$2/
-      - xform/^b([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^c([a-z]+)(\d)(?=$|')/Ⓐ$1$2/
-      - xform/^f([a-z]+)(\d)(?=$|')/Ⓖ$1$2/
-      - xform/^g([a-z]+)(\d)(?=$|')/Ⓝ$1$2/
-      - xform/^h([a-z]+)(\d)(?=$|')/Ⓧ$1$2/
-      - xform/^j([a-z]+)(\d)(?=$|')/Ⓣ$1$2/
-      - xform/^k([a-z]+)(\d)(?=$|')/Ⓞ$1$2/
-      - xform/^l([a-z]+)(\d)(?=$|')/Ⓗ$1$2/
-      - xform/^m([a-z]+)(\d)(?=$|')/Ⓨ$1$2/
-      - xform/^n([a-z]+)(\d)(?=$|')/Ⓔ$1$2/
-      - xform/^p([a-z]+)(\d)(?=$|')/Ⓦ$1$2/
-      - xform/^q([a-z]+)(\d)(?=$|')/Ⓒ$1$2/
-      - xform/^r([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^s([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/^t([a-z]+)(\d)(?=$|')/Ⓢ$1$2/
-      - xform/^w([a-z]+)(\d)(?=$|')/Ⓑ$1$2/
-      - xform/^x([a-z]+)(\d)(?=$|')/Ⓡ$1$2/
-      - xform/^y([a-z]+)(\d)(?=$|')/Ⓕ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓒ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓜ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓙ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓚ$1$2/
-      - xform/'b([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'c([a-z]+)(\d)(?=$|')/'Ⓐ$1$2/
-      - xform/'f([a-z]+)(\d)(?=$|')/'Ⓖ$1$2/
-      - xform/'g([a-z]+)(\d)(?=$|')/'Ⓝ$1$2/
-      - xform/'h([a-z]+)(\d)(?=$|')/'Ⓧ$1$2/
-      - xform/'j([a-z]+)(\d)(?=$|')/'Ⓣ$1$2/
-      - xform/'k([a-z]+)(\d)(?=$|')/'Ⓞ$1$2/
-      - xform/'l([a-z]+)(\d)(?=$|')/'Ⓗ$1$2/
-      - xform/'m([a-z]+)(\d)(?=$|')/'Ⓨ$1$2/
-      - xform/'n([a-z]+)(\d)(?=$|')/'Ⓔ$1$2/
-      - xform/'p([a-z]+)(\d)(?=$|')/'Ⓦ$1$2/
-      - xform/'q([a-z]+)(\d)(?=$|')/'Ⓒ$1$2/
-      - xform/'r([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'s([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
-      - xform/'t([a-z]+)(\d)(?=$|')/'Ⓢ$1$2/
-      - xform/'w([a-z]+)(\d)(?=$|')/'Ⓑ$1$2/
-      - xform/'x([a-z]+)(\d)(?=$|')/'Ⓡ$1$2/
-      - xform/'y([a-z]+)(\d)(?=$|')/'Ⓕ$1$2/
-      - xform/uang(\d)(?=$|')/Ⓤ$1/
-      - xform/iang(\d)(?=$|')/Ⓗ$1/
-      - xform/iong(\d)(?=$|')/Ⓟ$1/
-      - xform/ang(\d)(?=$|')/Ⓧ$1/
-      - xform/eng(\d)(?=$|')/Ⓔ$1/
-      - xform/ian(\d)(?=$|')/Ⓤ$1/
-      - xform/iao(\d)(?=$|')/Ⓖ$1/
-      - xform/ing(\d)(?=$|')/Ⓨ$1/
-      - xform/ong(\d)(?=$|')/Ⓚ$1/
-      - xform/uai(\d)(?=$|')/Ⓞ$1/
-      - xform/uan(\d)(?=$|')/Ⓜ$1/
+      - xform/i([a-zA-Z]*)(?=$|')/Ⓤ$1/
+      - xform/o([a-zA-Z]*)(?=$|')/Ⓢ$1/
+      - xform/u([a-zA-Z]*)(?=$|')/Ⓨ$1/
+      - xform/v([a-zA-Z]*)(?=$|')/Ⓟ$1/
+      - xform/^([aoe].*)(\d)(?=$|')/Ⓠ$1$2/
+      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
+      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
+      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
+      - xform/'([aoe].*)(\d)(?=$|')/'Ⓠ$1$2/
+      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
+      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
+      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/uang(\d)(?=$|')/Ⓑ$1/
+      - xform/iang(\d)(?=$|')/Ⓛ$1/
+      - xform/iong(\d)(?=$|')/Ⓔ$1/
+      - xform/ang(\d)(?=$|')/Ⓗ$1/
+      - xform/eng(\d)(?=$|')/Ⓝ$1/
+      - xform/ian(\d)(?=$|')/Ⓑ$1/
+      - xform/iao(\d)(?=$|')/Ⓕ$1/
+      - xform/ing(\d)(?=$|')/Ⓜ$1/
+      - xform/ong(\d)(?=$|')/Ⓥ$1/
+      - xform/uai(\d)(?=$|')/Ⓚ$1/
+      - xform/uan(\d)(?=$|')/Ⓘ$1/
       - xform/ai(\d)(?=$|')/Ⓩ$1/
-      - xform/an(\d)(?=$|')/Ⓒ$1/
-      - xform/ao(\d)(?=$|')/Ⓗ$1/
-      - xform/ei(\d)(?=$|')/Ⓡ$1/
-      - xform/en(\d)(?=$|')/Ⓣ$1/
-      - xform/er(\d)(?=$|')/Ⓚ$1/
-      - xform/ua(\d)(?=$|')/Ⓨ$1/
-      - xform/ie(\d)(?=$|')/Ⓘ$1/
-      - xform/in(\d)(?=$|')/Ⓑ$1/
-      - xform/iu(\d)(?=$|')/Ⓞ$1/
-      - xform/ou(\d)(?=$|')/Ⓘ$1/
-      - xform/ia(\d)(?=$|')/Ⓣ$1/
-      - xform/ue(\d)(?=$|')/Ⓝ$1/
-      - xform/ve(\d)(?=$|')/Ⓠ$1/
-      - xform/ui(\d)(?=$|')/Ⓑ$1/
-      - xform/un(\d)(?=$|')/Ⓛ$1/
-      - xform/uo(\d)(?=$|')/Ⓝ$1/
-      - xform/a(\d)(?=$|')/Ⓢ$1/
+      - xform/an(\d)(?=$|')/Ⓠ$1/
+      - xform/ao(\d)(?=$|')/Ⓛ$1/
+      - xform/ei(\d)(?=$|')/Ⓧ$1/
+      - xform/en(\d)(?=$|')/Ⓙ$1/
+      - xform/er(\d)(?=$|')/Ⓥ$1/
+      - xform/ua(\d)(?=$|')/Ⓜ$1/
+      - xform/ie(\d)(?=$|')/Ⓡ$1/
+      - xform/in(\d)(?=$|')/Ⓦ$1/
+      - xform/iu(\d)(?=$|')/Ⓚ$1/
+      - xform/ou(\d)(?=$|')/Ⓡ$1/
+      - xform/ia(\d)(?=$|')/Ⓙ$1/
+      - xform/ue(\d)(?=$|')/Ⓖ$1/
+      - xform/ve(\d)(?=$|')/Ⓐ$1/
+      - xform/ui(\d)(?=$|')/Ⓦ$1/
+      - xform/un(\d)(?=$|')/Ⓞ$1/
+      - xform/uo(\d)(?=$|')/Ⓖ$1/
+      - xform/a(\d)(?=$|')/Ⓣ$1/
       - xform/e(\d)(?=$|')/Ⓓ$1/
-      - xform/i(\d)(?=$|')/Ⓙ$1/
-      - xform/o(\d)(?=$|')/Ⓥ$1/
-      - xform/u(\d)(?=$|')/Ⓕ$1/
-      - xform/v(\d)(?=$|')/Ⓦ$1/
+      - xform/i(\d)(?=$|')/Ⓤ$1/
+      - xform/o(\d)(?=$|')/Ⓢ$1/
+      - xform/u(\d)(?=$|')/Ⓨ$1/
+      - xform/v(\d)(?=$|')/Ⓟ$1/
       - derive/Ⓠ(\d)/Ⓠ/
       - derive/Ⓦ(\d)/Ⓦ/
       - derive/Ⓔ(\d)/Ⓔ/
@@ -3506,10 +3380,9 @@ mixed:
       - derive/Ⓑ(\d)/Ⓑ/
       - derive/Ⓝ(\d)/Ⓝ/
       - derive/Ⓜ(\d)/Ⓜ/
-      - xlit/bcfghjklmnpqrstwxy/uagnxtohyewcivsbrf/
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
-      # 辅码字母重映射：非本色单字母→键输出；大写含 A/E/O
-      - xlit/ABCEFGHJKLMNOPQRSTWXY/SUADGNXTOHYEVWCIVSBRF/
+      # 26 键上声母全部本色，辅码字母无需重映射；仅大写元音需转
+      - xlit/AEO/TDS/
       - xform/'//
       - derive/^.+$/\L$0/
       - derive/^([A-Z]{1})/\L$1/
@@ -3704,15 +3577,15 @@ english:
       - derive/#/jing/
       - erase/.*[0-9].*/
 
-17jian:
+lxsq:
   __append:
     - xlit/qwertyuiopasdfghjklzxcvbnm/qwqntyuiqhqmdfghjjlwxfvbnm/
-17yh:
+sqyh:
   __append:
-    - xlit/qwertyuiopasdfghjklzxcvbnm/qwsrrwuiskssdfghjklqxifbnm/
-23jian:
+    - xlit/qwertyuiopasdfghjklzxcvbnm/qwsrrwucskssdfghjklqxcfbnm/
+lx20:
   __append:
-    - xlit/qwertyuiopasdfghjklzxcvbnm/qwqrtyuiqpqsdfghjklzxcvbnm/
-24jian:
+    - xlit/qwertyuiopasdfghjklzxcvbnm/qqsrtyuiscssdfghjklzfcvbnm/
+lx23:
   __append:
     - xlit/qwertyuiopasdfghjklzxcvbnm/qwqrtyuiqpqsdfghjklzxcvbnm/
