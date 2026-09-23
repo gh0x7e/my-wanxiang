@@ -33,7 +33,7 @@ local DEFAULT_TITLES = {
 }
 -- 仅保留 wanxiang_algebra_lx.yaml 中的乱序系列方案。
 local FINGER_STYLE_MAP = {
-    pinyin="全拼", lxsq="乱序十七", lxsq_yh="十七优化",
+    pinyin="全拼", lxsq="乱序十七", sqyh="十七优化",
     lx20="乱序二十", lx23="乱序廿三", lx24="乱序廿四",
     lx26="乱序廿六", lxsj="乱序手机", yjyh="原键优化",
 }
@@ -44,7 +44,7 @@ local FINGER_STYLE_MAP = {
 local INPUT_METHOD_MARKERS = {
     ["Ⅰ"] = "pinyin",   -- 全拼
     ["Ⅱ"] = "lxsq",     -- 乱序十七
-    ["Ⅲ"] = "lxsq_yh",  -- 十七优化
+    ["Ⅲ"] = "sqyh",     -- 十七优化
     ["Ⅳ"] = "lx20",     -- 乱序二十
     ["Ⅴ"] = "lx23",     -- 乱序廿三
     ["Ⅵ"] = "lx24",     -- 乱序廿四
