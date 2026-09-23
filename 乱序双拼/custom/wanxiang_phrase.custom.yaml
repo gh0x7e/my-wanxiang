@@ -1,0 +1,8 @@
+# 乱序双拼 · 自定义短语配置
+# 位置：用户目录根目录（与 wanxiang_phrase.schema.yaml 同级）。
+# 简码组随键位方案切换（set_schema_lx.lua 自动改写），可选：
+# lxsq(乱序十七), sqyh(十七优化), lx20(乱序二十), lx23(乱序廿三), lx24(乱序廿四), lx26(乱序廿六), lxsj(乱序手机), yjyh(原键优化)
+patch:
+  speller/algebra:
+    __patch:
+      - wanxiang_algebra_lx:/lx23  #简码映射（当前键位方案）

@@ -1,0 +1,9 @@
+# 乱序双拼 · 主方案自定义配置
+# 位置：用户目录根目录（与 wanxiang_pro.schema.yaml 同级）。
+# 键位方案由 lua/wanxiang/set_schema_lx.lua 切换时自动改写；也可手动修改下方引用。
+# 可选键位：全拼, 乱序十七, 十七优化, 乱序二十, 乱序廿三, 乱序廿四, 乱序廿六, 乱序手机, 原键优化
+patch:
+  speller/algebra:
+    __patch:
+      - wanxiang_algebra_lx:/pro/乱序廿三  #拼音转双拼码（当前键位方案）
+      - wanxiang_algebra_lx:/pro/直接辅助  #辅助码方式：直接辅助（nire=你）/ 间接辅助（ni/re=你），可改为 /pro/间接辅助

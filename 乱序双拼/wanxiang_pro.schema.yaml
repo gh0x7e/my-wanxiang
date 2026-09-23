@@ -8,8 +8,8 @@ schema:
   author:
     - amzxyz
   description: |
-    请勾选【万象拼音PRO】以启用，万象拼音 支持常见双拼方案和全拼输入，辅助码同时支持 全拼拼音、墨奇码、鹤形、自然码、虎码首末、五笔前2、汉心码、首右，拥有超越大厂的输入体验！带声调的词库，支持语法模型，全拼、简拼、整句、声调辅助筛选
-    请在文本框中直接输入对应方案的代码，例如：全拼输入“/pinyin”，自然码输入“/zrm”，小鹤输入“/flypy”（包含“/mspy”、“/sogou”、“/pyjj”等更多代码详见 README.md）。
+    请勾选【乱序双拼】以启用：默认键位「乱序廿三」（23 键），配套乱序廿三辅助码（字根表见仓库内 辅助码字根表.png），支持带声调词库、全拼式整句、声调与辅助码筛选。
+    可选键位：乱序十七、十七优化、乱序二十、乱序廿三、乱序廿四、乱序廿六、乱序手机、原键优化；输入 /lxsq、/sqyh、/lx20、/lx23、/lx24、/lx26、/lxsj、/yjyh 可快速切换（会改写 wanxiang_*.custom.yaml；另支持 /pinyin 切全拼、/zjf、/jjf 切换直接/间接辅助；切换后需重新部署）。
   dependencies:
     - wanxiang_mixedcode  #中英文混合词汇
     - wanxiang_reverse  #部件拆字，反查及辅码
@@ -89,6 +89,7 @@ engine:
     - punct_translator  #配合 punct_segmentor 转换标点符号
     - script_translator  #脚本翻译器，用于拼音、粤拼等基于音节表的输入方案
     - lua_translator@*wanxiang.version_display  #输入'/wx'，显示万象项目网址和当前版本号
+    - lua_translator@*wanxiang.set_schema_lx  #输入 /lxsq、/lx23 等快速切换键位方案（改写 custom 配置，切换后需重新部署）
     - lua_translator@*wanxiang.shijian  #农历、日期、节气、节日、时间、周、问候模板等等，触发清单看下文
     - lua_translator@*wanxiang.unicode_conversion*T  #通过输入大写U引导，并输入Unicode编码获得汉字输出
     - lua_translator@*wanxiang.number_conversion  #数字、金额大写，通过输入大写R1234获得候选输出
@@ -191,7 +192,7 @@ abbrev_phrase:
   enable_completion: false
   always_show_comments: true
   spelling_hints: 50
-  insert_position: 3  #前置简码到候选6
+  insert_position: 3  #前置简码到候选3
   max_candidates: 1  #前置1个简码
 
 # 中文、英文、数字、符号等混合词汇

@@ -1,0 +1,8 @@
+# 乱序双拼 · 英文词汇自定义配置
+# 位置：用户目录根目录（与 wanxiang_english.schema.yaml 同级）。
+# 英文方案不随键位方案切换。
+patch:
+  speller/algebra:
+    __patch:
+      - wanxiang_algebra_lx:/english/混合派生
+      - wanxiang_algebra_lx:/english/全拼
