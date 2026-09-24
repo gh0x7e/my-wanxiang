@@ -1158,6 +1158,7 @@ sort: by_weight
 八一三事变	bā;py yī;hh sān;hq shì;hs biàn;wi	10
 八一四空战	bā;py yī;hh sì;wq kōng;bg zhàn;sg	10
 八一五光复	bā;py yī;hh wǔ;hh guāng;xw fù;pw	10
+巴音浩日娲	bā;ss yīn;lp hào;dk rì;wh wā;nn	10
 把银禧带来	bǎ;fb yín;jg xǐ;pk dài;fj lái;hy	10
 把油箱加满	bǎ;fb yóu;dy xiāng;vg jiā;lk mǎn;dl	10
 八俣远吕智	bā;py yǔ;rt yuǎn;zq lǚ;kk zhì;up	10
@@ -3295,7 +3296,7 @@ sort: by_weight
 北越人民军	běi;sb yuè;tv rén;py mín;vv jūn;bi	10
 备孕的夫妻	bèi;wt yùn;nz de;bu fū;hy qī;hn	10
 备孕的女性	bèi;wt yùn;nz de;bu nǚ;vh xìng;xu	10
-被载入史册	bèi;pi zǎi;ui rù;py shǐ;sy cè;ph	10
+被载入史册	bèi;pi zài;ui rù;py shǐ;sy cè;ph	10
 被炸成碎片	bèi;pi zhà;lv chéng;wv suì;uu piàn;pv	10
 被占了便宜	bèi;pi zhàn;sk le;vs pián;rg yi;bq	10
 北站派出所	běi;sb zhàn;lk pài;dy chū;vn suǒ;pi	10
@@ -84787,7 +84788,7 @@ sort: by_weight
 在日外国人	zài;ut rì;wh wài;xb guó;wy rén;py	10
 在日中国人	zài;ut rì;wh zhōng;ss guó;wy rén;py	10
 再入大气层	zài;hr rù;py dà;uy qì;pv céng;ss	10
-载入了史册	zǎi;ui rù;py le;vs shǐ;sy cè;ph	10
+载入了史册	zài;ui rù;py le;vs shǐ;sy cè;ph	10
 在三环路上	zài;ut sān;hq huán;wb lù;zk shàng;sh	10
 宰桑纪念碑	zǎi;bu sāng;im jì;sj niàn;rx bēi;uu	10
 在森林深处	zài;ut sēn;mm lín;mm shēn;dm chù;wb	10
@@ -109428,7 +109429,7 @@ sort: by_weight
 呼日勒巴特尔	hū;kh rì;wh lè;gl bā;ss tè;nc ěr;xc	10
 沪蓉高速公路	hù;dh róng;ck gāo;wk sù;zu gōng;zs lù;zk	10
 沪瑞高速公路	hù;dh ruì;wq gāo;wk sù;zu gōng;zs lù;zk	10
-胡塞武装组织	hú;ul sāi;bt wǔ;hv zhuāng;df zǔ;sq zhī;sz	10
+胡塞武装组织	hú;ul sài;bt wǔ;hv zhuāng;df zǔ;sq zhī;sz	10
 胡桑实验学派	hú;ul sāng;im shí;bd yàn;mh xué;xz pài;dy	10
 沪陕高速公路	hù;dh shǎn;qj gāo;wk sù;zu gōng;zs lù;zk	10
 笏山金矿事故	hù;vw shān;sn jīn;rh kuàng;ub shì;hs gù;uw	10
@@ -115735,7 +115736,7 @@ sort: by_weight
 可以用中文吗	kě;dk yǐ;vr yòng;ns zhōng;ss wén;wx ma;km	10
 可以游刃有余	kě;dk yǐ;vr yóu;dz rèn;dx yǒu;ul yú;rh	10
 可以预见未来	kě;dk yǐ;vr yù;sr jiàn;nq wèi;hy lái;hy	10
-可以载入史册	kě;dk yǐ;vr zǎi;ui rù;py shǐ;sy cè;ph	10
+可以载入史册	kě;dk yǐ;vr zài;ui rù;py shǐ;sy cè;ph	10
 可抑制张力丝	kě;dk yì;fq zhì;pd zhāng;gi lì;vp sī;vh	10
 可以足不出户	kě;dk yǐ;vr zú;kr bù;hx chū;vn hù;xs	10
 可以做得更好	kě;dk yǐ;vr zuò;rw de;ic gèng;hy hǎo;nz	10
@@ -130097,7 +130098,7 @@ sort: by_weight
 苏式社会主义	sū;cb shì;yg shè;pt huì;rs zhǔ;xw yì;xx	10
 苏式鲜肉月饼	sū;cb shì;yg xiān;gy ròu;nr yuè;nh bing;uk	10
 素食制作技艺	sù;fc shí;rl zhì;pd zuò;rv jì;fi yì;cv	10
-素数倒数幻方	sù;fc shù;hw dào;rd shǔ;hw huàn;yv fāng;xw	10
+素数倒数幻方	sù;fc shù;hw dǎo;rd shù;hw huàn;yv fāng;xw	10
 素数计数函数	sù;fc shù;hw jì;yu shù;hw hán;ln shù;hw	10
 素数阶乘素数	sù;fc shù;hw jiē;qs chéng;qy sù;fc shù;hw	10
 苏丝黄的世界	sū;cb sī;vh huáng;cz de;bu shì;hv jiè;ts	10
@@ -138668,8 +138669,8 @@ sort: by_weight
 叶绿基甲萘醌	yè;ku lǜ;su jī;qt jiǎ;ss nài;cc kūn;fb	10
 野猫式战斗机	yě;ts māo;qt shì;yg zhàn;sg dòu;xu jī;mj	10
 也门阿拉伯语	yě;vv mén;xv ā;qk lā;fl bó;rb yǔ;yk	10
-也门胡塞叛乱	yě;vv mén;xv hú;ul sāi;bt pàn;bi luàn;qv	10
-也门胡塞武装	yě;vv mén;xv hú;ul sāi;bt wǔ;hv zhuāng;df	10
+也门胡塞叛乱	yě;vv mén;xv hú;ul sài;bt pàn;bi luàn;qv	10
+也门胡塞武装	yě;vv mén;xv hú;ul sài;bt wǔ;hv zhuāng;df	10
 也门武装部队	yě;vv mén;xv wǔ;hv zhuāng;df bù;lq duì;qr	10
 夜幕降临之时	yè;wy mù;cj jiàng;qs lín;sh zhī;xy shí;pc	10
 业内权威人士	yè;sh nèi;sx quán;mi wēi;xn rén;py shì;uh	10
@@ -146630,7 +146631,7 @@ sort: by_weight
 阻塞性肺不张	zǔ;qq sè;bt xìng;xu fèi;ls bù;hx zhāng;gi	10
 祖耶夫斯基区	zǔ;pq yé;qq fū;hy sī;qi jī;qt qū;nx	10
 族裔民族主义	zú;fu yì;wk mín;vv zú;fu zhǔ;xw yì;xx	10
-足以载入史册	zú;kr yǐ;vr zǎi;ui rù;py shǐ;sy cè;ph	10
+足以载入史册	zú;kr yǐ;vr zài;ui rù;py shǐ;sy cè;ph	10
 祖云达斯球员	zǔ;pq yún;qs dá;zd sī;qi qiú;wq yuán;kr	10
 组织胺性头痛	zǔ;sq zhī;sz àn;ln xìng;xu tóu;xd tòng;by	10
 阻止火势蔓延	zǔ;qq zhǐ;sh huǒ;xr shì;fl màn;ci yán;zv	10
@@ -159334,6 +159335,7 @@ sort: by_weight
 沙美特罗替卡松	shā;du měi;yd tè;nc luó;sx tì;fp kǎ;ub sōng;ms	10
 沙门不敬王者论	shā;du mén;xv bú;hx jìng;cw wáng;ht zhě;lp lùn;yb	10
 莎普尿塞通片剂	shā;cu pǔ;bp niào;su sāi;bt tōng;zy piàn;pv jì;wd	10
+杀人不过头点地	shā;xm rén;py bú;hx guò;zc tóu;xd diǎn;sh dì;ty	10
 沙参麦冬饮豆桑	shā;du shēn;sp mài;fw dōng;wx yǐn;ur dòu;hh sāng;im	10
 沙参杞子麦冬襄	shā;du shēn;sp qǐ;mj zǐ;vh mài;fw dōng;wx xiāng;wf	10
 沙参玉竹老鸭汤	shā;du shēn;sp yù;wx zhú;ps lǎo;lb yā;jn tāng;dp	10
