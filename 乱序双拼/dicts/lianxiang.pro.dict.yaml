@@ -5094,7 +5094,6 @@ sort: by_weight
 不可达基数	bù;hx kě;dk dá;zd jī;qt shù;hw	10
 不可达序数	bù;hx kě;dk dá;zd xù;bs shù;hw	10
 不可抵赖性	bù;hx kě;dk dǐ;fd lài;ur xìng;xu	10
-不可调节的	bù;hx kě;dk diào;yk jié;cq de;bu	10
 不可定误差	bù;hx kě;dk dìng;br wù;yt chā;yg	10
 不可定义数	bù;hx kě;dk dìng;br yì;xx shù;hw	10
 不可度量的	bù;hx kě;dk dù;bi liàng;pt de;bu	10
@@ -5141,6 +5140,7 @@ sort: by_weight
 不可思议地	bù;hx kě;dk sī;tx yì;yy de;ty	10
 不可思议经	bù;hx kě;dk sī;tx yì;yy jīng;sg	10
 不可思议呀	bù;hx kě;dk sī;tx yì;yy ya;ky	10
+不可调节的	bù;hx kě;dk tiáo;yk jié;cq de;bu	10
 不可通约量	bù;hx kě;dk tōng;zy yuē;su liàng;pt	10
 不可微规划	bù;hx kě;dk wēi;iw guī;fq huà;gd	10
 不可先传也	bù;hx kě;dk xiān;nq chuán;rv yě;vv	10
@@ -156571,7 +156571,7 @@ sort: by_weight
 亨哈二氏吸入器	hēng;wl hā;kk èr;hh shì;pv xī;kj rù;py qì;kk	10
 恒基落禾沙项目	héng;xh jī;qt luò;ck hé;pm shā;du xiàng;gr mù;wh	10
 横连器固定长度	héng;mz lián;zi qì;kk gù;wk dìng;br cháng;py dù;bi	10
-横连器可调长度	héng;mz lián;zi qì;kk kě;dk diào;yk cháng;py dù;bi	10
+横连器可调长度	héng;mz lián;zi qì;kk kě;dk tiáo;yk cháng;py dù;bi	10
 亨奇奥二氏试验	hēng;wl qí;dk ào;pd èr;hh shì;pv shì;yg yàn;mh	10
 亨斯二氏植皮刀	hēng;wl sī;qi èr;hh shì;pv zhí;mq pí;vi dāo;vp	10
 亨特吉二氏试验	hēng;wl tè;nc jí;tk èr;hh shì;pv shì;yg yàn;mh	10
@@ -157538,8 +157538,6 @@ sort: by_weight
 可操纵导引钢丝	kě;dk cāo;fm zòng;sr dǎo;sc yǐn;gs gāng;jx sī;vh	10
 髁侧方指标刻度	kē;gg cè;rd fāng;xw zhǐ;fp biāo;mc kè;wd dù;bi	10
 可拆卸膝胫装置	kě;dk chāi;fi xiè;wq xī;lu jìng;lg zhuāng;df zhì;sq	10
-可调负压吸痰管	kě;dk diào;yk fù;xr yā;ix xī;kj tán;bl guǎn;vk	10
-可调颈生物型柄	kě;dk diào;yk jǐng;vr shēng;pf wù;nw xíng;kt bǐng;mb	10
 可动牙科治疗台	kě;dk dòng;ql yá;hp kē;hu zhì;dk liáo;bl tái;sk	10
 科尔马上诉法院	kē;hu ěr;xc mǎ;vh shàng;sh sù;yi fǎ;ds yuàn;qq	10
 氪放射性同位素	kè;qq fàng;fw shè;uc xìng;xu tóng;nk wèi;rl sù;fc	10
@@ -157602,6 +157600,8 @@ sort: by_weight
 科斯二氏血型系	kē;hu sī;qi èr;hh shì;pv xuè;pm xíng;kt xì;pc	10
 咳嗽变异性哮喘	ké;kr sòu;kr biàn;wi yì;sc xìng;xu xiào;kz chuǎn;kq	10
 柯替氏器螺旋器	kē;mk tì;fp shì;pv qì;kk luó;ic xuán;fr qì;kk	10
+可调负压吸痰管	kě;dk tiáo;yk fù;xr yā;ix xī;kj tán;bl guǎn;vk	10
+可调颈生物型柄	kě;dk tiáo;yk jǐng;vr shēng;pf wù;nw xíng;kt bǐng;mb	10
 可调整式翻修柄	kě;dk tiáo;yk zhěng;uv shì;yg fān;px xiū;rp bǐng;mb	10
 科托布血红蛋白	kē;hu tuō;fq bù;uj xuè;pm hóng;sg dàn;vi bái;pp	10
 科瓦二氏加速器	kē;hu wǎ;hx èr;hh shì;pv jiā;lk sù;zu qì;kk	10
@@ -157956,7 +157956,6 @@ sort: by_weight
 六味地黄益肾肝	liù;wz wèi;kw dì;ty huáng;cz yì;bm shèn;sl gān;lt	10
 六味防脱生发酊	liù;wz wèi;kw fáng;qf tuō;lq shēng;pf fà;vx dīng;fd	10
 流行性斑疹伤寒	liú;dv xíng;ii xìng;xu bān;ww zhěn;bp shāng;rl hán;bx	10
-流行性感冒疫苗	liú;dv xíng;ii xìng;xu gǎn;xx mào;ng yì;bi miáo;ct	10
 流行性关节红斑	liú;dv xíng;ii xìng;xu guān;bt jié;cq hóng;sg bān;ww	10
 六一国际儿童节	liù;wz yī;hh guó;wy jì;qc ér;pv tóng;lt jié;cq	10
 龙宝牌精品燕窝	lóng;ux bǎo;by pái;pu jīng;hl pǐn;kk yàn;nh wō;bn	10
@@ -159803,7 +159802,7 @@ sort: by_weight
 弹簧的劲度系数	tán;gs huáng;vz de;bu jìn;vl dù;bi xì;pc shù;hw	10
 弹簧圈外周介入	tán;gs huáng;vz quān;wv wài;xb zhōu;nk jiè;rs rù;py	10
 弹簧圈心脏介入	tán;gs huáng;vz quān;wv xīn;xx zàng;lt jiè;rs rù;py	10
-弹力可调胸腹裤	tán;gs lì;vp kě;dk diào;yk xiōng;ln fù;lw kù;pi	10
+弹力可调胸腹裤	tán;gs lì;vp kě;dk tiáo;yk xiōng;ln fù;lw kù;pi	10
 痰迷舌强服之醒	tán;bl mí;zh shé;qk qiáng;gi fú;li zhī;xy xǐng;fu	10
 痰凝气滞皆能除	tán;bl níng;dr qì;pv zhì;dj jiē;bb néng;sb chú;qh	10
 碳收益分享模式	tàn;ul shōu;vw yì;bm fēn;zd xiǎng;wz mó;md shì;yg	10
