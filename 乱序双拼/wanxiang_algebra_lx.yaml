@@ -2394,9 +2394,15 @@ reverse:
   hslzy:
     __append:
       - xlit/HSPZN/hslzy/
+  hukfn:
+    __append:
+      - xlit/HSPZN/hukfn/
   hupvn:
     __append:
       - xlit/HSPZN/hupvn/
+  hucvn:
+    __append:
+      - xlit/HSPZN/hucvn/
   hspvy:
     __append:
       - xlit/HSPZN/hspvy/

@@ -6,4 +6,4 @@ patch:
   speller/algebra:
     __patch:
       - wanxiang_algebra_lx:/reverse/乱序廿三  #拼音转双拼码（当前键位方案）
-      - wanxiang_algebra_lx:/reverse/hupvn  #笔画组：全拼 hspzn、乱序十七 hslzy、其余方案 hupvn（随键位切换）
+      - wanxiang_algebra_lx:/reverse/hspvy  #笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序廿三 hspvy、其余方案 hupvn（随键位切换）

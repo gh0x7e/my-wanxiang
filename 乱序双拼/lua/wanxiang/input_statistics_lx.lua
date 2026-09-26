@@ -363,6 +363,20 @@ local function peak_key_speed(keystrokes, milliseconds)
         math.floor(keystrokes * 60000 / milliseconds + 0.5))
 end
 
+-- 压力测试、乱按、自动化输入等异常窗口整体作废。
+-- 返回合法的字速（字/分），异常时返回 nil；落库与报表共用同一判据。
+-- keystrokes 允许为 nil（按 0 计），调用方无需再兜底。
+local function valid_peak_speed(characters, keystrokes, milliseconds)
+    local char_speed = peak_speed(characters, milliseconds)
+    local key_speed = peak_key_speed(keystrokes or 0, milliseconds)
+    if char_speed > MAX_VALID_PEAK_CHARS_PER_MINUTE
+        or key_speed > MAX_VALID_PEAK_KEYS_PER_MINUTE
+    then
+        return nil
+    end
+    return char_speed
+end
+
 local function finish_peak(env)
     local peak = env.peak_sample
     local day, characters, milliseconds = sample_values(
@@ -377,16 +391,9 @@ local function finish_peak(env)
 
     if not day or keystrokes <= 0 then return false end
 
-    local char_speed = peak_speed(characters, milliseconds)
-    local key_speed = peak_key_speed(keystrokes, milliseconds)
-
-    -- 压力测试、乱按、自动化输入等异常窗口直接整体作废，
-    -- 绝不把异常值截成 350/900 后伪装成有效峰值。
-    if char_speed > MAX_VALID_PEAK_CHARS_PER_MINUTE
-        or key_speed > MAX_VALID_PEAK_KEYS_PER_MINUTE
-    then
-        return false
-    end
+    -- 异常窗口直接整体作废，绝不把异常值截成 350/900 后伪装成有效峰值。
+    local char_speed = valid_peak_speed(characters, keystrokes, milliseconds)
+    if not char_speed then return false end
 
     stats_add(env, string.format("%s%s/speed_peak_window_10s/%04d",
         DAY_PREFIX, day, char_speed), 1)
@@ -583,8 +590,10 @@ local function aggregate_statistics(env, start_day, end_day, device_id,
     if day and in_day_range(day, speed_start_day, speed_end_day)
         and (not device_id or device_id == env.device_id)
     then
-        local speed = peak_speed(characters, milliseconds)
-        peaks[speed] = (peaks[speed] or 0) + 1
+        -- 与落库路径共用判据：乱按/自动化产生的异常窗口不计入峰值。
+        local speed = valid_peak_speed(
+            characters, env.peak_sample.keystrokes, milliseconds)
+        if speed then peaks[speed] = (peaks[speed] or 0) + 1 end
     end
     if stats.average_milliseconds < env.minimum_average_total_ms then
         stats.average_characters = 0
@@ -650,6 +659,8 @@ end
 local function draw_bar(percent)
     percent = math.max(0, math.min(100, tonumber(percent) or 0))
     local filled = math.floor(percent / 10)
+    -- 有占比但不足一格时至少给一格，避免 5% 也画成空条。
+    if filled == 0 and percent > 0 then filled = 1 end
     return string.rep("▓", filled) .. string.rep("░", 10 - filled)
 end
 
@@ -680,8 +691,8 @@ local function format_summary(title, subtitle, data, env)
     return header .. string.format(
         "───────────────" .. zwsp .. "\n" ..
         "📊 综合数据" .. zwsp .. "\n" ..
-        "  均速:%-5s 上屏:%d" .. zwsp .. "\n" ..
-        "  峰速:%-5s 字数:%d" .. zwsp .. "\n" ..
+        "  均速：%-4s 字/分   上屏：%d" .. zwsp .. "\n" ..
+        "  峰速：%-4s 字/分   字数：%d" .. zwsp .. "\n" ..
         "🏆 段位：%s" .. zwsp .. "\n" ..
         "───────────────" .. zwsp .. "\n" ..
         "⚡ 核心效率" .. zwsp .. "\n" ..
@@ -779,8 +790,7 @@ end
 
 local function on_commit(context, env)
     local text = context:get_commit_text()
-    if not text or text == "" or text:sub(1, 1) == "/"
-        or text:find("^[※◉🏆📊⚡📈]") then return end
+    if not text or text == "" or text:sub(1, 1) == "/" then return end
 
     local characters = chinese_length(text)
     if characters == 0 then return end
@@ -792,6 +802,7 @@ local function on_commit(context, env)
         local genuine = cand.get_genuine and cand:get_genuine() or nil
         if genuine and genuine.type then candidate_type = genuine.type end
     end
+    if candidate_type == "stat" then return end
 
     local code = context.input or ""
     if code == "" then code = env.last_observed_input or "" end
@@ -879,7 +890,7 @@ local function translator(input, seg, env)
             speed_start_day, speed_end_day)
         if not data and env.stats_db_error then
             return yield_msg(seg,
-                "※ 统计数据库打开失败", "⚠️")
+                "※ 统计数据库不可用", "⚠️")
         end
     else
         local history, first, second, empty_message = history_report(input, env)
@@ -894,7 +905,7 @@ local function translator(input, seg, env)
         data, title, subtitle = history, first, second
         if not data and env.stats_db_error then
             return yield_msg(seg,
-                "※ 统计数据库打开失败", "⚠️")
+                "※ 统计数据库不可用", "⚠️")
         end
         if not data then return yield_msg(seg, empty_message) end
     end

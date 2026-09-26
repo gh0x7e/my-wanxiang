@@ -31,7 +31,7 @@ speller:
   algebra:
     __patch:
       - wanxiang_algebra_lx:/reverse/乱序廿三  #键位方案，可选：全拼、乱序十七、十七优化、乱序二十、乱序廿三、乱序廿四、乱序廿六、乱序手机、原键优化
-      - wanxiang_algebra_lx:/reverse/hupvn  #笔画组：全拼用 hspzn、乱序十七用 hslzy，其余方案用 hupvn（随键位切换）
+      - wanxiang_algebra_lx:/reverse/hspvy  #笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序廿三 hspvy、其余方案 hupvn（随键位切换）
 
 translator:
   dictionary: wanxiang_reverse

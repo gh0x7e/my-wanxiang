@@ -12,9 +12,9 @@
 
     同步规则：
       pro / mixedcode / reverse  → 键位方案名（全拼、乱序十七……）
-      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、其余 hupvn
+      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序廿三 hspvy、其余方案 hupvn
       abbrev / phrase            → 简码组（lxsq、sqyh、lx20……）
-      english                    → 不随键位变化（仅保证配置存在）
+      english                    → 不随键位变化；迁移遗留配置时其它方案名归一为「全拼」
 
     注意：本脚本与官方 set_schema.lua 功能重叠，请不要同时启用。
 ]]
@@ -46,16 +46,27 @@ local JIAN_MAP = {
     ["原键优化"] = "yjyh",
 }
 
--- 允许被替换掉的方案名（含官方旧名字，便于迁移官方遗留配置）
+-- 允许被替换掉的方案名。除本仓库键位外，还收录官方万象的键位名
+-- （自然码、小鹤双拼、乱序17……），迁移官方遗留配置后第一条切换命令即可纠正。
 local SCHEME_NAMES = {
+    -- 本仓库键位
     "全拼",
     "乱序十七", "十七优化", "乱序二十", "乱序廿三",
     "乱序廿四", "乱序廿六", "乱序手机", "原键优化",
+    -- 官方旧名字
+    "乱序17",
+    "自然码", "小鹤双拼", "微软双拼", "搜狗双拼",
+    "智能ABC", "紫光双拼", "拼音加加", "国标双拼",
+    "自然龙", "汉心龙", "蓝天双拼", "首道双拼", "大牛双拼",
 }
 
--- 已知笔画组名字（切换时统一改掉）
+-- 已知笔画组名字（切换时统一改掉；含官方旧名，便于迁移遗留配置）
 local STROKE_NAMES = {
-    hspzn = true, hslzy = true, hulvy = true, hspvy = true, hupvn = true,
+    -- 本仓库乱序版（wanxiang_algebra_lx 的 reverse 段）
+    hspzn = true, hslzy = true, hukfn = true, hucvn = true,
+    hupvn = true, hspvy = true,
+    -- 官方旧名（迁移官方遗留配置用）
+    hupvd = true, hspvd = true,
 }
 
 -- 简码相关的标记（abbrev / phrase 沿用的组名）
@@ -67,7 +78,7 @@ local JIAN_TOKENS = {
 -- 官方遗留的 26jian / 18jian / 14jian 引用（乱序版无此分组）
 local OLD_JIAN = { "26jian", "18jian", "14jian" }
 
--- 各文件需要处理的引用类型（english 不随键位变化，仅保证配置存在）
+-- 各文件需要处理的引用类型（english 不随键位变化；遗留的其它方案名会被归一为「全拼」）
 local SCHEME_FILES = {
     ["wanxiang_pro.custom.yaml"] = true,
     ["wanxiang_mixedcode.custom.yaml"] = true,
@@ -136,14 +147,17 @@ local function is_jian_token(name)
     return JIAN_TOKENS[name] or name:match("^lx%d+$") ~= nil
 end
 
--- 键位方案 → 笔画组：全拼 hspzn、乱序十七 hslzy、其余 hupvn
+-- 反查笔画组：按目标键位方案选用对应笔画，未列出的方案沿用 hupvn
+local STROKE_GROUP_BY_SCHEME = {
+    ["全拼"] = "hspzn",
+    ["乱序十七"] = "hslzy",
+    ["十七优化"] = "hukfn",
+    ["乱序二十"] = "hucvn",
+    ["乱序廿三"] = "hspvy",
+}
+
 local function stroke_group_of(schema)
-    if schema == "全拼" then
-        return "hspzn"
-    elseif schema == "乱序十七" then
-        return "hslzy"
-    end
-    return "hupvn"
+    return STROKE_GROUP_BY_SCHEME[schema] or "hupvn"
 end
 
 -- 改写单个配置（参照官方 replace_schema，额外处理简码组 / 笔画组 / 旧引用迁移）
@@ -169,7 +183,17 @@ local function replace_schema(file_path, file_name, target_schema)
         end)
     end
 
-    -- 2) 笔画组（reverse）：全拼 hspzn、乱序十七 hslzy、其余 hupvn
+    -- 1b) english 不随键位切换；官方遗留的其它方案名在乱序版 english 段没有对应分组，归一到「全拼」
+    if file_name == "wanxiang_english.custom.yaml" then
+        content = content:gsub("(wanxiang_algebra_lx:/english/)([^%s#/]+)", function(prefix, name)
+            if is_scheme_name(name) then
+                return prefix .. "全拼"
+            end
+            return prefix .. name
+        end)
+    end
+
+    -- 2) 笔画组（reverse）：按目标键位换算（见 STROKE_GROUP_BY_SCHEME）
     if STROKE_FILES[file_name] then
         content = content:gsub("(wanxiang_algebra_lx:/reverse/)([%w]+)", function(prefix, name)
             if STROKE_NAMES[name] then
