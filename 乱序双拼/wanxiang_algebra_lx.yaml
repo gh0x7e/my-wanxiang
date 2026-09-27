@@ -1221,35 +1221,27 @@ pro:
 reverse:
   全拼:
     __append:
+      - xform/ü/v/
+      - derive/^([nl])ue(?=$|')/$1ve/
+      - derive/'([nl])ue(?=$|')/'$1ve/
+      - derive/^([jqxy])u(?=$|')/$1v/
+      - derive/'([jqxy])u(?=$|')/'$1v/
       - xform/'//
-      - derive/^([nl])ue$/$1ve/
-      - derive/'([nl])ue$/'$1ve/
-      - derive/^([jqxy])u/$1v/
-      - derive/'([jqxy])u/'$1v/
       - derive/(.*)[\d~]$/$1/
 
   乱序十七:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
-      - xform/^ch/Ⓒ/
-      - xform/^c/Ⓕ/
-      - xform/^k/Ⓙ/
-      - xform/^p/Ⓗ/
-      - xform/^r/Ⓝ/
-      - xform/^sh/Ⓢ/
-      - xform/^s/Ⓜ/
-      - xform/^zh/Ⓩ/
-      - xform/^z/Ⓦ/
-      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
-      - xform/'ch/'Ⓒ/
-      - xform/'c/'Ⓕ/
-      - xform/'k/'Ⓙ/
-      - xform/'p/'Ⓗ/
-      - xform/'r/'Ⓝ/
-      - xform/'sh/'Ⓢ/
-      - xform/'s/'Ⓜ/
-      - xform/'zh/'Ⓩ/
-      - xform/'z/'Ⓦ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓠ$2/
+      - xform/(^|')ch/$1Ⓒ/
+      - xform/(^|')c/$1Ⓕ/
+      - xform/(^|')k/$1Ⓙ/
+      - xform/(^|')p/$1Ⓗ/
+      - xform/(^|')r/$1Ⓝ/
+      - xform/(^|')sh/$1Ⓢ/
+      - xform/(^|')s/$1Ⓜ/
+      - xform/(^|')zh/$1Ⓩ/
+      - xform/(^|')z/$1Ⓦ/
       - xform/(uang|ian)(?=$|')/Ⓠ/
       - xform/(iang|ui)(?=$|')/Ⓒ/
       - xform/(ang|iao)(?=$|')/Ⓩ/
@@ -1273,22 +1265,15 @@ reverse:
 
   十七优化:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓢ$1/
-      - xform/^ch/Ⓒ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓕ/
-      - xform/^p/Ⓚ/
-      - xform/^t/Ⓡ/
-      - xform/^y/Ⓦ/
-      - xform/^z/Ⓠ/
-      - xform/'([aoe].*)(?=$|')/'Ⓢ$1/
-      - xform/'ch/'Ⓒ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓕ/
-      - xform/'p/'Ⓚ/
-      - xform/'t/'Ⓡ/
-      - xform/'y/'Ⓦ/
-      - xform/'z/'Ⓠ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓢ$2/
+      - xform/(^|')ch/$1Ⓒ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓕ/
+      - xform/(^|')p/$1Ⓚ/
+      - xform/(^|')t/$1Ⓡ/
+      - xform/(^|')y/$1Ⓦ/
+      - xform/(^|')z/$1Ⓠ/
       - xform/(uang|ing|er)(?=$|')/Ⓙ/
       - xform/iao(?=$|')/Ⓛ/
       - xform/(iang|ao)(?=$|')/Ⓧ/
@@ -1313,20 +1298,14 @@ reverse:
 
   乱序二十:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓢ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/^p/Ⓒ/
-      - xform/^w/Ⓠ/
-      - xform/^x/Ⓕ/
-      - xform/'([aoe].*)(?=$|')/'Ⓢ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
-      - xform/'p/'Ⓒ/
-      - xform/'w/'Ⓠ/
-      - xform/'x/'Ⓕ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓢ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
+      - xform/(^|')p/$1Ⓒ/
+      - xform/(^|')w/$1Ⓠ/
+      - xform/(^|')x/$1Ⓕ/
       - xform/(uang|iao|er)(?=$|')/Ⓢ/
       - xform/(iang|ao)(?=$|')/Ⓕ/
       - xform/(iong|ou)(?=$|')/Ⓡ/
@@ -1353,14 +1332,11 @@ reverse:
 
   乱序廿三:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓠ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
       - xform/(uang|ian)(?=$|')/Ⓠ/
       - xform/(iang|ou)(?=$|')/Ⓧ/
       - xform/(ang|ie)(?=$|')/Ⓥ/
@@ -1389,14 +1365,11 @@ reverse:
 
   乱序廿四:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓠ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
       - xform/(uang|v)(?=$|')/Ⓡ/
       - xform/(iong|ong)(?=$|')/Ⓣ/
       - xform/(iao|ua)(?=$|')/Ⓜ/
@@ -1426,14 +1399,11 @@ reverse:
 
   乱序廿六:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓙ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/'([aoe].*)(?=$|')/'Ⓙ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓙ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
       - xform/(uang|ing)(?=$|')/Ⓜ/
       - xform/(iong|ou)(?=$|')/Ⓕ/
       - xform/(iao|uai)(?=$|')/Ⓟ/
@@ -1463,14 +1433,11 @@ reverse:
 
   乱序手机:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓠ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/'([aoe].*)(?=$|')/'Ⓠ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓠ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
       - xform/(uang|ian)(?=$|')/Ⓑ/
       - xform/iong(?=$|')/Ⓔ/
       - xform/iao(?=$|')/Ⓕ/
@@ -1502,14 +1469,11 @@ reverse:
 
   原键优化:
     __append:
-      - xform/^([aoe].*)(?=$|')/Ⓔ$1/
-      - xform/^ch/Ⓘ/
-      - xform/^sh/Ⓤ/
-      - xform/^zh/Ⓥ/
-      - xform/'([aoe].*)(?=$|')/'Ⓔ$1/
-      - xform/'ch/'Ⓘ/
-      - xform/'sh/'Ⓤ/
-      - xform/'zh/'Ⓥ/
+      - xform/ü/v/
+      - xform/(^|')([aoe][^']*)(?=$|')/$1Ⓔ$2/
+      - xform/(^|')ch/$1Ⓘ/
+      - xform/(^|')sh/$1Ⓤ/
+      - xform/(^|')zh/$1Ⓥ/
       - xform/(uang|v)(?=$|')/Ⓥ/
       - xform/(iong|ong)(?=$|')/Ⓖ/
       - xform/iao(?=$|')/Ⓑ/
@@ -1630,11 +1594,11 @@ mixed:
   全拼:
     __append:
       - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
-      - xform/'//
       - derive/^([nl])ue$/$1ve/
       - derive/'([nl])ue$/'$1ve/
       - derive/^([jqxy])u/$1v/
       - derive/'([jqxy])u/'$1v/
+      - xform/'//
       - derive/^.+$/\L$0/
       - derive/^([A-Z]{1})/\L$1/
       - derive/^([a-z]{2})/\U$1/
@@ -1643,13 +1607,9 @@ mixed:
   乱序十七: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -1658,38 +1618,25 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓗ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓦ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓙ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓧ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓧ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓠ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓒ$1$2/
-      - xform/^c/Ⓕ/
-      - xform/^k/Ⓙ/
-      - xform/^p/Ⓗ/
-      - xform/^r/Ⓝ/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓢ$1$2/
-      - xform/^s/Ⓜ/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓩ$1$2/
-      - xform/^z/Ⓦ/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓠ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓒ$1$2/
-      - xform/'c/'Ⓕ/
-      - xform/'k/'Ⓙ/
-      - xform/'p/'Ⓗ/
-      - xform/'r/'Ⓝ/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓢ$1$2/
-      - xform/'s/'Ⓜ/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓩ$1$2/
-      - xform/'z/'Ⓦ/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓠ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓒ$2$3/
+      - xform/(^|')c/$1Ⓕ/
+      - xform/(^|')k/$1Ⓙ/
+      - xform/(^|')p/$1Ⓗ/
+      - xform/(^|')r/$1Ⓝ/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓢ$2$3/
+      - xform/(^|')s/$1Ⓜ/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓩ$2$3/
+      - xform/(^|')z/$1Ⓦ/
       - xform/(uang|ian)(\d)(?=$|')/Ⓠ$2/
       - xform/(iang|ui)(\d)(?=$|')/Ⓒ$2/
       - xform/(ang|iao)(\d)(?=$|')/Ⓩ$2/
@@ -1735,13 +1682,9 @@ mixed:
   十七优化: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -1750,34 +1693,23 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓡ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓕ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓦ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓑ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓒ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓢ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓒ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓕ$1$2/
-      - xform/^p/Ⓚ/
-      - xform/^t/Ⓡ/
-      - xform/^y/Ⓦ/
-      - xform/^z/Ⓠ/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓢ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓒ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓕ$1$2/
-      - xform/'p/'Ⓚ/
-      - xform/'t/'Ⓡ/
-      - xform/'y/'Ⓦ/
-      - xform/'z/'Ⓠ/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓢ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓒ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓕ$2$3/
+      - xform/(^|')p/$1Ⓚ/
+      - xform/(^|')t/$1Ⓡ/
+      - xform/(^|')y/$1Ⓦ/
+      - xform/(^|')z/$1Ⓠ/
       - xform/(uang|ing|er)(\d)(?=$|')/Ⓙ$2/
       - xform/iao(\d)(?=$|')/Ⓛ$1/
       - xform/(iang|ao)(\d)(?=$|')/Ⓧ$2/
@@ -1824,13 +1756,9 @@ mixed:
   乱序二十: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -1839,32 +1767,22 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓣ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓥ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓨ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓠ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓑ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓠ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓢ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/^p([a-z]+)(\d)(?=$|')/Ⓒ$1$2/
-      - xform/^w([a-z]+)(\d)(?=$|')/Ⓠ$1$2/
-      - xform/^x([a-z]+)(\d)(?=$|')/Ⓕ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓢ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
-      - xform/'p([a-z]+)(\d)(?=$|')/'Ⓒ$1$2/
-      - xform/'w([a-z]+)(\d)(?=$|')/'Ⓠ$1$2/
-      - xform/'x([a-z]+)(\d)(?=$|')/'Ⓕ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓢ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
+      - xform/(^|')p([a-z]+)(\d)(?=$|')/$1Ⓒ$2$3/
+      - xform/(^|')w([a-z]+)(\d)(?=$|')/$1Ⓠ$2$3/
+      - xform/(^|')x([a-z]+)(\d)(?=$|')/$1Ⓕ$2$3/
       - xform/(uang|iao|er)(\d)(?=$|')/Ⓢ$2/
       - xform/(iang|ao)(\d)(?=$|')/Ⓕ$2/
       - xform/(iong|ou)(\d)(?=$|')/Ⓡ$2/
@@ -1916,13 +1834,9 @@ mixed:
   乱序廿三:
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -1931,26 +1845,19 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓛ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓜ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓤ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓗ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓟ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓠ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓠ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓠ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
       - xform/(uang|ian)(\d)(?=$|')/Ⓠ$2/
       - xform/(iang|ou)(\d)(?=$|')/Ⓧ$2/
       - xform/(ang|ie)(\d)(?=$|')/Ⓥ$2/
@@ -2006,13 +1913,9 @@ mixed:
   乱序廿四: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -2021,26 +1924,19 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓛ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓤ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓗ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓨ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓡ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓠ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓠ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓠ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
       - xform/(uang|v)(\d)(?=$|')/Ⓡ$2/
       - xform/(iong|ong)(\d)(?=$|')/Ⓣ$2/
       - xform/(iao|ua)(\d)(?=$|')/Ⓜ$2/
@@ -2098,13 +1994,9 @@ mixed:
   乱序廿六: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -2113,26 +2005,19 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓛ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓤ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓗ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓨ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓐ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓙ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓙ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓙ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
       - xform/(uang|ing)(\d)(?=$|')/Ⓜ$2/
       - xform/(iong|ou)(\d)(?=$|')/Ⓕ$2/
       - xform/(iao|uai)(\d)(?=$|')/Ⓟ$2/
@@ -2192,13 +2077,9 @@ mixed:
   乱序手机: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -2207,26 +2088,19 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓣ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓓ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓤ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓢ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓨ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓟ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓠ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓠ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓠ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
       - xform/(uang|ian)(\d)(?=$|')/Ⓑ$2/
       - xform/iong(\d)(?=$|')/Ⓔ$1/
       - xform/iao(\d)(?=$|')/Ⓕ$1/
@@ -2288,13 +2162,9 @@ mixed:
   原键优化: 
     __append:
       - erase/.*[\-+_#@\.·0-9].*$/
-      - xform/ü/v/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2④/
-      - xform/^([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([aeiouv]+)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/'$1$2④/
-      - xform/'([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/'$1$2④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([aeiouü]+)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeiu]n)(?=$|')/$1$2$3④/
+      - xform/(^|')([qwrtypsdfghjklzxcbnm]h?)([ui]?[aeio]ng)(?=$|')/$1$2$3④/
       - xform/(ā|ē|ī|ō|ū|ǖ)([a-z]*)(?=$|')/$1$2①/
       - xform/(á|é|í|ó|ú|ǘ|ń|ḿ)([a-z]*)(?=$|')/$1$2②/
       - xform/(ǎ|ě|ǐ|ǒ|ǔ|ǚ|ň)([a-z]*)(?=$|')/$1$2③/
@@ -2303,26 +2173,19 @@ mixed:
       - xform/m̀([a-z]*)(?=$|')/m$1④/
       - xlit/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜńňǹḿ/aaaaeeeeiiiioooouuuuvvvvvnnnm/
       - xlit/①②③④/7890
-      - xform/^ng(\d)(?=$|')/eng$1/
-      - xform/^n(\d)(?=$|')/en$1/
-      - xform/^m(\d)(?=$|')/me$1/
-      - xform/'ng(\d)(?=$|')/'eng$1/
-      - xform/'n(\d)(?=$|')/'en$1/
-      - xform/'m(\d)(?=$|')/'me$1/
+      - xform/(^|')ng(\d)(?=$|')/$1eng$2/
+      - xform/(^|')n(\d)(?=$|')/$1en$2/
+      - xform/(^|')m(\d)(?=$|')/$1me$2/
       - xform/a([a-zA-Z]*)(?=$|')/Ⓐ$1/
       - xform/e([a-zA-Z]*)(?=$|')/Ⓔ$1/
       - xform/i([a-zA-Z]*)(?=$|')/Ⓘ$1/
       - xform/o([a-zA-Z]*)(?=$|')/Ⓞ$1/
       - xform/u([a-zA-Z]*)(?=$|')/Ⓤ$1/
       - xform/v([a-zA-Z]*)(?=$|')/Ⓥ$1/
-      - xform/^([aoe].*)(\d)(?=$|')/Ⓔ$1$2/
-      - xform/^ch([a-z]+)(\d)(?=$|')/Ⓘ$1$2/
-      - xform/^sh([a-z]+)(\d)(?=$|')/Ⓤ$1$2/
-      - xform/^zh([a-z]+)(\d)(?=$|')/Ⓥ$1$2/
-      - xform/'([aoe].*)(\d)(?=$|')/'Ⓔ$1$2/
-      - xform/'ch([a-z]+)(\d)(?=$|')/'Ⓘ$1$2/
-      - xform/'sh([a-z]+)(\d)(?=$|')/'Ⓤ$1$2/
-      - xform/'zh([a-z]+)(\d)(?=$|')/'Ⓥ$1$2/
+      - xform/(^|')([aoe][^']*)(\d)(?=$|')/$1Ⓔ$2$3/
+      - xform/(^|')ch([a-z]+)(\d)(?=$|')/$1Ⓘ$2$3/
+      - xform/(^|')sh([a-z]+)(\d)(?=$|')/$1Ⓤ$2$3/
+      - xform/(^|')zh([a-z]+)(\d)(?=$|')/$1Ⓥ$2$3/
       - xform/(uang|v)(\d)(?=$|')/Ⓥ$2/
       - xform/(iong|ong)(\d)(?=$|')/Ⓖ$2/
       - xform/iao(\d)(?=$|')/Ⓑ$1/

@@ -660,7 +660,7 @@ local function draw_bar(percent)
     percent = math.max(0, math.min(100, tonumber(percent) or 0))
     local filled = math.floor(percent / 10)
     -- 有占比但不足一格时至少给一格，避免 5% 也画成空条。
-    if filled == 0 and percent > 0 then filled = 1 end
+    if filled == 0 and percent > 5 then filled = 1 end
     return string.rep("▓", filled) .. string.rep("░", 10 - filled)
 end
 
@@ -691,8 +691,8 @@ local function format_summary(title, subtitle, data, env)
     return header .. string.format(
         "───────────────" .. zwsp .. "\n" ..
         "📊 综合数据" .. zwsp .. "\n" ..
-        "  均速：%-4s 字/分   上屏：%d" .. zwsp .. "\n" ..
-        "  峰速：%-4s 字/分   字数：%d" .. zwsp .. "\n" ..
+        "  均速：%s 字/分  上屏：%d" .. zwsp .. "\n" ..
+        "  峰速：%s 字/分  字数：%d" .. zwsp .. "\n" ..
         "🏆 段位：%s" .. zwsp .. "\n" ..
         "───────────────" .. zwsp .. "\n" ..
         "⚡ 核心效率" .. zwsp .. "\n" ..
