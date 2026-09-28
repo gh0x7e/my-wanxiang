@@ -98,7 +98,7 @@ sort: by_weight
 台风小熊	tái;sk fēng;jx xiǎo;sx xióng;sh	1
 台风洛鞍	tái;sk fēng;jx luò;dk ān;gn	1
 台风蔷琵	tái;sk fēng;jx qiáng;ck pí;wb	1
-台风坡鹿	tái;sk fēng;jx pō;ti lù;bb	1
+台风坡鹿	tái;sk fēng;jx pō;ti lù;sb	1
 台风三巴	tái;sk fēng;jx sān;hq bā;ss	1
 台风西望洋	tái;sk fēng;jx xī;hh wàng;ww yáng;dy	1
 台风烟花	tái;sk fēng;jx yān;ld huā;cb	1
@@ -113,7 +113,7 @@ sort: by_weight
 台风竹节草	tái;sk fēng;jx zhú;ps jié;cq cǎo;cu	1
 台风浮莲	tái;sk fēng;jx fú;dz lián;cz	1
 台风安比	tái;sk fēng;jx ān;bn bǐ;bb	1
-台风白鹿	tái;sk fēng;jx bái;pp lù;bb	1
+台风白鹿	tái;sk fēng;jx bái;pp lù;sb	1
 台风云雀	tái;sk fēng;jx yún;qs què;uf	1
 台风红霞	tái;sk fēng;jx hóng;sg xiá;yi	1
 台风蜻蜓	tái;sk fēng;jx qīng;il tíng;iz	1
@@ -151,14 +151,14 @@ sort: by_weight
 台风翰文	tái;sk fēng;jx hàn;ux wén;wx	1
 台风莫拉克	tái;sk fēng;jx mò;cd lā;fl kè;uq	1
 台风莎莉嘉	tái;sk fēng;jx shā;cu lì;cd jiā;tk	1
-台风库都	tái;sk fēng;jx kù;bi dōu;lq	1
+台风库都	tái;sk fēng;jx kù;si dōu;lq	1
 台风天鸽	tái;sk fēng;jx tiān;hd gē;rn	1
 台风查特安	tái;sk fēng;jx chá;mh tè;nc ān;bn	1
 台风启德	tái;sk fēng;jx qǐ;hk dé;ix	1
 台风伊布都	tái;sk fēng;jx yī;ry bù;uj dōu;lq	1
 台风莫拉菲	tái;sk fēng;jx mò;cd lā;fl fēi;cf	1
 台风天秤	tái;sk fēng;jx tiān;hd chèng;hp	1
-台风鹿莎	tái;sk fēng;jx lù;bb shā;cu	1
+台风鹿莎	tái;sk fēng;jx lù;sb shā;cu	1
 台风山竹	tái;sk fēng;jx shān;sn zhú;ps	1
 台风山陀儿	tái;sk fēng;jx shān;sn tuó;qb ér;pv	1
 台风画眉	tái;sk fēng;jx huà;hn méi;vg	1
@@ -189,7 +189,7 @@ sort: by_weight
 台风珍珠	tái;sk fēng;jx zhēn;wp zhū;wv	1
 台风黄蜂	tái;sk fēng;jx huáng;cz fēng;if	1
 台风榴莲	tái;sk fēng;jx liú;mt lián;cz	1
-台风康森	tái;sk fēng;jx kāng;by sēn;mm	1
+台风康森	tái;sk fēng;jx kāng;sy sēn;mm	1
 台风桑美	tái;sk fēng;jx sāng;im měi;yd	1
 台风轩岚诺	tái;sk fēng;jx xuān;it lán;nx nuò;yk	1
 台风象神	tái;sk fēng;jx xiàng;xy shén;pu	1
@@ -201,8 +201,8 @@ sort: by_weight
 台风鲇鱼	tái;sk fēng;jx nián;gk yú;xh	1
 台风雷伊	tái;sk fēng;jx léi;yt yī;ry	1
 台风尼格	tái;sk fēng;jx ní;sb gé;mk	1
-台风天鹰	tái;sk fēng;jx tiān;hd yīng;bn	1
-台风奥鹿	tái;sk fēng;jx ào;pd lù;bb	1
+台风天鹰	tái;sk fēng;jx tiān;hd yīng;sn	1
+台风奥鹿	tái;sk fēng;jx ào;pd lù;sb	1
 台风宝霞	tái;sk fēng;jx bǎo;by xiá;yi	1
 台风菲特	tái;sk fēng;jx fēi;cf tè;nc	1
 台风海燕	tái;sk fēng;jx hǎi;dm yàn;nh	1
@@ -213,7 +213,7 @@ sort: by_weight
 台风韦森特	tái;sk fēng;jx wéi;hs sēn;mm tè;nc	1
 台风飞燕	tái;sk fēng;jx fēi;vx yàn;nh	1
 台风威马逊	tái;sk fēng;jx wēi;xn mǎ;vh xùn;zc	1
-台风康妮	tái;sk fēng;jx kāng;by nī;nb	1
+台风康妮	tái;sk fēng;jx kāng;sy nī;nb	1
 台风巨爵	tái;sk fēng;jx jù;nh jué;pc	1
 台风茉莉	tái;sk fēng;jx mò;cm lì;cd	1
 台风万宜	tái;sk fēng;jx wàn;hp yí;bq	1
@@ -223,5 +223,5 @@ sort: by_weight
 台风海马	tái;sk fēng;jx hǎi;dm mǎ;vh	1
 台风天兔	tái;sk fēng;jx tiān;hd tù;xx	1
 台风莫兰蒂	tái;sk fēng;jx mò;cd lán;bs dì;cj	1
-台风摩羯	tái;sk fēng;jx mó;bu jié;yv	1
+台风摩羯	tái;sk fēng;jx mó;su jié;yv	1
 台风洛坦	tái;sk fēng;jx luò;dk tǎn;th	1

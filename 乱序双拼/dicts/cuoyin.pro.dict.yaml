@@ -12,7 +12,7 @@ sort: by_weight
 墨明棋妙	mò;ht míng;pl qí;mz miào;nu	13032	乐队
 压力山大	yā;ix lì;vp shān;sn dà;uy	5312	网络语
 鸭梨山大	yā;jn lí;hm shān;sn dà;uy	5342	网络语
-麻麻赖赖	má;bm má;bm lài;ur lài;ur	16	网络语
+麻麻赖赖	má;sm má;sm lài;ur lài;ur	16	网络语
 绝代双椒	jué;sb dài;ry shuāng;ii jiāo;mi	858	网络语
 毁人不倦	huǐ;ji rén;py bú;hx juàn;rv	146	歌曲名
 佛教胜地	fó;rf jiào;lw shèng;lu dì;ty	67	佛教(圣)地
@@ -36,7 +36,7 @@ sort: by_weight
 秘鲁	mì;hb lǔ;gp	100	秘(bì)鲁
 贲临	bēn;ur lín;sh	100	贲(bì)临
 屏息	píng;sk xī;zx	100	屏(bǐng)息
-猜度	cāi;ql dù;bi	100	猜度(duó)
+猜度	cāi;ql dù;si	100	猜度(duó)
 肄业	sì;by yè;sh	100	肄(yì)业
 踟蹰	zhī;zk chú;zc	100	踟(chí)蹰
 恫吓	tóng;xk hè;kx	100	恫(dòng)吓
@@ -71,11 +71,11 @@ sort: by_weight
 大栅栏	dà;uy zhà;mc lán;ms	23	dà shí làn
 粘贴	nián;hk tiē;nk	884	粘(zhān)贴
 曝光	pù;pu guāng;xw	682	曝(bào)光
-东庠岛	dong;hx yang;by dao;pn	4	东庠(xiáng)岛
+东庠岛	dong;hx yang;sy dao;pn	4	东庠(xiáng)岛
 视频	shì;pq píng;vr	682	视频(pín)
 剖腹产	pāo;ld fù;lw chǎn;lp	170	剖(pōu)腹产
 阻塞	zu;qq sai;bt	20	阻塞(sè)
-魔爪	mó;bg zhuǎ;py	20	zhǎo
+魔爪	mó;sg zhuǎ;py	20	zhǎo
 着想	zháo;yg xiǎng;mx	862	着(zhuó)想
 崩溃	bēn;nl kuì;dr	480	崩(bēng)溃
 句芒	jù;bk máng;cw	428	句(gōu)芒
@@ -88,7 +88,7 @@ sort: by_weight
 猇亭	hu;qj ting;wd	46	xiāo tíng
 猇亭区	hu;qj ting;wd qu;nx	88	猇(xiāo)亭区
 屎溺	shǐ;sh nì;dd	546	shǐ niào
-东庠	dong;hx yang;by	226	dōng xiáng
+东庠	dong;hx yang;sy	226	dōng xiáng
 莒县	lǚ;ck xian;qs	237	jǔ xiàn
 浚县	jun;dw xian;qs	448	xùn xiàn
 郯城	ye;lq cheng;ti	297	tán chéng
@@ -140,10 +140,10 @@ sort: by_weight
 藤蔓	téng;cu màn;ci	320	téng wàn
 调换	tiáo;yk huàn;fd	620	diào huàn
 胴体	tóng;lk tǐ;rb	837	dòng tǐ
-荨麻	xún;cc má;bm	124	qián má
-荨麻疹	qián;cc má;bm zhěn;bp	200	xún má zhěn
+荨麻	xún;cc má;sm	124	qián má
+荨麻疹	qián;cc má;sm zhěn;bp	200	xún má zhěn
 亳州	háo;wq zhōu;xs	500	bó zhōu
-天秤座	tiān;hd píng;hp zuò;bt	100	秤(chèng)
+天秤座	tiān;hd píng;hp zuò;st	100	秤(chèng)
 戛然而止	ga;hg ran;ph er;hs zhi;sh	590	戛(jiá)然而止
 自怨自艾	zì;pg yuàn;xx zì;pg ài;cx	520	自怨自艾(yì)
 洪洞	hóng;dz dòng;dk	2918	hóng tóng
@@ -171,13 +171,13 @@ sort: by_weight
 安徽省六安市	ān;bn huī;iw shěng;ug liù;wz ān;bn shì;wj	1	ān huī shěng lù ān shì
 南京市六合区	nán;ut jīng;wc shì;wj liù;wz hé;rk qū;nx	1	nán jīng shì lù hé qū
 螺蛳粉	luó;ic shī;ij fěn;hd	150	螺蛳(sī)粉
-温庭筠	wēn;dm tíng;bz jūn;vd	210	温庭筠(yún)
+温庭筠	wēn;dm tíng;sz jūn;vd	210	温庭筠(yún)
 关卡	guān;bt kǎ;ub	14734	guān qiǎ
 牛皮癣	niú;ps pí;vi xiǎn;by	289	(癣)xuǎn
 三昧真火	sān;hq wèi;pw zhēn;uz huǒ;xr	440	三昧(mèi)真火
 优惠券	yōu;ry huì;hx juàn;jd	420	优惠券(quàn)
 没食子	méi;di shí;rl zǐ;vh	304	没(mò)食子
-魔蝎座	mó;bg xiē;iv zuò;bt	403	摩羯(jié)座
+魔蝎座	mó;sg xiē;iv zuò;st	403	摩羯(jié)座
 鄱阳湖	pan;pq yang;qp hu;dl	250	pó yáng hú
 契科夫	qī;fd kē;hu fū;hy	524	契诃(hē)夫
 太行山	tài;dx xíng;ii shān;sn	390	太行(háng)山
@@ -192,7 +192,7 @@ sort: by_weight
 南无阿弥陀佛	nán;ut wú;hy ē;qk mí;gc tuó;qb fó;rf	4	nā mó ē mí tuó fó
 按耐不住	àn;fn nài;qc bú;hx zhù;rv	948	按捺(nà)不住
 大腹便便	dà;uy fù;lw biàn;rg biàn;rg	15	dà fù pián pián
-歇斯底里	jiē;pr sī;qi dǐ;bd lǐ;sh	88	xiē sī dǐ lǐ
+歇斯底里	jiē;pr sī;qi dǐ;sd lǐ;sh	88	xiē sī dǐ lǐ
 力能扛鼎	lì;vp néng;sb káng;fg dǐng;gv	3	lì néng gāng dǐng
 模棱两可	mó;md líng;mw liǎng;hx kě;dk	85	mó léng liǎng kě
 心宽体胖	xīn;xx kuān;bq tǐ;rb pàng;lb	4	心宽体胖(pán)
