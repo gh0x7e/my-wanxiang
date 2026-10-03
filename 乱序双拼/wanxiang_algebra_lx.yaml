@@ -1611,8 +1611,6 @@ mixed:
       - derive/'([jqxy])u/'$1v/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
       - erase/.*[\-+'_#@\.·0-9].*$/
   
   乱序十七: 
@@ -1687,8 +1685,6 @@ mixed:
       - xlit/ACEKOPRSZ/HFWJXHNMW/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   十七优化: 
     __append:
@@ -1761,8 +1757,6 @@ mixed:
       - xlit/AEOPTYZ/RFWKRWQ/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   乱序二十: 
     __append:
@@ -1839,8 +1833,6 @@ mixed:
       - xlit/AEOPWX/TVQCQF/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   乱序廿三:
     __append:
@@ -1918,8 +1910,6 @@ mixed:
       - xlit/AEO/LMH/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   乱序廿四: 
     __append:
@@ -1999,8 +1989,6 @@ mixed:
       - xlit/AEO/LDH/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   乱序廿六: 
     __append:
@@ -2082,8 +2070,6 @@ mixed:
       - xlit/AEO/LDH/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   乱序手机: 
     __append:
@@ -2167,8 +2153,6 @@ mixed:
       - xlit/AEO/TDS/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
   原键优化: 
     __append:
@@ -2249,8 +2233,6 @@ mixed:
       - xlit/ⓆⓌⒺⓇⓉⓎⓊⒾⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyuiopasdfghjklzxcvbnm/
       - xform/'//
       - derive/^.+$/\L$0/
-      - derive/^([A-Z]{1})/\L$1/
-      - derive/^([a-z]{2})/\U$1/
 
 english:
   混合派生:
