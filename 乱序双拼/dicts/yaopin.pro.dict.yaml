@@ -296,11 +296,13 @@ sort: by_weight
 普罗托醇	pǔ;bp luó;sx tuō;fq chún;fz	50
 普罗新希	pǔ;bp luó;sx xīn;li xī;xj	45
 普美拉泰	pǔ;bp měi;yd lā;fl tài;fu	45
+扑热息痛	pū;fb rè;fh xī;zx tòng;by	279
 普适泰片	pǔ;bp shì;zk tài;fu piàn;pv	10
 清开灵片	qīng;dl kāi;hc líng;nl piàn;pv	10
 青霉胺片	qīng;fl méi;ym àn;ln piàn;pv	10
 曲拉西利	qǔ;sh lā;fl xī;hh lì;hd	10
 曲美替尼	qǔ;sh měi;yd tì;fp ní;sb	10
+炔孕酮片	quē;lg yùn;nz tóng;fk piàn;pv	4
 热淋清片	rè;fh lín;dm qīng;dl piàn;pv	10
 人参甘草	rén;py shēn;sp gān;nh cǎo;cu	10
 人胎盘片	rén;py tāi;lk pán;vm piàn;pv	10
@@ -565,7 +567,11 @@ sort: by_weight
 白带丸水丸	bái;pp dài;fj wán;px shuǐ;sy wán;px	10
 百地滋阴丸	bǎi;hb dì;ty zī;dy yīn;ql wán;px	10
 百合固金片	bǎi;hb hé;rk gù;wk jīn;rh piàn;pv	10
+百合固金汤	bǎi;hb hé;rk gù;wk jīn;rh tāng;dp	10
 百合固金丸	bǎi;hb hé;rk gù;wk jīn;rh wán;px	10
+百合鸡子汤	bǎi;hb hé;rk jī;in zǐ;vh tāng;dp	10
+百合知母汤	bǎi;hb hé;rk zhī;uk mǔ;vx tāng;dp	10
+白虎化癍汤	bái;pp hǔ;hj huà;rb bān;bw tāng;dp	10
 白虎活络膏	bái;pp hǔ;hj huó;dk luò;sk gāo;wl	10
 百花定喘片	bǎi;hb huā;cb dìng;br chuǎn;kq piàn;pv	10
 百花定喘丸	bǎi;hb huā;cb dìng;br chuǎn;kq wán;px	10
@@ -575,15 +581,23 @@ sort: by_weight
 百咳宁颗粒	bǎi;hb ké;kr níng;bd kē;gr lì;hl	10
 白蔻调中丸	bái;pp kòu;ci tiáo;yk zhōng;ss wán;px	10
 百乐眠胶囊	bǎi;hb lè;px mián;gm jiāo;lx náng;hf	10
+白蔹薏苡汤	bái;pp liǎn;cw yì;cx yǐ;cr tāng;dp	10
 白蒲黄胶囊	bái;pp pú;cf huáng;cz jiāo;lx náng;hf	10
 百痒消乳膏	bǎi;hb yǎng;by xiāo;dl rǔ;pv gāo;wl	10
 百益软胶囊	bǎi;hb yì;bm ruǎn;ir jiāo;lx náng;hf	10
 白玉化痰丸	bái;pp yù;wx huà;rb tán;bl wán;px	10
 白芷护心散	bái;pp zhǐ;cv hù;fh xīn;xx sàn;cw	10
+白芷升麻汤	bái;pp zhǐ;cv shēng;pc má;sm tāng;dp	10
+白芷石膏汤	bái;pp zhǐ;cv shí;hk gāo;wl tāng;dp	10
 白术安胃散	bái;pp zhú;mx ān;bn wèi;tl sàn;cw	10
+白术附子汤	bái;pp zhú;mx fù;qc zǐ;vh tāng;dp	10
+白术和中汤	bái;pp zhú;mx hé;hk zhōng;ss tāng;dp	10
+白术黄芩汤	bái;pp zhú;mx huáng;cz qín;cv tāng;dp	10
 白术芍药散	bái;pp zhú;mx sháo;cu yào;cu sàn;cw	10
 白术芍药汤	bái;pp zhú;mx sháo;cu yào;cu tāng;dp	10
+白术苡仁汤	bái;pp zhú;mx yǐ;cr rén;rq tāng;dp	10
 柏子养心片	bǎi;mb zǐ;vh yǎng;ys xīn;xx piàn;pv	10
+柏子养心汤	bǎi;mb zǐ;vh yǎng;ys xīn;xx tāng;dp	10
 柏子养心丸	bǎi;mb zǐ;vh yǎng;ys xīn;xx wán;px	10
 柏子滋心丸	bǎi;mb zǐ;vh zī;dy xīn;xx wán;px	10
 半固体制剂	bàn;xs gù;wk tǐ;rb zhì;pd jì;wd	10
@@ -597,10 +611,16 @@ sort: by_weight
 斑蝥酸钠片	bān;ww máo;si suān;fw nà;jn piàn;pv	10
 半夏茯神散	bàn;xs xià;hw fú;cq shén;pu sàn;cw	10
 半夏干姜散	bàn;xs xià;hw gān;hu jiāng;yn sàn;cw	10
+半夏厚朴汤	bàn;xs xià;hw hòu;iz pò;mb tāng;dp	10
+半夏藿香汤	bàn;xs xià;hw huò;cf xiāng;hp tāng;dp	10
 半夏露冲剂	bàn;xs xià;hw lù;yk chōng;dv jì;wd	10
 半夏露颗粒	bàn;xs xià;hw lù;yk kē;gr lì;hl	10
 半夏露糖浆	bàn;xs xià;hw lù;yk táng;hk jiāng;du	10
 半夏麻黄丸	bàn;xs xià;hw má;sm huáng;cz wán;px	10
+半夏散及汤	bàn;xs xià;hw sàn;cw jí;py tāng;dp	10
+半夏秫米汤	bàn;xs xià;hw shú;hu mǐ;xm tāng;dp	10
+半夏温肺汤	bàn;xs xià;hw wēn;dm fèi;ls tāng;dp	10
+半夏左经汤	bàn;xs xià;hw zuǒ;ug jīng;sg tāng;dp	10
 保安万灵丸	bǎo;rm ān;bn wàn;hp líng;nl wán;px	10
 宝宝乐颗粒	bǎo;by bao;by lè;px kē;gr lì;hl	10
 宝宝牛黄散	bǎo;by bao;by niú;ps huáng;cz sàn;cw	10
@@ -673,6 +693,7 @@ sort: by_weight
 比索洛尔片	bǐ;bb suǒ;uc luò;dk ěr;xc piàn;pv	10
 鼻通滴鼻液	bí;zs tōng;zy dī;dk bí;zs yè;dy	10
 痹痛宁胶囊	bì;bs tòng;by níng;bd jiāo;lx náng;hf	10
+必小柴胡汤	bì;xx xiǎo;sx chái;vm hú;ul tāng;dp	10
 萆薢分清丸	bì;cu xiè;cn fēn;zd qīng;dl wán;px	10
 鼻炎宁冲剂	bí;zs yán;ll níng;bd chōng;dv jì;wd	10
 鼻炎宁胶囊	bí;zs yán;ll níng;bd jiāo;lx náng;hf	10
@@ -707,6 +728,7 @@ sort: by_weight
 博尔宁胶囊	bó;uc ěr;xc níng;bd jiāo;lx náng;hf	10
 驳骨风湿酒	bó;mx gǔ;sl fēng;jx shī;dy jiǔ;df	10
 拨云退翳丸	bō;fx yún;qs tuì;zg yì;nx wán;px	10
+补肺阿胶汤	bǔ;pb fèi;ls ē;qk jiāo;lx tāng;dp	10
 补肺消肿丸	bǔ;pb fèi;ls xiāo;dl zhǒng;lv wán;px	10
 布累迪宁片	bù;uj lèi;tc dí;zy níng;bd piàn;pv	10
 布劣伪麻片	bù;uj liè;ul wěi;rw má;sm piàn;pv	10
@@ -738,6 +760,7 @@ sort: by_weight
 补血催生丸	bǔ;pb xuè;pm cuī;rf shēng;pf wán;px	10
 补血宁神片	bǔ;pb xuè;pm níng;bd shén;pu piàn;pv	10
 补血调经片	bǔ;pb xuè;pm tiáo;yk jīng;sg piàn;pv	10
+补阳还五汤	bǔ;pb yáng;qp hái;zb wǔ;hh tāng;dp	10
 补益地黄丸	bǔ;pb yì;bm dì;ty huáng;cz wán;px	10
 补益活络丸	bǔ;pb yì;bm huó;dk luò;sk wán;px	10
 补益蒺藜丸	bǔ;pb yì;bm jí;cu lí;cu wán;px	10
@@ -747,6 +770,7 @@ sort: by_weight
 补正续骨丸	bǔ;pb zhèng;hv xù;sd gǔ;sl wán;px	10
 补中益气膏	bǔ;pb zhōng;ss yì;bm qì;pv gāo;wl	10
 补中益气片	bǔ;pb zhōng;ss yì;bm qì;pv piàn;pv	10
+补中益气汤	bǔ;pb zhōng;ss yì;bm qì;pv tāng;dp	10
 补中益气丸	bǔ;pb zhōng;ss yì;bm qì;pv wán;px	10
 采力口服液	cǎi;pm lì;vp kǒu;sh fú;li yè;dy	10
 参贝北瓜膏	cān;sp bèi;nr běi;sb guā;py gāo;wl	10
@@ -806,12 +830,40 @@ sort: by_weight
 茶碱注射液	chá;cm jiǎn;uk zhù;dv shè;uc yè;dy	10
 茶新那敏片	chá;cm xīn;li nà;vq mǐn;pw piàn;pv	10
 柴磁地黄丸	chái;vm cí;uy dì;ty huáng;cz wán;px	10
+柴独苍术汤	chái;vm dú;qi cāng;cv zhú;mx tāng;dp	10
+柴葛桂枝汤	chái;vm gé;cv guì;mt zhī;mi tāng;dp	10
+柴葛解肌汤	chái;vm gé;cv jiě;xn jī;lj tāng;dp	10
 柴葛平胃散	chái;vm gé;cv píng;hu wèi;tl sàn;cw	10
+柴葛芩连汤	chái;vm gé;cv qín;cv lián;zi tāng;dp	10
+柴梗半夏汤	chái;vm gěng;mg bàn;xs xià;hw tāng;dp	10
+柴胡白虎汤	chái;vm hú;ul bái;pp hǔ;hj tāng;dp	10
+柴胡鳖甲汤	chái;vm hú;ul biē;xg jiǎ;ss tāng;dp	10
+柴胡参术汤	chái;vm hú;ul cān;sp shù;mx tāng;dp	10
+柴胡丁香汤	chái;vm hú;ul dīng;hs xiāng;hp tāng;dp	10
+柴胡独活汤	chái;vm hú;ul dú;qi huó;dk tāng;dp	10
+柴胡防风汤	chái;vm hú;ul fáng;qf fēng;jx tāng;dp	10
+柴胡复生汤	chái;vm hú;ul fù;pw shēng;pf tāng;dp	10
+柴胡厚朴汤	chái;vm hú;ul hòu;iz pò;mb tāng;dp	10
+柴胡加桂汤	chái;vm hú;ul jiā;lk guì;mt tāng;dp	10
+柴胡姜桂汤	chái;vm hú;ul jiāng;yn guì;mt tāng;dp	10
+柴胡羚角汤	chái;vm hú;ul líng;ys jiǎo;xy tāng;dp	10
+柴胡六合汤	chái;vm hú;ul liù;wz hé;rk tāng;dp	10
 柴胡麦冬散	chái;vm hú;ul mài;fw dōng;wx sàn;cw	10
 柴胡梅连散	chái;vm hú;ul méi;mm lián;zi sàn;cw	10
+柴胡羌活汤	chái;vm hú;ul qiāng;yv huó;dk tāng;dp	10
 柴胡清肝散	chái;vm hú;ul qīng;dl gān;lt sàn;cw	10
+柴胡清肝汤	chái;vm hú;ul qīng;dl gān;lt tāng;dp	10
+柴胡升麻汤	chái;vm hú;ul shēng;pc má;sm tāng;dp	10
+柴胡胜湿汤	chái;vm hú;ul shèng;lu shī;dy tāng;dp	10
+柴胡通经汤	chái;vm hú;ul tōng;zy jīng;sg tāng;dp	10
 柴胡退翳丸	chái;vm hú;ul tuì;zg yì;nx wán;px	10
+柴胡陷胸汤	chái;vm hú;ul xiàn;qj xiōng;ln tāng;dp	10
+柴胡芎归汤	chái;vm hú;ul xiōng;cg guī;sn tāng;dp	10
+柴胡养营汤	chái;vm hú;ul yǎng;ys yíng;ck tāng;dp	10
+柴胡抑肝汤	chái;vm hú;ul yì;fq gān;lt tāng;dp	10
 柴胡镇咳片	chái;vm hú;ul zhèn;jz ké;kr piàn;pv	10
+柴胡枳桔汤	chái;vm hú;ul zhǐ;mz jú;mk tāng;dp	10
+柴胡栀连汤	chái;vm hú;ul zhī;mv lián;zi tāng;dp	10
 柴胡栀子散	chái;vm hú;ul zhī;mv zi;vh sàn;cw	10
 柴黄口服液	chái;vm huáng;cz kǒu;sh fú;li yè;dy	10
 柴黄软胶囊	chái;vm huáng;cz ruǎn;ir jiāo;lx náng;hf	10
@@ -867,6 +919,7 @@ sort: by_weight
 虫草参芪膏	chóng;vx cǎo;cu shēn;sp qí;cu gāo;wl	10
 虫咬皮炎膏	chóng;vx yǎo;kx pí;vi yán;ll gāo;wl	10
 除湿白带丸	chú;qh shī;dy bái;pp dài;fj wán;px	10
+除湿胃苓汤	chú;qh shī;dy wèi;tl líng;cs tāng;dp	10
 除痰止嗽丸	chú;qh tán;bl zhǐ;sh sòu;kr wán;px	10
 除翳明目片	chú;qh yì;nx míng;pl mù;wh piàn;pv	10
 除脂生发片	chú;qh zhī;lp shēng;pf fà;vx piàn;pv	10
@@ -937,6 +990,8 @@ sort: by_weight
 代阿布洛岭	dài;ry ā;qk bù;uj luò;dk lǐng;ns	10
 带通滤波片	dài;fj tōng;zy lǜ;dx bō;di piàn;pv	10
 蛋白抑制剂	dàn;vi bái;pp yì;fq zhì;pd jì;wd	10
+胆道排石汤	dǎn;lh dào;zz pái;ff shí;hk tāng;dp	10
+胆道驱蛔汤	dǎn;lh dào;zz qū;mx huí;ik tāng;dp	10
 丹红滴注液	dān;ph hóng;sg dī;dk zhù;dv yè;dy	10
 丹红注射液	dān;ph hóng;sg zhù;dv shè;uc yè;dy	10
 丹花口服液	dān;ph huā;cb kǒu;sh fú;li yè;dy	10
@@ -977,9 +1032,11 @@ sort: by_weight
 当归黄精膏	dāng;xn guī;sn huáng;cz jīng;hl gāo;wl	10
 当归浸膏片	dāng;xn guī;sn jìn;di gāo;wl piàn;pv	10
 当归苦参丸	dāng;xn guī;sn kǔ;ck shēn;sp wán;px	10
+当归六黄汤	dāng;xn guī;sn liù;wz huáng;cz tāng;dp	10
 当归龙荟片	dāng;xn guī;sn lóng;ux huì;cs piàn;pv	10
 当归龙荟丸	dāng;xn guī;sn lóng;ux huì;cs wán;px	10
 当归南枣片	dāng;xn guī;sn nán;ut zǎo;hx piàn;pv	10
+当归拈痛汤	dāng;xn guī;sn niān;fk tòng;by tāng;dp	10
 当归拈痛丸	dāng;xn guī;sn niān;fk tòng;by wán;px	10
 当归芍药散	dāng;xn guī;sn sháo;cu yào;cu sàn;cw	10
 当归养血丸	dāng;xn guī;sn yǎng;ys xuè;pm wán;px	10
@@ -1016,6 +1073,8 @@ sort: by_weight
 颠茄磺苄啶	diān;ur qié;ck huáng;uz biàn;cb dìng;kr	10
 癫痫康胶囊	diān;br xián;bm kāng;sy jiāo;lx náng;hf	10
 调肝和胃丸	diào;yk gān;lt hé;hk wèi;tl wán;px	10
+调荣通脉汤	diào;yk róng;cm tōng;zy mài;ly tāng;dp	10
+调胃承气汤	diào;yk wèi;tl chéng;vy qì;pv tāng;dp	10
 调胃丹水丸	diào;yk wèi;tl dān;ph shuǐ;sy wán;px	10
 调胃舒肝丸	diào;yk wèi;tl shū;rs gān;lt wán;px	10
 调胃消滞丸	diào;yk wèi;tl xiāo;dl zhì;dj wán;px	10
@@ -1038,20 +1097,25 @@ sort: by_weight
 丁蔻理中丸	dīng;hs kòu;ci lǐ;wt zhōng;ss wán;px	10
 丁螺环酮片	dīng;hs luó;ic huán;wb tóng;fk piàn;pv	10
 丁硼漱口液	dīng;hs péng;ul shù;dr kǒu;sh yè;dy	10
+丁香胶艾汤	dīng;hs xiāng;hp jiāo;lx ài;cx tāng;dp	10
 丁香烂饭丸	dīng;hs xiāng;hp làn;ls fàn;ui wán;px	10
+丁香柿蒂汤	dīng;hs xiāng;hp shì;mj dì;cj tāng;dp	10
 东宝肝泰片	dōng;hx bǎo;by gān;lt tài;fu piàn;pv	10
 冬宝口服液	dōng;wx bǎo;by kǒu;sh fú;li yè;dy	10
 冻疮未溃膏	dòng;dd chuāng;bv wèi;hy kuì;dr gāo;wl	10
+冬地三黄汤	dōng;wx dì;ty sān;hq huáng;cz tāng;dp	10
 东方活血膏	dōng;hx fāng;xw huó;dk xuè;pm gāo;wl	10
 冻可消搽剂	dòng;dd kě;dk xiāo;dl chá;fm jì;wd	10
 东莨菪碱片	dōng;hx làng;cl dàng;cu jiǎn;uk piàn;pv	10
 冻伤护肤膏	dòng;dd shāng;rl hù;fh fū;lf gāo;wl	10
 东圣护肝片	dōng;hx shèng;it hù;fh gān;lt piàn;pv	10
 洞天长春膏	dòng;dk tiān;hd cháng;py chūn;fp gāo;wl	10
+东垣神秘汤	dōng;hx yuán;th shén;pu mì;hb tāng;dp	10
 豆腐果苷片	dòu;hh fu;sr guǒ;sy gān;cg piàn;pv	10
 豆蔻五味散	dòu;hh kòu;ci wǔ;hh wèi;kw sàn;cw	10
 都梁软胶囊	dōu;lq liáng;dm ruǎn;ir jiāo;lx náng;hf	10
 都烟消云散	dōu;lq yān;ld xiāo;dl yún;qs sàn;cw	10
+独活寄生汤	dú;qi huó;dk jì;bk shēng;pf tāng;dp	10
 独活寄生丸	dú;qi huó;dk jì;bk shēng;pf wán;px	10
 杜记独角膏	dù;mt jì;yj dú;qi jiǎo;xy gāo;wl	10
 度米芬滴丸	dù;si mǐ;xm fēn;cd dī;dk wán;px	10
@@ -1133,9 +1197,11 @@ sort: by_weight
 反应抑制剂	fǎn;pi yìng;sh yì;fq zhì;pd jì;wd	10
 防风通圣散	fáng;qf fēng;jx tōng;zy shèng;it sàn;cw	10
 防风通圣丸	fáng;qf fēng;jx tōng;zy shèng;it wán;px	10
+防己地黄汤	fáng;qf jǐ;vv dì;ty huáng;cz tāng;dp	10
 防己茯苓汤	fáng;qf jǐ;vv fú;cq líng;cs tāng;dp	10
 防己茯苓丸	fáng;qf jǐ;vv fú;cq líng;cs wán;px	10
 防己关节丸	fáng;qf jǐ;vv guān;bt jié;cq wán;px	10
+防己黄芪汤	fáng;qf jǐ;vv huáng;cz qí;cu tāng;dp	10
 防衰益寿丸	fáng;qf shuāi;wf yì;bm shòu;fc wán;px	10
 防芷鼻炎片	fáng;qf zhǐ;cv bí;zs yán;ll piàn;pv	10
 肺宝三效片	fèi;ls bǎo;by sān;hq xiào;ww piàn;pv	10
@@ -1398,6 +1464,7 @@ sort: by_weight
 孚宁阴道片	fú;pz níng;bd yīn;ql dào;zz piàn;pv	10
 妇女养血丸	fù;nn nǚ;vh yǎng;ys xuè;pm wán;px	10
 氟哌啶醇片	fú;qf pài;ky dìng;kr chún;fz piàn;pv	10
+浮萍银翘汤	fú;dz píng;cp yín;jg qiào;hx tāng;dp	10
 氟轻松搽剂	fú;qf qīng;ig sōng;ms chá;fm jì;wd	10
 氟轻松软膏	fú;qf qīng;ig sōng;ms ruǎn;ir gāo;wl	10
 肤轻松软膏	fū;lf qīng;ig sōng;ms ruǎn;ir gāo;wl	10
@@ -1423,6 +1490,7 @@ sort: by_weight
 妇炎舒胶囊	fù;nn yán;ll shū;rs jiāo;lx náng;hf	10
 妇炎泰颗粒	fù;nn yán;ll tài;fu kē;gr lì;hl	10
 浮翳坠翳丸	fú;dz yì;nx zhuì;qt yì;nx wán;px	10
+复元活血汤	fù;pw yuán;qq huó;dk xuè;pm tāng;dp	10
 扶元口服液	fú;ff yuán;qq kǒu;sh fú;li yè;dy	10
 妇月康胶囊	fù;nn yuè;nh kāng;sy jiāo;lx náng;hf	10
 妇月康颗粒	fù;nn yuè;nh kāng;sy kē;gr lì;hl	10
@@ -1433,11 +1501,17 @@ sort: by_weight
 肤痔清软膏	fū;lf zhì;bc qīng;dl ruǎn;ir gāo;wl	10
 腐植酸钠片	fǔ;sr zhí;mq suān;fw nà;jn piàn;pv	10
 复制抑制剂	fù;pw zhì;pd yì;fq zhì;pd jì;wd	10
+附子粳米汤	fù;qc zǐ;vh jīng;hg mǐ;xm tāng;dp	10
 附子理中片	fù;qc zǐ;vh lǐ;wt zhōng;ss piàn;pv	10
+附子理中汤	fù;qc zǐ;vh lǐ;wt zhōng;ss tāng;dp	10
 附子理中丸	fù;qc zǐ;vh lǐ;wt zhōng;ss wán;px	10
 附子理中液	fù;qc zǐ;vh lǐ;wt zhōng;ss yè;dy	10
+附子泻心汤	fù;qc zǐ;vh xiè;dy xīn;xx tāng;dp	10
 肝安注射液	gān;lt ān;bn zhù;dv shè;uc yè;dy	10
 肝必复胶囊	gān;lt bì;xx fù;pw jiāo;lx náng;hf	10
+甘草粉蜜汤	gān;nh cǎo;cu fěn;hd mì;bi tāng;dp	10
+甘草干姜汤	gān;nh cǎo;cu gān;hu jiāng;yn tāng;dp	10
+甘草麻桂汤	gān;nh cǎo;cu má;sm guì;mt tāng;dp	10
 甘草甜素片	gān;nh cǎo;cu tián;qg sù;fc piàn;pv	10
 甘草辛胶囊	gān;nh cǎo;cu xīn;lu jiāo;lx náng;hf	10
 甘草锌胶囊	gān;nh cǎo;cu xīn;ju jiāo;lx náng;hf	10
@@ -1452,9 +1526,14 @@ sort: by_weight
 肝复乐胶囊	gān;lt fù;pw lè;px jiāo;lx náng;hf	10
 干锅土豆片	gān;hu guō;jn tǔ;uh dòu;hh piàn;pv	10
 甘家松脂膏	gān;nh jiā;bu sōng;ms zhī;lp gāo;wl	10
+干姜附子汤	gān;hu jiāng;yn fù;qc zǐ;vh tāng;dp	10
+甘姜苓术汤	gān;nh jiāng;yn líng;cs shù;mx tāng;dp	10
 干金止带丸	gàn;hu jīn;rh zhǐ;sh dài;fj wán;px	10
 肝净注射液	gān;lt jìng;ds zhù;dv shè;uc yè;dy	10
 甘桔冰梅片	gān;nh jú;mk bīng;du méi;mm piàn;pv	10
+甘桔防风汤	gān;nh jú;mk fáng;qf fēng;jx tāng;dp	10
+甘菊荆芥汤	gān;nh jú;ch jīng;cd jiè;cs tāng;dp	10
+甘桔射干汤	gān;nh jú;mk yè;uc gān;hu tāng;dp	10
 肝康口服液	gān;lt kāng;sy kǒu;sh fú;li yè;dy	10
 橄榄晶冲剂	gǎn;mw lǎn;mq jīng;pp chōng;dv jì;wd	10
 橄榄晶颗粒	gǎn;mw lǎn;mq jīng;pp kē;gr lì;hl	10
@@ -1464,6 +1543,7 @@ sort: by_weight
 甘露消毒丸	gān;nh lù;yk xiāo;dl dú;fm wán;px	10
 甘露月晶丸	gān;nh lù;yk yuè;nh jīng;pp wán;px	10
 甘罗溴铵片	gān;nh luó;sx xiù;dq ǎn;jn piàn;pv	10
+甘麦大枣汤	gān;nh mài;fw dà;uy zǎo;hx tāng;dp	10
 感冒解表丸	gǎn;xx mào;ng jiě;xn biǎo;ff wán;px	10
 感冒解热片	gǎn;xx mào;ng jiě;xn rè;fh piàn;pv	10
 感冒解痛散	gǎn;xx mào;ng jiě;xn tòng;by sàn;cw	10
@@ -1491,6 +1571,8 @@ sort: by_weight
 感速康胶囊	gǎn;xx sù;zu kāng;sy jiāo;lx náng;hf	10
 肝速康胶囊	gān;lt sù;zu kāng;sy jiāo;lx náng;hf	10
 肝苏软胶囊	gān;lt sū;cb ruǎn;ir jiāo;lx náng;hf	10
+甘遂半夏汤	gān;nh suì;zu bàn;xs xià;hw tāng;dp	10
+甘遂通结汤	gān;nh suì;zu tōng;zy jié;sk tāng;dp	10
 肝泰舒胶囊	gān;lt tài;fu shū;rs jiāo;lx náng;hf	10
 感特灵胶囊	gǎn;xx tè;nc líng;nl jiāo;lx náng;hf	10
 肝胃气痛片	gān;lt wèi;tl qì;pv tòng;by piàn;pv	10
@@ -1518,6 +1600,7 @@ sort: by_weight
 蛤蚧治痨丸	gé;ik jiè;is zhì;dk láo;bl wán;px	10
 格拉司琼片	gé;mk lā;fl sī;vk qióng;wc piàn;pv	10
 革兰氏染液	gé;ns lán;bs shì;pv rǎn;dm yè;dy	10
+蛤蜊巧达汤	gé;ik lí;id qiǎo;gv dá;zd tāng;dp	10
 戈利昔替尼	gē;hx lì;hd xī;cp tì;fp ní;sb	10
 格列苯脲片	gé;mk liè;dd běn;cb niào;lu piàn;pv	10
 格列本脲片	gé;mk liè;dd běn;hh niào;lu piàn;pv	10
@@ -1528,6 +1611,8 @@ sort: by_weight
 格列齐特片	gé;mk liè;dd qí;ws tè;nc piàn;pv	10
 格隆溴铵片	gé;mk lóng;qu xiù;dq ǎn;jn piàn;pv	10
 格鲁米特片	gé;mk lǔ;gp mǐ;xm tè;nc piàn;pv	10
+膈下逐瘀汤	gé;ls xià;hb zhú;zu yū;bx tāng;dp	10
+膈下逐淤汤	gé;ls xià;hb zhú;zu yū;dx tāng;dp	10
 给喜古纳丸	gěi;sk xǐ;tk gǔ;uk nà;sn wán;px	10
 更美宁胶囊	gèng;hy měi;yd níng;bd jiāo;lx náng;hf	10
 更年安胶囊	gèng;hy nián;ps ān;bn jiāo;lx náng;hf	10
@@ -1546,11 +1631,13 @@ sort: by_weight
 工业的血液	gōng;hh yè;sh de;bu xuè;pm yè;dy	10
 公子小鱼丸	gōng;zs zǐ;vh xiǎo;sx yú;xh wán;px	10
 枸磺新啶片	gǒu;mk huáng;uz xīn;li dìng;kr piàn;pv	10
+枸杞羊肉汤	gǒu;mk qǐ;mj yáng;bs ròu;nr tāng;dp	10
 古庵心肾丸	gǔ;uk ān;sd xīn;xx shèn;sl wán;px	10
 固本咳喘片	gù;wk běn;hh ké;kr chuǎn;kq piàn;pv	10
 固本熄风丸	gù;wk běn;hh xī;lx fēng;jx wán;px	10
 固本延龄丸	gù;wk běn;hh yán;zv líng;vs wán;px	10
 固本益肠片	gù;wk běn;hh yì;bm cháng;lp piàn;pv	10
+固本止崩汤	gù;wk běn;hh zhǐ;sh bēng;nl tāng;dp	10
 固本止咳膏	gù;wk běn;hh zhǐ;sh ké;kr gāo;wl	10
 固肠止泻丸	gù;wk cháng;lp zhǐ;sh xiè;dy wán;px	10
 骨刺宁胶囊	gǔ;sl cì;hd níng;bd jiāo;lx náng;hf	10
@@ -1567,6 +1654,7 @@ sort: by_weight
 固精参茸丸	gù;wk jīng;hl shēn;sp róng;cq wán;px	10
 骨苓通痹丸	gǔ;sl líng;cs tōng;zy bì;bs wán;px	10
 骨膜灵颗粒	gǔ;sl mó;ld líng;nl kē;gr lì;hl	10
+顾母理脏汤	gù;ir mǔ;vx lǐ;wt zāng;lt tāng;dp	10
 骨宁注射液	gǔ;sl níng;bd zhù;dv shè;uc yè;dy	10
 骨伤康胶囊	gǔ;sl shāng;rl kāng;sy jiāo;lx náng;hf	10
 骨伤口服液	gǔ;sl shāng;rl kǒu;sh fú;li yè;dy	10
@@ -1591,10 +1679,14 @@ sort: by_weight
 骨折再生丸	gǔ;sl zhé;fi zài;hr shēng;pf wán;px	10
 骨质宁搽剂	gǔ;sl zhì;pr níng;bd chá;fm jì;wd	10
 瓜蒂神妙散	guā;py dì;cj shén;pu miào;nu sàn;cw	10
+栝蒌桂枝汤	guā;mk lóu;cn guì;mt zhī;mi tāng;dp	10
 栝蒌牡蛎散	guā;mk lóu;cn mǔ;nt lì;iw sàn;cw	10
+栝蒌牛蒡汤	guā;mk lóu;cn niú;ps bàng;cf tāng;dp	10
 栝蒌青黛丸	guā;mk lóu;cn qīng;fl dài;rh wán;px	10
 栝蒌瞿麦丸	guā;mk lóu;cn qú;gf mài;fw wán;px	10
 栝蒌杏连丸	guā;mk lóu;cn xìng;mk lián;zi wán;px	10
+栝蒌枳实汤	guā;mk lóu;cn zhǐ;mz shí;bd tāng;dp	10
+瓜蒌枳实汤	guā;py lóu;cn zhǐ;mz shí;bd tāng;dp	10
 贯防感冒片	guàn;gr fáng;qf gǎn;xx mào;ng piàn;pv	10
 关节风痛丸	guān;bt jié;cq fēng;jx tòng;by wán;px	10
 关节解痛膏	guān;bt jié;cq jiě;xn tòng;by gāo;wl	10
@@ -1618,6 +1710,7 @@ sort: by_weight
 桂附地黄片	guì;mt fù;qc dì;ty huáng;cz piàn;pv	10
 桂附地黄丸	guì;mt fù;qc dì;ty huáng;cz wán;px	10
 桂附理中丸	guì;mt fù;qc lǐ;wt zhōng;ss wán;px	10
+归桂化逆汤	guī;sn guì;mt huà;rb nì;zp tāng;dp	10
 归红跌打丸	guī;sn hóng;sg diē;zu dǎ;fd wán;px	10
 归红注射液	guī;sn hóng;sg zhù;dv shè;uc yè;dy	10
 龟甲拉颗粒	guī;xv jiǎ;ss lā;fl kē;gr lì;hl	10
@@ -1625,6 +1718,8 @@ sort: by_weight
 桂苓白术散	guì;mt líng;cs bái;pp zhú;mx sǎn;cw	10
 桂苓白术丸	guì;mt líng;cs bái;pp zhú;mx wán;px	10
 桂苓甘露散	guì;mt líng;cs gān;nh lù;yk sàn;cw	10
+桂苓甘术汤	guì;mt líng;cs gān;nh shù;mx tāng;dp	10
+桂苓神术汤	guì;mt líng;cs shén;pu shù;mx tāng;dp	10
 龟龙中风丸	guī;xv lóng;ux zhòng;ss fēng;jx wán;px	10
 龟鹿补肾丸	guī;xv lù;sb bǔ;pb shèn;sl wán;px	10
 龟鹿二胶丸	guī;xv lù;sb èr;hh jiāo;lx wán;px	10
@@ -1632,11 +1727,13 @@ sort: by_weight
 龟鹿宁神丸	guī;xv lù;sb níng;bd shén;pu wán;px	10
 龟鹿滋肾丸	guī;xv lù;sb zī;dy shèn;sl wán;px	10
 归麻止痛膏	guī;sn má;sm zhǐ;sh tòng;by gāo;wl	10
+归麦榆草汤	guī;sn mài;fw yú;md cǎo;cu tāng;dp	10
 归脾口服液	guī;sn pí;lu kǒu;sh fú;li yè;dy	10
 归脾浓缩丸	guī;sn pí;lu nóng;dn suō;sb wán;px	10
 归芪口服液	guī;sn qí;cu kǒu;sh fú;li yè;dy	10
 桂茸固本丸	guì;mt róng;cq gù;wk běn;hh wán;px	10
 龟茸壮骨片	guī;xv róng;cq zhuàng;dt gǔ;sl piàn;pv	10
+归芍地黄汤	guī;sn sháo;cu dì;ty huáng;cz tāng;dp	10
 归芍地黄丸	guī;sn sháo;cu dì;ty huáng;cz wán;px	10
 归芍红花散	guī;sn sháo;cu hóng;sg huā;cb sàn;cw	10
 归芍六君丸	guī;sn sháo;cu liù;wz jūn;yk wán;px	10
@@ -1644,21 +1741,43 @@ sort: by_weight
 归芍调经片	guī;sn sháo;cu tiáo;yk jīng;sg piàn;pv	10
 归芍调经丸	guī;sn sháo;cu tiáo;yk jīng;sg wán;px	10
 归芍异功散	guī;sn sháo;cu yì;sc gōng;gl sàn;cw	10
+归芍异功汤	guī;sn sháo;cu yì;sc gōng;gl tāng;dp	10
 硅烷处理剂	guī;ut wán;lq chǔ;wb lǐ;wt jì;wd	10
+归尾泽兰汤	guī;sn wěi;sm zé;ds lán;bs tāng;dp	10
 桂香祛暑散	guì;mt xiāng;hp qū;ps shǔ;pp sàn;cw	10
 桂香祛署散	guì;mt xiāng;hp qū;ps shǔ;sp sàn;cw	10
 归源功能液	guī;sn yuán;dc gōng;gl néng;sb yè;dy	10
 归元健脑片	guī;sn yuán;qq jiàn;rz nǎo;ln piàn;pv	10
 归圆口服液	guī;sn yuán;wr kǒu;sh fú;li yè;dy	10
+桂枝白虎汤	guì;mt zhī;mi bái;pp hǔ;hj tāng;dp	10
+桂枝半夏汤	guì;mt zhī;mi bàn;xs xià;hw tāng;dp	10
+桂枝柴胡汤	guì;mt zhī;mi chái;vm hú;ul tāng;dp	10
+桂枝防风汤	guì;mt zhī;mi fáng;qf fēng;jx tāng;dp	10
 桂枝茯苓片	guì;mt zhī;mi fú;cq líng;cs piàn;pv	10
 桂枝茯苓丸	guì;mt zhī;mi fú;cq líng;cs wán;px	10
 桂枝茯芩丸	guì;mt zhī;mi fú;cq qín;cv wán;px	10
+桂枝附子汤	guì;mt zhī;mi fù;qc zǐ;vh tāng;dp	10
+桂枝甘草汤	guì;mt zhī;mi gān;nh cǎo;cu tāng;dp	10
+桂枝葛根汤	guì;mt zhī;mi gé;cv gēn;mg tāng;dp	10
+桂枝黄芪汤	guì;mt zhī;mi huáng;cz qí;cu tāng;dp	10
+桂枝黄芩汤	guì;mt zhī;mi huáng;cz qín;cv tāng;dp	10
+桂枝加桂汤	guì;mt zhī;mi jiā;lk guì;mt tāng;dp	10
+桂枝姜附汤	guì;mt zhī;mi jiāng;yn fù;qc tāng;dp	10
 桂枝口服液	guì;mt zhī;mi kǒu;sh fú;li yè;dy	10
+桂枝麻黄汤	guì;mt zhī;mi má;sm huáng;cz tāng;dp	10
+桂枝羌活汤	guì;mt zhī;mi qiāng;yv huó;dk tāng;dp	10
+桂枝人参汤	guì;mt zhī;mi rén;py shēn;sp tāng;dp	10
 桂枝芍药汤	guì;mt zhī;mi sháo;cu yào;cu tāng;dp	10
+桂枝石膏汤	guì;mt zhī;mi shí;hk gāo;wl tāng;dp	10
+桂枝四七汤	guì;mt zhī;mi sì;wq qī;hv tāng;dp	10
+桂枝桃仁汤	guì;mt zhī;mi táo;mx rén;rq tāng;dp	10
+桂枝新加汤	guì;mt zhī;mi xīn;li jiā;lk tāng;dp	10
+桂枝续命汤	guì;mt zhī;mi xù;sd mìng;rq tāng;dp	10
 过碘酸染剂	guò;zc diǎn;uz suān;fw rǎn;dm jì;wd	10
 国木田花丸	guó;wy mù;uy tián;wu huā;cb wán;px	10
 海巴青霉素	hǎi;dm bā;ss qīng;fl méi;ym sù;fc	10
 海藏当归丸	hǎi;dm cáng;ci dāng;xn guī;sn wán;px	10
+海藏五饮汤	hǎi;dm cáng;ci wǔ;hh yǐn;ur tāng;dp	10
 海藏紫菀散	hǎi;dm cáng;ci zǐ;vc wǎn;cv sàn;cw	10
 氦丁烷合剂	hài;qr dīng;hs wán;lq hé;rk jì;wd	10
 海马多鞭丸	hǎi;dm mǎ;vh duō;xx biān;gg wán;px	10
@@ -1671,10 +1790,12 @@ sort: by_weight
 海洋胃药丸	hǎi;dm yáng;dy wèi;tl yào;cu wán;px	10
 海藻溃坚丸	hǎi;dm zǎo;cm kuì;dr jiān;st wán;px	10
 海藻散坚丸	hǎi;dm zǎo;cm sàn;cw jiān;st wán;px	10
+海藻玉壶汤	hǎi;dm zǎo;cm yù;wx hú;ty tāng;dp	10
 含化上清片	hán;rk huà;rb shàng;sh qīng;dl piàn;pv	10
 含氯消毒剂	hán;rk lǜ;qu xiāo;dl dú;fm jì;wd	10
 寒热痹胶囊	hán;bx rè;fh bì;bs jiāo;lx náng;hf	10
 汗为心之液	hàn;dt wéi;xx xīn;xx zhī;xy yè;dy	10
+蒿芩清胆汤	hāo;ck qín;cv qīng;dl dǎn;lh tāng;dp	10
 河车大造丸	hé;dk chē;hs dà;uy zào;zk wán;px	10
 合成抑制剂	hé;rk chéng;wv yì;fq zhì;pd jì;wd	10
 核酪口服液	hé;mr lào;fk kǒu;sh fú;li yè;dy	10
@@ -1694,10 +1815,15 @@ sort: by_weight
 红霉素药膏	hóng;sg méi;ym sù;fc yào;cu gāo;wl	10
 红芪口服液	hóng;sg qí;cu kǒu;sh fú;li yè;dy	10
 红色打样膏	hóng;sg sè;xb dǎ;fd yàng;my gāo;wl	10
+红糖姜枣汤	hóng;sg táng;hk jiāng;yn zǎo;hx tāng;dp	10
 红卫蛇药片	hóng;sg wèi;qh shé;ib yào;cu piàn;pv	10
 喉疾灵胶囊	hóu;ku jí;bu líng;nl jiāo;lx náng;hf	10
 厚朴大黄汤	hòu;iz pò;mb dà;uy huáng;cz tāng;dp	10
+厚朴七物汤	hòu;iz pò;mb qī;hv wù;nw tāng;dp	10
+厚朴三物汤	hòu;iz pò;mb sān;hq wù;nw tāng;dp	10
+厚朴温中汤	hòu;iz pò;mb wēn;dm zhōng;ss tāng;dp	10
 厚朴温中丸	hòu;iz pò;mb wēn;dm zhōng;ss wán;px	10
+厚朴夏苓汤	hòu;iz pò;mb xià;hw líng;cs tāng;dp	10
 喉舒口含片	hóu;ku shū;rs kǒu;sh hán;rk piàn;pv	10
 喉舒宁胶囊	hóu;ku shū;rs níng;bd jiāo;lx náng;hf	10
 喉痛灵颗粒	hóu;ku tòng;by líng;nl kē;gr lì;hl	10
@@ -1706,6 +1832,7 @@ sort: by_weight
 猴枣牛黄散	hóu;qu zǎo;hx niú;ps huáng;cz sàn;cw	10
 狐臭爽身液	hú;qg chòu;zq shuǎng;dx shēn;pp yè;dy	10
 护肝宁胶囊	hù;fh gān;lt níng;bd jiāo;lx náng;hf	10
+胡椒猪肚汤	hú;ul jiāo;mi zhū;qp dǔ;lt tāng;dp	10
 虎力散胶囊	hǔ;hj lì;vp sàn;cw jiāo;lx náng;hf	10
 琥珀抱龙丸	hǔ;wj pò;wb bào;fs lóng;ux wán;px	10
 琥珀多寐丸	hǔ;wj pò;wb duō;xx mèi;bw wán;px	10
@@ -1719,6 +1846,8 @@ sort: by_weight
 华容口服液	huá;ru róng;bk kǒu;sh fú;li yè;dy	10
 华沙利胆丸	huá;ru shā;du lì;hd dǎn;lh wán;px	10
 华山参滴丸	huá;ru shān;sn shēn;sp dī;dk wán;px	10
+花生沙参汤	huā;cb shēng;pf shā;du shēn;sp tāng;dp	10
+花生枣蜜汤	huā;cb shēng;pf zǎo;hx mì;bi tāng;dp	10
 滑石白鱼散	huá;dg shí;hk bái;pp yú;xh sàn;cw	10
 化痰平喘片	huà;rb tán;bl píng;hu chuǎn;kq piàn;pv	10
 化痰消咳片	huà;rb tán;bl xiāo;dl ké;kr piàn;pv	10
@@ -1754,9 +1883,11 @@ sort: by_weight
 黄连双清丸	huáng;cz lián;zi shuāng;ii qīng;dl wán;px	10
 黄连羊肝片	huáng;cz lián;zi yáng;bs gān;lt piàn;pv	10
 黄连羊肝丸	huáng;cz lián;zi yáng;bs gān;lt wán;px	10
+黄苓滑石汤	huáng;cz líng;cs huá;dg shí;hk tāng;dp	10
 黄麻嗪胶丸	huáng;cz má;sm qín;kh jiāo;lx wán;px	10
 黄芪健胃膏	huáng;cz qí;cu jiàn;rz wèi;tl gāo;wl	10
 黄芪建中丸	huáng;cz qí;cu jiàn;zy zhōng;ss wán;px	10
+黄芩滑石汤	huáng;cz qín;cv huá;dg shí;hk tāng;dp	10
 黄氏响声丸	huáng;cz shì;pv xiǎng;kk shēng;tp wán;px	10
 黄酮哌酯片	huáng;cz tóng;fk pài;ky zhǐ;fp piàn;pv	10
 黄萱益肝散	huáng;cz xuān;ch yì;bm gān;lt sàn;cw	10
@@ -1771,11 +1902,16 @@ sort: by_weight
 茴香桔核丸	huí;ck xiāng;hp jú;mk hé;mr wán;px	10
 茴香橘核丸	huí;ck xiāng;hp jú;mk hé;mr wán;px	10
 惠血生胶囊	huì;hx xuè;pm shēng;pf jiāo;lx náng;hf	10
+回阳救急汤	huí;wk yáng;qp jiù;qw jí;xx tāng;dp	10
+回阳救逆汤	huí;wk yáng;qp jiù;qw nì;zp tāng;dp	10
 混合核苷片	hùn;db hé;rk hé;mr gān;cg piàn;pv	10
 火把花根片	huǒ;xr bǎ;fb huā;cb gēn;mg piàn;pv	10
 活络健身液	huó;dk luò;sk jiàn;rz shēn;pp yè;dy	10
+活络效灵汤	huó;dk luò;sk xiào;ww líng;nl tāng;dp	10
 活络消痛片	huó;dk luò;sk xiāo;dl tòng;by piàn;pv	10
 活络止痛丸	huó;dk luò;sk zhǐ;sh tòng;by wán;px	10
+霍朴夏苓汤	huò;yf pǔ;mb xià;hw líng;cs tāng;dp	10
+藿朴夏苓汤	huò;cf pǔ;mb xià;hw líng;cs tāng;dp	10
 藿砂口服液	huò;cf shā;uu kǒu;sh fú;li yè;dy	10
 藿香清胃片	huò;cf xiāng;hp qīng;dl wèi;tl piàn;pv	10
 藿香万应散	huò;cf xiāng;hp wàn;hp yīng;sh sàn;cw	10
@@ -1823,10 +1959,12 @@ sort: by_weight
 吉祥安坤丸	jí;tk xiáng;py ān;bn kūn;tu wán;px	10
 鸡血散藤片	jī;in xiě;pm sàn;cw téng;cu piàn;pv	10
 鸡血腾糖浆	jī;in xiě;pm téng;lm táng;hk jiāng;du	10
+鲫鱼豆腐汤	jì;gq yú;xh dòu;hh fu;sr tāng;dp	10
 甲氨蝶呤片	jiǎ;ss ān;qn dié;im lìng;ks piàn;pv	10
 加巴喷丁片	jiā;lk bā;ss pēn;kr dīng;hs piàn;pv	10
 甲苯咪唑片	jiǎ;ss běn;cb mī;kh zuò;kt piàn;pv	10
 甲丙氨酯片	jiǎ;ss bǐng;hn ān;qn zhǐ;fp piàn;pv	10
+加参生化汤	jiā;lk cān;sp shēng;pf huà;rb tāng;dp	10
 家传和中丸	jiā;bu chuán;rv hé;hk zhōng;ss wán;px	10
 甲地高辛片	jiǎ;ss dì;ty gāo;wk xīn;lu piàn;pv	10
 甲地孕酮片	jiǎ;ss dì;ty yùn;nz tóng;fk piàn;pv	10
@@ -1835,16 +1973,27 @@ sort: by_weight
 嘉恒妇康片	jiā;tk héng;xh fù;nn kāng;sy piàn;pv	10
 嘉恒咽炎片	jiā;tk héng;xh yān;kd yán;ll piàn;pv	10
 甲基多巴片	jiǎ;ss jī;qt duō;xx bā;ss piàn;pv	10
+甲己化土汤	jiǎ;ss jǐ;vv huà;rb tǔ;uh tāng;dp	10
 加减白术膏	jiā;lk jiǎn;dk bái;pp zhú;mx gāo;wl	10
 加减补筋丸	jiā;lk jiǎn;dk bǔ;pb jīn;vl wán;px	10
+加减冲和汤	jiā;lk jiǎn;dk chōng;dv hé;hk tāng;dp	10
+加减六君汤	jiā;lk jiǎn;dk liù;wz jūn;yk tāng;dp	10
 加减木香散	jiā;lk jiǎn;dk mù;uy xiāng;hp sàn;cw	10
 加减内固丸	jiā;lk jiǎn;dk nèi;sx gù;wk wán;px	10
 加减三黄丸	jiā;lk jiǎn;dk sān;hq huáng;cz wán;px	10
+加减三奇汤	jiā;lk jiǎn;dk sān;hq qí;dk tāng;dp	10
 加减神术散	jiā;lk jiǎn;dk shén;pu shù;mx sàn;cw	10
 佳丽洁阴液	jiā;rt lì;hx jié;dk yīn;ql yè;dy	10
 甲硫氨酸片	jiǎ;ss liú;uv ān;qn suān;fw piàn;pv	10
 甲麻黄碱片	jiǎ;ss má;sm huáng;cz jiǎn;uk piàn;pv	10
+家秘胆星汤	jiā;bu mì;hb dǎn;lh xīng;pu tāng;dp	10
 家秘肝肾丸	jiā;bu mì;hb gān;lt shèn;sl wán;px	10
+家秘黄芩汤	jiā;bu mì;hb huáng;cz qín;cv tāng;dp	10
+家秘清胃汤	jiā;bu mì;hb qīng;dl wèi;tl tāng;dp	10
+家秘神术汤	jiā;bu mì;hb shén;pu shù;mx tāng;dp	10
+家秘温肺汤	jiā;bu mì;hb wēn;dm fèi;ls tāng;dp	10
+家秘戊己汤	jiā;bu mì;hb wù;gp jǐ;vv tāng;dp	10
+家秘消滞汤	jiā;bu mì;hb xiāo;dl zhì;dj tāng;dp	10
 家秘泻白散	jiā;bu mì;hb xiè;dy bái;pp sàn;cw	10
 家秘泻黄散	jiā;bu mì;hb xiè;dy huáng;cz sàn;cw	10
 甲灭酸胶囊	jiǎ;ss miè;hl suān;fw jiāo;lx náng;hf	10
@@ -1861,39 +2010,67 @@ sort: by_weight
 加味败毒散	jiā;lk wèi;kw bài;nw dú;fm sàn;cw	10
 加味白药丸	jiā;lk wèi;kw bái;pp yào;cu wán;px	10
 加味保和丸	jiā;lk wèi;kw bǎo;rm hé;hk wán;px	10
+加味保元汤	jiā;lk wèi;kw bǎo;rm yuán;qq tāng;dp	10
 加味补肝散	jiā;lk wèi;kw bǔ;pb gān;lt sàn;cw	10
+加味补血汤	jiā;lk wèi;kw bǔ;pb xuè;pm tāng;dp	10
 加味补阴丸	jiā;lk wèi;kw bǔ;pb yīn;ql wán;px	10
 加味苍柏散	jiā;lk wèi;kw cāng;cv bǎi;mb sàn;cw	10
+加味柴胡汤	jiā;lk wèi;kw chái;vm hú;ul tāng;dp	10
 加味丹参片	jiā;lk wèi;kw dān;ph shēn;sp piàn;pv	10
+加味导痰汤	jiā;lk wèi;kw dǎo;sc tán;bl tāng;dp	10
+加味地黄汤	jiā;lk wèi;kw dì;ty huáng;cz tāng;dp	10
 加味地黄丸	jiā;lk wèi;kw dì;ty huáng;cz wán;px	10
 加味定志丸	jiā;lk wèi;kw dìng;br zhì;tx wán;px	10
+加味二陈汤	jiā;lk wèi;kw èr;hh chén;qd tāng;dp	10
+加味二妙汤	jiā;lk wèi;kw èr;hh miào;nu tāng;dp	10
 加味二妙丸	jiā;lk wèi;kw èr;hh miào;nu wán;px	10
 加味二母丸	jiā;lk wèi;kw èr;hh mǔ;vx wán;px	10
 加味佛手散	jiā;lk wèi;kw fó;rf shǒu;ps sàn;cw	10
 加味茯苓汤	jiā;lk wèi;kw fú;cq líng;cs tāng;dp	10
+加味甘桔汤	jiā;lk wèi;kw gān;nh jú;mk tāng;dp	10
 加味感冒丸	jiā;lk wèi;kw gǎn;xx mào;ng wán;px	10
 加味归脾丸	jiā;lk wèi;kw guī;sn pí;lu wán;px	10
 加味归芪片	jiā;lk wèi;kw guī;sn qí;cu piàn;pv	10
+加味归芍汤	jiā;lk wèi;kw guī;sn sháo;cu tāng;dp	10
+加味归宗汤	jiā;lk wèi;kw guī;sn zōng;bc tāng;dp	10
 加味虎潜丸	jiā;lk wèi;kw hǔ;hj qián;dp wán;px	10
 加味槐角丸	jiā;lk wèi;kw huái;mg jiǎo;xy wán;px	10
 加味活命散	jiā;lk wèi;kw huó;dk mìng;rq sàn;cw	10
 加味藿香散	jiā;lk wèi;kw huò;cf xiāng;hp sàn;cw	10
+加味建中汤	jiā;lk wèi;kw jiàn;zy zhōng;ss tāng;dp	10
+加味姜附汤	jiā;lk wèi;kw jiāng;yn fù;qc tāng;dp	10
+加味解毒汤	jiā;lk wèi;kw jiě;xn dú;fm tāng;dp	10
 加味金黄散	jiā;lk wèi;kw jīn;rh huáng;cz sàn;cw	10
 加味坎离丸	jiā;lk wèi;kw kǎn;tr lí;wx wán;px	10
 加味葵子散	jiā;lk wèi;kw kuí;ct zǐ;vh sàn;cw	10
 加味烂积丸	jiā;lk wèi;kw làn;ls jī;hz wán;px	10
+加味连草汤	jiā;lk wèi;kw lián;zi cǎo;cu tāng;dp	10
 加味连理丸	jiā;lk wèi;kw lián;zi lǐ;wt wán;px	10
 加味凉膈散	jiā;lk wèi;kw liáng;dc gé;ls sàn;cw	10
+加味麻黄汤	jiā;lk wèi;kw má;sm huáng;cz tāng;dp	10
 加味平胃散	jiā;lk wèi;kw píng;hu wèi;tl sàn;cw	10
 加味七厘散	jiā;lk wèi;kw qī;hv lí;it sàn;cw	10
 加味青娥丸	jiā;lk wèi;kw qīng;fl é;nw wán;px	10
 加味清胃散	jiā;lk wèi;kw qīng;dl wèi;tl sàn;cw	10
+加味清胃汤	jiā;lk wèi;kw qīng;dl wèi;tl tāng;dp	10
+加味三拗汤	jiā;lk wèi;kw sān;hq ǎo;fl tāng;dp	10
+加味三星汤	jiā;lk wèi;kw sān;hq xīng;pu tāng;dp	10
 加味肾气丸	jiā;lk wèi;kw shèn;sl qì;pv wán;px	10
+加味肾热汤	jiā;lk wèi;kw shèn;sl rè;fh tāng;dp	10
+加味生化汤	jiā;lk wèi;kw shēng;pf huà;rb tāng;dp	10
+加味胜湿汤	jiā;lk wèi;kw shèng;lu shī;dy tāng;dp	10
 加味四斤丸	jiā;lk wèi;kw sì;wq jīn;ps wán;px	10
 加味四苓散	jiā;lk wèi;kw sì;wq líng;cs sàn;cw	10
+加味四七汤	jiā;lk wèi;kw sì;wq qī;hv tāng;dp	10
+加味四物汤	jiā;lk wèi;kw sì;wq wù;nw tāng;dp	10
 加味四消丸	jiā;lk wèi;kw sì;wq xiāo;dl wán;px	10
 加味太一膏	jiā;lk wèi;kw tài;dx yī;hh gāo;wl	10
 加味太乙膏	jiā;lk wèi;kw tài;dx yǐ;vv gāo;wl	10
+加味胃苓汤	jiā;lk wèi;kw wèi;tl líng;cs tāng;dp	10
+加味温胆汤	jiā;lk wèi;kw wēn;dm dǎn;lh tāng;dp	10
+加味五痹汤	jiā;lk wèi;kw wǔ;hh bì;bs tāng;dp	10
+加味戊己汤	jiā;lk wèi;kw wù;gp jǐ;vv tāng;dp	10
+加味乌药汤	jiā;lk wèi;kw wū;ph yào;cu tāng;dp	10
 加味西黄丸	jiā;lk wèi;kw xī;hh huáng;cz wán;px	10
 加味香连丸	jiā;lk wèi;kw xiāng;hp lián;zi wán;px	10
 加味香苏散	jiā;lk wèi;kw xiāng;hp sū;cb sàn;cw	10
@@ -1902,14 +2079,20 @@ sort: by_weight
 加味消遥丸	jiā;lk wèi;kw xiāo;dl yáo;zf wán;px	10
 加味逍遥丸	jiā;lk wèi;kw xiāo;zl yáo;zf wán;px	10
 加味泻白散	jiā;lk wèi;kw xiè;dy bái;pp sàn;cw	10
+加味泻白汤	jiā;lk wèi;kw xiè;dy bái;pp tāng;dp	10
 加味泻黄散	jiā;lk wèi;kw xiè;dy huáng;cz sàn;cw	10
+加味泻心汤	jiā;lk wèi;kw xiè;dy xīn;xx tāng;dp	10
 加味修肝散	jiā;lk wèi;kw xiū;rp gān;lt sàn;cw	10
 加味养荣丸	jiā;lk wèi;kw yǎng;ys róng;cm wán;px	10
+加味养心汤	jiā;lk wèi;kw yǎng;ys xīn;xx tāng;dp	10
 加味易黄丸	jiā;lk wèi;kw yì;pw huáng;cz wán;px	10
 加味益母丸	jiā;lk wèi;kw yì;bm mǔ;vx wán;px	10
 加味银翘片	jiā;lk wèi;kw yín;jg qiào;hx piàn;pv	10
+加味枳术汤	jiā;lk wèi;kw zhǐ;mz shù;mx tāng;dp	10
 加味枳术丸	jiā;lk wèi;kw zhǐ;mz shù;mx wán;px	10
 加味珠黄散	jiā;lk wèi;kw zhū;wv huáng;cz sàn;cw	10
+加味竹叶汤	jiā;lk wèi;kw zhú;ps yè;ku tāng;dp	10
+加味左金汤	jiā;lk wèi;kw zuǒ;ug jīn;rh tāng;dp	10
 加味左金丸	jiā;lk wèi;kw zuǒ;ug jīn;rh wán;px	10
 甲硝唑片片	jiǎ;ss xiāo;ul zuò;kt piàn;pv piàn;pv	10
 甲硝唑维片	jiǎ;ss xiāo;ul zuò;kt wéi;sf piàn;pv	10
@@ -1979,6 +2162,8 @@ sort: by_weight
 降脂灵颗粒	jiàng;qs zhī;lp líng;nl kē;gr lì;hl	10
 降脂宁胶囊	jiàng;qs zhī;lp níng;bd jiāo;lx náng;hf	10
 降脂宁颗粒	jiàng;qs zhī;lp níng;bd kē;gr lì;hl	10
+胶艾六合汤	jiāo;lx ài;cx liù;wz hé;rk tāng;dp	10
+胶艾四物汤	jiāo;lx ài;cx sì;wq wù;nw tāng;dp	10
 交换抑制剂	jiāo;wx huàn;fd yì;fq zhì;pd jì;wd	10
 交沙霉素片	jiāo;wx shā;du méi;ym sù;fc piàn;pv	10
 角鲨烯胶丸	jiǎo;xy shā;dg xī;lj jiāo;lx wán;px	10
@@ -2005,7 +2190,9 @@ sort: by_weight
 洁肤净洗剂	jié;dk fū;lf jìng;ds xǐ;dq jì;wd	10
 秸秆颗粒机	jiē;hk gǎn;ht kē;gr lì;hl jī;mj	10
 桔梗冬花片	jié;mk gěng;mg dōng;wx huā;cb piàn;pv	10
+桔梗二陈汤	jié;mk gěng;mg èr;hh chén;qd tāng;dp	10
 桔梗流浸膏	jié;mk gěng;mg liú;dv jìn;di gāo;wl	10
+桔梗枳壳汤	jié;mk gěng;mg zhǐ;mz qiào;tj tāng;dp	10
 结构控制剂	jié;sk gòu;ms kòng;fg zhì;pd jì;wd	10
 接骨灵贴膏	jiē;fn gǔ;sl líng;nl tiē;nk gāo;wl	10
 接骨七厘片	jiē;fn gǔ;sl qī;hv lí;it piàn;pv	10
@@ -2132,6 +2319,7 @@ sort: by_weight
 九气心痛丸	jiǔ;pv qì;pv xīn;xx tòng;by wán;px	10
 九味牛黄丸	jiǔ;pv wèi;kw niú;ps huáng;cz wán;px	10
 九味羌活片	jiǔ;pv wèi;kw qiāng;yv huó;dk piàn;pv	10
+九味羌活汤	jiǔ;pv wèi;kw qiāng;yv huó;dk tāng;dp	10
 九味羌活丸	jiǔ;pv wèi;kw qiāng;yv huó;dk wán;px	10
 九味青鹏散	jiǔ;pv wèi;kw qīng;fl péng;ln sàn;cw	10
 九味石榴丸	jiǔ;pv wèi;kw shí;hk liu;mt wán;px	10
@@ -2162,6 +2350,7 @@ sort: by_weight
 菊花茶调散	jú;ch huā;cb chá;cm tiáo;yk sàn;cw	10
 菊明降压片	jú;ch míng;pl jiàng;qs yā;ix piàn;pv	10
 菊明降压丸	jú;ch míng;pl jiàng;qs yā;ix wán;px	10
+橘皮竹茹汤	jú;mk pí;vi zhú;ps rú;ck tāng;dp	10
 枸橼酸锌片	jǔ;mk yuán;mu suān;fw xīn;ju piàn;pv	10
 桔远止咳片	jú;mk yuǎn;zq zhǐ;sh ké;kr piàn;pv	10
 蠲痹抗生丸	juān;bi bì;bs kàng;fj shēng;pf wán;px	10
@@ -2230,6 +2419,7 @@ sort: by_weight
 抗炎退热片	kàng;fj yán;ll tuì;zg rè;fh piàn;pv	10
 烤瓷包埋液	kǎo;lv cí;dw bāo;bs mái;tt yè;dy	10
 考来烯胺散	kǎo;lv lái;hy xī;lj àn;ln sàn;cw	10
+可保立苏汤	kě;dk bǎo;rm lì;wh sū;cb tāng;dp	10
 克痹骨泰片	kè;uq bì;bs gǔ;sl tài;fu piàn;pv	10
 克比热提片	kè;uq bǐ;bb rè;fh tí;fr piàn;pv	10
 咳喘感冒片	ké;kr chuǎn;kq gǎn;xx mào;ng piàn;pv	10
@@ -2323,7 +2513,10 @@ sort: by_weight
 蓝芩口服液	lán;cm qín;cv kǒu;sh fú;li yè;dy	10
 蓝色小药丸	lán;cm sè;xb xiǎo;sx yào;cu wán;px	10
 兰索拉唑片	lán;bs suǒ;uc lā;fl zuò;kt piàn;pv	10
+阑尾化瘀汤	lán;mj wěi;sm huà;rb yū;bx tāng;dp	10
 阑尾灵颗粒	lán;mj wěi;sm líng;nl kē;gr lì;hl	10
+阑尾清化汤	lán;mj wěi;sm qīng;dl huà;rb tāng;dp	10
+阑尾清解汤	lán;mj wěi;sm qīng;dl jiě;xn tāng;dp	10
 阑尾消炎片	lán;mj wěi;sm xiāo;dl yán;ll piàn;pv	10
 阑尾消炎丸	lán;mj wěi;sm xiāo;dl yán;ll wán;px	10
 莨菪浸膏片	làng;cl dàng;cu jìn;di gāo;wl piàn;pv	10
@@ -2331,6 +2524,8 @@ sort: by_weight
 老年咳喘片	lǎo;lb nián;ps ké;kr chuǎn;kq piàn;pv	10
 乐儿康糖浆	lè;px er;pv kāng;sy táng;hk jiāng;du	10
 乐甲缓释片	lè;px jiǎ;ss huǎn;si shì;ps piàn;pv	10
+乐令黄芪汤	lè;px lìng;rs huáng;cz qí;cu tāng;dp	10
+乐令建中汤	lè;px lìng;rs jiàn;zy zhōng;ss tāng;dp	10
 勒马回胶囊	lè;gl mǎ;vh huí;wk jiāo;lx náng;hf	10
 乐脉口服液	lè;px mài;ly kǒu;sh fú;li yè;dy	10
 雷佛奴尔液	léi;yt fó;rf nú;ni ěr;xc yè;dy	10
@@ -2360,6 +2555,7 @@ sort: by_weight
 利肝隆胶囊	lì;hd gān;lt lóng;qu jiāo;lx náng;hf	10
 利肝隆颗粒	lì;hd gān;lt lóng;qu kē;gr lì;hl	10
 利肝糖衣片	lì;hd gān;lt táng;hk yī;wf piàn;pv	10
+藜芦甘草汤	lí;cu lú;ch gān;nh cǎo;cu tāng;dp	10
 利脑心胶囊	lì;hd nǎo;ln xīn;xx jiāo;lx náng;hf	10
 利尿八味散	lì;hd niào;su bā;py wèi;kw sàn;cw	10
 利尿消炎丸	lì;hd niào;su xiāo;dl yán;ll wán;px	10
@@ -2373,23 +2569,32 @@ sort: by_weight
 痢特敏颗粒	lì;bd tè;nc mǐn;pw kē;gr lì;hl	10
 利托那韦片	lì;hd tuō;fq nà;vq wéi;hs piàn;pv	10
 利妥昔单抗	lì;hd tuǒ;pn xī;cp dān;bs kàng;fj	10
+立应四物汤	lì;wh yīng;sh sì;wq wù;nw tāng;dp	10
+荔枝大枣汤	lì;cl zhī;mi dà;uy zǎo;hx tāng;dp	10
 励志情色片	lì;il zhì;tx qíng;xl sè;xb piàn;pv	10
+理中安蛔汤	lǐ;wt zhōng;ss ān;bn huí;ik tāng;dp	10
+理中化痰汤	lǐ;wt zhōng;ss huà;rb tán;bl tāng;dp	10
 连柏烧伤膏	lián;zi bǎi;mb shāo;lw shāng;rl gāo;wl	10
 联苯双酯片	lián;qt běn;cb shuāng;ii zhǐ;fp piàn;pv	10
 莲胆消炎片	lián;cz dǎn;lh xiāo;dl yán;ll piàn;pv	10
 联发科芯片	lián;qt fā;vx kē;hu xīn;cx piàn;pv	10
+连梅安蛔汤	lián;zi méi;mm ān;bn huí;ik tāng;dp	10
 连蒲双清片	lián;zi pú;cf shuāng;ii qīng;dl piàn;pv	10
 连翘败毒片	lián;zi qiáo;hx bài;nw dú;fm piàn;pv	10
 连翘败毒丸	lián;zi qiáo;hx bài;nw dú;fm wán;px	10
 链球菌制剂	liàn;jz qiú;wq jūn;ch zhì;pd jì;wd	10
 莲芝消炎片	lián;cz zhī;cv xiāo;dl yán;ll piàn;pv	10
+凉肝导赤汤	liáng;dc gān;lt dǎo;sc chì;tx tāng;dp	10
+凉膈白虎汤	liáng;dc gé;ls bái;pp hǔ;hj tāng;dp	10
 凉膈连翘散	liáng;dc gé;ls lián;zi qiáo;hx sàn;cw	10
 亮菌甲素片	liàng;wj jūn;ch jiǎ;ss sù;fc piàn;pv	10
 亮菌口服液	liàng;wj jūn;ch kǒu;sh fú;li yè;dy	10
 两面针痛片	liǎng;hx miàn;hh zhēn;ju tòng;by piàn;pv	10
 两面注射液	liǎng;hx miàn;hh zhù;dv shè;uc yè;dy	10
+凉心清肝汤	liáng;dc xīn;xx qīng;dl gān;lt tāng;dp	10
 亮雪口服液	liàng;wj xuě;yn kǒu;sh fú;li yè;dy	10
 凉血十味散	liáng;dc xuè;pm shí;hs wèi;kw sàn;cw	10
+凉营清气汤	liáng;dc yíng;ck qīng;dl qì;pv tāng;dp	10
 辽源七厘散	liáo;zl yuán;dc qī;hv lí;it sàn;cw	10
 鳞柄白鹅膏	lín;gs bǐng;mb bái;pp é;wn gāo;wl	10
 林可霉素片	lín;mm kě;dk méi;ym sù;fc piàn;pv	10
@@ -2400,7 +2605,9 @@ sort: by_weight
 灵宝如意丸	líng;nl bǎo;by rú;nk yì;lx wán;px	10
 灵丹草胶囊	líng;nl dān;ph cǎo;cu jiāo;lx náng;hf	10
 灵丹草颗粒	líng;nl dān;ph cǎo;cu kē;gr lì;hl	10
+苓桂术甘汤	líng;cs guì;mt shù;mx gān;nh tāng;dp	10
 羚黄宝儿丸	líng;ys huáng;cz bǎo;by er;pv wán;px	10
+羚角钩藤汤	líng;ys jiǎo;xy gōu;js téng;cu tāng;dp	10
 灵敏色辉片	líng;nl mǐn;pw sè;xb huī;xi piàn;pv	10
 灵芪红胶囊	líng;nl qí;cu hóng;sg jiāo;lx náng;hf	10
 羚翘解毒片	líng;ys qiào;hx jiě;xn dú;fm piàn;pv	10
@@ -2433,6 +2640,7 @@ sort: by_weight
 六味安消散	liù;wz wèi;kw ān;bn xiāo;dl sàn;cw	10
 六味地黄膏	liù;wz wèi;kw dì;ty huáng;cz gāo;wl	10
 六味地黄片	liù;wz wèi;kw dì;ty huáng;cz piàn;pv	10
+六味地黄汤	liù;wz wèi;kw dì;ty huáng;cz tāng;dp	10
 六味地黄丸	liù;wz wèi;kw dì;ty huáng;cz wán;px	10
 六味丁香丸	liù;wz wèi;kw dīng;hs xiāng;hp wán;px	10
 六味甘草丸	liù;wz wèi;kw gān;nh cǎo;cu wán;px	10
@@ -2450,7 +2658,11 @@ sort: by_weight
 龙参补益膏	lóng;ux cān;sp bǔ;pb yì;bm gāo;wl	10
 龙胆苏打片	lóng;ux dǎn;lh sū;cb dá;fd piàn;pv	10
 龙胆泻肝片	lóng;ux dǎn;lh xiè;dy gān;lt piàn;pv	10
+龙胆泻肝汤	lóng;ux dǎn;lh xiè;dy gān;lt tāng;dp	10
 龙凤宝胶囊	lóng;ux fèng;ji bǎo;by jiāo;lx náng;hf	10
+龙蚝理痰汤	lóng;ux háo;im lǐ;wt tán;bl tāng;dp	10
+龙虎二仙汤	lóng;ux hǔ;hj èr;hh xiān;rn tāng;dp	10
+龙牡复脉汤	lóng;ux mǔ;nt fù;pw mài;ly tāng;dp	10
 龙脑鸡苏丸	lóng;ux nǎo;ln jī;in sū;cb wán;px	10
 龙七胃康片	lóng;ux qī;hv wèi;tl kāng;sy piàn;pv	10
 龙生蛭胶囊	lóng;ux shēng;pf zhì;it jiāo;lx náng;hf	10
@@ -2466,11 +2678,13 @@ sort: by_weight
 芦沙坦钾片	lú;ch shā;du tǎn;th jiǎ;jj piàn;pv	10
 陆氏润字丸	lù;qj shì;pv rùn;dw zì;bz wán;px	10
 露水草胶囊	lù;yk shuǐ;sy cǎo;cu jiāo;lx náng;hf	10
+芦笋奶油汤	lú;ch sǔn;vy nǎi;nn yóu;dy tāng;dp	10
 颅痛宁颗粒	lú;sr tòng;by níng;bd kē;gr lì;hl	10
 鹿尾补肾丸	lù;sb wěi;sm bǔ;pb shèn;sl wán;px	10
 鹿仙补肾片	lù;sb xiān;rn bǔ;pb shèn;sl piàn;pv	10
 鹿珠口服液	lù;sb zhū;wv kǒu;sh fú;li yè;dy	10
 卵泡冲洗液	luǎn;px pào;ds chōng;dv xǐ;dq yè;dy	10
+乱喷鱼头汤	luàn;qv pēn;kr yú;xh tóu;xd tāng;dp	10
 罗布麻浸膏	luó;sx bù;uj má;sm jìn;di gāo;wl	10
 洛布桑胶囊	luò;dk bù;uj sāng;im jiāo;lx náng;hf	10
 洛伐他汀片	luò;dk fá;rg tā;ry tīng;dd piàn;pv	10
@@ -2527,6 +2741,8 @@ sort: by_weight
 氯氧喹胶囊	lǜ;qu yǎng;qy kuí;kt jiāo;lx náng;hf	10
 氯唑沙宗片	lǜ;qu zuò;kt shā;du zōng;bc piàn;pv	10
 麻桂感冒丸	má;sm guì;mt gǎn;xx mào;ng wán;px	10
+麻黄加术汤	má;sm huáng;cz jiā;lk shù;mx tāng;dp	10
+麻黄升麻汤	má;sm huáng;cz shēng;pc má;sm tāng;dp	10
 麻黄止嗽丸	má;sm huáng;cz zhǐ;sh sòu;kr wán;px	10
 马洛替酯片	mǎ;vh luò;dk tì;fp zhǐ;fp piàn;pv	10
 吗氯贝胺片	ma;km lǜ;qu bèi;nr àn;ln piàn;pv	10
@@ -2535,7 +2751,11 @@ sort: by_weight
 麻仁软胶囊	má;sm rén;rq ruǎn;ir jiāo;lx náng;hf	10
 麻仁润肠丸	má;sm rén;rq rùn;dw cháng;lp wán;px	10
 麻仁滋脾丸	má;sm rén;rq zī;dy pí;lu wán;px	10
+麻杏甘石汤	má;sm xìng;mk gān;nh shí;hk tāng;dp	10
 麻杏口服液	má;sm xìng;mk kǒu;sh fú;li yè;dy	10
+麻杏石甘汤	má;sm xìng;mk shí;hk gān;nh tāng;dp	10
+麻杏苡甘汤	má;sm xìng;mk yǐ;cr gān;nh tāng;dp	10
+麻杏薏甘汤	má;sm xìng;mk yì;cx gān;nh tāng;dp	10
 麻杏止咳膏	má;sm xìng;mk zhǐ;sh ké;kr gāo;wl	10
 麻杏止咳片	má;sm xìng;mk zhǐ;sh ké;kr piàn;pv	10
 麦白霉素片	mài;fw bái;pp méi;ym sù;fc piàn;pv	10
@@ -2659,6 +2879,7 @@ sort: by_weight
 萘普待因片	nài;cc pǔ;bp dài;ic yīn;wd piàn;pv	10
 萘普生钠片	nài;cc pǔ;bp shēng;pf nà;jn piàn;pv	10
 奈韦拉平片	nài;dc wéi;hs lā;fl píng;hu piàn;pv	10
+奶油芦笋汤	nǎi;nn yóu;dy lú;ch sǔn;vy tāng;dp	10
 男春宝胶囊	nán;tl chūn;fp bǎo;by jiāo;lx náng;hf	10
 男人的精液	nán;tl rén;py de;bu jīng;hl yè;dy	10
 脑得生胶囊	nǎo;ln dé;ic shēng;pf jiāo;lx náng;hf	10
@@ -2680,6 +2901,7 @@ sort: by_weight
 脑血康颗粒	nǎo;ln xuè;pm kāng;sy kē;gr lì;hl	10
 脑震宁颗粒	nǎo;ln zhèn;yy níng;bd kē;gr lì;hl	10
 内部参考片	nèi;sx bù;lq cān;sp kǎo;lv piàn;pv	10
+内补黄芪汤	nèi;sx bǔ;pb huáng;cz qí;cu tāng;dp	10
 内补养荣丸	nèi;sx bǔ;pb yǎng;ys róng;cm wán;px	10
 内颗粒层纹	nèi;sx kē;gr lì;hl céng;ss wén;sw	10
 内美通胶囊	nèi;sx měi;yd tōng;zy jiāo;lx náng;hf	10
@@ -2719,6 +2941,7 @@ sort: by_weight
 宁神补心丸	níng;bd shén;pu bǔ;pb xīn;xx wán;px	10
 宁神定志丸	níng;bd shén;pu dìng;br zhì;tx wán;px	10
 宁神灵颗粒	níng;bd shén;pu líng;nl kē;gr lì;hl	10
+宁嗽化痰汤	níng;bd sòu;kr huà;rb tán;bl tāng;dp	10
 宁嗽化痰丸	níng;bd sòu;kr huà;rb tán;bl wán;px	10
 宁嗽露糖浆	níng;bd sòu;kr lù;yk táng;hk jiāng;du	10
 宁心宝胶囊	níng;bd xīn;xx bǎo;by jiāo;lx náng;hf	10
@@ -2802,9 +3025,13 @@ sort: by_weight
 平肝舒络丸	píng;hu gān;lt shū;rs luò;sk wán;px	10
 平金属垫片	píng;hu jīn;rh shǔ;sy diàn;ft piàn;pv	10
 平疟养脾丸	píng;hu nüè;bh yǎng;ys pí;lu wán;px	10
+平胃导痰汤	píng;hu wèi;tl dǎo;sc tán;bl tāng;dp	10
+平胃地榆汤	píng;hu wèi;tl dì;ty yú;md tāng;dp	10
+平胃二陈汤	píng;hu wèi;tl èr;hh chén;qd tāng;dp	10
 破积导饮丸	pò;ui jī;hz dǎo;sc yǐn;ur wán;px	10
 泼尼松龙片	pō;dx ní;sb sōng;ms lóng;ux piàn;pv	10
 破血红花散	pò;ui xuè;pm hóng;sg huā;cb sàn;cw	10
+破血散瘀汤	pò;ui xuè;pm sàn;cw yū;bx tāng;dp	10
 朴沉化郁丸	pǔ;mb chén;dj huà;rb yù;uq wán;px	10
 扑尔敏滴丸	pū;fb ěr;xc mǐn;pw dī;dk wán;px	10
 扑尔伪麻片	pū;fb ěr;xc wěi;rw má;sm piàn;pv	10
@@ -2847,6 +3074,7 @@ sort: by_weight
 七味广枣丸	qī;hv wèi;kw guǎng;xi zǎo;hx wán;px	10
 七味诃子散	qī;hv wèi;kw hē;yk zǐ;vh sàn;cw	10
 七味葡萄散	qī;hv wèi;kw pú;cf tao;cf sàn;cw	10
+七味沙参汤	qī;hv wèi;kw shā;du shēn;sp tāng;dp	10
 七味铁屑丸	qī;hv wèi;kw tiě;ju xiè;sl wán;px	10
 七味消肿丸	qī;hv wèi;kw xiāo;dl zhǒng;lv wán;px	10
 七味新消丸	qī;hv wèi;kw xīn;li xiāo;dl wán;px	10
@@ -2871,6 +3099,7 @@ sort: by_weight
 前达康胶囊	qián;bd dá;zd kāng;sy jiāo;lx náng;hf	10
 千金保孕丸	qiān;pu jīn;rh bǎo;rm yùn;nz wán;px	10
 千金化痰丸	qiān;pu jīn;rh huà;rb tán;bl wán;px	10
+千金苇茎汤	qiān;pu jīn;rh wěi;cw jīng;cg tāng;dp	10
 千金止带丸	qiān;pu jīn;rh zhǐ;sh dài;fj wán;px	10
 千金止咳丸	qiān;pu jīn;rh zhǐ;sh ké;kr wán;px	10
 前列安通片	qián;bd liè;dd ān;bn tōng;zy piàn;pv	10
@@ -2892,6 +3121,7 @@ sort: by_weight
 千紫红胶囊	qiān;pu zǐ;vc hóng;sg jiāo;lx náng;hf	10
 千紫红颗粒	qiān;pu zǐ;vc hóng;sg kē;gr lì;hl	10
 强肝口服液	qiáng;gi gān;lt kǒu;sh fú;li yè;dy	10
+羌活胜湿汤	qiāng;yv huó;dk shèng;lu shī;dy tāng;dp	10
 羟基大黄素	qiǎng;yg jī;qt dà;uy huáng;cz sù;fc	10
 羟甲司坦片	qiǎng;yg jiǎ;ss sī;vk tǎn;th piàn;pv	10
 羟甲烟胺片	qiǎng;yg jiǎ;ss yān;ld àn;ln piàn;pv	10
@@ -2916,15 +3146,26 @@ sort: by_weight
 噙化上清丸	qín;kx huà;rb shàng;sh qīng;dl wán;px	10
 秦艽白术丸	qín;fh jiāo;cj bái;pp zhú;mx wán;px	10
 秦艽鳖甲散	qín;fh jiāo;cj biē;xg jiǎ;ss sàn;cw	10
+秦艽苍术汤	qín;fh jiāo;cj cāng;cv zhú;mx tāng;dp	10
+秦艽当归汤	qín;fh jiāo;cj dāng;xn guī;sn tāng;dp	10
+秦艽地黄汤	qín;fh jiāo;cj dì;ty huáng;cz tāng;dp	10
+秦艽防风汤	qín;fh jiāo;cj fáng;qf fēng;jx tāng;dp	10
+秦艽扶羸汤	qín;fh jiāo;cj fú;ff léi;wf tāng;dp	10
+秦艽牛蒡汤	qín;fh jiāo;cj niú;ps bàng;cf tāng;dp	10
+秦艽羌活汤	qín;fh jiāo;cj qiāng;yv huó;dk tāng;dp	10
+秦艽升麻汤	qín;fh jiāo;cj shēng;pc má;sm tāng;dp	10
 芩蓝滴鼻液	qín;cv lán;cm dī;dk bí;zs yè;dy	10
+芩连四物汤	qín;cv lián;zi sì;wq wù;nw tāng;dp	10
 芩连丸微丸	qín;cv lián;zi wán;px wēi;iw wán;px	10
 芩翘口服液	qín;cv qiào;hx kǒu;sh fú;li yè;dy	10
 秦苏缓释片	qín;fh sū;cb huǎn;si shì;ps piàn;pv	10
 秦王九疸散	qín;fh wáng;ht jiǔ;pv dǎn;bh sàn;cw	10
 情安喘定片	qíng;xl ān;bn chuǎn;kq dìng;br piàn;pv	10
 庆大霉素片	qìng;sd dà;uy méi;ym sù;fc piàn;pv	10
+清胆泻火汤	qīng;dl dǎn;lh xiè;dy huǒ;xr tāng;dp	10
 清肺化痰丸	qīng;dl fèi;ls huà;rb tán;bl wán;px	10
 清肺宁嗽丸	qīng;dl fèi;ls níng;bd sòu;kr wán;px	10
+清肺排毒汤	qīng;dl fèi;ls pái;ff dú;fm tāng;dp	10
 清肺散结丸	qīng;dl fèi;ls sàn;cw jié;sk wán;px	10
 清肺消炎丸	qīng;dl fèi;ls xiāo;dl yán;ll wán;px	10
 清肺抑火膏	qīng;dl fèi;ls yì;fq huǒ;xr gāo;wl	10
@@ -2944,6 +3185,7 @@ sort: by_weight
 清宫寿桃丸	qīng;dl gōng;bk shòu;fc táo;mx wán;px	10
 青果止嗽丸	qīng;fl guǒ;sy zhǐ;sh sòu;kr wán;px	10
 青蒿鳖甲片	qīng;fl hāo;ck biē;xg jiǎ;ss piàn;pv	10
+青蒿鳖甲汤	qīng;fl hāo;ck biē;xg jiǎ;ss tāng;dp	10
 青蒿琥脂片	qīng;fl hāo;ck hǔ;wj zhī;lp piàn;pv	10
 青蒿琥酯片	qīng;fl hāo;ck hǔ;wj zhǐ;fp piàn;pv	10
 清喉咽合剂	qīng;dl hóu;ku yān;kd hé;rk jì;wd	10
@@ -2952,8 +3194,10 @@ sort: by_weight
 清火明目丸	qīng;dl huǒ;xr míng;pl mù;wh wán;px	10
 清火桅麦片	qīng;dl huǒ;xr wéi;mv mài;fw piàn;pv	10
 清火栀麦片	qīng;dl huǒ;xr zhī;mv mài;fw piàn;pv	10
+清金降火汤	qīng;dl jīn;rh jiàng;qs huǒ;xr tāng;dp	10
 清金理嗽丸	qīng;dl jīn;rh lǐ;wt sòu;kr wán;px	10
 清金宁肺丸	qīng;dl jīn;rh níng;bd fèi;ls wán;px	10
+清经止血汤	qīng;dl jīng;sg zhǐ;sh xuè;pm tāng;dp	10
 清开灵滴丸	qīng;dl kāi;hc líng;nl dī;dk wán;px	10
 青兰浸膏片	qīng;fl lán;bs jìn;di gāo;wl piàn;pv	10
 青龙蛇药片	qīng;fl lóng;ux shé;ib yào;cu piàn;pv	10
@@ -2983,12 +3227,15 @@ sort: by_weight
 清热通淋片	qīng;dl rè;fh tōng;zy lín;dm piàn;pv	10
 清热消肿丸	qīng;dl rè;fh xiāo;dl zhǒng;lv wán;px	10
 清热养阴丸	qīng;dl rè;fh yǎng;ys yīn;ql wán;px	10
+清热止崩汤	qīng;dl rè;fh zhǐ;sh bēng;nl tāng;dp	10
 清热止咳散	qīng;dl rè;fh zhǐ;sh ké;kr sàn;cw	10
 清热治痢丸	qīng;dl rè;fh zhì;dk lì;bd wán;px	10
 青乳消颗粒	qīng;fl rǔ;pv xiāo;dl kē;gr lì;hl	10
 情色惊悚片	qíng;xl sè;xb jīng;xc sǒng;xu piàn;pv	10
 轻身减肥片	qīng;ig shēn;pp jiǎn;dk féi;lb piàn;pv	10
 清身饮颗粒	qīng;dl shēn;pp yǐn;ur kē;gr lì;hl	10
+清湿化痰汤	qīng;dl shī;dy huà;rb tán;bl tāng;dp	10
+清暑益气汤	qīng;dl shǔ;pp yì;bm qì;pv tāng;dp	10
 清暑益气丸	qīng;dl shǔ;pp yì;bm qì;pv wán;px	10
 清舒油软膏	qīng;dl shū;rs yóu;dy ruǎn;ir gāo;wl	10
 青藤风湿酒	qīng;fl téng;cu fēng;jx shī;dy jiǔ;df	10
@@ -3014,6 +3261,7 @@ sort: by_weight
 清咽六味散	qīng;dl yàn;kd liù;wz wèi;kw sàn;cw	10
 清咽润喉丸	qīng;dl yàn;kd rùn;dw hóu;ku wán;px	10
 清咽抑火丸	qīng;dl yàn;kd yì;fq huǒ;xr wán;px	10
+清燥救肺汤	qīng;dl zào;lm jiù;qw fèi;ls tāng;dp	10
 清浊祛毒丸	qīng;dl zhuó;di qū;ps dú;fm wán;px	10
 求偶素软膏	qiú;hx ǒu;ry sù;fc ruǎn;ir gāo;wl	10
 秋水仙碱片	qiū;hl shuǐ;sy xiān;rn jiǎn;uk piàn;pv	10
@@ -3023,11 +3271,13 @@ sort: by_weight
 龋齿宁含片	qǔ;vy chǐ;vn níng;bd hán;rk piàn;pv	10
 驱虫消食片	qū;mx chóng;vx xiāo;dl shí;rl piàn;pv	10
 祛毒灌肠液	qū;ps dú;fm guàn;df cháng;lp yè;dy	10
+去恶清心汤	qù;ts è;yx qīng;dl xīn;xx tāng;dp	10
 祛风化痰丸	qū;ps fēng;jx huà;rb tán;bl wán;px	10
 驱风苏合丸	qū;mx fēng;jx sū;cb hé;rk wán;px	10
 祛风息痛丸	qū;ps fēng;jx xī;zx tòng;by wán;px	10
 祛风止痛片	qū;ps fēng;jx zhǐ;sh tòng;by piàn;pv	10
 去腐生肌散	qù;ts fǔ;sr shēng;pf jī;lj sàn;cw	10
+祛寒娇耳汤	qū;ps hán;bx jiāo;ns ěr;hh tāng;dp	10
 去甲哌替啶	qù;ts jiǎ;ss pài;ky tì;fp dìng;kr	10
 曲克芦丁片	qǔ;sh kè;uq lú;ch dīng;hs piàn;pv	10
 去氯羟嗪片	qù;ts lǜ;qu qiǎng;yg qín;kh piàn;pv	10
@@ -3070,11 +3320,13 @@ sort: by_weight
 人参蛤蚧散	rén;py shēn;sp gé;ik jiè;is sàn;cw	10
 人参归脾丸	rén;py shēn;sp guī;sn pí;lu wán;px	10
 人参归睥丸	rén;py shēn;sp guī;sn pì;gu wán;px	10
+人参胡桃汤	rén;py shēn;sp hú;ul táo;mx tāng;dp	10
 人参黄芪散	rén;py shēn;sp huáng;cz qí;cu sàn;cw	10
 人参健脾片	rén;py shēn;sp jiàn;rz pí;lu piàn;pv	10
 人参鹿茸丸	rén;py shēn;sp lù;sb róng;cq wán;px	10
 人参女金丸	rén;py shēn;sp nǚ;vh jīn;rh wán;px	10
 人参养荣膏	rén;py shēn;sp yǎng;ys róng;cm gāo;wl	10
+人参养荣汤	rén;py shēn;sp yǎng;ys róng;cm tāng;dp	10
 人参养荣丸	rén;py shēn;sp yǎng;ys róng;cm wán;px	10
 人参至宝丸	rén;py shēn;sp zhì;ht bǎo;by wán;px	10
 忍者茶茶丸	rěn;rx zhě;lp chá;cm chá;cm wán;px	10
@@ -3095,6 +3347,8 @@ sort: by_weight
 柔肝顺气丸	róu;sm gān;lt shùn;ir qì;pv wán;px	10
 肉蔻五味丸	ròu;nr kòu;ci wǔ;hh wèi;kw wán;px	10
 鞣酸蛋白片	róu;gm suān;fw dàn;vi bái;pp piàn;pv	10
+肉丸胡辣汤	ròu;nr wán;px hú;ul là;lu tāng;dp	10
+肉丸糊辣汤	ròu;nr wán;px hú;hl là;lu tāng;dp	10
 乳必宁颗粒	rǔ;pv bì;xx níng;bd kē;gr lì;hl	10
 乳核内消片	rǔ;pv hé;mr nèi;sx xiāo;dl piàn;pv	10
 乳核内消液	rǔ;pv hé;mr nèi;sx xiāo;dl yè;dy	10
@@ -3130,11 +3384,15 @@ sort: by_weight
 润肠宁神膏	rùn;dw cháng;lp níng;bd shén;pu gāo;wl	10
 润肺化核膏	rùn;dw fèi;ls huà;rb hé;mr gāo;wl	10
 润肺化痰丸	rùn;dw fèi;ls huà;rb tán;bl wán;px	10
+润肺化炎汤	rùn;dw fèi;ls huà;rb yán;ll tāng;dp	10
+润肺降气汤	rùn;dw fèi;ls jiàng;qs qì;pv tāng;dp	10
 润肺止嗽丸	rùn;dw fèi;ls zhǐ;sh sòu;kr wán;px	10
 润肌皮肤膏	rùn;dw jī;lj pí;vi fū;lf gāo;wl	10
 润清护理液	rùn;dw qīng;dl hù;fh lǐ;wt yè;dy	10
 润舒滴眼液	rùn;dw shū;rs dī;dk yǎn;gg yè;dy	10
 润伊容胶囊	rùn;dw yī;ry róng;bk jiāo;lx náng;hf	10
+润燥安胎汤	rùn;dw zào;lm ān;bn tāi;lk tāng;dp	10
+润燥泻肺汤	rùn;dw zào;lm xiè;dy fèi;ls tāng;dp	10
 萨热大鹏丸	sà;ci rè;fh dà;uy péng;ln wán;px	10
 赛庚定软膏	sài;br gēng;sy dìng;br ruǎn;ir gāo;wl	10
 赛金化毒散	sài;br jīn;rh huà;rb dú;fm sàn;cw	10
@@ -3167,6 +3425,8 @@ sort: by_weight
 三黄宝蜡丸	sān;hq huáng;cz bǎo;by là;ip wán;px	10
 三黄颠倒散	sān;hq huáng;cz diān;ur dǎo;rd sàn;cw	10
 三黄清解片	sān;hq huáng;cz qīng;dl jiě;xn piàn;pv	10
+三甲复脉汤	sān;hq jiǎ;ss fù;pw mài;ly tāng;dp	10
+三甲腹脉汤	sān;hq jiǎ;ss fù;lw mài;ly tāng;dp	10
 散结灵胶囊	sàn;cw jié;sk líng;nl jiāo;lx náng;hf	10
 散结止痛膏	sàn;cw jié;sk zhǐ;sh tòng;by gāo;wl	10
 三金感冒片	sān;hq jīn;rh gǎn;xx mào;ng piàn;pv	10
@@ -3191,6 +3451,7 @@ sort: by_weight
 三味蔷薇散	sān;hq wèi;kw qiáng;ck wēi;cw sàn;cw	10
 三味止咳片	sān;hq wèi;kw zhǐ;sh ké;kr piàn;pv	10
 三物备急丸	sān;hq wù;nw bèi;wt jí;xx wán;px	10
+三鲜木樨汤	sān;hq xiān;gy mù;uy xī;mn tāng;dp	10
 三相避孕片	sān;hq xiāng;mg bì;zu yùn;nz piàn;pv	10
 散血明目丸	sàn;cw xuè;pm míng;pl mù;wh wán;px	10
 散瘀明目丸	sàn;cw yū;bx míng;pl mù;wh wán;px	10
@@ -3198,7 +3459,9 @@ sort: by_weight
 三杖清肝膏	sān;hq zhàng;mv qīng;dl gān;lt gāo;wl	10
 三株口服液	sān;hq zhū;mv kǒu;sh fú;li yè;dy	10
 三子茸肾片	sān;hq zǐ;vh róng;cq shèn;sl piàn;pv	10
+三子养亲汤	sān;hq zǐ;vh yǎng;ys qīn;lm tāng;dp	10
 三子止咳膏	sān;hq zǐ;vh zhǐ;sh ké;kr gāo;wl	10
+桑丹泻白汤	sāng;im dān;ph xiè;dy bái;pp tāng;dp	10
 桑葛降脂丸	sāng;im gé;cv jiàng;qs zhī;lp wán;px	10
 桑根白皮丸	sāng;im gēn;mg bái;pp pí;vi wán;px	10
 桑姜感冒片	sāng;im jiāng;yn gǎn;xx mào;ng piàn;pv	10
@@ -3212,6 +3475,8 @@ sort: by_weight
 沙丁醇雾剂	shā;du dīng;hs chún;fz wù;yl jì;wd	10
 沙雷肽酶片	shā;du léi;yt tài;lt méi;fm piàn;pv	10
 沙利度胺片	shā;du lì;hd dù;si àn;ln piàn;pv	10
+沙参麦冬汤	shā;du shēn;sp mài;fw dōng;wx tāng;dp	10
+沙参止咳汤	shā;du shēn;sp zhǐ;sh ké;kr tāng;dp	10
 痧药蟾酥丸	shā;bu yào;cu chán;ik sū;fh wán;px	10
 山东阿胶膏	shān;sn dōng;hx ē;qk jiāo;lx gāo;wl	10
 山海丹胶囊	shān;sn hǎi;dm dān;ph jiāo;lx náng;hf	10
@@ -3225,6 +3490,7 @@ sort: by_weight
 闪亮滴眼液	shǎn;mr liàng;wj dī;dk yǎn;gg yè;dy	10
 山麦口服液	shān;sn mài;fw kǒu;sh fú;li yè;dy	10
 山牡丹胶囊	shān;sn mǔ;nt dān;ph jiāo;lx náng;hf	10
+单县羊肉汤	shàn;bs xiàn;qs yáng;bs ròu;nr tāng;dp	10
 山药参芪丸	shān;sn yào;cu shēn;sp qí;cu wán;px	10
 山楂化滞丸	shān;sn zhā;mh huà;rb zhì;dj wán;px	10
 山楂降压丸	shān;sn zhā;mh jiàng;qs yā;ix wán;px	10
@@ -3248,6 +3514,7 @@ sort: by_weight
 伤痛宁胶囊	shāng;rl tòng;by níng;bd jiāo;lx náng;hf	10
 伤益气雾剂	shāng;rl yì;bm qì;pv wù;yl jì;wd	10
 少腹祛瘀丸	shǎo;cp fù;lw qū;ps yū;bx wán;px	10
+少腹逐瘀汤	shǎo;cp fù;lw zhú;zu yū;bx tāng;dp	10
 少腹逐瘀丸	shǎo;cp fù;lw zhú;zu yū;bx wán;px	10
 少名针妙丸	shǎo;cp míng;xk zhēn;ju miào;nu wán;px	10
 烧伤肤康液	shāo;lw shāng;rl fū;lf kāng;sy yè;dy	10
@@ -3354,6 +3621,8 @@ sort: by_weight
 神衰果素片	shén;pu shuāi;wf guǒ;sy sù;fc piàn;pv	10
 神衰康胶囊	shén;pu shuāi;wf kāng;sy jiāo;lx náng;hf	10
 肾衰康颗粒	shèn;sl shuāi;wf kāng;sy kē;gr lì;hl	10
+身痛逐瘀汤	shēn;pp tòng;by zhú;zu yū;bx tāng;dp	10
+身痛逐淤汤	shēn;pp tòng;by zhú;zu yū;dx tāng;dp	10
 渗透消增散	shèn;dp tòu;zn xiāo;dl zēng;tp sàn;cw	10
 伸腿瞪眼丸	shēn;ru tuǐ;lz dèng;gh yǎn;gg wán;px	10
 神香苏合丸	shén;pu xiāng;hp sū;cb hé;rk wán;px	10
@@ -3374,11 +3643,13 @@ sort: by_weight
 神州跌打丸	shén;pu zhōu;xs diē;zu dǎ;fd wán;px	10
 生白口服液	shēng;pf bái;pp kǒu;sh fú;li yè;dy	10
 生达润眼液	shēng;pf dá;zd rùn;dw yǎn;gg yè;dy	10
+生地八物汤	shēng;pf dì;ty bā;py wù;nw tāng;dp	10
 生尔发糖浆	shēng;pf ěr;xc fā;vx táng;hk jiāng;du	10
 生干地黄散	shēng;pf gān;hu dì;ty huáng;cz sàn;cw	10
 生干地黄丸	shēng;pf gān;hu dì;ty huáng;cz wán;px	10
 生桂口服液	shēng;pf guì;mt kǒu;sh fú;li yè;dy	10
 升华红黑丸	shēng;pc huá;ru hóng;sg hēi;sh wán;px	10
+生化六和汤	shēng;pf huà;rb liù;wz hé;hk tāng;dp	10
 生肌八宝散	shēng;pf jī;lj bā;py bǎo;by sàn;cw	10
 生肌白玉膏	shēng;pf jī;lj bái;pp yù;wx gāo;wl	10
 圣济憋甲丸	shèng;it jì;ds biē;xx jiǎ;ss wán;px	10
@@ -3388,16 +3659,28 @@ sort: by_weight
 生肌愈创膏	shēng;pf jī;lj yù;rx chuàng;rd gāo;wl	10
 生肌玉红膏	shēng;pf jī;lj yù;wx hóng;sg gāo;wl	10
 生肌愈皮膏	shēng;pf jī;lj yù;rx pí;vi gāo;wl	10
+生姜甘草汤	shēng;pf jiāng;yn gān;nh cǎo;cu tāng;dp	10
 生姜泄心片	shēng;pf jiāng;yn xiè;du xīn;xx piàn;pv	10
+生津葛根汤	shēng;pf jīn;dy gé;cv gēn;mg tāng;dp	10
+生津四物汤	shēng;pf jīn;dy sì;wq wù;nw tāng;dp	10
+生津养血汤	shēng;pf jīn;dy yǎng;ys xuè;pm tāng;dp	10
 升力口服液	shēng;pc lì;vp kǒu;sh fú;li yè;dy	10
+生料四物汤	shēng;pf liào;hu sì;wq wù;nw tāng;dp	10
+升麻鳖甲汤	shēng;pc má;sm biē;xg jiǎ;ss tāng;dp	10
+生脉补精汤	shēng;pf mài;ly bǔ;pb jīng;hl tāng;dp	10
 生乳口服液	shēng;pf rǔ;pv kǒu;sh fú;li yè;dy	10
 生熟地黄丸	shēng;pf shú;wh dì;ty huáng;cz wán;px	10
+生熟三黄汤	shēng;pf shú;wh sān;hq huáng;cz tāng;dp	10
 生物碱试剂	shēng;pf wù;nw jiǎn;uk shì;yg jì;wd	10
 生血宝合剂	shēng;pf xuè;pm bǎo;by hé;rk jì;wd	10
 生血宝颗粒	shēng;pf xuè;pm bǎo;by kē;gr lì;hl	10
+生血补髓汤	shēng;pf xuè;pm bǔ;pb suǐ;gz tāng;dp	10
 生血康合剂	shēng;pf xuè;pm kāng;sy hé;rk jì;wd	10
 升血灵胶囊	shēng;pc xuè;pm líng;nl jiāo;lx náng;hf	10
 升血灵颗粒	shēng;pc xuè;pm líng;nl kē;gr lì;hl	10
+升血调元汤	shēng;pc xuè;pm tiáo;yk yuán;qq tāng;dp	10
+生血止崩汤	shēng;pf xuè;pm zhǐ;sh bēng;nl tāng;dp	10
+升阳益胃汤	shēng;pc yáng;qp yì;bm wèi;tl tāng;dp	10
 生长抑制剂	shēng;pf zhǎng;py yì;fq zhì;pd jì;wd	10
 施保利通片	shī;fy bǎo;rm lì;hd tōng;zy piàn;pv	10
 诗碧脱毛膏	shī;yc bì;wu tuō;lq máo;pv gāo;wl	10
@@ -3406,7 +3689,10 @@ sort: by_weight
 十二太保丸	shí;hs èr;hh tài;dx bǎo;rm wán;px	10
 十二温经丸	shí;hs èr;hh wēn;dm jīng;sg wán;px	10
 十复生胶囊	shí;hs fù;pw shēng;pf jiāo;lx náng;hf	10
+石膏葱白汤	shí;hk gāo;wl cōng;cx bái;pp tāng;dp	10
+石膏六合汤	shí;hk gāo;wl liù;wz hé;rk tāng;dp	10
 石膏泻白散	shí;hk gāo;wl xiè;dy bái;pp sàn;cw	10
+石膏知母汤	shí;hk gāo;wl zhī;uk mǔ;vx tāng;dp	10
 石斛明目丸	shí;hk hú;xu míng;pl mù;wh wán;px	10
 石斛牛膝汤	shí;hk hú;xu niú;ps xī;lu tāng;dp	10
 石斛夜光丸	shí;hk hú;xu yè;wy guāng;xw wán;px	10
@@ -3426,6 +3712,7 @@ sort: by_weight
 视频和相片	shì;pq pín;vr hé;hk xiàng;mg piān;pv	10
 十全大补膏	shí;hs quán;rw dà;uy bǔ;pb gāo;wl	10
 十全大补片	shí;hs quán;rw dà;uy bǔ;pb piàn;pv	10
+十全大补汤	shí;hs quán;rw dà;uy bǔ;pb tāng;dp	10
 十全大补丸	shí;hs quán;rw dà;uy bǔ;pb wán;px	10
 十全明目片	shí;hs quán;rw míng;pl mù;wh piàn;pv	10
 石杉碱甲片	shí;hk shān;mp jiǎn;uk jiǎ;ss piàn;pv	10
@@ -3441,6 +3728,7 @@ sort: by_weight
 十味乳香散	shí;hs wèi;kw rǔ;pv xiāng;hp sàn;cw	10
 十味乳香丸	shí;hs wèi;kw rǔ;pv xiāng;hp wán;px	10
 十味铁粉散	shí;hs wèi;kw tiě;ju fěn;hd sàn;cw	10
+十味温胆汤	shí;hs wèi;kw wēn;dm dǎn;lh tāng;dp	10
 十味消食散	shí;hs wèi;kw xiāo;dl shí;rl sàn;cw	10
 十味止咳片	shí;hs wèi;kw zhǐ;sh ké;kr piàn;pv	10
 十香定痛丸	shí;hs xiāng;hp dìng;br tòng;by wán;px	10
@@ -3455,6 +3743,7 @@ sort: by_weight
 食欲抑制剂	shí;rl yù;zr yì;fq zhì;pd jì;wd	10
 十珍香附丸	shí;hs zhēn;wp xiāng;hp fù;qc wán;px	10
 时珍正容散	shí;pc zhēn;wp zhèng;hv róng;bk sàn;cw	10
+石子荠苨汤	shí;hk zǐ;vh jì;cs nǐ;cb tāng;dp	10
 手绘明信片	shǒu;ps huì;ss míng;pl xìn;rk piàn;pv	10
 首明山胶囊	shǒu;bz míng;pl shān;sn jiāo;lx náng;hf	10
 首乌地黄丸	shǒu;bz wū;ph dì;ty huáng;cz wán;px	10
@@ -3469,6 +3758,7 @@ sort: by_weight
 舒风定痛丸	shū;rs fēng;jx dìng;br tòng;by wán;px	10
 疏风活络片	shū;vv fēng;jx huó;dk luò;sk piàn;pv	10
 疏风活络丸	shū;vv fēng;jx huó;dk luò;sk wán;px	10
+疏风活血汤	shū;vv fēng;jx huó;dk xuè;pm tāng;dp	10
 疏风再造丸	shū;vv fēng;jx zài;hr zào;zk wán;px	10
 舒肝安胶囊	shū;rs gān;lt ān;bn jiāo;lx náng;hf	10
 舒肝保坤丸	shū;rs gān;lt bǎo;rm kūn;tu wán;px	10
@@ -3477,6 +3767,7 @@ sort: by_weight
 舒肝康胶囊	shū;rs gān;lt kāng;sy jiāo;lx náng;hf	10
 舒肝快胃丸	shū;rs gān;lt kuài;xg wèi;tl wán;px	10
 疏肝理脾片	shū;vv gān;lt lǐ;wt pí;lu piàn;pv	10
+疏肝理脾汤	shū;vv gān;lt lǐ;wt pí;lu tāng;dp	10
 舒肝理气丸	shū;rs gān;lt lǐ;wt qì;pv wán;px	10
 舒肝明目丸	shū;rs gān;lt míng;pl mù;wh wán;px	10
 舒肝平胃丸	shū;rs gān;lt píng;hu wèi;tl wán;px	10
@@ -3492,6 +3783,7 @@ sort: by_weight
 舒筋风湿酒	shū;rs jīn;vl fēng;jx shī;dy jiǔ;df	10
 舒筋琥珀丸	shū;rs jīn;vl hǔ;wj pò;wb wán;px	10
 舒筋活血片	shū;rs jīn;vl huó;dk xuè;pm piàn;pv	10
+疏筋活血汤	shū;vv jīn;vl huó;dk xuè;pm tāng;dp	10
 舒筋活血丸	shū;rs jīn;vl huó;dk xuè;pm wán;px	10
 舒颈口服液	shū;rs jǐng;vr kǒu;sh fú;li yè;dy	10
 舒康宁洗液	shū;rs kāng;sy níng;bd xǐ;dq yè;dy	10
@@ -3532,6 +3824,7 @@ sort: by_weight
 水基钻井液	shuǐ;sy jī;qt zuàn;jk jǐng;hs yè;dy	10
 水陆二味片	shuǐ;sy lù;qj èr;hh wèi;kw piàn;pv	10
 水陆二味丸	shuǐ;sy lù;qj èr;hh wèi;kw wán;px	10
+水陆二仙汤	shuǐ;sy lù;qj èr;hh xiān;rn tāng;dp	10
 水杨酸搽剂	shuǐ;sy yáng;mp suān;fw chá;fm jì;wd	10
 水杨酸镁片	shuǐ;sy yáng;mp suān;fw měi;jd piàn;pv	10
 水杨酸钠片	shuǐ;sy yáng;mp suān;fw nà;jn piàn;pv	10
@@ -3543,6 +3836,7 @@ sort: by_weight
 四方胃胶囊	sì;wq fāng;xw wèi;tl jiāo;lx náng;hf	10
 四海舒郁丸	sì;wq hǎi;dm shū;rs yù;uq wán;px	10
 四黄清心丸	sì;wq huáng;cz qīng;dl xīn;xx wán;px	10
+四黄三子汤	sì;wq huáng;cz sān;hq zǐ;vh tāng;dp	10
 四黄泻火片	sì;wq huáng;cz xiè;dy huǒ;xr piàn;pv	10
 四季菜颗粒	sì;wq jì;hz cài;cm kē;gr lì;hl	10
 四季菜糖浆	sì;wq jì;hz cài;cm táng;hk jiāng;du	10
@@ -3556,6 +3850,7 @@ sort: by_weight
 饲料颗粒机	sì;uk liào;hu kē;gr lì;hl jī;mj	10
 斯鲁利单抗	sī;qi lǔ;gp lì;hd dān;bs kàng;fj	10
 四妙丸水丸	sì;wq miào;nu wán;px shuǐ;sy wán;px	10
+四妙勇安汤	sì;wq miào;nu yǒng;sl ān;bn tāng;dp	10
 四逆注射液	sì;wq nì;zp zhù;dv shè;uc yè;dy	10
 司帕沙星片	sī;vk pà;jb shā;du xīng;pu piàn;pv	10
 四色断痫丸	sì;wq sè;xb duàn;hi xián;bm wán;px	10
@@ -3567,9 +3862,16 @@ sort: by_weight
 四味香连丸	sì;wq wèi;kw xiāng;hp lián;zi wán;px	10
 四味异功散	sì;wq wèi;kw yì;sc gōng;gl sàn;cw	10
 四味萸连丸	sì;wq wèi;kw yú;cy lián;zi wán;px	10
+四物安神汤	sì;wq wù;nw ān;bn shén;pu tāng;dp	10
 四物补肝散	sì;wq wù;nw bǔ;pb gān;lt sàn;cw	10
+四物二连汤	sì;wq wù;nw èr;hh lián;zi tāng;dp	10
+四物化郁汤	sì;wq wù;nw huà;rb yù;uq tāng;dp	10
+四物绛覆汤	sì;wq wù;nw jiàng;ss fù;xw tāng;dp	10
 四物口服液	sì;wq wù;nw kǒu;sh fú;li yè;dy	10
+四物龙胆汤	sì;wq wù;nw lóng;ux dǎn;lh tāng;dp	10
 四物五子丸	sì;wq wù;nw wǔ;hh zǐ;vh wán;px	10
+四物消风汤	sì;wq wù;nw xiāo;dl fēng;jx tāng;dp	10
+四物延胡汤	sì;wq wù;nw yán;zv hú;ul tāng;dp	10
 四物益母丸	sì;wq wù;nw yì;bm mǔ;vx wán;px	10
 四香祛湿丸	sì;wq xiāng;hp qū;ps shī;dy wán;px	10
 四消丸水丸	sì;wq xiāo;dl wán;px shuǐ;sy wán;px	10
@@ -3595,6 +3897,7 @@ sort: by_weight
 速效救心丸	sù;zu xiào;ww jiù;qw xīn;xx wán;px	10
 速效牛黄丸	sù;zu xiào;ww niú;ps huáng;cz wán;px	10
 速效止痒液	sù;zu xiào;ww zhǐ;sh yǎng;by yè;dy	10
+苏子降气汤	sū;cb zǐ;vh jiàng;qs qì;pv tāng;dp	10
 苏子降气丸	sū;cb zǐ;vh jiàng;qs qì;pv wán;px	10
 酸枣仁合剂	suān;fw zǎo;hx rén;rq hé;rk jì;wd	10
 损伤熏洗散	sǔn;fr shāng;rl xūn;ph xǐ;dq sàn;cw	10
@@ -3625,8 +3928,11 @@ sort: by_weight
 糖尿康胶囊	táng;hk niào;su kāng;sy jiāo;lx náng;hf	10
 糖尿乐胶囊	táng;hk niào;su lè;px jiāo;lx náng;hf	10
 糖脂宁胶囊	táng;hk zhī;lp níng;bd jiāo;lx náng;hf	10
+桃核承气汤	táo;mx hé;mr chéng;vy qì;pv tāng;dp	10
 桃红清血丸	táo;mx hóng;sg qīng;dl xuè;pm wán;px	10
+桃花化浊汤	táo;mx huā;cb huà;rb zhuó;di tāng;dp	10
 萄醛内酯片	táo;cf quán;fw nèi;sx zhǐ;fp piàn;pv	10
+桃仁红花汤	táo;mx rén;rq hóng;sg huā;cb tāng;dp	10
 陶氏再造散	táo;qf shì;pv zài;hr zào;zk sàn;cw	10
 特比萘芬片	tè;nc bǐ;bb nài;cc fēn;cd piàn;pv	10
 特比萘酚片	tè;nc bǐ;bb nài;cc fēn;fd piàn;pv	10
@@ -3671,7 +3977,9 @@ sort: by_weight
 填隙式扩散	tián;tz xì;qc shì;yg kuò;fs sàn;cw	10
 天郁老蔻丸	tiān;hd yù;uq lǎo;lb kòu;ci wán;px	10
 天芝草胶囊	tiān;hd zhī;cv cǎo;cu jiāo;lx náng;hf	10
+调和荣卫汤	tiáo;yk hé;hk róng;cm wèi;qh tāng;dp	10
 调经补血丸	tiáo;yk jīng;sg bǔ;pb xuè;pm wán;px	10
+调经琥珀汤	tiáo;yk jīng;sg hǔ;wj pò;wb tāng;dp	10
 调经化瘀丸	tiáo;yk jīng;sg huà;rb yū;bx wán;px	10
 调经活血片	tiáo;yk jīng;sg huó;dk xuè;pm piàn;pv	10
 调经健胃丸	tiáo;yk jīng;sg jiàn;rz wèi;tl wán;px	10
@@ -3687,8 +3995,10 @@ sort: by_weight
 调小儿脾胃	tiáo;yk xiǎo;sx ér;pv pí;lu wèi;tl	10
 调血化核丸	tiáo;yk xuè;pm huà;rb hé;mr wán;px	10
 调元肾气丸	tiáo;yk yuán;qq shèn;sl qì;pv wán;px	10
+调中大成汤	tiáo;yk zhōng;ss dà;uy chéng;wv tāng;dp	10
 调中顺气丸	tiáo;yk zhōng;ss shùn;ir qì;pv wán;px	10
 调中四消丸	tiáo;yk zhōng;ss sì;wq xiāo;dl wán;px	10
+调中益气汤	tiáo;yk zhōng;ss yì;bm qì;pv tāng;dp	10
 铁笛口服液	tiě;ju dí;vy kǒu;sh fú;li yè;dy	10
 铁牛运功散	tiě;ju niú;ps yùn;zs gōng;gl sàn;cw	10
 铁帚清浊丸	tiě;ju zhǒu;nj qīng;dl zhuó;di wán;px	10
@@ -3696,10 +4006,13 @@ sort: by_weight
 痛安注射液	tòng;by ān;bn zhù;dv shè;uc yè;dy	10
 通便清火丸	tōng;zy biàn;rg qīng;dl huǒ;xr wán;px	10
 通便消痤片	tōng;zy biàn;rg xiāo;dl cuó;bt piàn;pv	10
+通肠解毒汤	tōng;zy cháng;lp jiě;xn dú;fm tāng;dp	10
 痛风定胶囊	tòng;by fēng;jx dìng;br jiāo;lx náng;hf	10
 痛风克颗粒	tòng;by fēng;jx kè;uq kē;gr lì;hl	10
 痛风舒胶囊	tòng;by fēng;jx shū;rs jiāo;lx náng;hf	10
+通肝生乳汤	tōng;zy gān;lt shēng;pf rǔ;pv tāng;dp	10
 通关瞿麦丸	tōng;zy guān;bt qú;gf mài;fw wán;px	10
+通经导滞汤	tōng;zy jīng;sg dǎo;sc zhì;dj tāng;dp	10
 通经甘露丸	tōng;zy jīng;sg gān;nh lù;yk wán;px	10
 痛经灵颗粒	tòng;by jīng;sg líng;nl kē;gr lì;hl	10
 痛经宁颗粒	tòng;by jīng;sg níng;bd kē;gr lì;hl	10
@@ -3716,6 +4029,7 @@ sort: by_weight
 通络开痹丸	tōng;zy luò;sk kāi;hc bì;bs wán;px	10
 通络抗栓丸	tōng;zy luò;sk kàng;fj shuān;mw wán;px	10
 通络口服液	tōng;zy luò;sk kǒu;sh fú;li yè;dy	10
+通络利湿汤	tōng;zy luò;sk lì;hd shī;dy tāng;dp	10
 通络祛痛膏	tōng;zy luò;sk qū;ps tòng;by gāo;wl	10
 通络止痛丸	tōng;zy luò;sk zhǐ;sh tòng;by wán;px	10
 通脉降脂片	tōng;zy mài;ly jiàng;qs zhī;lp piàn;pv	10
@@ -3723,8 +4037,11 @@ sort: by_weight
 通脉康洗液	tōng;zy mài;ly kāng;sy xǐ;dq yè;dy	10
 通脉口服液	tōng;zy mài;ly kǒu;sh fú;li yè;dy	10
 通脉四逆散	tōng;zy mài;ly sì;wq nì;zp sàn;cw	10
+通脉四逆汤	tōng;zy mài;ly sì;wq nì;zp tāng;dp	10
 通脉养心丸	tōng;zy mài;ly yǎng;ys xīn;xx wán;px	10
 通明补肾丸	tōng;zy míng;pl bǔ;pb shèn;sl wán;px	10
+通脾泻胃汤	tōng;zy pí;lu xiè;dy wèi;tl tāng;dp	10
+通气防风汤	tōng;zy qì;pv fáng;qf fēng;jx tāng;dp	10
 通气利中丸	tōng;zy qì;pv lì;hd zhōng;ss wán;px	10
 通气散坚丸	tōng;zy qì;pv sàn;cw jiān;st wán;px	10
 通窍耳聋丸	tōng;zy qiào;bv ěr;hh lóng;lq wán;px	10
@@ -3733,6 +4050,7 @@ sort: by_weight
 同仁复明丸	tóng;nk rén;rq fù;pw míng;pl wán;px	10
 通塞脉颗粒	tōng;zy sāi;bt mài;ly kē;gr lì;hl	10
 通天口服液	tōng;zy tiān;hd kǒu;sh fú;li yè;dy	10
+通天愈风汤	tōng;zy tiān;hd yù;rx fēng;jx tāng;dp	10
 通天再造散	tōng;zy tiān;hd zài;hr zào;zk sàn;cw	10
 樋屋奇应丸	tōng; wū;st qí;dk yīng;sh wán;px	10
 通心舒胶囊	tōng;zy xīn;xx shū;rs jiāo;lx náng;hf	10
@@ -3742,6 +4060,7 @@ sort: by_weight
 通宣理肺丸	tōng;zy xuān;bh lǐ;wt fèi;ls wán;px	10
 通宣益气丸	tōng;zy xuān;bh yì;bm qì;pv wán;px	10
 痛血康胶囊	tòng;by xuè;pm kāng;sy jiāo;lx náng;hf	10
+通幽化浊汤	tōng;zy yōu;ny huà;rb zhuó;di tāng;dp	10
 通幽润燥丸	tōng;zy yōu;ny rùn;dw zào;lm wán;px	10
 同志爱情片	tóng;nk zhì;tx ài;pi qíng;xl piàn;pv	10
 通之舒胶囊	tōng;zy zhī;xy shū;rs jiāo;lx náng;hf	10
@@ -3795,6 +4114,7 @@ sort: by_weight
 头痛定糖浆	tóu;xd tòng;by dìng;br táng;hk jiāng;du	10
 头痛宁胶囊	tóu;xd tòng;by níng;bd jiāo;lx náng;hf	10
 头痛眩晕膏	tóu;xd tòng;by xuàn;gy yùn;pi gāo;wl	10
+透疹凉解汤	tòu;zn zhěn;bp liáng;dc jiě;xn tāng;dp	10
 土伏苓颗粒	tǔ;uh fú;rq líng;cs kē;gr lì;hl	10
 吐泻肚痛散	tù;kt xiè;dy dù;lt tòng;by sàn;cw	10
 退翳明目丸	tuì;zg yì;nx míng;pl mù;wh wán;px	10
@@ -3814,6 +4134,7 @@ sort: by_weight
 外颗粒层纹	wài;xb kē;gr lì;hl céng;ss wén;sw	10
 外伤如意膏	wài;xb shāng;rl rú;nk yì;lx gāo;wl	10
 外台茯苓饮	wài;xb tái;sk fú;cq líng;cs yǐn;ur	10
+外台走马汤	wài;xb tái;sk zǒu;tr mǎ;vh tāng;dp	10
 外用溃疡散	wài;xb yòng;ns kuì;dr yáng;bp sàn;cw	10
 外用万应膏	wài;xb yòng;ns wàn;hp yīng;sh gāo;wl	10
 外用无敌膏	wài;xb yòng;ns wú;hy dí;qw gāo;wl	10
@@ -3957,6 +4278,7 @@ sort: by_weight
 五参芪苓丸	wǔ;hh shēn;sp qí;cu líng;cs wán;px	10
 戊四硝酯片	wù;gp sì;wq xiāo;ul zhǐ;fp piàn;pv	10
 吴太咽炎片	wú;kt tài;dx yān;kd yán;ll piàn;pv	10
+乌头桂枝汤	wū;ph tóu;xd guì;mt zhī;mi tāng;dp	10
 乌头注射液	wū;ph tóu;xd zhù;dv shè;uc yè;dy	10
 五味甘露丸	wǔ;hh wèi;kw gān;nh lù;yk wán;px	10
 五味黄连丸	wǔ;hh wèi;kw huáng;cz lián;zi wán;px	10
@@ -3970,6 +4292,7 @@ sort: by_weight
 五味香连丸	wǔ;hh wèi;kw xiāng;hp lián;zi wán;px	10
 五味渣驯丸	wǔ;hh wèi;kw zhā;dh xùn;mi wán;px	10
 五味治肝片	wǔ;hh wèi;kw zhì;dk gān;lt piàn;pv	10
+五行蔬菜汤	wǔ;hh xíng;ii shū;cv cài;cm tāng;dp	10
 乌药顺气散	wū;ph yào;cu shùn;ir qì;pv sàn;cw	10
 吴语太湖片	wú;kt yǔ;yk tài;dx hú;dl piàn;pv	10
 吴语台州片	wú;kt yǔ;yk tāi;sk zhōu;xs piàn;pv	10
@@ -3982,9 +4305,12 @@ sort: by_weight
 烯丙雌醇片	xī;lj bǐng;hn cí;vf chún;fz piàn;pv	10
 西地那非片	xī;hh dì;ty nà;vq fēi;sh piàn;pv	10
 希尔溃疡散	xī;xj ěr;xc kuì;dr yáng;bp sàn;cw	10
+息焚安胎汤	xī;zx fén;ml ān;bn tāi;lk tāng;dp	10
+西湖莼菜汤	xī;hh hú;dl chún;ct cài;cm tāng;dp	10
 西黄清醒丸	xī;hh huáng;cz qīng;dl xǐng;fu wán;px	10
 西黄丸糊丸	xī;hh huáng;cz wán;px hú;hl wán;px	10
 西黄丸水丸	xī;hh huáng;cz wán;px shuǐ;sy wán;px	10
+犀角地黄汤	xī;sn jiǎo;xy dì;ty huáng;cz tāng;dp	10
 犀角地黄丸	xī;sn jiǎo;xy dì;ty huáng;cz wán;px	10
 犀角化毒丸	xī;sn jiǎo;xy huà;rb dú;fm wán;px	10
 西拉普利片	xī;hh lā;fl pǔ;bp lì;hd piàn;pv	10
@@ -3996,6 +4322,7 @@ sort: by_weight
 西尼地平片	xī;hh ní;sb dì;ty píng;hu piàn;pv	10
 西沙必利片	xī;hh shā;du bì;xx lì;hd piàn;pv	10
 西沙比利片	xī;hh shā;du bǐ;bb lì;hd piàn;pv	10
+洗手做羹汤	xǐ;dq shǒu;ps zuò;rw gēng;yd tāng;dp	10
 喜树碱软膏	xǐ;tk shù;mc jiǎn;uk ruǎn;ir gāo;wl	10
 西替利嗪片	xī;hh tì;fp lì;hd qín;kh piàn;pv	10
 西妥昔单抗	xī;hh tuǒ;pn xī;cp dān;bs kàng;fj	10
@@ -4007,7 +4334,9 @@ sort: by_weight
 豯莶通栓丸	xī; xiān;ch tōng;zy shuān;mw wán;px	10
 西园喉药散	xī;hh yuán;wq hóu;ku yào;cu sàn;cw	10
 仙参口服液	xiān;rn cān;sp kǒu;sh fú;li yè;dy	10
+仙传化毒汤	xiān;rn chuán;rv huà;rb dú;fm tāng;dp	10
 仙方活命片	xiān;rn fāng;xw huó;dk mìng;rq piàn;pv	10
+仙方救命汤	xiān;rn fāng;xw jiù;qw mìng;rq tāng;dp	10
 腺苷钴胺片	xiàn;lu gān;cg gǔ;jk àn;ln piàn;pv	10
 腺苷注射液	xiàn;lu gān;cg zhù;dv shè;uc yè;dy	10
 狝猴桃颗粒	xiǎn;qc hóu;qu táo;mx kē;gr lì;hl	10
@@ -4017,6 +4346,8 @@ sort: by_weight
 仙人掌茎片	xiān;rn rén;py zhǎng;xu jīng;cg piàn;pv	10
 仙茸壮阳片	xiān;rn róng;cq zhuàng;dt yáng;qp piàn;pv	10
 鲜天麻蜜膏	xiān;gy tiān;hd má;sm mì;bi gāo;wl	10
+陷胸承气汤	xiàn;qj xiōng;ln chéng;vy qì;pv tāng;dp	10
+陷胸泻心汤	xiàn;qj xiōng;ln xiè;dy xīn;xx tāng;dp	10
 仙乐雄胶囊	xiān;rn yuè;px xióng;uf jiāo;lx náng;hf	10
 限制酶断片	xiàn;qg zhì;pd méi;fm duàn;hi piàn;pv	10
 鲜竹沥合剂	xiān;gy zhú;ps lì;dl hé;rk jì;wd	10
@@ -4057,7 +4388,10 @@ sort: by_weight
 哮喘宁颗粒	xiào;kz chuǎn;kq níng;bd kē;gr lì;hl	10
 哮喘贴敷散	xiào;kz chuǎn;kq tiē;nk fū;fw sàn;cw	10
 消疮口服液	xiāo;dl chuāng;bv kǒu;sh fú;li yè;dy	10
+消导二陈汤	xiāo;dl dǎo;sc èr;hh chén;qd tāng;dp	10
 消毒定痛散	xiāo;dl dú;fm dìng;br tòng;by sàn;cw	10
+消毒化癍汤	xiāo;dl dú;fm huà;rb bān;bw tāng;dp	10
+消毒圣神汤	xiāo;dl dú;fm shèng;it shén;pu tāng;dp	10
 小儿百乐片	xiǎo;sx ér;pv bǎi;hb lè;px piàn;pv	10
 小儿百寿丸	xiǎo;sx ér;pv bǎi;hb shòu;fc wán;px	10
 小儿百效片	xiǎo;sx ér;pv bǎi;hb xiào;ww piàn;pv	10
@@ -4157,6 +4491,9 @@ sort: by_weight
 小儿止泻贴	xiǎo;sx ér;pv zhǐ;sh xiè;dy tiē;nk	10
 小儿紫草丸	xiǎo;sx ér;pv zǐ;vc cǎo;cu wán;px	10
 消风百解散	xiāo;dl fēng;jx bǎi;hb jiě;xn sàn;cw	10
+消风导赤汤	xiāo;dl fēng;jx dǎo;sc chì;tx tāng;dp	10
+消风豁痰汤	xiāo;dl fēng;jx huō;bk tán;bl tāng;dp	10
+消风宁嗽汤	xiāo;dl fēng;jx níng;bd sòu;kr tāng;dp	10
 消风玉容散	xiāo;dl fēng;jx yù;wx róng;bk sàn;cw	10
 硝呋太尔片	xiāo;ul fū;kf tài;dx ěr;xc piàn;pv	10
 消疳败毒散	xiāo;dl gān;bg bài;nw dú;fm sàn;cw	10
@@ -4219,9 +4556,11 @@ sort: by_weight
 硝酸甘油片	xiāo;ul suān;fw gān;nh yóu;dy piàn;pv	10
 硝酸硫胺片	xiāo;ul suān;fw liú;uv àn;ln piàn;pv	10
 消糖灵胶囊	xiāo;dl táng;hk líng;nl jiāo;lx náng;hf	10
+消下破血汤	xiāo;dl xià;hb pò;ui xuè;pm tāng;dp	10
 消眩治瘫丸	xiāo;dl xuàn;gy zhì;dk tān;bf wán;px	10
 消眩止晕片	xiāo;dl xuàn;gy zhǐ;sh yūn;pi piàn;pv	10
 消血内消丸	xiāo;dl xuè;pm nèi;sx xiāo;dl wán;px	10
+消炎化毒汤	xiāo;dl yán;ll huà;rb dú;fm tāng;dp	10
 消炎利胆片	xiāo;dl yán;ll lì;hd dǎn;lh piàn;pv	10
 消炎灵胶囊	xiāo;dl yán;ll líng;nl jiāo;lx náng;hf	10
 消炎生肌膏	xiāo;dl yán;ll shēng;pf jī;lj gāo;wl	10
@@ -4232,8 +4571,10 @@ sort: by_weight
 消银口服液	xiāo;dl yín;jg kǒu;sh fú;li yè;dy	10
 消瘿气瘰丸	xiāo;dl yǐng;bn qì;pv luǒ;bc wán;px	10
 消瘿五海丸	xiāo;dl yǐng;bn wǔ;hh hǎi;dm wán;px	10
+消痈散毒汤	xiāo;dl yōng;by sàn;cw dú;fm tāng;dp	10
 消痈提毒膏	xiāo;dl yōng;by tí;fr dú;fm gāo;wl	10
 消疣口服液	xiāo;dl yóu;by kǒu;sh fú;li yè;dy	10
+消瘀荡秽汤	xiāo;dl yū;bx dàng;cp huì;hx tāng;dp	10
 消瘀定痛膏	xiāo;dl yū;bx dìng;br tòng;by gāo;wl	10
 消瘀康胶囊	xiāo;dl yū;bx kāng;sy jiāo;lx náng;hf	10
 消胀顺气丸	xiāo;dl zhàng;li shùn;ir qì;pv wán;px	10
@@ -4242,6 +4583,7 @@ sort: by_weight
 消痔千金散	xiāo;dl zhì;bc qiān;pu jīn;rh sàn;cw	10
 消痔注射液	xiāo;dl zhì;bc zhù;dv shè;uc yè;dy	10
 消中保中丸	xiāo;dl zhōng;ss bǎo;rm zhōng;ss wán;px	10
+消肿健脾汤	xiāo;dl zhǒng;lv jiàn;rz pí;lu tāng;dp	10
 消肿九味散	xiāo;dl zhǒng;lv jiǔ;pv wèi;kw sàn;cw	10
 消肿痛醋膏	xiāo;dl zhǒng;lv tòng;by cù;fp gāo;wl	10
 消肿橡胶膏	xiāo;dl zhǒng;lv xiàng;my jiāo;lx gāo;wl	10
@@ -4266,6 +4608,7 @@ sort: by_weight
 新肤螨软膏	xīn;li fū;lf mǎn;il ruǎn;ir gāo;wl	10
 心肝宝胶囊	xīn;xx gān;lt bǎo;by jiāo;lx náng;hf	10
 心肌康颗粒	xīn;xx jī;lj kāng;sy kē;gr lì;hl	10
+新加黄龙汤	xīn;li jiā;lk huáng;cz lóng;ux tāng;dp	10
 心可宁胶囊	xīn;xx kě;dk níng;bd jiāo;lx náng;hf	10
 心可舒胶囊	xīn;xx kě;dk shū;rs jiāo;lx náng;hf	10
 心可舒颗粒	xīn;xx kě;dk shū;rs kē;gr lì;hl	10
@@ -4305,6 +4648,7 @@ sort: by_weight
 醒脑安神片	xǐng;fu nǎo;ln ān;bn shén;pu piàn;pv	10
 醒脑降压丸	xǐng;fu nǎo;ln jiàng;qs yā;ix wán;px	10
 醒脑康胶囊	xǐng;fu nǎo;ln kāng;sy jiāo;lx náng;hf	10
+杏仁滑石汤	xìng;mk rén;rq huá;dg shí;hk tāng;dp	10
 杏苏二陈丸	xìng;mk sū;cb èr;hh chén;qd wán;px	10
 杏苏口服液	xìng;mk sū;cb kǒu;sh fú;li yè;dy	10
 熊胆跌打膏	xióng;sh dǎn;lh diē;zu dǎ;fd gāo;wl	10
@@ -4318,10 +4662,14 @@ sort: by_weight
 芎香通脉丸	xiōng;cg xiāng;hp tōng;zy mài;ly wán;px	10
 溴噻乙啶片	xiù;dq sāi;kt yǐ;vv dìng;kr piàn;pv	10
 宣肺定喘丸	xuān;bh fèi;ls dìng;br chuǎn;kq wán;px	10
+旋覆代赭汤	xuán;fr fù;xw dài;ry zhě;tp tāng;dp	10
+旋复代赭汤	xuán;fr fù;pw dài;ry zhě;tp tāng;dp	10
 悬浮颗粒物	xuán;qx fú;dz kē;gr lì;hl wù;nw	10
 玄胡当归散	xuán;wy hú;ul dāng;xn guī;sn sàn;cw	10
+玄胡六合汤	xuán;wy hú;ul liù;wz hé;rk tāng;dp	10
 玄胡止痛片	xuán;wy hú;ul zhǐ;sh tòng;by piàn;pv	10
 玄芪口服液	xuán;wy qí;cu kǒu;sh fú;li yè;dy	10
+玄参升麻汤	xuán;wy shēn;sp shēng;pc má;sm tāng;dp	10
 玄霜雪梨膏	xuán;wy shuāng;yg xuě;yn lí;hm gāo;wl	10
 癣药玉红膏	xuǎn;by yào;cu yù;wx hóng;sg gāo;wl	10
 眩晕宁颗粒	xuàn;gy yùn;pi níng;bd kē;gr lì;hl	10
@@ -4331,6 +4679,8 @@ sort: by_weight
 血尔口服液	xuè;pm ěr;xc kǒu;sh fú;li yè;dy	10
 血复生胶囊	xuè;pm fù;pw shēng;pf jiāo;lx náng;hf	10
 血府逐瘀片	xuè;pm fǔ;sc zhú;zu yū;bx piàn;pv	10
+血府逐瘀汤	xuè;pm fǔ;sc zhú;zu yū;bx tāng;dp	10
+血府逐淤汤	xuè;pm fǔ;sc zhú;zu yū;dx tāng;dp	10
 血府逐瘀丸	xuè;pm fǔ;sc zhú;zu yū;bx wán;px	10
 血浆代用液	xuè;pm jiāng;du dài;ry yòng;ns yè;dy	10
 血康口服液	xuè;pm kāng;sy kǒu;sh fú;li yè;dy	10
@@ -4407,6 +4757,7 @@ sort: by_weight
 养荣祛斑膏	yǎng;ys róng;cm qū;ps bān;ww gāo;wl	10
 羊乳维钙片	yáng;bs rǔ;pv wéi;sf gài;jg piàn;pv	10
 洋参保肺丸	yáng;dy shēn;sp bǎo;rm fèi;ls wán;px	10
+洋参炖鸡汤	yáng;dy shēn;sp dùn;lt jī;in tāng;dp	10
 养胃宁胶囊	yǎng;ys wèi;tl níng;bd jiāo;lx náng;hf	10
 养胃舒胶囊	yǎng;ys wèi;tl shū;rs jiāo;lx náng;hf	10
 养胃舒颗粒	yǎng;ys wèi;tl shū;rs kē;gr lì;hl	10
@@ -4427,6 +4778,7 @@ sort: by_weight
 养阴降糖片	yǎng;ys yīn;ql jiàng;qs táng;hk piàn;pv	10
 养阴明目丸	yǎng;ys yīn;ql míng;pl mù;wh wán;px	10
 养阴清肺膏	yǎng;ys yīn;ql qīng;dl fèi;ls gāo;wl	10
+养阴清肺汤	yǎng;ys yīn;ql qīng;dl fèi;ls tāng;dp	10
 养阴清肺丸	yǎng;ys yīn;ql qīng;dl fèi;ls wán;px	10
 养正口服液	yǎng;ys zhèng;hv kǒu;sh fú;li yè;dy	10
 腰痹通胶囊	yāo;ln bì;bs tōng;zy jiāo;lx náng;hf	10
@@ -4435,6 +4787,8 @@ sort: by_weight
 药制龟苓膏	yào;cu zhì;pd guī;xv líng;cs gāo;wl	10
 腰椎痹痕丸	yāo;ln zhuī;mf bì;bs hén;bg wán;px	10
 腰椎痹痛丸	yāo;ln zhuī;mf bì;bs tòng;by wán;px	10
+射干兜铃汤	yè;uc gān;hu dōu;bq líng;js tāng;dp	10
+射干麻黄汤	yè;uc gān;hu má;sm huáng;cz tāng;dp	10
 叶绿素铜片	yè;ku lǜ;su sù;fc tóng;jk piàn;pv	10
 夜宁口服液	yè;wy níng;bd kǒu;sh fú;li yè;dy	10
 叶酸拮抗剂	yè;ku suān;fw jié;fk kàng;fj jì;wd	10
@@ -4447,6 +4801,8 @@ sort: by_weight
 宜鳖甲煎丸	yí;bq biē;xg jiǎ;ss jiān;bh wán;px	10
 一部大烂片	yí;hh bù;lq dà;uy làn;ls piàn;pv	10
 益肠灌肠液	yì;bm cháng;lp guàn;df cháng;lp yè;dy	10
+宜大柴胡汤	yí;bq dà;uy chái;vm hú;ul tāng;dp	10
+宜大承气汤	yí;bq dà;uy chéng;vy qì;pv tāng;dp	10
 胰胆舒颗粒	yí;ly dǎn;lh shū;rs kē;gr lì;hl	10
 胰胆炎合剂	yí;ly dǎn;lh yán;ll hé;rk jì;wd	10
 胰岛生胶囊	yí;ly dǎo;pn shēng;pf jiāo;lx náng;hf	10
@@ -4466,6 +4822,7 @@ sort: by_weight
 伊红染色液	yī;ry hóng;sg rǎn;dm sè;xb yè;dy	10
 蚁黄口服液	yǐ;iy huáng;cz kǒu;sh fú;li yè;dy	10
 伊基奥仑赛	yī;ry jī;qt ào;pd lún;rb sài;br	10
+一甲复脉汤	yī;hh jiǎ;ss fù;pw mài;ly tāng;dp	10
 益金解毒片	yì;bm jīn;rh jiě;xn dú;fm piàn;pv	10
 益精口服液	yì;bm jīng;hl kǒu;sh fú;li yè;dy	10
 异卡波肼片	yì;sc kǎ;ub bō;di jǐng;lj piàn;pv	10
@@ -4499,13 +4856,18 @@ sort: by_weight
 依普黄酮片	yī;rf pǔ;bp huáng;cz tóng;fk piàn;pv	10
 依普拉酮片	yī;rf pǔ;bp lā;fl tóng;fk piàn;pv	10
 益气安神片	yì;bm qì;pv ān;bn shén;pu piàn;pv	10
+益气安神汤	yì;bm qì;pv ān;bn shén;pu tāng;dp	10
+益气补肺汤	yì;bm qì;pv bǔ;pb fèi;ls tāng;dp	10
 益气补血片	yì;bm qì;pv bǔ;pb xuè;pm piàn;pv	10
+益气聪明汤	yì;bm qì;pv cōng;qx míng;pl tāng;dp	10
 益气聪明丸	yì;bm qì;pv cōng;qx míng;pl wán;px	10
 益气复脉片	yì;bm qì;pv fù;pw mài;ly piàn;pv	10
 益气健肾膏	yì;bm qì;pv jiàn;rz shèn;sl gāo;wl	10
 益气六君丸	yì;bm qì;pv liù;wz jūn;yk wán;px	10
 益气明目丸	yì;bm qì;pv míng;pl mù;wh wán;px	10
+益气清金汤	yì;bm qì;pv qīng;dl jīn;rh tāng;dp	10
 益气润肠膏	yì;bm qì;pv rùn;dw cháng;lp gāo;wl	10
+益气疏风汤	yì;bm qì;pv shū;vv fēng;jx tāng;dp	10
 益气舒肝片	yì;bm qì;pv shū;rs gān;lt piàn;pv	10
 益气维血片	yì;bm qì;pv wéi;sf xuè;pm piàn;pv	10
 益气消渴丸	yì;bm qì;pv xiāo;dl kě;dv wán;px	10
@@ -4544,6 +4906,7 @@ sort: by_weight
 伊维菌素片	yī;ry wéi;sf jūn;ch sù;fc piàn;pv	10
 益胃口服液	yì;bm wèi;tl kǒu;sh fú;li yè;dy	10
 益胃宁胶囊	yì;bm wèi;tl níng;bd jiāo;lx náng;hf	10
+益胃升阳汤	yì;bm wèi;tl shēng;pc yáng;qp tāng;dp	10
 依沃西单抗	yī;rf wò;dy xī;hh dān;bs kàng;fj	10
 乙烯雌酚片	yǐ;vv xī;lj cí;vf fēn;fd piàn;pv	10
 已烯雌酚片	yǐ;vv xī;lj cí;vf fēn;fd piàn;pv	10
@@ -4568,13 +4931,16 @@ sort: by_weight
 以饮服一丸	yǐ;vr yǐn;ur fú;li yì;hh wán;px	10
 益阴肾气丸	yì;bm yīn;ql shèn;sl qì;pv wán;px	10
 益贞女金片	yì;bm zhēn;sr nǚ;vh jīn;rh piàn;pv	10
+益智和中汤	yì;bm zhì;up hé;hk zhōng;ss tāng;dp	10
 益智康脑丸	yì;bm zhì;up kāng;sy nǎo;ln wán;px	10
 益脂平胶囊	yì;bm zhī;lp píng;hu jiāo;lx náng;hf	10
 益中生血片	yì;bm zhōng;ss shēng;pf xuè;pm piàn;pv	10
 异种移植片	yì;sc zhǒng;hv yí;hx zhí;mq piàn;pv	10
 一洲洋参丸	yì;hh zhōu;dv yáng;dy shēn;sp wán;px	10
 银柴口服液	yín;jg chái;vm kǒu;sh fú;li yè;dy	10
+茵陈术附汤	yīn;cd chén;qd shù;mx fù;qc tāng;dp	10
 茵陈四逆散	yīn;cd chén;qd sì;wq nì;zp sàn;cw	10
+茵陈四逆汤	yīn;cd chén;qd sì;wq nì;zp tāng;dp	10
 茵陈五疸丸	yīn;cd chén;qd wǔ;hh dǎn;bh wán;px	10
 茵陈五疽丸	yīn;cd chén;qd wǔ;hh jū;bq wán;px	10
 茵陈五苓散	yīn;cd chén;qd wǔ;hh líng;cs sàn;cw	10
@@ -4712,6 +5078,7 @@ sort: by_weight
 增乳口服液	zēng;tp rǔ;pv kǒu;sh fú;li yè;dy	10
 增视益智片	zēng;tp shì;pq yì;bm zhì;up piàn;pv	10
 增效联磺片	zēng;tp xiào;ww lián;qt huáng;uz piàn;pv	10
+增液承气汤	zēng;tp yè;dy chéng;vy qì;pv tāng;dp	10
 增液口服液	zēng;tp yè;dy kǒu;sh fú;li yè;dy	10
 扎来普隆片	zhā;fv lái;hy pǔ;bp lóng;qu piàn;pv	10
 湛江蟾蜍膏	zhàn;dv jiāng;dg chán;ik chú;ih gāo;wl	10
@@ -4721,6 +5088,7 @@ sort: by_weight
 张艺谋新片	zhāng;gi yì;cv móu;ym xīn;li piàn;pv	10
 珍宝丸水丸	zhēn;wp bǎo;by wán;px shuǐ;sy wán;px	10
 珍凤口服液	zhēn;wp fèng;ji kǒu;sh fú;li yè;dy	10
+镇肝熄风汤	zhèn;jz gān;lt xī;lx fēng;jx tāng;dp	10
 珍黄安宫片	zhēn;wp huáng;cz ān;bn gōng;bk piàn;pv	10
 珍菊降压片	zhēn;wp jú;ch jiàng;qs yā;ix piàn;pv	10
 真君妙贴散	zhēn;uz jūn;yk miào;nu tiē;nk sàn;cw	10
@@ -4741,6 +5109,7 @@ sort: by_weight
 正心泰胶囊	zhèng;hv xīn;xx tài;fu jiāo;lx náng;hf	10
 正心泰颗粒	zhèng;hv xīn;xx tài;fu kē;gr lì;hl	10
 知柏地黄片	zhī;uk bǎi;mb dì;ty huáng;cz piàn;pv	10
+知柏地黄汤	zhī;uk bǎi;mb dì;ty huáng;cz tāng;dp	10
 知柏地黄丸	zhī;uk bǎi;mb dì;ty huáng;cz wán;px	10
 至宝三鞭丸	zhì;ht bǎo;by sān;hq biān;gg wán;px	10
 志仓千代丸	zhì;tx cāng;rv qiān;pu dài;ry wán;px	10
@@ -4821,7 +5190,12 @@ sort: by_weight
 止痒消炎水	zhǐ;sh yǎng;by xiāo;dl yán;ll shuǐ;sy	10
 止痒消炎王	zhǐ;sh yǎng;by xiāo;dl yán;ll wáng;ht	10
 脂质体制剂	zhī;lp zhì;pr tǐ;rb zhì;pd jì;wd	10
+栀子柏皮汤	zhī;mv zi;vh bǎi;mb pí;vi tāng;dp	10
 栀子大黄汤	zhī;mv zi;vh dà;uy huáng;cz tāng;dp	10
+栀子导赤汤	zhī;mv zi;vh dǎo;sc chì;tx tāng;dp	10
+栀子干姜汤	zhī;mv zi;vh gān;hu jiāng;yn tāng;dp	10
+栀子厚朴汤	zhī;mv zi;vh hòu;iz pò;mb tāng;dp	10
+栀子金花汤	zhī;mv zi;vh jīn;rh huā;cb tāng;dp	10
 栀子金花丸	zhī;mv zi;vh jīn;rh huā;cb wán;px	10
 中草药制剂	zhōng;ss cǎo;cu yào;cu zhì;pd jì;wd	10
 中成药制剂	zhōng;ss chéng;wv yào;cu zhì;pd jì;wd	10
@@ -4833,6 +5207,7 @@ sort: by_weight
 肿节风浸膏	zhǒng;lv jié;cq fēng;jx jìn;di gāo;wl	10
 仲景胃灵片	zhòng;rv jǐng;pc wèi;tl líng;nl piàn;pv	10
 仲景胃灵丸	zhòng;rv jǐng;pc wèi;tl líng;nl wán;px	10
+中满分消汤	zhōng;ss mǎn;dl fēn;zd xiāo;dl tāng;dp	10
 中满分消丸	zhōng;ss mǎn;dl fēn;zd xiāo;dl wán;px	10
 肿痛安胶囊	zhǒng;lv tòng;by ān;bn jiāo;lx náng;hf	10
 肿痛气雾剂	zhǒng;lv tòng;by qì;pv wù;yl jì;wd	10
@@ -4842,6 +5217,7 @@ sort: by_weight
 周氏回生丸	zhōu;nk shì;pv huí;wk shēng;pf wán;px	10
 珠贝定喘丸	zhū;wv bèi;nr dìng;br chuǎn;kq wán;px	10
 诸葛行军散	zhū;yp gě;cv xíng;ii jūn;bi sàn;cw	10
+逐寒荡惊汤	zhú;zu hán;bx dàng;cp jīng;xc tāng;dp	10
 竺黄安宁丸	zhú;vq huáng;cz ān;bn níng;bd wán;px	10
 珠黄八宝散	zhū;wv huáng;cz bā;py bǎo;by sàn;cw	10
 珠黄吹喉散	zhū;wv huáng;cz chuī;kr hóu;ku sàn;cw	10
@@ -4850,8 +5226,11 @@ sort: by_weight
 珠珀保婴散	zhū;wv pò;wb bǎo;rm yīng;nn sàn;cw	10
 珠珀猴枣散	zhū;wv pò;wb hóu;qu zǎo;hx sàn;cw	10
 朱砂安神片	zhū;pw shā;uu ān;bn shén;pu piàn;pv	10
+竹叶柳蒡汤	zhú;ps yè;ku liǔ;mq bàng;cf tāng;dp	10
+竹叶石膏汤	zhú;ps yè;ku shí;hk gāo;wl tāng;dp	10
 逐瘀消肿膏	zhú;zu yū;bx xiāo;dl zhǒng;lv gāo;wl	10
 著蓣皂苷片	zhù;cp yù;cr zào;bq gān;cg piàn;pv	10
+逐瘀止血汤	zhú;zu yū;bx zhǐ;sh xuè;pm tāng;dp	10
 珠珍胃安丸	zhū;wv zhēn;wp wèi;tl ān;bn wán;px	10
 壮骨关节丸	zhuàng;dt gǔ;sl guān;bt jié;cq wán;px	10
 壮筋续骨丸	zhuàng;dt jīn;vl xù;sd gǔ;sl wán;px	10
@@ -4891,6 +5270,7 @@ sort: by_weight
 资生浓缩丸	zī;dr shēng;pf nóng;dn suō;sb wán;px	10
 资生肾气丸	zī;dr shēng;pf shèn;sl qì;pv wán;px	10
 资生通脉散	zī;dr shēng;pf tōng;zy mài;ly sàn;cw	10
+资寿解语汤	zī;dr shòu;fc jiě;xn yǔ;yk tāng;dp	10
 紫松皮炎膏	zǐ;vc sōng;ms pí;vi yán;ll gāo;wl	10
 紫铜消白片	zǐ;vc tóng;jk xiāo;dl bái;pp piàn;pv	10
 滋心阴胶囊	zī;dy xīn;xx yīn;ql jiāo;lx náng;hf	10
@@ -5048,6 +5428,10 @@ sort: by_weight
 白贝止咳糖浆	bái;pp bèi;nr zhǐ;sh ké;kr táng;hk jiāng;du	10
 百部止咳糖浆	bǎi;hb bù;lq zhǐ;sh ké;kr táng;hk jiāng;du	10
 白癜风浓缩丸	bái;pp diàn;bi fēng;jx nóng;dn suō;sb wán;px	10
+白虎加仓术汤	bái;pp hǔ;hj jiā;lk cāng;rv shù;mx tāng;dp	10
+白虎加苍术汤	bái;pp hǔ;hj jiā;lk cāng;cv zhú;mx tāng;dp	10
+白虎加桂枝汤	bái;pp hǔ;hj jiā;lk guì;mt zhī;mi tāng;dp	10
+白虎加人参汤	bái;pp hǔ;hj jiā;lk rén;py shēn;sp tāng;dp	10
 白加黑感冒片	bái;pp jiā;lk hēi;sh gǎn;xx mào;ng piàn;pv	10
 白连止痢胶囊	bái;pp lián;zi zhǐ;sh lì;bd jiāo;lx náng;hf	10
 白苓健脾颗粒	bái;pp líng;cs jiàn;rz pí;lu kē;gr lì;hl	10
@@ -5260,6 +5644,7 @@ sort: by_weight
 茶碱控释胶囊	chá;cm jiǎn;uk kòng;fg shì;ps jiāo;lx náng;hf	10
 茶碱麻黄碱片	chá;cm jiǎn;uk má;sm huáng;cz jiǎn;uk piàn;pv	10
 柴桂退热颗粒	chái;vm guì;mt tuì;zg rè;fh kē;gr lì;hl	10
+柴胡加芒硝汤	chái;vm hú;ul jiā;lk máng;cw xiāo;ul tāng;dp	10
 柴胡健肝胶囊	chái;vm hú;ul jiàn;rz gān;lt jiāo;lx náng;hf	10
 柴黄清热颗粒	chái;vm huáng;cz qīng;dl rè;fh kē;gr lì;hl	10
 柴芩清解颗粒	chái;vm qín;cv qīng;dl jiě;xn kē;gr lì;hl	10
@@ -5387,6 +5772,7 @@ sort: by_weight
 当归凋经颗粒	dāng;xn guī;sn diāo;dk jīng;sg kē;gr lì;hl	10
 当归红枣颗粒	dāng;xn guī;sn hóng;sg zǎo;hx kē;gr lì;hl	10
 当归红栆颗粒	dāng;xn guī;sn hóng;sg zǎo; kē;gr lì;hl	10
+当归鸡血藤汤	dāng;xn guī;sn jī;in xuè;pm téng;cu tāng;dp	10
 当归拈痛颗粒	dāng;xn guī;sn niān;fk tòng;by kē;gr lì;hl	10
 导赤丸大蜜丸	dǎo;sc chì;tx wán;px dà;uy mì;bi wán;px	10
 得力生注射液	dé;ic lì;vp shēng;pf zhù;dv shè;uc yè;dy	10
@@ -5493,6 +5879,7 @@ sort: by_weight
 阿胶当归合剂	ē;qk jiāo;lx dāng;xn guī;sn hé;rk jì;wd	10
 阿胶钙口服液	ē;qk jiāo;lx gài;jg kǒu;sh fú;li yè;dy	10
 阿胶钙营养液	ē;qk jiāo;lx gài;jg yíng;ck yǎng;ys yè;dy	10
+阿胶鸡子黄汤	ē;qk jiāo;lx jī;in zǐ;vh huáng;cz tāng;dp	10
 鹅去氧胆酸片	é;wn qù;ts yǎng;qy dǎn;lh suān;fw piàn;pv	10
 莪术油注射液	é;cw zhú;mx yóu;dy zhù;dv shè;uc yè;dy	10
 恩丹西酮胶囊	ēn;wx dān;ph xī;hh tóng;fk jiāo;lx náng;hf	10
@@ -5516,6 +5903,7 @@ sort: by_weight
 法可林滴眼液	fǎ;ds kě;dk lín;mm dī;dk yǎn;gg yè;dy	10
 法莫替丁胶囊	fǎ;ds mò;cd tì;fp dīng;hs jiāo;lx náng;hf	10
 法莫替丁颗粒	fǎ;ds mò;cd tì;fp dīng;hs kē;gr lì;hl	10
+法式龙虾浓汤	fǎ;ds shì;yg lóng;ux xiā;ix nóng;dn tāng;dp	10
 伐昔洛韦胶囊	fá;rg xī;cp luò;dk wéi;hs jiāo;lx náng;hf	10
 泛硫乙胺胶囊	fàn;df liú;uv yǐ;vv àn;ln jiāo;lx náng;hf	10
 矾藤痔注射液	fán;uf téng;cu zhì;bc zhù;dv shè;uc yè;dy	10
@@ -6059,6 +6447,7 @@ sort: by_weight
 高折射率镜片	gāo;wk zhé;fi shè;uc lǜ;wu jìng;jq piàn;pv	10
 各背景科幻片	gè;wk bèi;sl jǐng;pc kē;hu huàn;yv piàn;pv	10
 葛根岑连胶囊	gé;cv gēn;mg cén;nv lián;zi jiāo;lx náng;hf	10
+葛根加半夏汤	gé;cv gēn;mg jiā;lk bàn;xs xià;hw tāng;dp	10
 葛根芩连胶囊	gé;cv gēn;mg qín;cv lián;zi jiāo;lx náng;hf	10
 葛根芩连颗粒	gé;cv gēn;mg qín;cv lián;zi kē;gr lì;hl	10
 葛根芩连微丸	gé;cv gēn;mg qín;cv lián;zi wēi;iw wán;px	10
@@ -6088,6 +6477,7 @@ sort: by_weight
 更年宁心胶囊	gèng;hy nián;ps níng;bd xīn;xx jiāo;lx náng;hf	10
 更昔洛韦胶囊	gèng;hy xī;cp luò;dk wéi;hs jiāo;lx náng;hf	10
 更昔洛韦眼膏	gèng;hy xī;cp luò;dk wéi;hs yǎn;gg gāo;wl	10
+攻表宜桂枝汤	gōng;gw biǎo;ff yí;bq guì;mt zhī;mi tāng;dp	10
 宫环养血颗粒	gōng;bk huán;wb yǎng;ys xuè;pm kē;gr lì;hl	10
 功劳去火胶囊	gōng;gl láo;cl qù;ts huǒ;xr jiāo;lx náng;hf	10
 功劳止泻颗粒	gōng;gl láo;cl zhǐ;sh xiè;dy kē;gr lì;hl	10
@@ -6160,6 +6550,11 @@ sort: by_weight
 桂枝茯苓胶囊	guì;mt zhī;mi fú;cq líng;cs jiāo;lx náng;hf	10
 桂枝茯芩胶囊	guì;mt zhī;mi fú;cq qín;cv jiāo;lx náng;hf	10
 桂枝加大黄汤	guì;mt zhī;mi jiā;lk dà;uy huáng;cz tāng;dp	10
+桂枝加当归汤	guì;mt zhī;mi jiā;lk dāng;xn guī;sn tāng;dp	10
+桂枝加附子汤	guì;mt zhī;mi jiā;lk fù;qc zǐ;vh tāng;dp	10
+桂枝加葛根汤	guì;mt zhī;mi jiā;lk gé;cv gēn;mg tāng;dp	10
+桂枝加归芍汤	guì;mt zhī;mi jiā;lk guī;sn sháo;cu tāng;dp	10
+桂枝加黄芪汤	guì;mt zhī;mi jiā;lk huáng;cz qí;cu tāng;dp	10
 桂枝加芍药汤	guì;mt zhī;mi jiā;lk sháo;cu yào;cu tāng;dp	10
 桂枝去芍药汤	guì;mt zhī;mi qù;ts sháo;cu yào;cu tāng;dp	10
 蛤杞白术胶囊	há;ik qǐ;mj bái;pp zhú;mx jiāo;lx náng;hf	10
@@ -6221,6 +6616,7 @@ sort: by_weight
 红细胞保存液	hóng;sg xì;st bāo;ls bǎo;rm cún;uz yè;dy	10
 红血球浓厚液	hóng;sg xuè;pm qiú;wq nóng;dn hòu;iz yè;dy	10
 红羊填精胶囊	hóng;sg yáng;bs tián;tz jīng;hl jiāo;lx náng;hf	10
+红枣黑木耳汤	hóng;sg zǎo;hx hēi;sh mù;uy ěr;hh tāng;dp	10
 猴耳环消炎片	hóu;qu ěr;hh huán;wb xiāo;dl yán;ll piàn;pv	10
 猴菇饮口服液	hóu;qu gū;ck yǐn;ur kǒu;sh fú;li yè;dy	10
 厚朴大黄汤方	hòu;iz pò;mb dà;uy huáng;cz tāng;dp fāng;xw	10
@@ -6364,8 +6760,14 @@ sort: by_weight
 甲钴胺注射液	jiǎ;ss gǔ;jk àn;ln zhù;dv shè;uc yè;dy	10
 甲钴铵注射液	jiǎ;ss gǔ;jk ǎn;jn zhù;dv shè;uc yè;dy	10
 甲基斑蝥胺片	jiǎ;ss jī;qt bān;ww máo;si àn;ln piàn;pv	10
+加减大柴胡汤	jiā;lk jiǎn;dk dà;uy chái;vm hú;ul tāng;dp	10
+加减大建中汤	jiā;lk jiǎn;dk dà;uy jiàn;zy zhōng;ss tāng;dp	10
 加减金铃子散	jiā;lk jiǎn;dk jīn;rh líng;js zǐ;vh sàn;cw	10
+加减木防己汤	jiā;lk jiǎn;dk mù;uy fáng;qf jǐ;vv tāng;dp	10
 加减桑螵蛸散	jiā;lk jiǎn;dk sāng;im piāo;ic shāo;il sàn;cw	10
+加减生地黄汤	jiā;lk jiǎn;dk shēng;pf dì;ty huáng;cz tāng;dp	10
+加减四君子汤	jiā;lk jiǎn;dk sì;wq jūn;yk zǐ;vh tāng;dp	10
+加减小柴胡汤	jiā;lk jiǎn;dk xiǎo;sx chái;vm hú;ul tāng;dp	10
 甲硫咪唑软膏	jiǎ;ss liú;uv mī;kh zuò;kt ruǎn;ir gāo;wl	10
 甲硫氧嘧啶片	jiǎ;ss liú;uv yǎng;qy mì;kn dìng;kr piàn;pv	10
 甲氯芬那酸片	jiǎ;ss lǜ;qu fēn;cd nà;vq suān;fw piàn;pv	10
@@ -6380,9 +6782,13 @@ sort: by_weight
 甲巯咪唑软膏	jiǎ;ss qiú;vv mī;kh zuò;kt ruǎn;ir gāo;wl	10
 甲醛甲酚溶液	jiǎ;ss quán;fw jiǎ;ss fēn;fd róng;dk yè;dy	10
 加替沙星胶囊	jiā;lk tì;fp shā;du xīng;pu jiāo;lx náng;hf	10
+加味白头翁汤	jiā;lk wèi;kw bái;pp tóu;xd wēng;zx tāng;dp	10
 加味灵芝菌片	jiā;lk wèi;kw líng;nl zhī;cv jūn;ch piàn;pv	10
+加味六君子汤	jiā;lk wèi;kw liù;wz jūn;yk zǐ;vh tāng;dp	10
 加味生化颗粒	jiā;lk wèi;kw shēng;pf huà;rb kē;gr lì;hl	10
+加味四君子汤	jiā;lk wèi;kw sì;wq jūn;yk zǐ;vh tāng;dp	10
 加味天麻胶囊	jiā;lk wèi;kw tiān;hd má;sm jiāo;lx náng;hf	10
+加味小柴胡汤	jiā;lk wèi;kw xiǎo;sx chái;vm hú;ul tāng;dp	10
 加味逍遥胶囊	jiā;lk wèi;kw xiāo;zl yáo;zf jiāo;lx náng;hf	10
 加味逍遥颗粒	jiā;lk wèi;kw xiāo;zl yáo;zf kē;gr lì;hl	10
 加味益母草膏	jiā;lk wèi;kw yì;bm mǔ;vx cǎo;cu gāo;wl	10
@@ -6451,6 +6857,7 @@ sort: by_weight
 绞股蓝总甙片	jiǎo;sx gǔ;li lán;cm zǒng;bx dài;yg piàn;pv	10
 绞股蓝总苷片	jiǎo;sx gǔ;li lán;cm zǒng;bx gān;cg piàn;pv	10
 脚立爽喷雾剂	jiǎo;lq lì;wh shuǎng;dx pēn;kr wù;yl jì;wd	10
+脚气宜风引汤	jiǎo;lq qì;pv yí;bq fēng;jx yǐn;gs tāng;dp	10
 交沙霉素胶囊	jiāo;wx shā;du méi;ym sù;fc jiāo;lx náng;hf	10
 交沙霉素颗粒	jiāo;wx shā;du méi;ym sù;fc kē;gr lì;hl	10
 胶体果铋胶囊	jiāo;lx tǐ;rb guǒ;sy bì;jb jiāo;lx náng;hf	10
@@ -6901,6 +7308,7 @@ sort: by_weight
 洛伐他汀胶囊	luò;dk fá;rg tā;ry tīng;dd jiāo;lx náng;hf	10
 洛伐他汀颗粒	luò;dk fá;rg tā;ry tīng;dd kē;gr lì;hl	10
 罗格列酮钠片	luó;sx gé;mk liè;dd tóng;fk nà;jn piàn;pv	10
+罗汉果柿饼汤	luó;sx hàn;di guǒ;sy shì;mj bǐng;uk tāng;dp	10
 罗汉果止咳膏	luó;sx hàn;di guǒ;sy zhǐ;sh ké;kr gāo;wl	10
 罗汉果止咳片	luó;sx hàn;di guǒ;sy zhǐ;sh ké;kr piàn;pv	10
 罗红霉素胶囊	luó;sx hóng;sg méi;ym sù;fc jiāo;lx náng;hf	10
@@ -6975,6 +7383,7 @@ sort: by_weight
 脉络宁口康片	mài;ly luò;sk níng;bd kǒu;sh kāng;sy piàn;pv	10
 脉络宁注射液	mài;ly luò;sk níng;bd zhù;dv shè;uc yè;dy	10
 脉络舒通颗粒	mài;ly luò;sk shū;rs tōng;zy kē;gr lì;hl	10
+麦芽浸膏肉汤	mài;fw yá;cy jìn;di gāo;wl ròu;nr tāng;dp	10
 慢肝解郁胶囊	màn;xi gān;lt jiě;xn yù;uq jiāo;lx náng;hf	10
 慢肝养阴胶囊	màn;xi gān;lt yǎng;ys yīn;ql jiāo;lx náng;hf	10
 满山红油滴丸	mǎn;dl shān;sn hóng;sg yóu;dy dī;dk wán;px	10
@@ -7024,6 +7433,7 @@ sort: by_weight
 密盖息注射液	mì;bn gài;ym xī;zx zhù;dv shè;uc yè;dy	10
 弥可保注射液	mí;gc kě;dk bǎo;rm zhù;dv shè;uc yè;dy	10
 咪喹莫特乳膏	mī;kh kuí;kt mò;cd tè;nc rǔ;pv gāo;wl	10
+米勒海顿肉汤	mǐ;xm lè;gl hǎi;dm dùn;tr ròu;nr tāng;dp	10
 米力农注射液	mǐ;xm lì;vp nóng;xy zhù;dv shè;uc yè;dy	10
 米诺环素胶囊	mǐ;xm nuò;yk huán;wb sù;fc jiāo;lx náng;hf	10
 米索前列醇片	mǐ;xm suǒ;uc qián;bd liè;dd chún;fz piàn;pv	10
@@ -7031,6 +7441,7 @@ sort: by_weight
 咪唑酸乙酯片	mī;kh zuò;kt suān;fw yǐ;vv zhǐ;fp piàn;pv	10
 眠安康口服液	mián;gm ān;bn kāng;sy kǒu;sh fú;li yè;dy	10
 眠安宁口服液	mián;gm ān;bn níng;bd kǒu;sh fú;li yè;dy	10
+民间瓦罐煨汤	mín;vv jiān;mp wǎ;hx guàn;ff wēi;ly tāng;dp	10
 皿治林缓释片	mǐn;sh zhì;dk lín;mm huǎn;si shì;ps piàn;pv	10
 明藿降脂颗粒	míng;pl huò;cf jiàng;qs zhī;lp kē;gr lì;hl	10
 明目六味汤散	míng;pl mù;wh liù;wz wèi;kw tāng;dp sàn;cw	10
@@ -7345,6 +7756,7 @@ sort: by_weight
 祛风痛解搽剂	qū;ps fēng;jx tòng;by jiě;xn chá;fm jì;wd	10
 祛风止痛胶囊	qū;ps fēng;jx zhǐ;sh tòng;by jiāo;lx náng;hf	10
 去感热注射液	qù;ts gǎn;xx rè;fh zhù;dv shè;uc yè;dy	10
+去桂加白术汤	qù;ts guì;mt jiā;lk bái;pp zhú;mx tāng;dp	10
 去甲斑蝥素片	qù;ts jiǎ;ss bān;ww máo;si sù;fc piàn;pv	10
 曲克芦丁冻干	qǔ;sh kè;uq lú;ch dīng;hs dòng;dd gān;hu	10
 曲克芦丁胶囊	qǔ;sh kè;uq lú;ch dīng;hs jiāo;lx náng;hf	10
@@ -7409,6 +7821,7 @@ sort: by_weight
 乳酸锌口服液	rǔ;pv suān;fw xīn;ju kǒu;sh fú;li yè;dy	10
 乳酸亚铁胶囊	rǔ;pv suān;fw yà;hy tiě;ju jiāo;lx náng;hf	10
 乳酸亚铁口服	rǔ;pv suān;fw yà;hy tiě;ju kǒu;sh fú;li	10
+乳糖胆盐肉汤	rǔ;pv táng;hk dǎn;lh yán;tm ròu;nr tāng;dp	10
 乳腺康注射液	rǔ;pv xiàn;lu kāng;sy zhù;dv shè;uc yè;dy	10
 如意舒络洗剂	rú;nk yì;lx shū;rs luò;sk xǐ;dq jì;wd	10
 软骨素滴眼液	ruǎn;ir gǔ;sl sù;fc dī;dk yǎn;gg yè;dy	10
@@ -7485,6 +7898,7 @@ sort: by_weight
 杀菌止痒洗剂	shā;xm jūn;ch zhǐ;sh yǎng;by xǐ;dq jì;wd	10
 砂连和胃胶囊	shā;uu lián;zi hé;hk wèi;tl jiāo;lx náng;hf	10
 沙梅消渴胶囊	shā;du méi;mm xiāo;dl kě;dv jiāo;lx náng;hf	10
+沙参麦门冬汤	shā;du shēn;sp mài;fw mén;xv dōng;wx tāng;dp	10
 沙参止咳汤散	shā;du shēn;sp zhǐ;sh ké;kr tāng;dp sàn;cw	10
 山白消食合剂	shān;sn bái;pp xiāo;dl shí;rl hé;rk jì;wd	10
 山达基记录片	shān;sn dá;zd jī;qt jì;yj lù;nu piàn;pv	10
@@ -7557,6 +7971,8 @@ sort: by_weight
 肾炎四味颗粒	shèn;sl yán;ll sì;wq wèi;kw kē;gr lì;hl	10
 肾炎温阳胶囊	shèn;sl yán;ll wēn;dm yáng;qp jiāo;lx náng;hf	10
 升白欣注射液	shēng;pc bái;pp xīn;ir zhù;dv shè;uc yè;dy	10
+生地黄黄连汤	shēng;pf dì;ty huáng;cz huáng;cz lián;zi tāng;dp	10
+生附四君子汤	shēng;pf fù;qc sì;wq jūn;yk zǐ;vh tāng;dp	10
 胜红清热胶囊	shèng;lu hóng;sg qīng;dl rè;fh jiāo;lx náng;hf	10
 生化丸大蜜丸	shēng;pf huà;rb wán;px dà;uy mì;bi wán;px	10
 生津消渴胶囊	shēng;pf jīn;dy xiāo;dl kě;dv jiāo;lx náng;hf	10
@@ -7720,14 +8136,17 @@ sort: by_weight
 四季消炎喉片	sì;wq jì;hz xiāo;dl yán;ll hóu;ku piàn;pv	10
 四加减正气散	sì;wq jiā;lk jiǎn;dk zhèng;hv qì;pv sàn;cw	10
 四君子口服液	sì;wq jūn;yk zǐ;vh kǒu;sh fú;li yè;dy	10
+四苓合芩芍汤	sì;wq líng;cs hé;rk qín;cv sháo;cu tāng;dp	10
 司莫司汀胶囊	sī;vk mò;cd sī;vk tīng;dd jiāo;lx náng;hf	10
 四磨汤口服液	sì;wq mó;su tāng;dp kǒu;sh fú;li yè;dy	10
+四逆加人参汤	sì;wq nì;zp jiā;lk rén;py shēn;sp tāng;dp	10
 四逆汤口服液	sì;wq nì;zp tāng;dp kǒu;sh fú;li yè;dy	10
 司帕沙星胶囊	sī;vk pà;jb shā;du xīng;pu jiāo;lx náng;hf	10
 司帕沙星颗粒	sī;vk pà;jb shā;du xīng;pu kē;gr lì;hl	10
 斯皮仁诺胶囊	sī;qi pí;vi rén;rq nuò;yk jiāo;lx náng;hf	10
 斯奇康注射液	sī;qi qí;dk kāng;sy zhù;dv shè;uc yè;dy	10
 司他夫定胶囊	sī;vk tā;ry fū;hy dìng;br jiāo;lx náng;hf	10
+四味光明盐汤	sì;wq wèi;kw guāng;xw míng;pl yán;tm tāng;dp	10
 四味姜黄汤散	sì;wq wèi;kw jiāng;yn huáng;cz tāng;dp sàn;cw	10
 四维葡萄糖散	sì;wq wéi;sf pú;cf tao;cf táng;hk sàn;cw	10
 四维葡锌胶丸	sì;wq wéi;sf pú;cf xīn;ju jiāo;lx wán;px	10
@@ -7937,6 +8356,7 @@ sort: by_weight
 蚊虫叮咬软膏	wén;iw chóng;vx dīng;kd yǎo;kx ruǎn;ir gāo;wl	10
 温经养血合剂	wēn;dm jīng;sg yǎng;ys xuè;pm hé;rk jì;wd	10
 文拉法辛胶囊	wén;wx lā;fl fǎ;ds xīn;lu jiāo;lx náng;hf	10
+温里宜四逆汤	wēn;dm lǐ;sh yí;bq sì;wq nì;zp tāng;dp	10
 温肾前列胶囊	wēn;dm shèn;sl qián;bd liè;dd jiāo;lx náng;hf	10
 温肾苏拉甫片	wēn;dm shèn;sl sū;cb lā;fl fǔ;hx piàn;pv	10
 温胃降逆颗粒	wēn;dm wèi;tl jiàng;qs nì;zp kē;gr lì;hl	10
@@ -7984,6 +8404,7 @@ sort: by_weight
 无锡透平叶片	wú;hy xī;jw tòu;zn píng;hu yè;ku piàn;pv	10
 乌阳补心糖浆	wū;ph yáng;qp bǔ;pb xīn;xx táng;hk jiāng;du	10
 无着丝粒断片	wú;hy zhāo;yg sī;vh lì;hl duàn;hi piàn;pv	10
+五指毛桃炖汤	wǔ;hh zhǐ;fp máo;pv táo;mx dùn;lt tāng;dp	10
 五子降脂胶囊	wǔ;hh zǐ;vh jiàng;qs zhī;lp jiāo;lx náng;hf	10
 五子衍宗胶囊	wǔ;hh zǐ;vh yǎn;ii zōng;bc jiāo;lx náng;hf	10
 五子衍宗颗粒	wǔ;hh zǐ;vh yǎn;ii zōng;bc kē;gr lì;hl	10
@@ -8029,6 +8450,7 @@ sort: by_weight
 香菊感冒颗粒	xiāng;hp jú;ch gǎn;xx mào;ng kē;gr lì;hl	10
 香连丸浓缩丸	xiāng;hp lián;zi wán;px nóng;dn suō;sb wán;px	10
 香鹿益阳胶囊	xiāng;hp lù;sb yì;bm yáng;qp jiāo;lx náng;hf	10
+香砂六君子汤	xiāng;hp shā;uu liù;wz jūn;yk zǐ;vh tāng;dp	10
 香砂六君子丸	xiāng;hp shā;uu liù;wz jūn;yk zǐ;vh wán;px	10
 香砂平胃颗粒	xiāng;hp shā;uu píng;hu wèi;tl kē;gr lì;hl	10
 香砂养胃胶囊	xiāng;hp shā;uu yǎng;ys wèi;tl jiāo;lx náng;hf	10
@@ -8177,6 +8599,7 @@ sort: by_weight
 消肿接骨胶囊	xiāo;dl zhǒng;lv jiē;fn gǔ;sl jiāo;lx náng;hf	10
 泻肝安神胶囊	xiè;dy gān;lt ān;bn shén;pu jiāo;lx náng;hf	10
 蟹黄肤宁软膏	xiè;xi huáng;cz fū;lf níng;bd ruǎn;ir gāo;wl	10
+协日嘎四味汤	xié;ub rì;wh gā;kg sì;wq wèi;kw tāng;dp	10
 缬沙坦分散片	xié;sr shā;du tǎn;th fēn;zd sǎn;cw piàn;pv	10
 心达康分散片	xīn;xx dá;zd kāng;sy fēn;zd sǎn;cw piàn;pv	10
 新地松滴眼液	xīn;li dì;ty sōng;ms dī;dk yǎn;gg yè;dy	10
@@ -8392,6 +8815,7 @@ sort: by_weight
 药物制剂专业	yào;cu wù;nw zhì;pd jì;wd zhuān;hx yè;sh	10
 药用印字色膏	yào;cu yòng;ns yìn;pq zì;bz sè;xb gāo;wl	10
 液滴状态分散	yè;dy dī;dk zhuàng;dq tài;tx fēn;zd sǎn;cw	10
+射干鼠粘子汤	yè;uc gān;hu shǔ;jv zhān;hk zǐ;vh tāng;dp	10
 夜激情口服液	yè;wy jī;dw qíng;xl kǒu;sh fú;li yè;dy	10
 叶金排石胶囊	yè;ku jīn;rh pái;ff shí;hk jiāo;lx náng;hf	10
 野菊花注射液	yě;ts jú;ch huā;cb zhù;dv shè;uc yè;dy	10
@@ -8407,6 +8831,7 @@ sort: by_weight
 乙醇检测试剂	yǐ;vv chún;fz jiǎn;mh cè;dd shì;yg jì;wd	10
 宜大黄附子汤	yí;bq dà;uy huáng;cz fù;qc zǐ;vh tāng;dp	10
 宜大黄硝石汤	yí;bq dà;uy huáng;cz xiāo;ul shí;hk tāng;dp	10
+胰蛋白示肉汤	yí;ly dàn;vi bái;pp shì;qc ròu;nr tāng;dp	10
 胰胆炎口服液	yí;ly dǎn;lh yán;ll kǒu;sh fú;li yè;dy	10
 异丹叶大黄素	yì;sc dān;ph yè;ku dà;uy huáng;cz sù;fc	10
 胰岛素注射液	yí;ly dǎo;pn sù;fc zhù;dv shè;uc yè;dy	10
@@ -8434,9 +8859,11 @@ sort: by_weight
 抑亢丸水蜜丸	yì;fq kàng;wj wán;px shuǐ;sy mì;bi wán;px	10
 益康唑喷雾剂	yì;bm kāng;sy zuò;kt pēn;kr wù;yl jì;wd	10
 益康唑气雾剂	yì;bm kāng;sy zuò;kt qì;pv wù;yl jì;wd	10
+宜麻黄附子汤	yí;bq má;sm huáng;cz fù;qc zǐ;vh tāng;dp	10
 益脉康分散片	yì;bm mài;ly kāng;sy fēn;zd sǎn;cw piàn;pv	10
 益脉康软胶囊	yì;bm mài;ly kāng;sy ruǎn;ir jiāo;lx náng;hf	10
 胰酶肠溶胶囊	yí;ly méi;fm cháng;lp róng;dk jiāo;lx náng;hf	10
+胰酶大豆肉汤	yí;ly méi;fm dà;uy dòu;hh ròu;nr tāng;dp	10
 依米丁注射液	yī;rf mǐ;xm dīng;hs zhù;dv shè;uc yè;dy	10
 益母草口服液	yì;bm mǔ;vx cǎo;cu kǒu;sh fú;li yè;dy	10
 益母草流浸膏	yì;bm mǔ;vx cǎo;cu liú;dv jìn;di gāo;wl	10
@@ -8691,6 +9118,7 @@ sort: by_weight
 智能安全芯片	zhì;up néng;sb ān;bn quán;rw xīn;cx piàn;pv	10
 智能手机芯片	zhì;up néng;sb shǒu;ps jī;mj xīn;cx piàn;pv	10
 枳实芍药散方	zhǐ;mz shí;bd sháo;cu yào;cu sàn;cw fāng;xw	10
+枳实栀子鼓汤	zhǐ;mz shí;bd zhī;mv zi;vh gǔ;ti tāng;dp	10
 枳术宽中胶囊	zhǐ;mz shù;mx kuān;bq zhōng;ss jiāo;lx náng;hf	10
 止嗽立效胶囊	zhǐ;sh sòu;kr lì;wh xiào;ww jiāo;lx náng;hf	10
 制酸止痛胶囊	zhì;pd suān;fw zhǐ;sh tòng;by jiāo;lx náng;hf	10
@@ -8704,6 +9132,8 @@ sort: by_weight
 脂溢性皮炎散	zhī;lp yì;dm xìng;xu pí;vi yán;ll sàn;cw	10
 脂质纳米颗粒	zhī;lp zhì;pr nà;sn mǐ;xm kē;gr lì;hl	10
 栀子大黄汤方	zhī;mv zi;vh dà;uy huáng;cz tāng;dp fāng;xw	10
+栀子甘草豉汤	zhī;mv zi;vh gān;nh cǎo;cu chǐ;hi tāng;dp	10
+栀子生姜豉汤	zhī;mv zi;vh shēng;pf jiāng;yn chǐ;hi tāng;dp	10
 中风安口服液	zhòng;ss fēng;jx ān;bn kǒu;sh fú;li yè;dy	10
 中华肝灵胶囊	zhōng;ss huá;ru gān;lt líng;nl jiāo;lx náng;hf	10
 肿节风分散片	zhǒng;lv jié;cq fēng;jx fēn;zd sǎn;cw piàn;pv	10
@@ -8881,6 +9311,7 @@ sort: by_weight
 百合固金浓缩丸	bǎi;hb hé;rk gù;wk jīn;rh nóng;dn suō;sb wán;px	10
 百合酸枣仁胶囊	bǎi;hb hé;rk suān;fw zǎo;hx rén;rq jiāo;lx náng;hf	10
 百花活血跌打膏	bǎi;hb huā;cb huó;dk xuè;pm diē;zu dǎ;fd gāo;wl	10
+白通加猪胆汁汤	bái;pp tōng;zy jiā;lk zhū;qp dǎn;lh zhī;du tāng;dp	10
 白细胞颗粒异常	bái;pp xì;st bāo;ls kē;gr lì;hl yì;sc cháng;xj	10
 百癣夏塔热胶囊	bǎi;hb xuǎn;by xià;hw tǎ;tk rè;fh jiāo;lx náng;hf	10
 柏栀祛湿喷雾剂	bǎi;mb zhī;mv qū;ps shī;dy pēn;kr wù;yl jì;wd	10
@@ -8888,6 +9319,8 @@ sort: by_weight
 柏子滋心浓缩丸	bǎi;mb zǐ;vh zī;dy xīn;xx nóng;dn suō;sb wán;px	10
 板蓝解毒注射液	bǎn;mi lán;cm jiě;xn dú;fm zhù;dv shè;uc yè;dy	10
 斑蝥酸钠注射液	bān;ww máo;si suān;fw nà;jn zhù;dv shè;uc yè;dy	10
+半夏白术天麻汤	bàn;xs xià;hw bái;pp zhú;mx tiān;hd má;sm tāng;dp	10
+半夏桂枝甘草汤	bàn;xs xià;hw guì;mt zhī;mi gān;nh cǎo;cu tāng;dp	10
 胞磷胆碱钠胶囊	bāo;ls lín;us dǎn;lh jiǎn;uk nà;jn jiāo;lx náng;hf	10
 保灵孕宝口服液	bǎo;rm líng;nl yùn;nz bǎo;by kǒu;sh fú;li yè;dy	10
 鲍曼伯克抑制剂	bào;gs màn;pi bó;rb kè;uq yì;fq zhì;pd jì;wd	10
@@ -8974,6 +9407,7 @@ sort: by_weight
 布旺二氏移植片	bù;uj wàng;pw èr;hh shì;pv yí;hx zhí;mq piàn;pv	10
 补中益气口服液	bǔ;pb zhōng;ss yì;bm qì;pv kǒu;sh fú;li yè;dy	10
 补中益气浓缩丸	bǔ;pb zhōng;ss yì;bm qì;pv nóng;dn suō;sb wán;px	10
+菜干鸭肾蜜枣汤	cài;cm gàn;hu yā;jn shèn;sl mì;bi zǎo;hx tāng;dp	10
 参百宁神口服液	cān;sp bǎi;hb níng;bd shén;pu kǒu;sh fú;li yè;dy	10
 参鞭补肾口服液	cān;sp biān;gg bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
 参地益肾口服液	cān;sp dì;ty yì;bm shèn;sl kǒu;sh fú;li yè;dy	10
@@ -9001,6 +9435,7 @@ sort: by_weight
 草乌甲素注射液	cǎo;cu wū;ph jiǎ;ss sù;fc zhù;dv shè;uc yè;dy	10
 茶碱碘甘油酏剂	chá;cm jiǎn;uk diǎn;uz gān;nh yóu;dy yǐ;fy jì;wd	10
 茶碱麻黄碱胶囊	chá;cm jiǎn;uk má;sm huáng;cz jiǎn;uk jiāo;lx náng;hf	10
+柴胡桂枝干姜汤	chái;vm hú;ul guì;mt zhī;mi gān;hu jiāng;yn tāng;dp	10
 柴辛感冒注射液	chái;vm xīn;lu gǎn;xx mào;ng zhù;dv shè;uc yè;dy	10
 蟾龙定喘口服液	chán;ik lóng;ux dìng;br chuǎn;kq kǒu;sh fú;li yè;dy	10
 蟾麝救心丸水丸	chán;ik shè;sc jiù;qw xīn;xx wán;px shuǐ;sy wán;px	10
@@ -9017,6 +9452,7 @@ sort: by_weight
 肠嗜酸性肉芽肿	cháng;lp shì;kp suān;fw xìng;xu ròu;nr yá;cy zhǒng;lv	10
 常松八味沉香散	cháng;xj sōng;ms bā;py wèi;kw chén;dj xiāng;hp sàn;cw	10
 陈香露白露胶囊	chén;qd xiāng;hp lòu;yk bái;pp lù;yk jiāo;lx náng;hf	10
+赤石脂禹余粮汤	chì;tx shí;hk zhī;lp yǔ;px yú;rh liáng;hl tāng;dp	10
 齿痛消炎灵颗粒	chǐ;vn tòng;by xiāo;dl yán;ll líng;nl kē;gr lì;hl	10
 赤痛消炎灵颗粒	chì;tx tòng;by xiāo;dl yán;ll líng;nl kē;gr lì;hl	10
 虫草被孢菌胶囊	chóng;vx cǎo;cu bèi;pi bāo;zs jūn;ch jiāo;lx náng;hf	10
@@ -9067,6 +9503,7 @@ sort: by_weight
 达卡巴嗪注射液	dá;zd kǎ;ub bā;ss qín;kh zhù;dv shè;uc yè;dy	10
 大颗粒淋巴细胞	dà;uy kē;gr lì;hl lín;dm bā;ss xì;st bāo;ls	10
 大株红景天胶囊	dà;uy zhū;mv hóng;sg jǐng;pc tiān;hd jiāo;lx náng;hf	10
+淡菜紫菜瘦肉汤	dàn;dl cài;cm zǐ;vc cài;cm shòu;bi ròu;nr tāng;dp	10
 丹灯通脑软胶囊	dān;ph dēng;ld tōng;zy nǎo;ln ruǎn;ir jiāo;lx náng;hf	10
 丹佛胃尔康颗粒	dān;ph fó;rf wèi;tl ěr;xc kāng;sy kē;gr lì;hl	10
 丹红化瘀口服液	dān;ph hóng;sg huà;rb yū;bx kǒu;sh fú;li yè;dy	10
@@ -9087,6 +9524,7 @@ sort: by_weight
 当归腹痛宁滴丸	dāng;xn guī;sn fù;lw tòng;by níng;bd dī;dk wán;px	10
 当归寄生注射液	dāng;xn guī;sn jì;bk shēng;pf zhù;dv shè;uc yè;dy	10
 当归拈痛口服液	dāng;xn guī;sn niān;fk tòng;by kǒu;sh fú;li yè;dy	10
+当归生姜羊肉汤	dāng;xn guī;sn shēng;pf jiāng;yn yáng;bs ròu;nr tāng;dp	10
 当归养血口服液	dāng;xn guī;sn yǎng;ys xuè;pm kǒu;sh fú;li yè;dy	10
 德都红花七味散	dé;ix dū;lq hóng;sg huā;cb qī;hv wèi;kw sàn;cw	10
 德都红花七味丸	dé;ix dū;lq hóng;sg huā;cb qī;hv wèi;kw wán;px	10
@@ -9134,6 +9572,7 @@ sort: by_weight
 肚痛健胃整肠丸	dù;lt tòng;by jiàn;rz wèi;tl zhěng;uv cháng;lp wán;px	10
 杜仲补腰口服液	dù;mt zhòng;rv bǔ;pb yāo;ln kǒu;sh fú;li yè;dy	10
 杜仲颗粒无糖型	dù;mt zhòng;rv kē;gr lì;hl wú;hy táng;hk xíng;kt	10
+杜仲山楂猪肚汤	dù;mt zhòng;rv shān;sn zhā;mh zhū;qp dǔ;lt tāng;dp	10
 短棒状杆菌制剂	duǎn;uh bàng;ms zhuàng;dq gǎn;mt jūn;ch zhì;pd jì;wd	10
 对乙酰氨基酚片	duì;ic yǐ;vv xiān;fq ān;qn jī;qt fēn;fd piàn;pv	10
 对乙酰氨基酚丸	duì;ic yǐ;vv xiān;fq ān;qn jī;qt fēn;fd wán;px	10
@@ -9174,10 +9613,12 @@ sort: by_weight
 二十九味能消散	èr;hh shí;hs jiǔ;pv wèi;kw néng;sb xiāo;dl sàn;cw	10
 二十九味羌活散	èr;hh shí;hs jiǔ;pv wèi;kw qiāng;yv huó;dk sàn;cw	10
 二十六味通经散	èr;hh shí;hs liù;wz wèi;kw tōng;zy jīng;sg sàn;cw	10
+二十四味润喉糖	èr;hh shí;hs sì;wq wèi;kw rùn;dw hóu;ku táng;hk	10
 二十味肉豆蔻散	èr;hh shí;hs wèi;kw ròu;nr dòu;hh kòu;ci sàn;cw	10
 二十味肉豆蔻丸	èr;hh shí;hs wèi;kw ròu;nr dòu;hh kòu;ci wán;px	10
 二十味疏肝胶囊	èr;hh shí;hs wèi;kw shū;vv gān;lt jiāo;lx náng;hf	10
 二十五味阿魏散	èr;hh shí;hs wǔ;hh wèi;kw ā;qk wèi;hg sàn;cw	10
+二十五味阿魏丸	èr;hh shí;hs wǔ;hh wèi;kw ā;qk wèi;hg wán;px	10
 二十五味冰片散	èr;hh shí;hs wǔ;hh wèi;kw bīng;du piàn;pv sàn;cw	10
 二十五味大汤散	èr;hh shí;hs wǔ;hh wèi;kw dà;uy tāng;dp sàn;cw	10
 二十五味大汤丸	èr;hh shí;hs wǔ;hh wèi;kw dà;uy tāng;dp wán;px	10
@@ -9650,6 +10091,8 @@ sort: by_weight
 甘草酸二铵胶囊	gān;nh cǎo;cu suān;fw èr;hh ǎn;jn jiāo;lx náng;hf	10
 甘草酸二胺胶囊	gān;nh cǎo;cu suān;fw èr;hh àn;ln jiāo;lx náng;hf	10
 甘草甜素糖衣片	gān;nh cǎo;cu tián;qg sù;fc táng;hk yī;wf piàn;pv	10
+甘草小麦大枣汤	gān;nh cǎo;cu xiǎo;sx mài;fw dà;uy zǎo;hx tāng;dp	10
+甘草小麦红枣汤	gān;nh cǎo;cu xiǎo;sx mài;fw hóng;sg zǎo;hx tāng;dp	10
 肝胆双清口服液	gān;lt dǎn;lh shuāng;ii qīng;dl kǒu;sh fú;li yè;dy	10
 干姜人参半夏丸	gān;hu jiāng;yn rén;py shēn;sp bàn;xs xià;hw wán;px	10
 甘露醇烟酸酯片	gān;nh lù;yk chún;fz yān;ld suān;fw zhǐ;fp piàn;pv	10
@@ -9675,6 +10118,7 @@ sort: by_weight
 睾酮雌酮注射剂	gāo;pt tóng;fk cí;vf tóng;fk zhù;dv shè;uc jì;wd	10
 高乌甲素注射液	gāo;wk wū;ph jiǎ;ss sù;fc zhù;dv shè;uc yè;dy	10
 葛根黄豆苷元片	gé;cv gēn;mg huáng;cz dòu;hh gān;cg yuán;qq piàn;pv	10
+葛根黄芩黄连汤	gé;cv gēn;mg huáng;cz qín;cv huáng;cz lián;zi tāng;dp	10
 葛根芩连口服液	gé;cv gēn;mg qín;cv lián;zi kǒu;sh fú;li yè;dy	10
 格拉司琼注射液	gé;mk lā;fl sī;vk qióng;wc zhù;dv shè;uc yè;dy	10
 葛兰心宁软胶囊	gé;cv lán;bs xīn;xx níng;bd ruǎn;ir jiāo;lx náng;hf	10
@@ -9697,13 +10141,19 @@ sort: by_weight
 骨刺平薄膜衣片	gǔ;sl cì;hd píng;hu báo;cc mó;ld yī;wf piàn;pv	10
 骨刺消症口服液	gǔ;sl cì;hd xiāo;dl zhèng;bv kǒu;sh fú;li yè;dy	10
 骨化三醇软胶囊	gǔ;sl huà;rb sān;hq chún;fz ruǎn;ir jiāo;lx náng;hf	10
+古今录验续命汤	gǔ;uk jīn;rv lù;nu yàn;mh xù;sd mìng;rq tāng;dp	10
 固精麦斯哈胶囊	gù;wk jīng;hl mài;fw sī;qi hā;kk jiāo;lx náng;hf	10
 固精养元口服液	gù;wk jīng;hl yǎng;ys yuán;qq kǒu;sh fú;li yè;dy	10
 骨伤消肿口服液	gǔ;sl shāng;rl xiāo;dl zhǒng;lv kǒu;sh fú;li yè;dy	10
 骨髓蛋白口服液	gǔ;sl suǐ;gz dàn;vi bái;pp kǒu;sh fú;li yè;dy	10
 骨髓蛋白营养液	gǔ;sl suǐ;gz dàn;vi bái;pp yíng;ck yǎng;ys yè;dy	10
 骨炎灵薄膜衣片	gǔ;sl yán;ll líng;nl báo;cc mó;ld yī;wf piàn;pv	10
+故曰二加龙骨汤	gù;uw yuē;wh èr;hh jiā;lk lóng;ux gǔ;sl tāng;dp	10
 骨质增生导入液	gǔ;sl zhì;pr zēng;tp shēng;pf dǎo;sc rù;py yè;dy	10
+瓜蒌薤白白酒汤	guā;py lóu;cn xiè;cj bái;pp bái;pp jiǔ;df tāng;dp	10
+栝蒌薤白白酒汤	guā;mk lóu;cn xiè;cj bái;pp bái;pp jiǔ;df tāng;dp	10
+瓜蒌薤白半夏汤	guā;py lóu;cn xiè;cj bái;pp bàn;xs xià;hw tāng;dp	10
+栝蒌薤白半夏汤	guā;mk lóu;cn xiè;cj bái;pp bàn;xs xià;hw tāng;dp	10
 瓜霜退热灵胶囊	guā;py shuāng;yg tuì;zg rè;fh líng;nl jiāo;lx náng;hf	10
 关节镇痛巴布膏	guān;bt jié;cq zhèn;jz tòng;by bā;ss bù;uj gāo;wl	10
 观看警示教育片	guān;iq kàn;ug jǐng;ck shì;qc jiào;lw yù;wl piàn;pv	10
@@ -9715,12 +10165,18 @@ sort: by_weight
 光明盐四味胶囊	guāng;xw míng;pl yán;tm sì;wq wèi;kw jiāo;lx náng;hf	10
 鲑降钙素注射液	guī;gt jiàng;qs gài;jg sù;fc zhù;dv shè;uc yè;dy	10
 归灵痛经宁颗粒	guī;sn líng;nl tòng;by jīng;sg níng;bd kē;gr lì;hl	10
+桂苓五味甘草汤	guì;mt líng;cs wǔ;hh wèi;kw gān;nh cǎo;cu tāng;dp	10
 龟鹿补肾口服液	guī;xv lù;sb bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
 龟鹿二仙口服液	guī;xv lù;sb èr;hh xiān;rn kǒu;sh fú;li yè;dy	10
 归芪补血口服液	guī;sn qí;cu bǔ;pb xuè;pm kǒu;sh fú;li yè;dy	10
 归芪三七口服液	guī;sn qí;cu sān;hq qī;hv kǒu;sh fú;li yè;dy	10
 归芎花粉口服液	guī;sn xiōng;cg huā;cb fěn;hd kǒu;sh fú;li yè;dy	10
+桂枝二麻黄一汤	guì;mt zhī;mi èr;hh má;sm huáng;cz yì;hh tāng;dp	10
+桂枝二越婢一汤	guì;mt zhī;mi èr;hh yuè;tv bì;nu yì;hh tāng;dp	10
+桂枝龙骨牡蛎汤	guì;mt zhī;mi lóng;ux gǔ;sl mǔ;nt lì;iw tāng;dp	10
+桂枝麻黄各半汤	guì;mt zhī;mi má;sm huáng;cz gè;wk bàn;xs tāng;dp	10
 桂枝芍药知母汤	guì;mt zhī;mi sháo;cu yào;cu zhī;uk mǔ;vx tāng;dp	10
+桂枝生姜枳实汤	guì;mt zhī;mi shēng;pf jiāng;yn zhǐ;mz shí;bd tāng;dp	10
 果糖二磷酸钙片	guǒ;sy táng;hk èr;hh lín;us suān;fw gài;jg piàn;pv	10
 果糖二磷酸钠片	guǒ;sy táng;hk èr;hh lín;us suān;fw nà;jn piàn;pv	10
 果糖酸钙注射液	guǒ;sy táng;hk suān;fw gài;jg zhù;dv shè;uc yè;dy	10
@@ -9755,6 +10211,7 @@ sort: by_weight
 琥乙红霉素颗粒	hǔ;wj yǐ;vv hóng;sg méi;ym sù;fc kē;gr lì;hl	10
 华芬愈美颗粒剂	huá;ru fēn;cd yù;rx měi;yd kē;gr lì;hl jì;wd	10
 花好月圆人又散	huā;cb hǎo;nz yuè;nh yuán;wr rén;py yòu;vy sàn;cw	10
+花生大枣猪蹄汤	huā;cb shēng;pf dà;uy zǎo;hx zhū;qp tí;zj tāng;dp	10
 华佗风痛宝胶囊	huà;ru tuó;rb fēng;jx tòng;by bǎo;by jiāo;lx náng;hf	10
 华陀风痛宝胶囊	huá;ru tuó;qb fēng;jx tòng;by bǎo;by jiāo;lx náng;hf	10
 华轩绣毂皆销散	huá;ru xuān;it xiù;sn gǔ;ti jiē;bb xiāo;jl sàn;cw	10
@@ -9783,6 +10240,7 @@ sort: by_weight
 黄金记忆高钙片	huáng;cz jīn;rh jì;yj yì;xv gāo;wk gài;jg piàn;pv	10
 黄菊开时伤聚散	huáng;cz jú;ch kāi;hc shí;pc shāng;rl jù;qy sàn;cw	10
 黄连上清丸水丸	huáng;cz lián;zi shàng;sh qīng;dl wán;px shuǐ;sy wán;px	10
+黄芪桂枝五物汤	huáng;cz qí;cu guì;mt zhī;mi wǔ;hh wù;nw tāng;dp	10
 黄芪颗粒无糖型	huáng;cz qí;cu kē;gr lì;hl wú;hy táng;hk xíng;kt	10
 黄芪三七口服液	huáng;cz qí;cu sān;hq qī;hv kǒu;sh fú;li yè;dy	10
 磺酸氨氯地平片	huáng;uz suān;fw ān;qn lǜ;qu dì;ty píng;hu piàn;pv	10
@@ -9791,6 +10249,7 @@ sort: by_weight
 汇仁乌鸡白凤丸	huì;dn rén;rq wū;ph jī;in bái;pp fèng;ji wán;px	10
 汇仁氧氟沙星片	huì;dn rén;rq yǎng;qy fú;qf shā;du xīng;pu piàn;pv	10
 回生第一丹胶囊	huí;wk shēng;pf dì;vp yī;hh dān;ph jiāo;lx náng;hf	10
+回味鸭血粉丝汤	huí;wk wèi;kw yā;jn xuè;pm fěn;hd sī;vh tāng;dp	10
 茴香橘核丸水丸	huí;ck xiāng;hp jú;mk hé;mr wán;px shuǐ;sy wán;px	10
 活力源薄膜衣片	huó;dk lì;vp yuán;dc báo;cc mó;ld yī;wf piàn;pv	10
 藿龙补肾口服液	huò;cf lóng;ux bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
@@ -9805,11 +10264,13 @@ sort: by_weight
 肌醇烟酸酯软膏	jī;lj chún;fz yān;ld suān;fw zhǐ;fp ruǎn;ir gāo;wl	10
 鸡骨草肝炎冲剂	jī;in gǔ;sl cǎo;cu gān;lt yán;ll chōng;dv jì;wd	10
 鸡骨草肝炎颗粒	jī;in gǔ;sl cǎo;cu gān;lt yán;ll kē;gr lì;hl	10
+及其日中如探汤	jí;py qí;qz rì;wh zhōng;ss rú;nk tàn;fm tāng;dp	10
 己酸羟孕酮胶囊	jǐ;vv suān;fw qiǎng;yg yùn;nz tóng;fk jiāo;lx náng;hf	10
 己烯雌酚注射液	jǐ;vv xī;lj cí;vf fēn;fd zhù;dv shè;uc yè;dy	10
 甲氨喋呤注射液	jiǎ;ss ān;qn dié;km lìng;ks zhù;dv shè;uc yè;dy	10
 甲氨蝶呤注射液	jiǎ;ss ān;qn dié;im lìng;ks zhù;dv shè;uc yè;dy	10
 甲苯咪唑咀嚼片	jiǎ;ss běn;cb mī;kh zuò;kt jǔ;kq jué;kc piàn;pv	10
+加参安肺生化汤	jiā;lk cān;sp ān;bn fèi;ls shēng;pf huà;rb tāng;dp	10
 假单胞菌注射液	jiǎ;ri dān;bs bāo;ls jūn;ch zhù;dv shè;uc yè;dy	10
 甲地孕酮分散片	jiǎ;ss dì;ty yùn;nz tóng;fk fēn;zd sǎn;cw piàn;pv	10
 甲砜霉素肠溶片	jiǎ;ss fēng;ux méi;ym sù;fc cháng;lp róng;dk piàn;pv	10
@@ -9817,14 +10278,25 @@ sort: by_weight
 甲基苯丙胺片剂	jiǎ;ss jī;qt běn;cb bǐng;hn àn;ln piàn;pv jì;wd	10
 甲基硫氧嘧啶片	jiǎ;ss jī;qt liú;uv yǎng;qy mì;kn dìng;kr piàn;pv	10
 甲基异炔诺酮片	jiǎ;ss jī;qt yì;sc quē;lg nuò;yk tóng;fk piàn;pv	10
+加减补中益气汤	jiā;lk jiǎn;dk bǔ;pb zhōng;ss yì;bm qì;pv tāng;dp	10
 加减丹栀逍遥散	jiā;lk jiǎn;dk dān;ph zhī;mv xiāo;zl yáo;zf sàn;cw	10
+加减黄芩知母汤	jiā;lk jiǎn;dk huáng;cz qín;cv zhī;uk mǔ;vx tāng;dp	10
+加减活血解毒汤	jiā;lk jiǎn;dk huó;dk xuè;pm jiě;xn dú;fm tāng;dp	10
 加减六味地黄丸	jiā;lk jiǎn;dk liù;wz wèi;kw dì;ty huáng;cz wán;px	10
+加减麻杏甘石汤	jiā;lk jiǎn;dk má;sm xìng;mk gān;nh shí;hk tāng;dp	10
+加减人参泻心汤	jiā;lk jiǎn;dk rén;py shēn;sp xiè;dy xīn;xx tāng;dp	10
 加减三黄二香散	jiā;lk jiǎn;dk sān;hq huáng;cz èr;hh xiāng;hp sàn;cw	10
+加减升麻葛根汤	jiā;lk jiǎn;dk shēng;pc má;sm gé;cv gēn;mg tāng;dp	10
+加减苏子桃仁汤	jiā;lk jiǎn;dk sū;cb zǐ;vh táo;mx rén;rq tāng;dp	10
+加减桃仁承气汤	jiā;lk jiǎn;dk táo;mx rén;rq chéng;vy qì;pv tāng;dp	10
 加兰他敏注射液	jiā;lk lán;bs tā;ry mǐn;pw zhù;dv shè;uc yè;dy	10
 甲麻芩苷那敏片	jiǎ;ss má;sm qín;cv gān;cg nà;vq mǐn;pw piàn;pv	10
+家秘川连枳壳汤	jiā;bu mì;hb chuān;ps lián;zi zhǐ;mz qiào;tj tāng;dp	10
 假密环菌甲素片	jiǎ;ri mì;bn huán;wb jūn;ch jiǎ;ss sù;fc piàn;pv	10
 家秘加味枳术丸	jiā;bu mì;hb jiā;lk wèi;kw zhǐ;mz shù;mx wán;px	10
+家秘木通羌活汤	jiā;bu mì;hb mù;uy tōng;zy qiāng;yv huó;dk tāng;dp	10
 家秘养脾消积丸	jiā;bu mì;hb yǎng;ys pí;lu xiāo;dl jī;hz wán;px	10
+家秘枳壳黄连汤	jiā;bu mì;hb zhǐ;mz qiào;tj huáng;cz lián;zi tāng;dp	10
 甲泼尼龙注射液	jiǎ;ss pō;dx ní;sb lóng;ux zhù;dv shè;uc yè;dy	10
 甲羟孕酮分散片	jiǎ;ss qiǎng;yg yùn;nz tóng;fk fēn;zd sǎn;cw piàn;pv	10
 甲羟孕酮注射液	jiǎ;ss qiǎng;yg yùn;nz tóng;fk zhù;dv shè;uc yè;dy	10
@@ -9839,10 +10311,14 @@ sort: by_weight
 加味霍香正气丸	jiā;lk wèi;kw huò;yf xiāng;hp zhèng;hv qì;pv wán;px	10
 加味健步虎潜丸	jiā;lk wèi;kw jiàn;rz bù;vp hǔ;hj qián;dp wán;px	10
 加味葵子茯苓散	jiā;lk wèi;kw kuí;ct zǐ;vh fú;cq líng;cs sàn;cw	10
+加味六味地黄汤	jiā;lk wèi;kw liù;wz wèi;kw dì;ty huáng;cz tāng;dp	10
 加味散结痤疮丸	jiā;lk wèi;kw sàn;cw jié;sk cuó;bt chuāng;bv wán;px	10
 加味蛇胆陈皮片	jiā;lk wèi;kw shé;ib dǎn;lh chén;qd pí;vi piàn;pv	10
+加味十全大补汤	jiā;lk wèi;kw shí;hs quán;rw dà;uy bǔ;pb tāng;dp	10
 加味四物口服液	jiā;lk wèi;kw sì;wq wù;nw kǒu;sh fú;li yè;dy	10
+加味调中益气汤	jiā;lk wèi;kw tiáo;yk zhōng;ss yì;bm qì;pv tāng;dp	10
 加味西黄丸水丸	jiā;lk wèi;kw xī;hh huáng;cz wán;px shuǐ;sy wán;px	10
+加味犀角地黄汤	jiā;lk wèi;kw xī;sn jiǎo;xy dì;ty huáng;cz tāng;dp	10
 加味香吵枳术丸	jiā;lk wèi;kw xiāng;hp chǎo;ku zhǐ;mz shù;mx wán;px	10
 加味香砂枳术丸	jiā;lk wèi;kw xiāng;hp shā;uu zhǐ;mz shù;mx wán;px	10
 加味消遥口服液	jiā;lk wèi;kw xiāo;dl yáo;zf kǒu;sh fú;li yè;dy	10
@@ -9860,6 +10336,7 @@ sort: by_weight
 健脑补肾口服液	jiàn;rz nǎo;ln bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
 健脾安神口服液	jiàn;rz pí;lu ān;bn shén;pu kǒu;sh fú;li yè;dy	10
 健脾颗粒无糖型	jiàn;rz pí;lu kē;gr lì;hl wú;hy táng;hk xíng;kt	10
+健脾利水生化汤	jiàn;rz pí;lu lì;hd shuǐ;sy shēng;pf huà;rb tāng;dp	10
 健脾止泻宁颗粒	jiàn;rz pí;lu zhǐ;sh xiè;dy níng;bd kē;gr lì;hl	10
 健肾益肺口服液	jiàn;rz shèn;sl yì;bm fèi;ls kǒu;sh fú;li yè;dy	10
 健胃化积口服液	jiàn;rz wèi;tl huà;rb jī;hz kǒu;sh fú;li yè;dy	10
@@ -9897,6 +10374,7 @@ sort: by_weight
 金菊利咽口含片	jīn;rh jú;ch lì;hd yān;kd kǒu;sh hán;rk piàn;pv	10
 金菊五花茶颗粒	jīn;rh jú;ch wǔ;hh huā;cb chá;cm kē;gr lì;hl	10
 金莲清热泡腾片	jīn;rh lián;cz qīng;dl rè;fh pào;ds téng;lm piàn;pv	10
+金陵鸭血粉丝汤	jīn;rh líng;qw yā;jn xuè;pm fěn;hd sī;vh tāng;dp	10
 金龙补肾口服液	jīn;rh lóng;ux bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
 金龙胆草浸膏片	jīn;rh lóng;ux dǎn;lh cǎo;cu jìn;di gāo;wl piàn;pv	10
 金龙定喘口服液	jīn;rh lóng;ux dìng;br chuǎn;kq kǒu;sh fú;li yè;dy	10
@@ -10023,6 +10501,7 @@ sort: by_weight
 雷公藤片双层片	léi;yt gōng;zs téng;cu piàn;pv shuāng;ii céng;ss piàn;pv	10
 雷尼替丁口服液	léi;yt ní;sb tì;fp dīng;hs kǒu;sh fú;li yè;dy	10
 雷尼替丁注射液	léi;yt ní;sb tì;fp dīng;hs zhù;dv shè;uc yè;dy	10
+雷氏清凉涤暑汤	léi;yt shì;pv qīng;dl liáng;dc dí;dm shǔ;pp tāng;dp	10
 肋柱花四味汤散	lèi;ll zhù;mv huā;cb sì;wq wèi;kw tāng;dp sàn;cw	10
 里埃二氏稀释液	lǐ;sh āi;tu èr;hh shì;pv xī;hj shì;ps yè;dy	10
 利巴林韦注射液	lì;hd bā;ss lín;mm wéi;hs zhù;dv shè;uc yè;dy	10
@@ -10038,6 +10517,7 @@ sort: by_weight
 利福昔明软胶囊	lì;hd fú;pt xī;cp míng;pl ruǎn;ir jiāo;lx náng;hf	10
 利奈唑胺注射液	lì;hd nài;dc zuò;kt àn;ln zhù;dv shè;uc yè;dy	10
 理气化瘀口服液	lǐ;wt qì;pv huà;rb yū;bx kǒu;sh fú;li yè;dy	10
+李氏清暑益气汤	lǐ;mz shì;pv qīng;dl shǔ;pp yì;bm qì;pv tāng;dp	10
 利泰蛋白口服液	lì;hd tài;fu dàn;vi bái;pp kǒu;sh fú;li yè;dy	10
 利托那韦口服液	lì;hd tuō;fq nà;vq wéi;hs kǒu;sh fú;li yè;dy	10
 利心丸浓缩水丸	lì;hd xīn;xx wán;px nóng;dn suō;sb shuǐ;sy wán;px	10
@@ -10062,6 +10542,7 @@ sort: by_weight
 磷酸组胺注射液	lín;us suān;fw zǔ;sq àn;ln zhù;dv shè;uc yè;dy	10
 灵孢多糖注射液	líng;nl bāo;zs duō;xx táng;hk zhù;dv shè;uc yè;dy	10
 苓暴红止咳颗粒	líng;cs bào;pu hóng;sg zhǐ;sh ké;kr kē;gr lì;hl	10
+苓甘五味姜辛汤	líng;cs gān;nh wǔ;hh wèi;kw jiāng;yn xīn;lu tāng;dp	10
 苓桂咳喘宁胶囊	líng;cs guì;mt ké;kr chuǎn;kq níng;bd jiāo;lx náng;hf	10
 羚甲淀粉钠溶液	líng;ys jiǎ;ss diàn;dr fěn;hd nà;jn róng;dk yè;dy	10
 岭南万应止痛膏	lǐng;ns nán;ut wàn;hp yīng;sh zhǐ;sh tòng;by gāo;wl	10
@@ -10173,6 +10654,10 @@ sort: by_weight
 铝碳酸镁咀嚼片	lǚ;jk tàn;ul suān;fw měi;jd jǔ;kq jué;kc piàn;pv	10
 氯硝西泮注射液	lǜ;qu xiāo;ul xī;hh pàn;db zhù;dv shè;uc yè;dy	10
 氯唑西林钠胶囊	lǜ;qu zuò;kt xī;hh lín;mm nà;jn jiāo;lx náng;hf	10
+麻黄附子甘草汤	má;sm huáng;cz fù;qc zǐ;vh gān;nh cǎo;cu tāng;dp	10
+麻黄附子细辛汤	má;sm huáng;cz fù;qc zǐ;vh xì;st xīn;lu tāng;dp	10
+麻黄连翘赤豆汤	má;sm huáng;cz lián;zi qiáo;hx chì;tx dòu;hh tāng;dp	10
+麻黄细辛附子汤	má;sm huáng;cz xì;st xīn;lu fù;qc zǐ;vh tāng;dp	10
 马洛替酯缓释片	mǎ;vh luò;dk tì;fp zhǐ;fp huǎn;si shì;ps piàn;pv	10
 玛木然止泻胶囊	mǎ;wm mù;uy rán;ph zhǐ;sh xiè;dy jiāo;lx náng;hf	10
 麻仁润肠软胶囊	má;sm rén;rq rùn;dw cháng;lp ruǎn;ir jiāo;lx náng;hf	10
@@ -10218,6 +10703,7 @@ sort: by_weight
 明目蒺藜丸水丸	míng;pl mù;wh jí;cu lí;cu wán;px shuǐ;sy wán;px	10
 明目驱瘀口服液	míng;pl mù;wh qū;mx yū;bx kǒu;sh fú;li yè;dy	10
 明目上清丸水丸	míng;pl mù;wh shàng;sh qīng;dl wán;px shuǐ;sy wán;px	10
+名曰黄芪建中汤	míng;xk yuē;wh huáng;cz qí;cu jiàn;zy zhōng;ss tāng;dp	10
 莫沙必利分散片	mò;cd shā;du bì;xx lì;hd fēn;zd sǎn;cw piàn;pv	10
 莫西沙星注射液	mò;cd xī;hh shā;du xīng;pu zhù;dv shè;uc yè;dy	10
 木瓜酶肠溶胶囊	mù;uy guā;py méi;fm cháng;lp róng;dk jiāo;lx náng;hf	10
@@ -10233,6 +10719,7 @@ sort: by_weight
 萘普生钠注射液	nài;cc pǔ;bp shēng;pf nà;jn zhù;dv shè;uc yè;dy	10
 奈替米星注射液	nài;dc tì;fp mǐ;xm xīng;pu zhù;dv shè;uc yè;dy	10
 奈韦拉平分散片	nài;dc wéi;hs lā;fl píng;hu fēn;zd sǎn;cw piàn;pv	10
+南北杏仁鹌鹑汤	nán;ut běi;sb xìng;mk rén;rq ān;dn chún;wn tāng;dp	10
 脑安颗粒无糖型	nǎo;ln ān;bn kē;gr lì;hl wú;hy táng;hk xíng;kt	10
 脑蛋白水解物片	nǎo;ln dàn;vi bái;pp shuǐ;sy jiě;xn wù;nw piàn;pv	10
 脑苷肌肽注射液	nǎo;ln gān;cg jī;lj tài;lt zhù;dv shè;uc yè;dy	10
@@ -10305,7 +10792,9 @@ sort: by_weight
 匹罗卡品滴眼液	pǐ;nq luó;sx kǎ;ub pǐn;kk dī;dk yǎn;gg yè;dy	10
 皮质醇检测试剂	pí;vi zhì;pr chún;fz jiǎn;mh cè;dd shì;yg jì;wd	10
 平痤祛斑灵胶囊	píng;hu cuó;bt qū;ps bān;ww líng;nl jiāo;lx náng;hf	10
+平肝开郁止血汤	píng;hu gān;lt kāi;hc yù;uq zhǐ;sh xuè;pm tāng;dp	10
 平肝潜阳口服液	píng;hu gān;lt qián;dp yáng;qp kǒu;sh fú;li yè;dy	10
+苹果雪梨瘦肉汤	píng;cp guǒ;sy xuě;yn lí;hm shòu;bi ròu;nr tāng;dp	10
 泼尼松龙注射液	pō;dx ní;sb sōng;ms lóng;ux zhù;dv shè;uc yè;dy	10
 泼尼松尿素乳膏	pō;dx ní;sb sōng;ms niào;su sù;fc rǔ;pv gāo;wl	10
 蒲地蓝消炎胶囊	pú;cf dì;ty lán;cm xiāo;dl yán;ll jiāo;lx náng;hf	10
@@ -10557,6 +11046,8 @@ sort: by_weight
 沙芬伪麻咀嚼片	shā;du fēn;cd wěi;rw má;sm jǔ;kq jué;kc piàn;pv	10
 沙棘籽油口服液	shā;du jí;hy zǐ;hz yóu;dy kǒu;sh fú;li yè;dy	10
 沙棘籽油软胶囊	shā;du jí;hy zǐ;hz yóu;dy ruǎn;ir jiāo;lx náng;hf	10
+沙参玉竹老鸭汤	shā;du shēn;sp yù;wx zhú;ps lǎo;lb yā;jn tāng;dp	10
+沙参玉竹猪皮汤	shā;du shēn;sp yù;wx zhú;ps zhū;qp pí;vi tāng;dp	10
 山白消食口服液	shān;sn bái;pp xiāo;dl shí;rl kǒu;sh fú;li yè;dy	10
 善存多维儿素片	shàn;yk cún;uz duō;xx wéi;sf ér;pv sù;fc piàn;pv	10
 善存多维元素片	shàn;yk cún;uz duō;xx wéi;sf yuán;qq sù;fc piàn;pv	10
@@ -10617,6 +11108,7 @@ sort: by_weight
 胜红抗炎素胶囊	shèng;lu hóng;sg kàng;fj yán;ll sù;fc jiāo;lx náng;hf	10
 生化通用定标液	shēng;pf huà;rb tōng;zy yòng;ns dìng;br biāo;mc yè;dy	10
 生化通用质控液	shēng;pf huà;rb tōng;zy yòng;ns zhì;pr kòng;fg yè;dy	10
+圣惠荆芥地黄汤	shèng;it huì;hx jīng;cd jiè;cs dì;ty huáng;cz tāng;dp	10
 生脉颗粒党参方	shēng;pf mài;ly kē;gr lì;hl dǎng;xq shēn;sp fāng;xw	10
 生脉糖浆党参方	shēng;pf mài;ly táng;hk jiāng;du dǎng;xq shēn;sp fāng;xw	10
 生脉增液通胶囊	shēng;pf mài;ly zēng;tp yè;dy tōng;zy jiāo;lx náng;hf	10
@@ -10648,6 +11140,7 @@ sort: by_weight
 十五味乳鹏胶囊	shí;hs wǔ;hh wèi;kw rǔ;pv péng;ln jiāo;lx náng;hf	10
 十五味赛尔斗丸	shí;hs wǔ;hh wèi;kw sài;br ěr;xc dòu;xu wán;px	10
 十五味止泻木散	shí;hs wǔ;hh wèi;kw zhǐ;sh xiè;dy mù;uy sàn;cw	10
+是以陈涉不用汤	shì;pr yǐ;vr chén;qd shè;dp bú;hx yòng;ns tāng;dp	10
 十一酸睾酮胶囊	shí;hs yī;hh suān;fw gāo;pt tóng;fk jiāo;lx náng;hf	10
 十一味甘露胶囊	shí;hs yī;hh wèi;kw gān;nh lù;yk jiāo;lx náng;hf	10
 十一味寒水石散	shí;hs yī;hh wèi;kw hán;bx shuǐ;sy shí;hk sàn;cw	10
@@ -10670,6 +11163,7 @@ sort: by_weight
 舒洛地特软胶囊	shū;rs luò;dk dì;ty tè;nc ruǎn;ir jiāo;lx náng;hf	10
 舒洛地特注射液	shū;rs luò;dk dì;ty tè;nc zhù;dv shè;uc yè;dy	10
 舒心安神口服液	shū;rs xīn;xx ān;bn shén;pu kǒu;sh fú;li yè;dy	10
+双补气血八珍汤	shuāng;ii bǔ;pb qì;pv xuè;pm bā;py zhēn;wp tāng;dp	10
 双参补肾口服液	shuāng;ii cān;sp bǔ;pb shèn;sl kǒu;sh fú;li yè;dy	10
 双花草珊瑚含片	shuāng;ii huā;cb cǎo;cu shān;wc hú;wl hán;rk piàn;pv	10
 双花痤疮口服液	shuāng;ii huā;cb cuó;bt chuāng;bv kǒu;sh fú;li yè;dy	10
@@ -10729,7 +11223,9 @@ sort: by_weight
 特效新肤松乳膏	tè;nc xiào;ww xīn;li fū;lf sōng;ms rǔ;pv gāo;wl	10
 替尼泊苷注射液	tì;fp ní;sb pō;db gān;cg zhù;dv shè;uc yè;dy	10
 体虚感冒口服液	tǐ;rb xū;hy gǎn;xx mào;ng kǒu;sh fú;li yè;dy	10
+调经升阳除湿汤	tiáo;yk jīng;sg shēng;pc yáng;qp chú;qh shī;dy tāng;dp	10
 调经姊妹丸水丸	tiáo;yk jīng;sg zǐ;np mèi;nw wán;px shuǐ;sy wán;px	10
+葶苈大枣泻肺汤	tíng;cd lì;cl dà;uy zǎo;hx xiè;dy fèi;ls tāng;dp	10
 痛经调理口服液	tòng;by jīng;sg tiáo;yk lǐ;wt kǒu;sh fú;li yè;dy	10
 头孢氨苄干糖浆	tóu;xd bāo;zs ān;qn biàn;cb gàn;hu táng;hk jiāng;du	10
 头孢氨苄缓释片	tóu;xd bāo;zs ān;qn biàn;cb huǎn;si shì;ps piàn;pv	10
@@ -10812,6 +11308,7 @@ sort: by_weight
 香砂养胃丸水丸	xiāng;hp shā;uu yǎng;ys wèi;tl wán;px shuǐ;sy wán;px	10
 香药风湿止痛膏	xiāng;hp yào;cu fēng;jx shī;dy zhǐ;sh tòng;by gāo;wl	10
 香榆胃舒口服液	xiāng;hp yú;md wèi;tl shū;rs kǒu;sh fú;li yè;dy	10
+小半夏加茯苓汤	xiǎo;sx bàn;xs xià;hw jiā;lk fú;cq líng;cs tāng;dp	10
 硝苯地平缓释片	xiāo;ul běn;cb dì;ty píng;hu huǎn;si shì;ps piàn;pv	10
 硝苯地平控释片	xiāo;ul běn;cb dì;ty píng;hu kòng;fg shì;ps piàn;pv	10
 硝苯地平注射液	xiāo;ul běn;cb dì;ty píng;hu zhù;dv shè;uc yè;dy	10
@@ -10901,6 +11398,7 @@ sort: by_weight
 小诺霉素干糖浆	xiǎo;sx nuò;yk méi;ym sù;fc gàn;hu táng;hk jiāng;du	10
 小诺霉素口服液	xiǎo;sx nuò;yk méi;ym sù;fc kǒu;sh fú;li yè;dy	10
 小诺霉素注射液	xiǎo;sx nuò;yk méi;ym sù;fc zhù;dv shè;uc yè;dy	10
+小青龙加石膏汤	xiǎo;sx qīng;fl lóng;ux jiā;lk shí;hk gāo;wl tāng;dp	10
 硝山异梨酯缓片	xiāo;ul shān;sn yì;sc lí;hm zhǐ;fp huǎn;si piàn;pv	10
 消栓再造丸水丸	xiāo;dl shuān;mw zài;hr zào;zk wán;px shuǐ;sy wán;px	10
 硝酸甘油喷雾剂	xiāo;ul suān;fw gān;nh yóu;dy pēn;kr wù;yl jì;wd	10
@@ -10928,6 +11426,7 @@ sort: by_weight
 新力正骨喷雾剂	xīn;li lì;vp zhèng;hv gǔ;sl pēn;kr wù;yl jì;wd	10
 新赛斯平软胶囊	xīn;li sài;br sī;qi píng;hu ruǎn;ir jiāo;lx náng;hf	10
 新肾必氨注射液	xīn;li shèn;sl bì;xx ān;qn zhù;dv shè;uc yè;dy	10
+新制橘皮竹茹汤	xīn;li zhì;pd jú;mk pí;vi zhú;ps rú;ck tāng;dp	10
 醒脑降压丸水丸	xǐng;fu nǎo;ln jiàng;qs yā;ix wán;px shuǐ;sy wán;px	10
 型脑钠肽定标液	xíng;kt nǎo;ln nà;jn tài;lt dìng;br biāo;mc yè;dy	10
 醒脑牛黄清心片	xǐng;fu nǎo;ln niú;ps huáng;cz qīng;dl xīn;xx piàn;pv	10
@@ -11298,6 +11797,7 @@ sort: by_weight
 楂曲平胃口服液	zhā;mh qǔ;sh píng;hu wèi;tl kǒu;sh fú;li yè;dy	10
 张大宁精昂胶囊	zhāng;gi dà;uy níng;bd jīng;hl áng;pq jiāo;lx náng;hf	10
 珍芪补血口服液	zhēn;wp qí;cu bǔ;pb xuè;pm kǒu;sh fú;li yè;dy	10
+珍珠翡翠白玉汤	zhēn;wp zhū;wv fěi;fx cuì;xu bái;pp yù;wx tāng;dp	10
 珍珠明目滴眼液	zhēn;wp zhū;wv míng;pl mù;wh dī;dk yǎn;gg yè;dy	10
 珍珠蕲蛇口服液	zhēn;wp zhū;wv qí;ci shé;ib kǒu;sh fú;li yè;dy	10
 珍珠胃安丸水丸	zhēn;wp zhū;wv wèi;tl ān;bn wán;px shuǐ;sy wán;px	10
@@ -11311,6 +11811,8 @@ sort: by_weight
 止渴抗疲劳冲剂	zhǐ;sh kě;dv kàng;fj pí;bi láo;cl chōng;dv jì;wd	10
 止咳枇杷口服液	zhǐ;sh ké;kr pí;mb pá;mb kǒu;sh fú;li yè;dy	10
 治伤消瘀丸水丸	zhì;dk shāng;rl xiāo;dl yū;bx wán;px shuǐ;sy wán;px	10
+枳实栝楼桂枝汤	zhǐ;mz shí;bd guā;mk lóu;mn guì;mt zhī;mi tāng;dp	10
+枳实薤白桂枝汤	zhǐ;mz shí;bd xiè;cj bái;pp guì;mt zhī;mi tāng;dp	10
 止嗽安喘口服液	zhǐ;sh sòu;kr ān;bn chuǎn;kq kǒu;sh fú;li yè;dy	10
 止嗽定喘口服液	zhǐ;sh sòu;kr dìng;br chuǎn;kq kǒu;sh fú;li yè;dy	10
 止嗽定喘浓缩丸	zhǐ;sh sòu;kr dìng;br chuǎn;kq nóng;dn suō;sb wán;px	10
@@ -11353,6 +11855,8 @@ sort: by_weight
 氨基酸螯合钙胶囊	ān;qn jī;qt suān;fw áo;fi hé;rk gài;jg jiāo;lx náng;hf	10
 吡嘧司特钾滴眼液	bǐ;kb mì;kn sī;vk tè;nc jiǎ;jj dī;dk yǎn;gg yè;dy	10
 丹参川芎嗪注射液	dān;ph shēn;sp chuān;ps xiōng;cg qín;kh zhù;dv shè;uc yè;dy	10
+二十五味绿绒蒿丸	èr;hh shí;hs wǔ;hh wèi;kw lǜ;su róng;su hāo;ck wán;px	10
+二十五味獐牙菜丸	èr;hh shí;hs wǔ;hh wèi;kw zhāng;qu yá;hp cài;cm wán;px	10
 复方氨酚那敏颗粒	fù;pw fāng;xw ān;qn fēn;fd nà;vq mǐn;pw kē;gr lì;hl	10
 复方氨酚烷胺颗粒	fù;pw fāng;xw ān;qn fēn;fd wán;lq àn;ln kē;gr lì;hl	10
 复方柴胡安神颗粒	fù;pw fāng;xw chái;vm hú;ul ān;bn shén;pu kē;gr lì;hl	10
@@ -11370,20 +11874,30 @@ sort: by_weight
 小儿化痰止咳颗粒	xiǎo;sx ér;pv huà;rb tán;bl zhǐ;sh ké;kr kē;gr lì;hl	10
 小儿四维葡钙颗粒	xiǎo;sx ér;pv sì;wq wéi;sf pú;cf gài;jg kē;gr lì;hl	10
 元素的集中和分散	yuán;qq sù;fc de;bu jí;rm zhōng;ss hé;hk fēn;zd sǎn;cw	10
+白头翁加甘草阿胶汤	bái;pp tóu;xd wēng;zx jiā;lk gān;nh cǎo;cu ē;qk jiāo;lx tāng;dp	10
 苯胺凸版印刷凝聚剂	běn;cb àn;ln tū;sh bǎn;pi yìn;pq shuā;sd níng;dr jù;qy jì;wd	10
 茯苓桂枝白术甘草汤	fú;cq líng;cs guì;mt zhī;mi bái;pp zhú;mx gān;nh cǎo;cu tāng;dp	10
 茯苓桂枝甘草大枣汤	fú;cq líng;cs guì;mt zhī;mi gān;nh cǎo;cu dà;uy zǎo;hx tāng;dp	10
 甘草干姜茯苓白术汤	gān;nh cǎo;cu gān;hu jiāng;yn fú;cq líng;cs bái;pp zhú;mx tāng;dp	10
+干姜黄芩黄连人参汤	gān;hu jiāng;yn huáng;cz qín;cv huáng;cz lián;zi rén;py shēn;sp tāng;dp	10
+桂枝甘草龙骨牡蛎汤	guì;mt zhī;mi gān;nh cǎo;cu lóng;ux gǔ;sl mǔ;nt lì;iw tāng;dp	10
 桂枝去芍药加附子汤	guì;mt zhī;mi qù;ts sháo;cu yào;cu jiā;lk fù;qc zǐ;vh tāng;dp	10
 桂枝去芍药加皂荚汤	guì;mt zhī;mi qù;ts sháo;cu yào;cu jiā;lk zào;bq jiá;cj tāng;dp	10
 黄芪芍药桂枝苦酒汤	huáng;cz qí;cu sháo;cu yào;cu guì;mt zhī;mi kǔ;ck jiǔ;df tāng;dp	10
+麻黄杏仁甘草石膏汤	má;sm huáng;cz xìng;mk rén;rq gān;nh cǎo;cu shí;hk gāo;wl tāng;dp	10
+麻黄杏仁薏苡甘草汤	má;sm huáng;cz xìng;mk rén;rq yì;cx yǐ;cr gān;nh cǎo;cu tāng;dp	10
 曲安奈德益康唑乳膏	qǔ;sh ān;bn nài;dc dé;ix yì;bm kāng;sy zuò;kt rǔ;pv gāo;wl	10
+通脉四逆加猪胆汁汤	tōng;zy mài;ly sì;wq nì;zp jiā;lk zhū;qp dǎn;lh zhī;du tāng;dp	10
 盐酸特比萘芬喷雾剂	yán;tm suān;fw tè;nc bǐ;bb nài;cc fēn;cd pēn;kr wù;yl jì;wd	10
 艾帕洛利托沃瑞利单抗	ài;cx pà;jb luò;dk lì;hd tuō;fq wò;dy ruì;wq lì;hd dān;bs kàng;fj	10
+柴胡去半夏加栝蒌根汤	chái;vm hú;ul qù;ts bàn;xs xià;hw jiā;lk guā;mk lóu;cn gēn;mg tāng;dp	10
 重组人血管内皮抑制素	chóng;ph zǔ;sq rén;py xuè;pm guǎn;vk nèi;sx pí;vi yì;fq zhì;pd sù;fc	10
 桂枝去桂加茯苓白术汤	guì;mt zhī;mi qù;ts guì;mt jiā;lk fú;cq líng;cs bái;pp zhú;mx tāng;dp	10
 小儿硫酸庆大霉素颗粒	xiǎo;sx ér;pv liú;uv suān;fw qìng;sd dà;uy méi;ym sù;fc kē;gr lì;hl	10
 小儿双磺甲氧苄啶颗粒	xiǎo;sx ér;pv shuāng;ii huáng;uz jiǎ;ss yǎng;qy biàn;cb dìng;kr kē;gr lì;hl	10
+当归四逆加吴茱萸生姜汤	dāng;xn guī;sn sì;wq nì;zp jiā;lk wú;kt zhū;cv yú;cy shēng;pf jiāng;yn tāng;dp	10
+厚朴生姜半夏甘草人参汤	hòu;iz pò;mb shēng;pf jiāng;yn bàn;xs xià;hw gān;nh cǎo;cu rén;py shēn;sp tāng;dp	10
+苓甘五味加姜辛半夏杏仁汤	líng;cs gān;nh wǔ;hh wèi;kw jiā;lk jiāng;yn xīn;lu bàn;xs xià;hw xìng;mk rén;rq tāng;dp	10
 木防己去石膏加茯苓芒硝汤	mù;uy fáng;qf jǐ;vv qù;ts shí;hk gāo;wl jiā;lk fú;cq líng;cs máng;cw xiāo;ul tāng;dp	10
 桂枝去芍药加蜀漆牡蛎龙骨救逆汤	guì;mt zhī;mi qù;ts sháo;cu yào;cu jiā;lk shǔ;si qī;du mǔ;nt lì;iw lóng;ux gǔ;sl jiù;qw nì;zp tāng;dp	10
 玉女煎去牛膝熟地加细生地元参方	yù;wx nǚ;vh jiān;bh qù;ts niú;ps xī;lu shú;wh dì;ty jiā;lk xì;st shēng;pf dì;ty yuán;qq shēn;sp fāng;xw	10

@@ -3,17 +3,18 @@
 
     在中文输入状态直接键入以下命令即可切换（看到提示后「重新部署」生效）：
 
-        /lxsq    → 乱序十七          /sqyh    → 十七优化
-        /lx20    → 乱序二十          /lx23    → 乱序廿三
-        /lx24    → 乱序廿四          /lx26    → 乱序廿六
-        /lxsj    → 乱序手机          /yjyh    → 原键优化
+        /lxsq    → 乱序十七          /lx17    → 十七优化
+        /lx20    → 乱序二十          /lx23    → 乱序二三
+        /lx26    → 乱序二六          /lxns    → 乱序廿四
+        /lxnl    → 乱序廿六          /lxsj    → 乱序手机
+        /yjyh    → 原键优化
         /pinyin  → 全拼（简码映射保持不变）
         /zjf     → 直接辅助          /jjf     → 间接辅助
 
     同步规则：
       pro / mixedcode / reverse  → 键位方案名（全拼、乱序十七……）
-      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序廿三 hspvy、其余方案 hupvn
-      abbrev / phrase            → 简码组（lxsq、sqyh、lx20……）
+      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序二三 hspvy、其余方案 hupvn
+      abbrev / phrase            → 简码组（lxsq、lx17、lx20……）
       english                    → 不随键位变化；迁移遗留配置时其它方案名归一为「全拼」
 
     注意：本脚本与官方 set_schema.lua 功能重叠，请不要同时启用。
@@ -24,11 +25,12 @@
 -- 命令 → 键位方案名（wanxiang_algebra_lx 各分组下使用的名字）
 local SCHEME_MAP = {
     ["/lxsq"]   = "乱序十七",
-    ["/sqyh"]   = "十七优化",
+    ["/lx17"]   = "十七优化",
     ["/lx20"]   = "乱序二十",
-    ["/lx23"]   = "乱序廿三",
-    ["/lx24"]   = "乱序廿四",
-    ["/lx26"]   = "乱序廿六",
+    ["/lx23"]   = "乱序二三",
+    ["/lx26"]   = "乱序二六",
+    ["/lxns"]   = "乱序廿四",
+    ["/lxnl"]   = "乱序廿六",
     ["/lxsj"]   = "乱序手机",
     ["/yjyh"]   = "原键优化",
     ["/pinyin"] = "全拼",
@@ -37,11 +39,12 @@ local SCHEME_MAP = {
 -- 键位方案 → 简码组（abbrev / phrase 使用；全拼没有对应组，保持不变）
 local JIAN_MAP = {
     ["乱序十七"] = "lxsq",
-    ["十七优化"] = "sqyh",
+    ["十七优化"] = "lx17",
     ["乱序二十"] = "lx20",
-    ["乱序廿三"] = "lx23",
-    ["乱序廿四"] = "lx24",
-    ["乱序廿六"] = "lx26",
+    ["乱序二三"] = "lx23",
+    ["乱序二六"] = "lx26",
+    ["乱序廿四"] = "lxns",
+    ["乱序廿六"] = "lxnl",
     ["乱序手机"] = "lxsj",
     ["原键优化"] = "yjyh",
 }
@@ -51,8 +54,8 @@ local JIAN_MAP = {
 local SCHEME_NAMES = {
     -- 本仓库键位
     "全拼",
-    "乱序十七", "十七优化", "乱序二十", "乱序廿三",
-    "乱序廿四", "乱序廿六", "乱序手机", "原键优化",
+    "乱序十七", "十七优化", "乱序二十", "乱序二三",
+    "乱序二六", "乱序廿四", "乱序廿六", "乱序手机", "原键优化",
     -- 官方旧名字
     "乱序17",
     "自然码", "小鹤双拼", "微软双拼", "搜狗双拼",
@@ -71,7 +74,7 @@ local STROKE_NAMES = {
 
 -- 简码相关的标记（abbrev / phrase 沿用的组名）
 local JIAN_TOKENS = {
-    lxsq = true, sqyh = true, lxsj = true, yjyh = true,
+    lxsq = true, lx17 = true, lxsj = true, yjyh = true,
     ["26jian"] = true, ["18jian"] = true, ["14jian"] = true,
 }
 
@@ -145,15 +148,16 @@ end
 
 local function is_jian_token(name)
     return JIAN_TOKENS[name] or name:match("^lx%d+$") ~= nil
+        or name == "lxns" or name == "lxnl"
 end
 
 -- 反查笔画组：按目标键位方案选用对应笔画，未列出的方案沿用 hupvn
 local STROKE_GROUP_BY_SCHEME = {
     ["全拼"] = "hspzn",
     ["乱序十七"] = "hslzy",
-    ["十七优化"] = "hukfn",
+    ["十七优化"] = "hukvn",
     ["乱序二十"] = "hucvn",
-    ["乱序廿三"] = "hspvy",
+    ["乱序二三"] = "hspvy",
 }
 
 local function stroke_group_of(schema)

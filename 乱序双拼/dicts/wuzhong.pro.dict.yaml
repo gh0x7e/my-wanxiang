@@ -2687,6 +2687,7 @@ sort: by_weight
 雀蝇	què;uf yíng;id	87
 雀莺	què;uf yīng;cn	60
 雀鱼	què;uf yú;xh	70
+雀鱼	què;uf yú;xh	63
 裙鱼	qún;pk yú;xh	73
 髯蝠	rán;hr fú;it	85
 髯蜥	rán;hr xī;ii	72
@@ -19658,6 +19659,8 @@ sort: by_weight
 矮红娘鱼	ǎi;un hóng;sg niáng;nl yú;xh	8
 矮化线虫	ǎi;un huà;rb xiàn;sj chóng;vx	1
 埃及蟾蜍	āi;tu jí;py chán;ik chú;ih	1
+埃及圣鹮	āi;tu jí;py shèng;it huán;sn	52
+埃及伊蚊	āi;tu jí;py yī;ry wén;iw	57
 矮脚角龙	ǎi;un jiǎo;lq jiǎo;xy lóng;ux	1
 矮锯齿龙	ǎi;un jù;jk chǐ;vn lóng;ux	1
 艾肯氏菌	ài;cx kěn;vl shì;pv jūn;ch	1
@@ -27227,6 +27230,7 @@ sort: by_weight
 松子桂鱼	sōng;ms zǐ;vh guì;mt yú;xh	10
 松子茄鱼	sōng;ms zǐ;vh qié;ck yú;xh	6
 苏伯特䗴	sū;cb bó;rb tè;nc tíng;iz	1
+苏岛鹃鵙	sū;cb dǎo;pn juān;kn jú;	99
 素豆娘鱼	sù;fc dòu;hh niáng;nl yú;xh	6
 苏尼特龙	sū;cb ní;sb tè;nc lóng;ux	1
 苏氏飞鱼	sū;cb shì;pv fēi;vx yú;xh	9
@@ -29209,6 +29213,8 @@ sort: by_weight
 印度树鼩	yìn;pq dù;si shù;mc qú;jk	1
 印度水獭	yìn;pq dù;si shuǐ;sy tǎ;qr	1
 印度瓦韦	yìn;pq dù;si wǎ;hx wéi;hs	1
+印度兀鹫	yìn;pq dù;si wù;hq jiù;wn	4
+印度仙鹟	yìn;pq dù;si xiān;rn wēng;zn	45
 印度泳鳅	yìn;pq dù;si yǒng;dy qiū;gl	1
 隐盾叶甲	yǐn;qx dùn;pg yè;ku jiǎ;ss	1
 银方头鱼	yín;jg fāng;xw tóu;xd yú;xh	5
@@ -30025,7 +30031,13 @@ sort: by_weight
 猪形果蝠	zhū;qp xíng;kp guǒ;sy fú;it	1
 柱星珊瑚	zhù;mv xīng;pu shān;wc hú;wl	1
 住血线虫	zhù;rv xuè;pm xiàn;sj chóng;vx	1
+珠芽艾麻	zhū;wv yá;cy ài;cx má;sm	76
 侏哑霸鹟	zhū;rv yǎ;ky bà;yl wēng;zn	1
+珠芽百合	zhū;wv yá;cy bǎi;hb hé;rk	153
+珠芽狗脊	zhū;wv yá;cy gǒu;qk jǐ;dl	99
+珠芽景天	zhū;wv yá;cy jǐng;pc tiān;hd	117
+珠芽魔芋	zhū;wv yá;cy mó;sg yù;ct	144
+珠芽乌头	zhū;wv yá;cy wū;ph tóu;xd	76
 珠眼嘲鸫	zhū;wv yǎn;gg cháo;kl dōng;dn	1
 珠眼蜥鱼	zhū;wv yǎn;gg xī;ii yú;xh	1
 竹叶百合	zhú;ps yè;ku bǎi;hb hé;rk	5

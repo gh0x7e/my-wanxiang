@@ -29,6 +29,9 @@ sort: by_weight
 省得	xǐng;ug de;ic	100
 不省得	bù;hx xǐng;ug de;ic	100
 长住	zhǎng;py zhù;rv	330
+行行	háng;ii háng;ii	300
+行子	xíng;ii zǐ;vh	10
+行子	hàng;ii zi;vh	54
 满血	mǎn;dl xiě;pm	386
 血肠	xiě;pm cháng;lp	226
 给付	jǐ;sk fù;rc	277
@@ -2547,73 +2550,57 @@ sort: by_weight
 做这事	zuò;rw zhèi;zw shì;hs	380
 做这些	zuò;rw zhèi;zw xiē;vq	540
 做这种	zuò;rw zhèi;zw zhǒng;hv	520
-谙熟	ān;yp shóu;wh	1
 半熟	bàn;xs shóu;wh	98
 保熟	bǎo;rm shóu;wh	481
 背熟	bèi;sl shóu;wh	318
 变熟	biàn;wi shóu;wh	937
 不熟	bù;hx shóu;wh	3674
-常熟	cháng;xj shóu;wh	1006
 炒熟	chǎo;lu shóu;wh	158
-成熟	chéng;wv shóu;wh	19557
-初熟	chū;pd shóu;wh	2315
 纯熟	chún;st shóu;wh	794
-醇熟	chún;fz shóu;wh	764
-催熟	cuī;rf shóu;wh	1888
 大熟	dà;uy shóu;wh	384
 蛋熟	dàn;vi shóu;wh	1010
 读熟	dú;yd shóu;wh	359
 炖熟	dùn;lt shóu;wh	862
 耳熟	ěr;hh shóu;wh	754
-腐熟	fǔ;sr shóu;wh	608
 刚熟	gāng;nd shóu;wh	1948
 搞熟	gǎo;fk shóu;wh	333
 瓜熟	guā;py shóu;wh	51
 过熟	guò;zc shóu;wh	500
 果熟	guǒ;sy shóu;wh	470
 很熟	hěn;ig shóu;wh	2095
-湖熟	hú;dl shóu;wh	924
 混熟	hùn;db shóu;wh	460
 记熟	jì;yj shóu;wh	490
 即熟	jí;gq shóu;wh	460
 较熟	jiào;ix shóu;wh	1038
-精熟	jīng;hl shóu;wh	1643
 烤熟	kǎo;lv shóu;wh	1040
 快熟	kuài;xg shóu;wh	9610
 烂熟	làn;ls shóu;wh	171
 老熟	lǎo;lb shóu;wh	4925
 脸熟	liǎn;lh shóu;wh	4563
 练熟	liàn;sx shóu;wh	4533
-两熟	liǎng;hx shóu;wh	3308
 蛮熟	mán;wi shóu;wh	526
 没熟	méi;di shóu;wh	206
 面熟	miàn;hh shóu;wh	688
 摸熟	mō;fd shóu;wh	821
-轻熟	qīng;ig shóu;wh	198
 全熟	quán;rw shóu;wh	2020
-稔熟	rěn;hx shóu;wh	1150
 软熟	ruǎn;ir shóu;wh	380
 杀熟	shā;xm shóu;wh	12147
 烧熟	shāo;lw shóu;wh	255
 生熟	shēng;pf shóu;wh	120
 手熟	shǒu;ps shóu;wh	319
 熟啊	shóu;wh a;kk	460
-熟谙	shóu;wh ān;yp	192
 熟背	shóu;wh bèi;sl	1581
 熟菜	shóu;wh cài;cm	869
 熟茶	shóu;wh chá;cm	158
-熟成	shóu;wh chéng;wv	396
 熟词	shóu;wh cí;yk	641
 熟的	shóu;wh de;bu	2849
 熟得	shóu;wh de;ic	2819
-熟地	shóu;wh dì;ty	68
 熟点	shóu;wh diǎn;sh	318
 熟读	shóu;wh dú;yd	10272
 熟度	shóu;wh dù;si	10242
 熟饭	shóu;wh fàn;ui	42
 熟果	shóu;wh guǒ;sy	673
 熟后	shóu;wh hòu;pk	1043
-熟化	shóu;wh huà;rb	296
 熟记	shóu;wh jì;yj	1743
 熟筋	shóu;wh jīn;vl	500
 熟客	shóu;wh kè;bk	239
@@ -2621,37 +2608,24 @@ sort: by_weight
 熟了	shóu;wh le;vs	5194
 熟练	shóu;wh liàn;sx	1173
 熟脸	shóu;wh liǎn;lh	1203
-熟料	shóu;wh liào;hu	450
 熟路	shóu;wh lù;zk	1177
 熟络	shóu;wh luò;sk	205
-熟虑	shóu;wh lǜ;hx	1147
-熟女	shóu;wh nǚ;vh	520
-熟皮	shóu;wh pí;vi	3895
 熟普	shóu;wh pǔ;bp	822
 熟人	shóu;wh rén;py	792
-熟稔	shóu;wh rěn;hx	762
 熟肉	shóu;wh ròu;nr	2287
 熟食	shóu;wh shí;rl	3615
-熟识	shóu;wh shí;yz	3585
 熟时	shóu;wh shí;pc	3555
 熟手	shóu;wh shǒu;ps	349
 熟水	shóu;wh shuǐ;sy	2510
-熟铁	shóu;wh tiě;ju	632
 熟透	shóu;wh tòu;zn	8313
 熟悉	shóu;wh xī;px	268
-熟习	shóu;wh xí;vd	238
 熟虾	shóu;wh xiā;ix	1696
 熟用	shóu;wh yòng;ns	853
 熟油	shóu;wh yóu;dy	189
-熟语	shóu;wh yǔ;yk	469
-熟知	shóu;wh zhī;uk	1184
-熟制	shóu;wh zhì;pd	1154
 睡熟	shuì;gi shóu;wh	2974
 太熟	tài;dx shóu;wh	2861
 挺熟	tǐng;fz shóu;wh	776
-晚熟	wǎn;pv shóu;wh	189
 玩熟	wán;wq shóu;wh	159
-完熟	wán;bq shóu;wh	129
 未熟	wèi;hy shóu;wh	318
 我熟	wǒ;px shóu;wh	399
 娴熟	xián;nm shóu;wh	340
@@ -2659,9 +2633,7 @@ sort: by_weight
 眼熟	yǎn;gg shóu;wh	751
 一熟	yì;hh shóu;wh	478
 用熟	yòng;ns shóu;wh	12213
-圆熟	yuán;wr shóu;wh	230
 再熟	zài;hr shóu;wh	2104
-早熟	zǎo;pu shóu;wh	11647
 炸熟	zhà;lv shóu;wh	208
 蒸熟	zhēng;ch shóu;wh	4262
 至熟	zhì;ht shóu;wh	1699
@@ -2670,26 +2642,19 @@ sort: by_weight
 难煮熟	nán;if zhǔ;lh shóu;wh	272
 八成熟	bā;py chéng;wv shóu;wh	230
 八分熟	bā;py fēn;zd shóu;wh	565
-把熟睡	bǎ;fb shóu;wh shuì;gi	100
 把蒸熟	bǎ;fb zhēng;ch shóu;wh	100
 把煮熟	bǎ;fb zhǔ;lh shóu;wh	140
-半成熟	bàn;xs chéng;wv shóu;wh	130
-扮成熟	bàn;fd chéng;wv shóu;wh	100
 半生熟	bàn;xs shēng;pf shóu;wh	170
 半熟蛋	bàn;xs shóu;wh dàn;vi	180
 半熟的	bàn;xs shóu;wh de;bu	210
 半熟练	bàn;xs shóu;wh liàn;sx	120
 半熟人	bàn;xs shóu;wh rén;py	1395
 半熟时	bàn;xs shóu;wh shí;pc	50
-被催熟	bèi;pi cuī;rf shóu;wh	390
 被烤熟	bèi;pi kǎo;lv shóu;wh	140
 背熟了	bèi;sl shóu;wh le;vs	655
 被煮熟	bèi;pi zhǔ;lh shóu;wh	120
 比较熟	bǐ;bb jiào;ix shóu;wh	938
-变成熟	biàn;wi chéng;wv shóu;wh	190
 并不熟	bìng;bk bù;hx shóu;wh	160
-不成熟	bù;hx chéng;wv shóu;wh	310
-不催熟	bù;hx cuī;rf shóu;wh	80
 不熟啊	bù;hx shóu;wh a;kk	130
 不熟吧	bù;hx shóu;wh ba;kb	272
 不熟练	bù;hx shóu;wh liàn;sx	822
@@ -2698,67 +2663,20 @@ sort: by_weight
 不娴熟	bù;hx xián;nm shóu;wh	462
 不眼熟	bù;hx yǎn;gg shóu;wh	20
 菜熟了	cài;cm shóu;wh le;vs	588
-常熟的	cháng;xj shóu;wh de;bu	190
-常熟话	cháng;xj shóu;wh huà;yk	155
-常熟路	cháng;xj shóu;wh lù;zk	11
-常熟人	cháng;xj shóu;wh rén;py	170
-常熟市	cháng;xj shóu;wh shì;wj	223
-常熟县	cháng;xj shóu;wh xiàn;qs	180
-常熟有	cháng;xj shóu;wh yǒu;ul	60
-常熟站	cháng;xj shóu;wh zhàn;lk	80
 炒不熟	chǎo;lu bù;hx shóu;wh	130
 炒熟后	chǎo;lu shóu;wh hòu;pk	220
 炒熟了	chǎo;lu shóu;wh le;vs	160
-成熟啊	chéng;wv shóu;wh a;kk	372
-成熟吧	chéng;wv shóu;wh ba;kb	412
-成熟的	chéng;wv shóu;wh de;bu	420
-成熟点	chéng;wv shóu;wh diǎn;sh	190
-成熟度	chéng;wv shóu;wh dù;si	1979
-成熟范	chéng;wv shóu;wh fàn;cv	50
-成熟风	chéng;wv shóu;wh fēng;jx	140
-成熟感	chéng;wv shóu;wh gǎn;xx	170
-成熟好	chéng;wv shóu;wh hǎo;nz	70
-成熟很	chéng;wv shóu;wh hěn;ig	120
-成熟后	chéng;wv shóu;wh hòu;pk	260
-成熟化	chéng;wv shóu;wh huà;rb	180
-成熟季	chéng;wv shóu;wh jì;hz	120
-成熟了	chéng;wv shóu;wh le;vs	1822
-成熟脸	chéng;wv shóu;wh liǎn;lh	60
-成熟林	chéng;wv shóu;wh lín;mm	70
-成熟美	chéng;wv shóu;wh měi;yd	140
-成熟蜜	chéng;wv shóu;wh mì;bi	150
-成熟男	chéng;wv shóu;wh nán;tl	170
-成熟女	chéng;wv shóu;wh nǚ;vh	150
-成熟期	chéng;wv shóu;wh qí;ql	260
-成熟前	chéng;wv shóu;wh qián;bd	272
-成熟区	chéng;wv shóu;wh qū;nx	100
-成熟人	chéng;wv shóu;wh rén;py	39
-成熟乳	chéng;wv shóu;wh rǔ;pv	120
-成熟时	chéng;wv shóu;wh shí;pc	430
-成熟体	chéng;wv shóu;wh tǐ;rb	90
-成熟些	chéng;wv shóu;wh xiē;vq	170
-成熟性	chéng;wv shóu;wh xìng;xu	240
-成熟型	chéng;wv shóu;wh xíng;kt	190
-成熟早	chéng;wv shóu;wh zǎo;pu	130
-成熟中	chéng;wv shóu;wh zhōng;ss	150
 吃熟食	chī;kq shóu;wh shí;rl	170
-初熟的	chū;pd shóu;wh de;bu	1272
-从熟睡	cóng;rr shóu;wh shuì;gi	50
 从熟悉	cóng;rr shóu;wh xī;px	30
-催熟剂	cuī;rf shóu;wh jì;wd	190
 大家熟	dà;uy jiā;bu shóu;wh	90
-到常熟	dào;hd cháng;xj shóu;wh	240
 的熟了	de;bu shóu;wh le;vs	177
 等熟了	děng;vc shóu;wh le;vs	277
 地不熟	dì;ty bù;hx shóu;wh	480
 东京熟	dōng;hx jīng;wc shóu;wh	50
 都不熟	dōu;lq bù;hx shóu;wh	240
-都成熟	dōu;lq chéng;wv shóu;wh	150
 都熟了	dōu;lq shóu;wh le;vs	117
 都熟悉	dōu;lq shóu;wh xī;px	210
-都早熟	dōu;lq zǎo;pu shóu;wh	80
 多熟了	duō;xx shóu;wh le;vs	794
-多熟期	duō;xx shóu;wh qī;ql	230
 多熟悉	duō;xx shóu;wh xī;px	170
 二回熟	èr;hh huí;wk shóu;wh	160
 耳熟啊	ěr;hh shóu;wh a;kk	140
@@ -2769,22 +2687,16 @@ sort: by_weight
 分熟了	fēn;zd shóu;wh le;vs	2874
 干熟么	gàn;hu shóu;wh me;ps	80
 搞熟了	gǎo;fk shóu;wh le;vs	804
-更成熟	gèng;hy chéng;wv shóu;wh	240
 更熟练	gèng;hy shóu;wh liàn;sx	170
 更熟悉	gèng;hy shóu;wh xī;px	220
-够成熟	gòu;bx chéng;wv shóu;wh	130
 过熟的	guò;zc shóu;wh de;bu	140
 过熟了	guò;zc shóu;wh le;vs	170
-果熟期	guǒ;sy shóu;wh qī;ql	120
-过熟期	guò;zc shóu;wh qī;ql	80
 还不熟	hái;zb bù;hx shóu;wh	161
 还算熟	hái;zb suàn;vc shóu;wh	100
-好成熟	hǎo;nz chéng;wv shóu;wh	70
 好耳熟	hǎo;nz ěr;hh shóu;wh	120
 好面熟	hǎo;nz miàn;hh shóu;wh	140
 好熟悉	hǎo;nz shóu;wh xī;px	190
 好眼熟	hǎo;nz yǎn;gg shóu;wh	190
-很成熟	hěn;ig chéng;wv shóu;wh	250
 很纯熟	hěn;ig chún;st shóu;wh	230
 很耳熟	hěn;ig ěr;hh shóu;wh	190
 很面熟	hěn;ig miàn;hh shóu;wh	150
@@ -2795,14 +2707,9 @@ sort: by_weight
 很熟了	hěn;ig shóu;wh le;vs	240
 很熟练	hěn;ig shóu;wh liàn;sx	416
 很熟络	hěn;ig shóu;wh luò;sk	300
-很熟稔	hěn;ig shóu;wh rěn;hx	340
-很熟识	hěn;ig shóu;wh shí;yz	484
 很熟悉	hěn;ig shóu;wh xī;px	290
 很娴熟	hěn;ig xián;nm shóu;wh	754
 很眼熟	hěn;ig yǎn;gg shóu;wh	80
-很早熟	hěn;ig zǎo;pu shóu;wh	180
-后熟期	hòu;pk shóu;wh qī;ql	80
-回常熟	huí;wk cháng;xj shóu;wh	7
 会熟练	huì;rs shóu;wh liàn;sx	750
 混脸熟	hùn;db liǎn;lh shóu;wh	170
 混熟吧	hùn;db shóu;wh ba;kb	180
@@ -2812,10 +2719,8 @@ sort: by_weight
 几分熟	jǐ;pv fēn;zd shóu;wh	260
 记熟了	jì;yj shóu;wh le;vs	570
 将熟时	jiāng;dc shóu;wh shí;pc	421
-将熟睡	jiāng;dc shóu;wh shuì;gi	240
 将蒸熟	jiāng;dc zhēng;ch shóu;wh	516
 将煮熟	jiāng;dc zhǔ;lh shóu;wh	376
-较成熟	jiào;ix chéng;wv shóu;wh	180
 九成熟	jiǔ;pv chéng;wv shóu;wh	170
 九分熟	jiǔ;pv fēn;zd shóu;wh	1078
 就熟了	jiù;wy shóu;wh le;vs	621
@@ -2824,13 +2729,11 @@ sort: by_weight
 看熟了	kàn;ug shóu;wh le;vs	367
 烤熟后	kǎo;lv shóu;wh hòu;pk	200
 烤熟了	kǎo;lv shóu;wh le;vs	160
-可成熟	kě;dk chéng;wv shóu;wh	988
 可熟了	kě;dk shóu;wh le;vs	90
 可熟悉	kě;dk shóu;wh xī;px	130
 快熟了	kuài;xg shóu;wh le;vs	493
 快熟面	kuài;xg shóu;wh miàn;hh	100
 快熟时	kuài;xg shóu;wh shí;pc	650
-来常熟	lái;hy cháng;xj shóu;wh	240
 来熟了	lái;hy shóu;wh le;vs	458
 烂熟时	làn;ls shóu;wh shí;pc	480
 老熟客	lǎo;lb shóu;wh kè;bk	140
@@ -2843,12 +2746,10 @@ sort: by_weight
 路不熟	lù;zk bù;hx shóu;wh	160
 卖熟食	mài;ud shóu;wh shí;rl	95
 没炒熟	méi;di chǎo;lu shóu;wh	90
-没成熟	méi;di chéng;wv shóu;wh	130
 没烤熟	méi;di kǎo;lv shóu;wh	440
 没烧熟	méi;di shāo;lw shóu;wh	70
 没熟吧	méi;di shóu;wh ba;kb	80
 没熟就	méi;di shóu;wh jiù;wy	50
-美熟女	měi;yd shóu;wh nǚ;vh	180
 没熟人	méi;di shóu;wh rén;py	500
 没熟似	méi;di shóu;wh sì;rr	230
 没熟透	méi;di shóu;wh tòu;zn	60
@@ -2857,30 +2758,19 @@ sort: by_weight
 没煮熟	méi;di zhǔ;lh shóu;wh	110
 面熟吧	miàn;hh shóu;wh ba;kb	190
 摸熟了	mō;fd shóu;wh le;vs	689
-能成熟	néng;sb chéng;wv shóu;wh	3863
 能熟练	néng;sb shóu;wh liàn;sx	240
 你不熟	nǐ;rc bù;hx shóu;wh	477
-你成熟	nǐ;rc chéng;wv shóu;wh	718
 你很熟	nǐ;rc hěn;ig shóu;wh	488
 你熟练	nǐ;rc shóu;wh liàn;sx	370
 你熟人	nǐ;rc shóu;wh rén;py	100
-你熟睡	nǐ;rc shóu;wh shuì;gi	160
 你熟悉	nǐ;rc shóu;wh xī;px	200
-你熟知	nǐ;rc shóu;wh zhī;uk	578
 你眼熟	nǐ;rc yǎn;gg shóu;wh	180
 你最熟	nǐ;rc zuì;pi shóu;wh	466
 您熟悉	nín;rx shóu;wh xī;px	170
 弄熟了	nòng;wc shóu;wh le;vs	170
-偏成熟	piān;rc chéng;wv shóu;wh	170
 七成熟	qī;hv chéng;wv shóu;wh	150
 七分熟	qī;hv fēn;zd shóu;wh	50
 情况熟	qíng;xl kuàng;dq shóu;wh	90
-轻熟风	qīng;ig shóu;wh fēng;jx	150
-轻熟感	qīng;ig shóu;wh gǎn;xx	80
-轻熟龄	qīng;ig shóu;wh líng;vs	140
-轻熟男	qīng;ig shóu;wh nán;tl	130
-轻熟女	qīng;ig shóu;wh nǚ;vh	220
-去常熟	qù;ts cháng;xj shóu;wh	434
 去熟悉	qù;ts shóu;wh xī;px	180
 全熟吧	quán;rw shóu;wh ba;kb	180
 全熟了	quán;rw shóu;wh le;vs	552
@@ -2891,21 +2781,17 @@ sort: by_weight
 烧熟了	shāo;lw shóu;wh le;vs	502
 生变熟	shēng;pf biàn;wi shóu;wh	90
 生吃熟	shēng;pf chī;kq shóu;wh	160
-生熟地	shēng;pf shóu;wh dì;ty	160
-是常熟	shì;pr cháng;xj shóu;wh	130
 十成熟	shí;hs chéng;wv shóu;wh	130
 十分熟	shí;hs fēn;zd shóu;wh	130
 是熟么	shì;pr shóu;wh me;ps	100
 熟不熟	shóu;wh bù;hx shóu;wh	224
 熟菜油	shóu;wh cài;cm yóu;dy	150
 熟吃好	shóu;wh chī;kq hǎo;nz	130
-熟大黄	shóu;wh dài;uy huáng;cz	70
 熟蛋黄	shóu;wh dàn;vi huáng;cz	150
 熟当时	shóu;wh dāng;xn shí;pc	629
 熟的吧	shóu;wh de;bu ba;kb	283
 熟得快	shóu;wh de;ic kuài;xg	14
 熟的了	shóu;wh de;bu le;vs	356
-熟地黄	shóu;wh dì;ty huáng;cz	210
 熟读了	shóu;wh dú;yd le;vs	448
 熟归熟	shóu;wh guī;sn shóu;wh	110
 熟过头	shóu;wh guò;zc tóu;xd	150
@@ -2934,15 +2820,12 @@ sort: by_weight
 熟练性	shóu;wh liàn;sx xìng;xu	315
 熟练于	shóu;wh liàn;sx yú;hs	606
 熟练者	shóu;wh liàn;sx zhě;lp	140
-熟龄肌	shóu;wh líng;vs jī;lj	367
 熟络了	shóu;wh luò;sk le;vs	488
 熟没熟	shóu;wh méi;di shóu;wh	29
 熟米饭	shóu;wh mǐ;xm fàn;ui	180
 熟面孔	shóu;wh miàn;hh kǒng;zv	200
 熟牛排	shóu;wh niú;ps pái;ff	160
 熟牛肉	shóu;wh niú;ps ròu;nr	858
-熟女网	shóu;wh nǚ;vh wǎng;nx	170
-熟女系	shóu;wh nǚ;vh xì;pc	130
 熟螃蟹	shóu;wh páng;if xiè;xi	100
 熟朋友	shóu;wh péng;ll yǒu;ui	110
 熟苹果	shóu;wh píng;cp guǒ;sy	430
@@ -2952,28 +2835,17 @@ sort: by_weight
 熟人带	shóu;wh rén;py dài;fj	150
 熟人多	shóu;wh rén;py duō;xx	140
 熟人间	shóu;wh rén;py jiān;mp	552
-熟稔了	shóu;wh rěn;hx le;vs	502
 熟人了	shóu;wh rén;py le;vs	472
 熟人们	shóu;wh rén;py men;rm	660
 熟人圈	shóu;wh rén;py quān;wv	160
-熟三七	shóu;wh sān;hq qī;hv	100
 树上熟	shù;mc shàng;sh shóu;wh	80
 熟食吧	shóu;wh shí;rl ba;kb	20
 熟食店	shóu;wh shí;rl diàn;sk	67
-熟石膏	shóu;wh shí;hk gāo;wl	596
 熟食柜	shóu;wh shí;rl guì;mj	80
-熟石灰	shóu;wh shí;hk huī;ul	170
-熟识了	shóu;wh shí;yz le;vs	408
 熟食类	shóu;wh shí;rl lèi;hd	416
 熟食品	shóu;wh shí;rl pǐn;kk	574
 熟食区	shóu;wh shí;rl qū;nx	180
 熟熟的	shóu;wh shóu;wh de;bu	485
-熟睡的	shóu;wh shuì;gi de;bu	290
-熟睡了	shóu;wh shuì;gi le;vs	150
-熟睡时	shóu;wh shuì;gi shí;pc	80
-熟睡中	shóu;wh shuì;gi zhōng;ss	220
-熟铜棍	shóu;wh tóng;jk gùn;mb	70
-熟桐油	shóu;wh tóng;mk yóu;dy	80
 熟透后	shóu;wh tòu;zn hòu;pk	190
 熟透了	shóu;wh tòu;zn le;vs	210
 熟透时	shóu;wh tòu;zn shí;pc	250
@@ -2994,79 +2866,54 @@ sort: by_weight
 熟悉下	shóu;wh xī;px xià;hb	180
 熟一个	shóu;wh yí;hh gè;rs	240
 熟一些	shóu;wh yì;hh xiē;vq	560
-熟语料	shóu;wh yǔ;yk liào;hu	760
 熟玉米	shóu;wh yù;wx mǐ;xm	552
-熟知的	shóu;wh zhī;uk de;bu	1168
 熟芝麻	shóu;wh zhī;cv má;sm	210
-熟制品	shóu;wh zhì;pd pǐn;kk	110
 熟猪油	shóu;wh zhū;qp yóu;dy	210
 睡不熟	shuì;gi bù;hx shóu;wh	100
 睡熟了	shuì;gi shóu;wh le;vs	336
 四书熟	sì;wq shū;vx shóu;wh	20
 所熟悉	suǒ;pi shóu;wh xī;px	220
-所熟知	suǒ;pi shóu;wh zhī;uk	290
 他不熟	tā;ry bù;hx shóu;wh	20
-他成熟	tā;ry chéng;wv shóu;wh	704
 他很熟	tā;ry hěn;ig shóu;wh	434
 他混熟	tā;ry hùn;db shóu;wh	80
 他熟读	tā;ry shóu;wh dú;yd	570
 他熟练	tā;ry shóu;wh liàn;sx	542
 他熟络	tā;ry shóu;wh luò;sk	90
-他熟稔	tā;ry shóu;wh rěn;hx	390
-他熟识	tā;ry shóu;wh shí;yz	808
-他熟睡	tā;ry shóu;wh shuì;gi	160
 他熟悉	tā;ry shóu;wh xī;px	120
-他熟知	tā;ry shóu;wh zhī;uk	848
 他睡熟	tā;ry shuì;gi shóu;wh	250
 他太熟	tā;ry tài;dx shóu;wh	321
 他娴熟	tā;ry xián;nm shóu;wh	120
 他相熟	tā;ry xiāng;mg shóu;wh	321
 他眼熟	tā;ry yǎn;gg shóu;wh	120
-他早熟	tā;ry zǎo;pu shóu;wh	624
-太成熟	tài;dx chéng;wv shóu;wh	200
 太熟了	tài;dx shóu;wh le;vs	416
 太熟练	tài;dx shóu;wh liàn;sx	150
 太熟悉	tài;dx shóu;wh xī;px	250
-太早熟	tài;dx zǎo;pu shóu;wh	110
 烫熟后	tàng;dl shóu;wh hòu;pk	170
 烫熟了	tàng;dl shóu;wh le;vs	524
 特眼熟	tè;nc yǎn;gg shóu;wh	80
-挺成熟	tǐng;fz chéng;wv shóu;wh	140
 托熟人	tuō;fq shóu;wh rén;py	160
-晚熟的	wǎn;pv shóu;wh de;bu	150
 玩熟了	wán;wq shóu;wh le;vs	180
-晚熟期	wǎn;pv shóu;wh qī;ql	169
 喂不熟	wèi;ky bù;hx shóu;wh	120
-未成熟	wèi;hy chéng;wv shóu;wh	220
 未熟的	wèi;hy shóu;wh de;bu	1478
 未熟透	wèi;hy shóu;wh tòu;zn	170
 未煮熟	wèi;hy zhǔ;lh shóu;wh	210
 我不熟	wǒ;px bù;hx shóu;wh	511
-我成熟	wǒ;px chéng;wv shóu;wh	745
 我都熟	wǒ;px dōu;lq shóu;wh	642
 我很熟	wǒ;px hěn;ig shóu;wh	786
 我们熟	wǒ;px men;rm shóu;wh	478
 我熟得	wǒ;px shóu;wh de;ic	80
 我熟的	wǒ;px shóu;wh de;bu	70
 我熟练	wǒ;px shóu;wh liàn;sx	462
-我熟识	wǒ;px shóu;wh shí;yz	242
-我熟睡	wǒ;px shóu;wh shuì;gi	110
 我熟悉	wǒ;px shóu;wh xī;px	349
-我熟知	wǒ;px shóu;wh zhī;uk	686
 我睡熟	wǒ;px shuì;gi shóu;wh	90
 我相熟	wǒ;px xiāng;mg shóu;wh	848
 我眼熟	wǒ;px yǎn;gg shóu;wh	110
-我早熟	wǒ;px zǎo;pu shóu;wh	588
 五成熟	wǔ;hh chéng;wv shóu;wh	200
 五分熟	wǔ;hh fēn;zd shóu;wh	220
-显成熟	xiǎn;py chéng;wv shóu;wh	150
 娴熟地	xián;nm shóu;wh dì;ty	200
 娴熟了	xián;nm shóu;wh le;vs	560
 先熟悉	xiān;nq shóu;wh xī;px	200
 相熟了	xiāng;mg shóu;wh le;vs	1200
-小成熟	xiǎo;sx chéng;wv shóu;wh	90
-性成熟	xìng;xu chéng;wv shóu;wh	230
-性早熟	xìng;xu zǎo;pu shóu;wh	250
 眼熟啊	yǎn;gg shóu;wh a;kk	140
 眼熟吧	yǎn;gg shóu;wh ba;kb	170
 眼熟了	yǎn;gg shóu;wh le;vs	76
@@ -3076,41 +2923,25 @@ sort: by_weight
 也熟了	yě;vv shóu;wh le;vs	606
 也熟悉	yě;vv shóu;wh xī;px	470
 烫熟	tàng;dl shóu;wh	990
-已成熟	yǐ;vv chéng;wv shóu;wh	190
 一锅熟	yì;hh guō;jn shóu;wh	100
-异熟果	yì;sc shóu;wh guǒ;sy	130
-异熟识	yì;sc shóu;wh shí;yz	2274
 用熟了	yòng;ns shóu;wh le;vs	180
 又不熟	yòu;vy bù;hx shóu;wh	160
 有熟人	yǒu;ul shóu;wh rén;py	286
 园梅熟	yuán;wq méi;mm shóu;wh	10
-在常熟	zài;ut cháng;xj shóu;wh	668
-在成熟	zài;ut chéng;wv shóu;wh	250
-再成熟	zài;hr chéng;wv shóu;wh	150
 再熟了	zài;hr shóu;wh le;vs	480
 再熟悉	zài;hr shóu;wh xī;px	250
-早成熟	zǎo;pu chéng;wv shóu;wh	100
-早熟吧	zǎo;pu shóu;wh ba;kb	190
-早熟的	zǎo;pu shóu;wh de;bu	220
-早熟禾	zǎo;pu shóu;wh hé;pm	200
-早熟梨	zǎo;pu shóu;wh lí;hm	100
-早熟性	zǎo;pu shóu;wh xìng;xu	110
 这么熟	zhè;zw me;ps shóu;wh	812
 真不熟	zhēn;uz bù;hx shóu;wh	90
 蒸不熟	zhēng;ch bù;hx shóu;wh	120
 蒸熟的	zhēng;ch shóu;wh de;bu	240
 蒸熟后	zhēng;ch shóu;wh hòu;pk	230
 蒸熟了	zhēng;ch shóu;wh le;vs	583
-中晚熟	zhōng;ss wǎn;pv shóu;wh	110
-中早熟	zhōng;ss zǎo;pu shóu;wh	50
 煮不熟	zhǔ;lh bù;hx shóu;wh	210
 煮熟后	zhǔ;lh shóu;wh hòu;pk	290
 煮熟了	zhǔ;lh shóu;wh le;vs	475
 煮熟时	zhǔ;lh shóu;wh shí;pc	340
-装成熟	zhuāng;df chéng;wv shóu;wh	140
 自来熟	zì;pg lái;hy shóu;wh	210
 自然熟	zì;pg rán;ph shóu;wh	416
-最成熟	zuì;pi chéng;wv shóu;wh	40
 最熟的	zuì;pi shóu;wh de;bu	160
 最熟悉	zuì;pi shóu;wh xī;px	230
 做熟了	zuò;rw shóu;wh le;vs	100
