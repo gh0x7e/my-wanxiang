@@ -13,7 +13,7 @@
 
     同步规则：
       pro / mixedcode / reverse  → 键位方案名（全拼、乱序十七……）
-      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukfn、乱序二十 hucvn、乱序二三 hspvy、其余方案 hupvn
+      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukvn、乱序二十 hucvn、乱序二三 hspvy、其余方案 hupvn
       abbrev / phrase            → 简码组（lxsq、lx17、lx20……）
       english                    → 不随键位变化；迁移遗留配置时其它方案名归一为「全拼」
 
@@ -36,8 +36,9 @@ local SCHEME_MAP = {
     ["/pinyin"] = "全拼",
 }
 
--- 键位方案 → 简码组（abbrev / phrase 使用；全拼没有对应组，保持不变）
+-- 键位方案 → 简码组（abbrev / phrase）
 local JIAN_MAP = {
+    ["全拼"] = "26jian",
     ["乱序十七"] = "lxsq",
     ["十七优化"] = "lx17",
     ["乱序二十"] = "lx20",
@@ -46,7 +47,7 @@ local JIAN_MAP = {
     ["乱序廿四"] = "lxns",
     ["乱序廿六"] = "lxnl",
     ["乱序手机"] = "lxsj",
-    ["原键优化"] = "yjyh",
+    ["原键优化"] = "26jian",
 }
 
 -- 允许被替换掉的方案名。除本仓库键位外，还收录官方万象的键位名
@@ -66,7 +67,7 @@ local SCHEME_NAMES = {
 -- 已知笔画组名字（切换时统一改掉；含官方旧名，便于迁移遗留配置）
 local STROKE_NAMES = {
     -- 本仓库乱序版（wanxiang_algebra_lx 的 reverse 段）
-    hspzn = true, hslzy = true, hukfn = true, hucvn = true,
+    hspzn = true, hslzy = true, hukvn = true, hucvn = true,
     hupvn = true, hspvy = true,
     -- 官方旧名（迁移官方遗留配置用）
     hupvd = true, hspvd = true,
@@ -74,12 +75,12 @@ local STROKE_NAMES = {
 
 -- 简码相关的标记（abbrev / phrase 沿用的组名）
 local JIAN_TOKENS = {
-    lxsq = true, lx17 = true, lxsj = true, yjyh = true,
+    lxsq = true, lx17 = true, lxsj = true,
     ["26jian"] = true, ["18jian"] = true, ["14jian"] = true,
 }
 
--- 官方遗留的 26jian / 18jian / 14jian 引用（乱序版无此分组）
-local OLD_JIAN = { "26jian", "18jian", "14jian" }
+-- 官方遗留的 18jian / 14jian 引用（乱序版无此分组）
+local OLD_JIAN = { "18jian", "14jian" }
 
 -- 各文件需要处理的引用类型（english 不随键位变化；遗留的其它方案名会被归一为「全拼」）
 local SCHEME_FILES = {
@@ -218,7 +219,7 @@ local function replace_schema(file_path, file_name, target_schema)
         end)
     end
 
-    -- 4) 其它文件里官方的 26/18/14jian 行在乱序版无对应分组，注释掉以免部署报错
+    -- 4) 其它文件里官方的 18/14jian 行在乱序版无对应分组，注释掉以免部署报错
     if not JIAN_FILES[file_name] then
         for _, token in ipairs(OLD_JIAN) do
             content = content:gsub("(\n[ \t]*)(%-[ \t]*wanxiang_algebra_lx:/" .. token .. ")", "%1#%2")
