@@ -5,4 +5,4 @@
 patch:
   speller/algebra:
     __patch:
-      - wanxiang_algebra_lx:/lx23  #简码映射（当前键位方案）
+      - wanxiang_algebra_lx:/lxsj  #简码映射（当前键位方案）

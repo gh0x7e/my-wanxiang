@@ -5,5 +5,5 @@
 patch:
   speller/algebra:
     __patch:
-      - wanxiang_algebra_lx:/pro/乱序二三  #拼音转双拼码（当前键位方案）
+      - wanxiang_algebra_lx:/pro/乱序手机  #拼音转双拼码（当前键位方案）
       - wanxiang_algebra_lx:/pro/直接辅助  #辅助码方式：直接辅助（nire=你）/ 间接辅助（ni/re=你），可改为 /pro/间接辅助

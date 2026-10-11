@@ -8,7 +8,7 @@ schema:
   author:
     - amzxyz
   description: |
-    请勾选【乱序双拼】以启用：默认键位「乱序二三」（23 键），配套乱序二三辅助码（字根表见仓库内 辅助码字根表.png），支持带声调词库、全拼式整句、声调与辅助码筛选。
+    请勾选【乱序双拼】以启用：默认键位「乱序手机」（26 键 QWERTY），支持带声调词库、全拼式整句、声调与辅助码筛选。
     可选键位：乱序十七、十七优化、乱序二十、乱序二三、乱序二六、乱序廿四、乱序廿六、乱序手机、原键优化；输入 /lxsq、/lx17、/lx20、/lx23、/lx26、/lxns、/lxnl、/lxsj、/yjyh 可快速切换（会改写 wanxiang_*.custom.yaml；另支持 /pinyin 切全拼、/zjf、/jjf 切换直接/间接辅助；切换后需重新部署）。
   dependencies:
     - wanxiang_mixedcode  #中英文混合词汇
@@ -278,7 +278,7 @@ speller:
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
     __patch:
-      - wanxiang_algebra_lx:/pro/乱序二三  #拼音转双拼码
+      - wanxiang_algebra_lx:/pro/乱序手机  #拼音转双拼码
       - wanxiang_algebra_lx:/pro/直接辅助  #辅助码部分
 
 # 处理符合特定规则的输入码，如网址、反查

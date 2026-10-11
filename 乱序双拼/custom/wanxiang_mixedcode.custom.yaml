@@ -6,4 +6,4 @@ patch:
   speller/algebra:
     __patch:
       - wanxiang_algebra_lx:/mixed/混合派生
-      - wanxiang_algebra_lx:/mixed/乱序二三  #拼音转双拼码（当前键位方案）
+      - wanxiang_algebra_lx:/mixed/乱序手机  #拼音转双拼码（当前键位方案）
