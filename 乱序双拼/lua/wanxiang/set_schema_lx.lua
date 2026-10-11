@@ -13,8 +13,8 @@
 
     同步规则：
       pro / mixedcode / reverse  → 键位方案名（全拼、乱序十七……）
-      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukvn、乱序二十 hucvn、乱序二三 hspvy、其余方案 hupvn
-      abbrev / phrase            → 简码组（lxsq、lx17、lx20……）
+      reverse                    → 笔画组：全拼 hspzn、乱序十七 hslzy、十七优化 hukvn、乱序二十 hucvn、其余方案 hupvn
+      abbrev / phrase            → 简码组（乱序十七 lxsq、十七优化 lx17、乱序二十 lx20、乱序二三 lx23、乱序廿四 lxns；其余方案 26jian）
       english                    → 不随键位变化；迁移遗留配置时其它方案名归一为「全拼」
 
     注意：本脚本与官方 set_schema.lua 功能重叠，请不要同时启用。
@@ -43,10 +43,10 @@ local JIAN_MAP = {
     ["十七优化"] = "lx17",
     ["乱序二十"] = "lx20",
     ["乱序二三"] = "lx23",
-    ["乱序二六"] = "lx26",
+    ["乱序二六"] = "26jian",
     ["乱序廿四"] = "lxns",
-    ["乱序廿六"] = "lxnl",
-    ["乱序手机"] = "lxsj",
+    ["乱序廿六"] = "26jian",
+    ["乱序手机"] = "26jian",
     ["原键优化"] = "26jian",
 }
 
@@ -67,15 +67,14 @@ local SCHEME_NAMES = {
 -- 已知笔画组名字（切换时统一改掉；含官方旧名，便于迁移遗留配置）
 local STROKE_NAMES = {
     -- 本仓库乱序版（wanxiang_algebra_lx 的 reverse 段）
-    hspzn = true, hslzy = true, hukvn = true, hucvn = true,
-    hupvn = true, hspvy = true,
+    hspzn = true, hslzy = true, hukvn = true, hucvn = true, hupvn = true,
     -- 官方旧名（迁移官方遗留配置用）
     hupvd = true, hspvd = true,
 }
 
 -- 简码相关的标记（abbrev / phrase 沿用的组名）
 local JIAN_TOKENS = {
-    lxsq = true, lx17 = true, lxsj = true,
+    lxsq = true, lx17 = true,
     ["26jian"] = true, ["18jian"] = true, ["14jian"] = true,
 }
 
@@ -158,7 +157,6 @@ local STROKE_GROUP_BY_SCHEME = {
     ["乱序十七"] = "hslzy",
     ["十七优化"] = "hukvn",
     ["乱序二十"] = "hucvn",
-    ["乱序二三"] = "hspvy",
 }
 
 local function stroke_group_of(schema)

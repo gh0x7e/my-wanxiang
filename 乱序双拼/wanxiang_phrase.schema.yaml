@@ -29,7 +29,7 @@ speller:
   delimiter: " '"
   algebra:
     __patch:
-      - wanxiang_algebra_lx:/lxsj
+      - wanxiang_algebra_lx:/26jian
 
 translator:
   dictionary: custom_phrase

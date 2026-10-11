@@ -2001,9 +2001,6 @@ reverse:
   hucvn:
     __append:
       - xlit/HSPZN/hucvn/
-  hspvy:
-    __append:
-      - xlit/HSPZN/hspvy/
 
 mixed:
   混合派生:
@@ -2940,18 +2937,9 @@ lx20:
 lx23:
   __append:
     - xlit/qwertyuiopasdfghjklzxcvbnm/qwlrtyuiwptsdfghjklzxcvbnm/
-lx26:
-  __append:
-    - xlit/qwertyuiopasdfghjklzxcvbnm/qwxrtyuigplsdfghjklzxcvbnm/
 lxns:
   __append:
     - xlit/qwertyuiopasdfghjklzxcvbnm/qwmrtyuihplsdfghjklzxcvbnm/
-lxnl:
-  __append:
-    - xlit/qwertyuiopasdfghjklzxcvbnm/qwmrtyuizpdsdfghjklzxcvbnm/
-lxsj:
-  __append:
-    - xlit/qwertyuiopasdfghjklzxcvbnm/qwbrtyuizpfsdfghjklzxcvbnm/
 26jian:
   __append:
     - xlit/qwertyuiopasdfghjklzxcvbnm/qwertyuiopasdfghjklzxcvbnm/
